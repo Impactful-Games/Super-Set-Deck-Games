@@ -76,7 +76,7 @@ The build fetches the BoardGameGeek data of each game once, and keeps it in `bui
 Fetching needs a https://boardgamegeek.com/applications[BoardGameGeek API token], given as the `BGG_TOKEN` environment variable or the `bgg.token` Gradle property.
 
 The boards and the game aids are exported with https://github.com/storytold/designcraft[`designcraft-cli`], found in the `PATH` or in `~/.local/bin`, or given as the `DESIGNCRAFT_CLI` environment variable or the `designcraft.cli` Gradle property.
-The fonts they use (LCT Picon) must be installed: the build fails rather than export them with a substitute font.
+The fonts they use (LCT Picon, in `font/`) must be installed: the build fails rather than export them with a substitute font.
 
 [source,bash]
 ----
@@ -90,13 +90,13 @@ The fonts they use (LCT Picon) must be installed: the build fails rather than ex
 
 The site is deployed to GitHub Pages by the `deploy` workflow on every push to `main`.
 The workflows run on macOS, where `.github/actions/setup-designcraft` installs `designcraft-cli` and the fonts.
-The fonts are in `.github/fonts.tar.gz.enc`, encrypted by `.github/encrypt-fonts.sh`, which stores the passphrase in the `FONTS_PASSPHRASE` secret of the repository.
-Run it again when the design files use a new font, after adding the font's files to it.
+It installs the fonts from `font/`: add the files of any new font the design files use there.
 
 
 == Layout
 
 * `games/`, `docs/`: the content, rules and documents, in AsciiDoc.
+* `font/`: the LCT Picon family, used by the design files.
 * `buildSrc/`: the build steps that turn the content into site files: BoardGameGeek data, boards and game aids exported from DesignCraft, rules rendered to HTML, and the list of files the service worker caches for offline use.
 * `app/`: the web application.
 Rules and documents are shown as HTML over the Compose canvas (`HtmlElementView`); everything else is drawn by Compose.

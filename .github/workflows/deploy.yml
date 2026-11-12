@@ -37,8 +37,6 @@ jobs:
         uses: gradle/actions/setup-gradle@v6
       - name: Set up DesignCraft
         uses: ./.github/actions/setup-designcraft
-        with:
-          fonts-passphrase: ${{ secrets.FONTS_PASSPHRASE }}
       # BoardGameGeek answers are kept between runs: the API is only called for new games.
       - name: Cache BoardGameGeek data
         uses: actions/cache@v4
