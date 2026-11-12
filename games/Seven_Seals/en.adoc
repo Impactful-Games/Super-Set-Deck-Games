@@ -1,0 +1,191 @@
+= Seven Seals
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 45 numbered cards: 1-9 in ♠, ♥, ♣, ♦ & ★.
+* 15 more numbered cards with 4 or 5 players: 10-12 in ♠, ♥, ♣, ♦ & ★.
+* 15 more numbered cards with 5 players: 13-15 in ♠, ♥, ♣, ♦ & ★.
+* 27 seals:
+** 17 suit seals:
+*** 12 seals for the ♠, ♥, ♣ & ♦ suits: the 3 K in ♠, ♥, ♣ & ♦.
+*** 5 seals for the trump suit: the 3 K, the C & the S in ★.
++
+NOTE: ★C and ★S are ★ seals, just like ★K: the deck only has 3 ★K.
+** 10 magic seals: 6 Wolves & 4 Butterflies.
+* The black magician: ⎈A.
+* Paper and a pencil to keep the score.
+****
+
+Who will have the greatest power of divination?
+Back at the magicians’ academy, the apprentices of magic face a new challenge.
+Each budding magician has to predict how many tricks they will win, and in which suits.
+To record their prediction, they take a matching number of suit seals, which they have to get rid of during the game.
+Besides the suit seals, there are also magic seals: the Wolves and the Butterflies.
+And as if predicting were not hard enough, there is also an unpredictable black magician, whose only goal is to spoil the other apprentices’ plans.
+The apprentice with the fewest penalty points after several rounds wins the game, and becomes Master of the Seven Seals.
+
+
+== Setup
+
+Depending on the number of apprentices, shuffle these cards and deal them evenly:
+
+* Three apprentices: the cards 1-9 of each suit.
+* Four apprentices: the cards 1-12 of each suit.
+* Five apprentices: all 75 numbered cards.
+
+The remaining cards, if any, go back in the box for the whole game.
+Each apprentice gets a hand of 15 cards.
+
+Place the black magician and the 27 seals in the center of the table.
+
+
+== Prediction
+
+The apprentice to the left of the dealer makes the first prediction.
+Then each of the other apprentices makes one, clockwise.
+On your turn, you must:
+
+* either predict how many tricks you will win in each suit, and take the matching number of seals of these suits,
+* or take the black magician (⎈A).
+
+*Only one apprentice* can take *the black magician*.
+Once the black magician is gone, the other apprentices can only predict their tricks.
+No one has to take the black magician.
+You may also take no seal at all, and thus predict that you will win no trick.
+
+
+=== The black magician and the Wolf seals
+
+Taking the black magician is advisable only if you have very few or no cards of a suit.
+The apprentice who takes it gets no seal this round.
+Their job is to make the other apprentices take penalty seals by spoiling their plans, either by winning tricks themselves or by discarding cards.
+Read more in <<battle-for-tricks>> and <<penalty-points>>.
+
+.Predictions
+====
+* Frank starts predicting their tricks.
+They take one ★ seal, two ♠ seals and one ♣ seal from the center of the table.
+They plan to win one ★ trick, two ♠ tricks and one ♣ trick.
+* Sabine also takes seals from the center of the table: two ♥ seals, one ♠ seal and three ★ seals.
+* Katrin does not predict any trick.
+Instead, they take the black magician (⎈A) and place it in front of them.
+Now they have to prevent their opponents from getting rid of their seals, or even make them take Wolf seals.
+====
+
+
+=== The Butterfly seals
+
+The Butterfly seals only come into play if the seals of a suit have run out.
+If, for example, an apprentice wants to take a ♦ seal, but there are no more ♦ seals in the center of the table, they have to take a ♦ seal from any other apprentice.
+That apprentice immediately gets a Butterfly seal from the center of the table, as a compensation.
+The Butterfly seals act as jokers during the round.
+See also <<battle-for-tricks>> and <<penalty-points>>.
+
+.Butterfly
+====
+* It is Peter’s turn.
+They want to win two ♦ tricks, one ♣ trick and one ♠ trick.
+First, they take two ♦ seals and one ♣ seal from the center of the table.
+As there are no more ♠ seals there, they take the ♠ seal they need from Sabine.
+Sabine gets a Butterfly seal instead.
+====
+
+
+[#battle-for-tricks]
+== Battle for tricks
+
+The apprentice to the dealer’s left starts the first trick: they play any card from their hand face up in the middle of the table.
+Then, clockwise, each other apprentice plays a card face up on it.
+If you have a card of the suit led, you must play one.
+If you do not have any card of the suit led, you can either discard a card of any other suit, or win the trick by playing a ★, as ★ is always trump.
+
+
+=== Who wins the trick, and so the cards in the middle of the table?
+
+The apprentice who played the highest ★ (trump) wins the trick.
+If there is no ★ in the trick, the apprentice who played the highest card of the suit led wins it.
+The winner takes all the cards of the trick and places them face down in front of them.
+
+Then they must return one of their seals of the suit of the trick to the center of the table.
+If they have no seal of this suit, they must take a Wolf seal from the center of the table.
+At the end of the round, each Wolf seal is worth three penalty points.
+
+The winner of the trick then leads the next trick with any card.
+
+IMPORTANT: If the first card of a trick is a ★, its winner must return a ★ seal.
+If another suit was led, but the trick was won with a ★, its winner may return either a ★ seal or a seal of the suit led.
+
+Butterfly seals are jokers: they can be returned for any trick won.
+The apprentice who took the black magician (⎈A) has no seals to return: if they win a trick, they simply place it aside face down, and they do not receive any penalty seal.
+They then lead the next trick with any card.
+
+.Three different tricks
+====
+* Frank goes first and plays ♥2 (the next apprentices must play a ♥ card if they can).
+Sabine plays ♥11.
+Katrin follows suit with ♥7.
+Peter does not have any ♥ card, so they play their ♣12 to get rid of it.
+Sabine wins the trick with ♥11, so they return one of their ♥ seals to the center of the table.
+* Sabine leads the next trick and plays ♦4.
+Katrin follows suit with ♦2, Peter plays ♦9, and Frank has to play their only ♦ card, ♦10.
+Frank wins the trick, but they do not have a ♦ seal.
+They have to take a Wolf penalty seal from the center of the table.
+* Frank leads the next trick and plays ♥8.
+Sabine does not have any ♥ card left, so they trump with ★3.
+Katrin plays ♥1.
+Peter still has no ♥ card, so they discard their ♣8.
+Sabine wins the trick, because they played a ★.
+They can return either a ★ seal or a ♥ seal.
+====
+
+
+[#penalty-points]
+== Penalty points
+
+The round is over as soon as the apprentices have played all their cards, and they count their penalty points:
+
+* An apprentice with no seals left gets 0 penalty points.
+* Each suit seal still in front of an apprentice is worth two penalty points.
+* Each Wolf seal is worth three penalty points.
+* Each Butterfly seal is worth four penalty points.
+* The apprentice who took the black magician (⎈A) gets four penalty points at most.
+These four points are reduced by one point for each Wolf seal the other apprentices had to take.
+For example, if the other apprentices had to take three Wolf seals altogether, the black magician gets only one penalty point (stem:[4 - 3 = 1]).
+If the black magician has spoiled the other apprentices’ game so well that they had to take four Wolf seals or more, the black magician gets no penalty point.
+
+.Penalty points
+====
+* Frank gets three penalty points for their Wolf seal.
+* Sabine gets four penalty points for their Butterfly seal.
+* Katrin, the black magician, gets two penalty points, because the other apprentices took two Wolf seals in total (stem:[4 - 2 = 2]).
+* Peter gets five penalty points: two for their ♦ seal and three for their Wolf seal.
+====
+
+Write down the penalty points and add them to the previous ones, then return all the seals and the black magician to the center of the table.
+The next player clockwise becomes the dealer, shuffles the cards and deals 15 cards to each apprentice, and the apprentice to their left starts the new round.
+
+
+== End of the game
+
+Play as many rounds as there are apprentices, except with three apprentices: then, play six rounds.
+
+The apprentice with the fewest penalty points at the end of the game wins.
+
+
+== Hints and strategies
+
+* An apprentice who wins a trick has to return a seal immediately.
+Returning it later is not allowed.
+* There are only six Wolf seals per round.
+The apprentice who should take a seventh Wolf seal is lucky: they do not take one!
+* When predicting tricks, keep in mind that trumps (★) can win tricks of any suit, and that you can then return either a ★ seal or a seal of the suit led.
+* Taking the black magician can be interesting if you have no or very few cards of one or more suits.
+Each time you cannot follow suit, you can spoil the other apprentices’ plans, either by trumping to win the trick, or by discarding a high card of another suit.
+* With three apprentices, the black magician is very attractive, as it is very lucrative.
+To make it less attractive, you can agree before the game that it is worth five penalty points instead of four.
+* For a longer game, you can agree to play eight rounds with four apprentices, or ten rounds with five.
+In this case, the designer recommends raising the black magician’s penalty from four to five points after the first half of the rounds.

@@ -1,0 +1,150 @@
+= Herrlof
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 36 cartes numérotées : 1-9 à ♠, ♥, ♣ & ♦.
+* 6 cartes spéciales : 3 Loups & 3 Papillons.
+* Du papier et un crayon pour noter les prédictions et les scores.
+****
+
+La Scandinavie de l’époque viking, d’environ 800 à 1050 après J.-C., est marquée par de puissants seigneurs (ou chefs de clan) et par des rois.
+Le titre de roi ne s’hérite pas : il faut se battre pour l’obtenir.
+Le seigneur le plus puissant est reconnu par les autres comme « premier parmi ses pairs ».
+Quatre seigneurs se disputent maintenant le Herrlof : la victoire et la gloire gagnées à la guerre.
+Qui deviendra le prochain roi viking ?
+
+
+== Aperçu du jeu
+
+Dans ce jeu de plis, votre objectif est d’être la première personne à atteindre 50 points ou plus : celui ou celle qui a le plus de points gagne.
+Vous marquez des points en remportant des plis, et vous pouvez aussi gagner des bonus.
+La partie se joue en 10 manches au maximum, mais le plus souvent, les joueur·euse·s atteignent 50 points bien avant.
+
+
+== Préparation
+
+Chaque joueur·euse prend une feuille de papier pour noter ses prédictions et son score.
+Pour la première manche, choisissez au hasard la personne qui distribue ; ce rôle passe ensuite à la personne suivante à chaque nouvelle manche.
+
+
+== Déroulement de la partie
+
+La partie se joue en manches.
+À chaque manche, vous :
+
+1. distribuez 15 cartes ;
+2. déterminez l’atout ;
+3. prédisez votre score ;
+4. vous affrontez pour les plis ;
+5. révélez les prédictions et déterminez votre score.
+
+Chaque manche se compose de 15 plis, et un pli se compose d’une carte jouée par chaque joueur·euse.
+
+
+=== 1. Distribution des cartes & 2. Détermination de l’atout
+
+La personne qui distribue donne 15 cartes à chaque joueur·euse, et les 12 cartes restantes forment une pioche face cachée sur le côté de la table.
+Elle retourne ensuite face visible la première carte de la pioche : la couleur de cette carte est la couleur d’atout pour cette manche.
+Si c’est un Loup ou un Papillon, il n’y a pas d’atout.
+
+
+=== 3. Prédire son score
+
+Les deux joueur·euse·s prennent les cartes distribuées en main, et prédisent le nombre de plis qu’ils ou elles pensent remporter.
+Chacun·e l’écrit sur sa feuille et le garde caché.
+Vous ne pouvez pas modifier votre prédiction au cours d’une manche, ni la montrer à l’autre joueur·euse.
+
+
+=== 4. S’affronter pour les plis
+
+La personne à côté de celle qui a distribué commence le premier pli en jouant une carte : appelons-la joueur·euse A.
+La carte jouée par A indique la couleur que B doit jouer, si B a cette couleur.
+Si B n’a pas de carte de cette couleur, il ou elle peut jouer n’importe quelle carte.
+Vous pouvez toujours jouer un Loup ou un Papillon au lieu de fournir la couleur.
+Si un pli commence par un Loup ou un Papillon, l’autre joueur·euse peut jouer n’importe quelle carte.
+
+.Atout : ♠
+====
+* A joue 7♣ ; B n’a pas (plus) de cartes ♣ et joue donc n’importe quelle carte.
+B joue 8♥.
+A remporte le pli.
+* A joue 7♣ ; B n’a pas (plus) de cartes ♣ et joue donc n’importe quelle carte.
+B joue 3♠.
+B remporte le pli, car ♠ est la couleur d’atout.
+====
+
+Chaque pli est remporté par un·e seul·e joueur·euse.
+Si les deux cartes jouées sont de la même couleur, la carte la plus forte remporte le pli.
+Si B a joué une autre couleur que A, alors A remporte le pli (quel que soit le nombre sur les cartes), à moins que B n’ait joué un atout.
+Si B a joué un atout (alors que A a joué une autre couleur), B remporte le pli, quel que soit le nombre sur sa carte.
+
+La personne qui remporte le pli prend les deux cartes, les pose l’une sur l’autre et les met sur le côté de la table.
+Elle place chaque pli suivant qu’elle remporte de façon à ce que tout le monde puisse voir à tout moment combien de plis chacun·e a remportés.
+Vous ne pouvez consulter que le dernier pli : vous ne pouvez pas vérifier quelles cartes ont été jouées dans les plis précédents.
+La personne qui remporte un pli commence le pli suivant, à moins qu’une carte avec une capacité spéciale n’en décide autrement.
+
+
+=== 5. Révéler les prédictions et déterminer son score
+
+Quand toutes les cartes distribuées ont été jouées, chaque joueur·euse révèle sa prédiction.
+Vous marquez un point pour chaque pli remporté.
+Si vous avez remporté exactement le nombre de plis prédit, vous marquez 10 points de bonus.
+Si vous n’avez remporté que trois, quatre ou cinq plis, vous marquez 5 points de bonus (que ce soit votre prédiction ou non).
+
+
+== Fin de la partie
+
+La partie se termine lorsque, après le décompte d’une manche, un·e joueur·euse ou les deux ont atteint 50 points.
+Celui ou celle qui a le plus de points gagne.
+En cas d’égalité, la personne qui a reçu le plus souvent le bonus de prédiction gagne.
+En cas de nouvelle égalité, celle qui a remporté le plus de plis lors de la dernière manche gagne.
+Si l’égalité persiste, les joueur·euse·s se partagent la victoire.
+
+
+== Cartes avec des capacités spéciales
+
+* *Loup* : détruit le pli dans lequel il est joué.
+Les deux cartes jouées dans ce pli sont retirées du jeu pour cette manche, ce qui réduit le nombre total de plis qui peuvent être remportés dans cette manche.
+La personne qui a commencé le pli commence le pli suivant.
+Si deux Loups sont joués dans un même pli, une nouvelle couleur d’atout est immédiatement retournée depuis la pioche (elle remplace l’atout existant).
+* *Papillon* : cette carte est plus faible que toutes les autres cartes.
+La personne qui perd ce pli commence le pli suivant.
+Cependant, si deux Papillons sont joués, le premier remporte le pli.
+* *1* : si vous remportez le pli avec cette carte, vous pouvez choisir de voler un pli à l’autre joueur·euse.
+Ce doit être un pli qu’il ou elle a déjà remporté.
+* *3* : si vous jouez cette carte, vous pouvez choisir de prendre en main la première carte (face cachée) de la pioche, puis de défausser une carte de votre main sous la pioche.
+Vous pouvez défausser la carte que vous venez de prendre.
+Cette capacité s’applique quelle que soit la personne qui remporte le pli.
+* *6* : si vous remportez le pli avec cette carte, vous pouvez choisir de voler au hasard une carte de la main de l’autre joueur·euse.
+Vous pouvez ajouter cette carte à votre main et lui rendre une autre carte, ou lui rendre la carte que vous venez de voler.
+* *9* : si vous remportez le pli avec cette carte, votre adversaire commence le pli suivant.
+
+.Atout : ♥
+====
+* A joue 5♥, B joue un Loup.
+Le pli est détruit, et A commence le pli suivant.
+* A joue 1♠, B joue un Papillon.
+A remporte le pli et prend un pli supplémentaire à B : A ajoute donc deux plis au total à sa pile.
+B commence le pli suivant.
+* A joue 3♥, prend la première carte face cachée de la pioche, et défausse une autre carte sous la pioche.
+B joue 6♥.
+B remporte le pli, vole une carte dans la main de A, et lui rend une autre carte de sa propre main.
+B commence le pli suivant.
+* A joue 9♣, B joue 4♦.
+A remporte le pli, et B commence le pli suivant.
+====
+
+
+== Variante à trois joueur·euse·s
+
+Il est possible (et agréable) de jouer à trois.
+Distribuez simplement 11 cartes à chaque joueur·euse par manche.
+Quand une carte avec une capacité spéciale mentionne « l’autre joueur·euse », lisez « un·e autre joueur·euse ».
+Avec le 9, la personne à gauche de celle qui remporte le pli commence le pli suivant.
+Notez que les 5 points de bonus pour 3, 4 ou 5 plis sont supprimés à trois joueur·euse·s.
+Il est aussi conseillé de fixer l’objectif à 40 points, plutôt qu’à 50.

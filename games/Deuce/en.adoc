@@ -1,0 +1,137 @@
+= Deuce
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 44 numbered cards: 0-10 in ♠, ♥, ♣ & ♦.
+* 6 Butterflies.
+* 2 Wolves.
+* Paper and a pencil to keep the score.
+****
+
+Deuce is a card-matching game that really tests your timing and strategic ability.
+Play a card from your hand to match the suit or number on one of your discard piles, or on any opponent's discard pile.
+
+The idea is to go "out" (play the last card from your hand) with the highest total showing on your discard piles.
+To do that, play your cards to raise the total on your discard piles, and to lower the totals of your opponents.
+
+Scores are totaled at the end of each round (points are awarded to the winner), and the first player to reach 100 points wins the game!
+
+
+== Game play
+
+=== Beginning game play
+
+. Choose a player to deal first.
+The deal passes to the left at the start of each following round.
+
+. The dealer shuffles the cards and deals 6 cards, face down, to each player.
+The remaining cards are placed face down in the middle of the table: they form the draw pile.
+
+. *The first move:* to begin the game, look at the cards in your hand.
+Then place two cards of your choice face up, side by side, directly in front of you.
+Each player does the same.
+These two cards begin your discard piles, on which you, and your opponents, may play throughout the game.
++
+IMPORTANT: The two cards in your discard piles must match either by suit or by number, as explained in <<basic>>.
+
+. Starting with the player to the left of the dealer and continuing clockwise, each player in turn plays a card from their hand.
+Cards can be played on either of your own discard piles (the two cards in front of you), or on any of your opponents' piles.
+The object is to go "out" of a round with the highest total on your own discard piles.
+For example, two 10s, for a total of 20, is the highest score you can have.
+
+
+[#basic]
+=== Basic rules and strategies
+
+Every card you play from your hand must match the card next to it, either by suit or by number.
+
+.Example
+====
+Alice has begun the game by playing ♥2 and ♠2.
+
+In turn, Alice or any opponent can match either card by playing a card next to it (on the opposite discard pile).
+Possible plays in this case are:
+
+* To match the ♠2 (played on the ♥2):
+** Any ♠ card.
+** Any 2.
+* To match the ♥2 (played on the ♠2):
+** Any ♥ card.
+** Any 2.
+====
+
+In addition to the numbered cards, the deck contains six Butterflies and two Wolves.
+Keep these cards for extra-strategic plays, when they can do you the most good and your opponents the most damage.
+
+
+==== Butterfly
+
+Each Butterfly matches, and can be matched by, any card at any time.
+
+You can play a Butterfly on one of your own discard piles, or on any opponent's discard pile, to match any card.
+By the same rule, any card can be played next to a Butterfly.
+For example, if a Butterfly is played on one of your discard piles, ♣2 can be played next to it, then ♥6, and so on: the initial suit match isn't permanent.
+
+A Butterfly has a scoring value of zero, which can bring down an opponent's score at just the right moment!
+It is good strategy to play one of these cards on the discard pile of an opponent with a high total who might be ready to play their last card to win the round.
+
+You can play any card on top of a Butterfly, as long as it matches the suit or number of the card next to it at the time.
+
+
+==== Wolf
+
+Like Butterflies, Wolves have a scoring value of zero, and can be played on any card at any time.
+Wolves, however, are more hazardous than Butterflies.
+If a Wolf is played on one of your own discard piles, only a Butterfly will match it.
+Until a Butterfly is played next to the Wolf, no play can be made on either pile.
+Once the Butterfly is played, numbered cards can be played according to the Butterfly rules above.
+
+IMPORTANT: Another Wolf can be played next to a Wolf.
+In such a case, you can match either Wolf with a Butterfly, then begin playing numbered cards according to the Butterfly rules.
+
+[%autowidth, cols="^.^,^.^,^.^"]
+|===
+| Card | When & where to play it | What can be played next to it
+
+h| Butterfly
+| Any pile, any turn +
+(except on top of a Butterfly)
+| Any card
+
+h| Wolf
+| Any pile, any turn
+| Butterfly, Wolf
+|===
+
+
+=== Continuing game play
+
+. After the first move, each player has four cards.
+On your turn, take a card from your hand and play it either on one of your own discard piles, or on an opponent's.
+
+. *Drawing from the deck:* if you can't make a play, or don't wish to make a play, you can take one or more cards from the draw pile, but you must play a card to end your turn.
++
+NOTE: If the draw pile is used up, the players remove all but the top card of each of their discard piles, and shuffle these cards to form a new draw pile.
+
+. *Ending a round:* the round is over when a player goes "out", that is, when they play the last card from their hand.
++
+IMPORTANT: You can go "out" only if the final score on your discard piles ties with, or is higher than, all the other players' final scores.
+In case of a tie, the player who goes "out" wins the round.
+If your last play won't enable you to win the round, you must draw at least one card at the end of your turn, and the game continues until the player with the highest final score (or a tying final score) can go "out".
+
+
+== Scoring
+
+The winner of the round scores 10 points, plus the combined values of the cards remaining in all the other players' hands.
+Face-up cards on the discard piles are used only to determine the winner of the round: they do not count toward the winner's score.
+
+
+== Winning the game
+
+A game consists of several rounds of play.
+
+The first player to reach 100 points wins the game.

@@ -1,0 +1,153 @@
+= Whot!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 49 numbered cards, and 10 K with 6 to 8 players:
++
+[%autowidth]
+|===
+^| Suit 14+^| 2 to 8 players 4+| 6 to 8 players
+^| ♠ | 1 | 2 | 3 | 4 | 5 | | 7 | 8 | | 10 | 11 | 12 | 13 | 14 | | K | K | K
+^| ♥ | 1 | 2 | 3 | 4 | 5 | | 7 | 8 | | 10 | 11 | 12 | 13 | 14 | | K | K | K
+^| ♣ | 1 | 2 | 3 |   | 5 | | 7 |   | | 10 | 11 |    | 13 | 14 | | K | K |
+^| ♦ | 1 | 2 | 3 |   | 5 | | 7 |   | | 10 | 11 |    | 13 | 14 | | K | K |
+^| ★ | 1 | 2 | 3 | 4 | 5 | | 7 | 8 | |    |    |    |    |    | |   |   |
+|===
+* 5 Butterflies (6 Butterflies with 6 to 8 players).
+****
+
+Whot! was one of the earliest commercial games of the Eights family, in which players try to be the first to get rid of their cards by following number or suit.
+Whot! was invented (but, apparently, not patented) and trademarked by William Henry Storey, of Southend-on-Sea, England, in 1935.
+It was first marketed by Storey & Co of Croydon, the company Storey had set up in 1930, but was soon acquired by Waddingtons of Leeds, and was popular in Britain in the 1950s and 1960s.
+Waddingtons kept selling it until the 1990s; nowadays, Winning Moves UK distributes it in their Top Cards series.
+
+Whot! has become the national card game of Nigeria.
+
+
+== Play
+
+To start, a dealer shuffles the deck and deals:
+
+* *2 to 5 players*: six cards to each player.
+* *6 or 7 players*: five cards to each player.
+* *8 players*: four cards to each player.
+
+The top card of the deck is placed face up to serve as the "call card" (a base on which the other cards are played), and the rest of the deck is placed face down between the players as the draw pile.
+
+In turn, each player must either play a card of the same suit or number as the call card onto it, play a Butterfly, or draw the top card of the draw pile.
+You do not have to play a card, but if you don't, you must draw from the draw pile.
+The special Butterfly card can be played onto any call card, and lets you choose the suit to play on the next player's turn.
+
+NOTE: With 6 to 8 players, the K cards make the deck larger, as the original game advises using two packs with more than five players.
+They have no special function: like any other card, play a K on a card of the same suit, or on another K.
+
+Your turn ends immediately when you draw one or more cards.
+You can never draw a card and play a card in the same turn.
+
+Usually, every player has 10 seconds to play a card.
+If a player does not play a card within that time, the other players demand that they draw a card from the draw pile for waiting too long.
+Then, it is the next player's turn.
+The players do not use a timer or look at their watches every few seconds, but react when the waiting time feels too long.
+
+The game continues until a player plays their last card: they win the round.
+
+Once a player has played their last card, all the other players score points by counting up the values of the cards remaining in their hand:
+
+* ★ cards are worth double their printed value (for example, ★4 is worth 8 points).
+* Butterflies are worth 20 points.
+* K cards are worth 15 points.
+* The other cards (♠, ♥, ♣ & ♦) are worth their printed value.
+
+The game ends when a player reaches 100 points or more.
+Then, the player with the lowest cumulative score wins.
+
+
+=== Card functions
+
+==== Non-defensible cards
+
+Three card values cannot be defended against:
+
+* *14* (General market!): all the other players must draw one card each from the draw pile, and the player who played the 14 may play again.
+* *1* (Hold on!): all the other players are skipped, and the player who played the 1 may play again, with the same suit or number as the 1.
+* *8* (Skip!): the next player in turn order is skipped.
+With only two players, an 8 is similar to a 1.
+
+
+==== Pick cards (twos and fives)
+
+* *2* (Pick two!), _defended with another 2_: the next player must draw two cards from the top of the draw pile, unless they play a 2 as well.
+* *5* (Pick three!), _defended with another 5_: the next player must draw three cards from the top of the draw pile, unless they play a 5 as well.
+
+If a 2 is defended, the third player has to draw four cards from the draw pile, unless they also play another 2.
+This goes on until a player doesn't play a 2, because they don't have one or don't want to play it.
+Then, this player must draw two cards for every 2 that was played.
+For example, if four 2s were played in a row, the player who cannot or doesn't want to play another 2 has to draw eight cards from the top of the draw pile.
+
+A 5 is similar to a 2, except that the player who cannot or doesn't want to defend against a 5 by playing another 5 has to draw three cards from the draw pile for every 5 that was played in a row.
+
+
+==== Butterflies
+
+* *Butterfly* (suit change), _defended with another Butterfly_: you can change the suit of the call card that another player demanded by playing a Butterfly and demanding the suit you want.
+For example, to change the call card from ♦ to ♠.
+A player must draw a card from the top of the draw pile if they don't have the suit demanded by the Butterfly player.
+
+
+=== Card declarations
+
+When you play one of these cards, you must say out loud (to inform the other players):
+
+* *1*: say "Hold on!".
+* *2*: say "Pick two!".
+* *5*: say "Pick three!".
+* *8*: say "Skip!".
+* *14*: say "General market!".
+* *When you play your second to last card*: you must say "Last card!".
+* *When you play your last card*: you must say "Check up!".
+
+There are consequences if you fail to make the correct declaration.
+They are:
+
+* If you fail to say "Last card!" before the next player has played, you have to draw two more cards from the draw pile.
+* If you fail to say "Check up!" as you place your last card on the table, and the next player goes on playing, you have to draw two more cards from the draw pile, and the game continues.
+* Failing to say "Pick two!", "Pick three!", "Skip!" or "General market!" has no consequences, but saying them out loud adds to the liveliness of the game.
+
+
+=== Empty draw pile
+
+When all the cards of the draw pile have moved into the hands of the players and into the call card pile, remove all the cards underneath the call card, leaving only the call card.
+Shuffle the removed cards and place them face down on the table: they are the new draw pile.
+
+
+== Variants
+
+=== Super-charged Butterflies
+
+The Butterfly now has three functions:
+
+* *Suit change*: you can change the suit of the call card that another player demanded by playing a Butterfly and demanding the suit you want.
+A player must draw a card from the top of the draw pile if they don't have the suit demanded by the Butterfly player.
+* *Direction change*: the Butterfly player can demand a change of the playing direction (for example, from clockwise to anticlockwise, or vice versa).
+This lets you demand a suit that the player on your other side probably doesn't have, if that player is close to winning.
+* *Skip the next player*: the Butterfly player can demand that the next player is skipped (left out).
+If there are only two players (left), the Butterfly player can play a second time in a row.
+
+
+=== Straights
+
+If you have cards in ascending or descending order, you can play them in a row, skipping (leaving out) all the other players.
+This is called a straight.
+Any card (except the K cards and the Butterflies) that can be played onto the call card can be the first card of the straight.
+The players may agree whether a straight is only allowed with cards of the same suit, or whether the suit doesn't matter.
+
+
+=== Directional attacks
+
+Pick cards (2s and 5s) now let you change the playing direction (for example, from clockwise to anticlockwise, or vice versa).
+This lets you attack the player on your other side, if that player is close to winning.
+In this case, you must say it out loud: "Change direction and pick two!" or "Change direction and pick three!".

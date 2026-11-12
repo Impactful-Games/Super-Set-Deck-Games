@@ -1,0 +1,116 @@
+= David & Goliath
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 45 cartes : 1-9 à ♠, ♥, ♣, ♦ & ★.
+* 15 cartes de plus à partir de 4 joueur·euse·s : 10-12 à ♠, ♥, ♣, ♦ & ★.
+* 15 cartes de plus à partir de 5 joueur·euse·s : 13-15 à ♠, ♥, ♣, ♦ & ★.
+* 15 cartes de plus à 6 joueur·euse·s : 16-18 à ♠, ♥, ♣, ♦ & ★.
+* Du papier et un crayon pour noter les scores.
+****
+
+Dans David & Goliath, les cartes de forte valeur sont les plus fortes, mais un peu maladroites, et les cartes de faible valeur sont les plus faibles, mais peuvent être jouées astucieusement.
+
+Chaque joueur·euse joue une carte à son tour.
+La personne qui a joué la carte la plus faible remporte la carte la plus forte.
+La personne qui a joué la carte la plus forte remporte toutes les autres cartes.
+
+À la fin de la manche, vous marquez des points dans chaque couleur.
+Si vous n'avez qu'une ou deux cartes d'une couleur, chacune vous rapporte sa valeur, ce qui peut s'avérer très lucratif.
+Si vous avez plus de deux cartes d'une couleur, chacune ne vous rapporte qu'1 point.
+
+
+[#setup]
+== Mise en place
+
+Selon le nombre de joueur·euse·s, n'utilisez qu'une partie des cartes :
+
+* À 3 joueur·euse·s, n'utilisez que les cartes de valeur 1-9 (45 cartes).
+* À 4 joueur·euse·s, n'utilisez que les cartes de valeur 1-12 (60 cartes).
+* À 5 joueur·euse·s, n'utilisez que les cartes de valeur 1-15 (75 cartes).
+* À 6 joueur·euse·s, utilisez toutes les cartes (90 cartes).
+
+Mettez les autres cartes de côté.
+Mélangez les cartes et distribuez-les toutes équitablement : chaque joueur·euse reçoit 15 cartes, qu'il ou elle prend en main.
+
+
+== Déroulement d'une manche
+
+La personne à gauche de celle qui a distribué ouvre le premier pli.
+
+Elle pose une carte de son choix face visible devant elle.
+Puis, dans le sens horaire, chacun·e doit poser une carte face visible devant soi.
+Vous devez toujours suivre la couleur : jouez une carte de la couleur de la première carte si vous le pouvez.
+Si vous ne pouvez pas suivre la couleur, vous pouvez jouer une carte de n'importe quelle autre couleur.
+
+Une fois que tout le monde a joué une carte, déterminez d'abord la carte la plus forte, puis la carte la plus faible :
+
+* La carte la plus forte est toujours celle de plus forte valeur, quelle que soit sa couleur.
+Si plusieurs joueur·euse·s ont joué la plus forte valeur, la carte jouée en dernier est la plus forte.
+* La carte la plus faible est toujours celle de plus faible valeur, quelle que soit sa couleur.
+Si plusieurs joueur·euse·s ont joué la plus faible valeur, la carte jouée en dernier est la plus faible.
+* Si toutes les cartes ont la même valeur, la carte jouée en dernier est la plus forte, et l'avant-dernière carte jouée est la plus faible.
+* La personne qui a joué la carte la plus faible remporte la carte la plus forte.
+Elle la place face visible à côté d'elle sur la table.
+* La personne qui a joué la carte la plus forte remporte toutes les autres cartes.
+Elle les place face visible à côté d'elle sur la table, triées par couleur.
+
+La personne qui a joué la carte la plus forte ouvre le pli suivant de la même manière.
+La manche continue ainsi jusqu'à ce que 15 plis aient été joués et que chacun·e ait joué les 15 cartes de sa main.
+
+NOTE: Au cours de la manche, chacun·e remporte de plus en plus de cartes.
+Gardez les cartes que vous remportez à côté de vous sur la table, triées par couleur, de façon que chaque carte reste visible.
+
+.Exemple de pli
+====
+* Franck ouvre avec le 4♣ : il faut maintenant suivre à ♣.
+* Sabine joue le 9♣.
+* Pierre joue le 2♥, faute de carte ♣.
+* Andréa joue le 7♣.
+
+La carte de Sabine est la plus forte (9♣), et celle de Pierre est la plus faible (2♥).
+
+Pierre remporte la carte la plus forte, le 9♣ de Sabine, et la place face visible sur la table.
+
+Sabine remporte toutes les autres cartes et les place face visible sur la table, triées par couleur.
+
+Sabine ouvre maintenant le pli suivant avec la carte de son choix.
+====
+
+
+[#scoring]
+== Décompte
+
+À la fin de la manche, chacun·e marque des points pour toutes les cartes remportées pendant la manche.
+Chaque couleur est comptée séparément :
+
+* Si vous n'avez qu'une ou deux cartes d'une couleur, chacune vous rapporte sa valeur.
+* Si vous avez plus de deux cartes d'une couleur, chacune ne vous rapporte qu'1 point.
+
+Additionnez ensuite les points marqués dans les 5 couleurs : c'est votre score pour la manche.
+
+.Exemple de décompte
+====
+À la fin de la manche, Franck a remporté ces cartes :
+
+* 4♠, 10♠ & 11♠ : 3 points.
+* 8♥ : 8 points.
+* 5♣ & 9♣ : 14 points.
+* 2♦, 3♦, 6♦, 10♦ & 12♦ : 5 points.
+* 10★ & 12★ : 22 points.
+
+Franck marque un total de 52 points !
+====
+
+
+== Fin de la partie
+
+Après chaque manche, notez le score de chaque joueur·euse.
+La distribution passe ensuite à la personne suivante dans le sens horaire.
+Jouez autant de manches qu'il y a de joueur·euse·s.
+La personne qui a le plus de points à la fin de la partie l'emporte.

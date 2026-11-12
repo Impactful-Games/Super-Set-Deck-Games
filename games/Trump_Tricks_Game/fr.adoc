@@ -1,0 +1,209 @@
+= Trump, Tricks, Game!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 48 cartes de jeu : 1-12 à ♠, ♥, ♣ & ♦.
+* 4 cartes Atout : A à ♠, ♥, ♣ & ♦.
+* Du papier et un crayon pour noter les scores.
+****
+
+Dans ce jeu, vous essayez de remporter des plis pour obtenir des cartes.
+Lors des trois premières manches, le nombre de plis est prédéterminé.
+Lors de la quatrième et dernière manche, chaque joueur·euse doit remporter autant de plis que possible.
+
+En plus du jeu de base, deux règles optionnelles permettent une partie plus exigeante.
+
+Le jeu de base repose sur deux mécanismes :
+
+* Plis : le nombre de plis qu'un·e joueur·euse peut remporter est fixé lors des trois premières manches.
+De cette manière, chaque joueur·euse reçoit le même nombre de plis.
+* Cartes : à chaque manche suivante, chaque joueur·euse joue avec les cartes remportées dans ses plis lors de la manche précédente.
+
+À la fin, la personne qui a le plus de points l'emporte.
+
+
+== Mise en place
+
+Séparez d'abord les cartes de jeu des cartes Atout (A).
+
+* À 4 joueur·euse·s, toutes les cartes de jeu sont utilisées.
+* À 3 joueur·euse·s, les cartes de jeu de valeur 1, 6 et 12 ne sont pas utilisées.
+
+Mélangez ensuite les cartes de jeu.
+Chaque joueur·euse en reçoit secrètement 12 et les prend en main.
+
+Mélangez ensuite les cartes Atout (A), et placez-les sur la table.
+Placez chacune d'elles sur la précédente en la décalant légèrement, de manière que leur ordre reste visible.
+
+Les couleurs des cartes Atout déterminent la couleur d'atout de chaque manche.
+La carte du dessus donne la couleur d'atout de la première manche.
+
+NOTE: Les joueur·euse·s connaissent les couleurs d'atout des manches suivantes.
+Il est donc possible de chercher à collecter des cartes de ces couleurs pour ces manches.
+
+Une feuille de papier et un crayon sont utiles pour noter les points de victoire des joueur·euse·s.
+
+
+== Déroulement de la partie
+
+Trump, Tricks, Game! se joue en 4 manches.
+La personne qui a le 10♣ commence la première manche.
+Lors des manches suivantes, c'est la personne qui a le plus de points de victoire qui commence.
+Une manche se compose de 12 plis.
+
+À la fin des première, deuxième et troisième manches, les joueur·euse·s additionnent leurs points (voir <<points>>).
+
+IMPORTANT: Lors des trois premières manches, chaque joueur·euse ne peut remporter que 3 plis (à 4 joueur·euse·s) ou 4 plis (à 3 joueur·euse·s).
+
+Les cartes remportées forment la main des joueur·euse·s pour la manche suivante : les cartes ne sont ni remélangées ni redistribuées.
+Lors de la quatrième manche, chaque joueur·euse tente de remporter autant de plis que possible.
+Il est alors important de capturer autant de cartes que possible (quelle que soit leur valeur).
+
+
+=== Jouer une carte
+
+Jouez dans le sens horaire.
+Chaque joueur·euse joue toujours une carte par pli.
+Un·e joueur·euse remporte le pli et entame le suivant.
+Les cartes de valeur plus haute battent les cartes de valeur plus basse.
+Chaque joueur·euse place les plis remportés face cachée à côté de soi.
+
+
+== Règle de la couleur demandée
+
+Lors de toutes les manches, les joueur·euse·s doivent fournir la couleur selon ces règles :
+
+* La couleur de la première carte jouée détermine la « couleur du pli ».
+Les autres joueur·euse·s doivent jouer des cartes de la même couleur.
+La personne qui joue la carte de plus haute valeur remporte le pli.
+* Si vous n'avez pas de carte de cette couleur, vous devez jouer une carte d'une autre couleur.
+Si vous jouez une carte de la couleur d'atout en cours (regardez les cartes Atout), elle bat toutes les cartes jouées avant elle.
+S'il y a plusieurs atouts dans le pli, l'atout le plus haut remporte le pli.
+
+.Pli
+====
+La couleur d'atout est ♠.
+Michel joue le 5♥.
+Karine fournit et joue le 7♥.
+Daniel n'a pas de ♥ et coupe avec le 8♠.
+Pierre n'a pas de carte ♥ non plus, mais ne veut pas remporter le pli.
+Pierre joue le 1♣.
+Daniel remporte le pli et entame le suivant.
+====
+
+
+=== Nombre de plis prédéterminé
+
+Lorsqu'un·e joueur·euse a déjà remporté le nombre de plis prédéterminé, il ou elle ne peut plus remporter de pli lors de cette manche.
+Les cartes jouées par cette personne ne comptent plus.
+Elle doit cependant toujours jouer une carte et fournir la couleur.
+
+Vous n'avez *pas* à fournir la couleur d'une carte jouée par une personne qui a déjà remporté le nombre de plis prédéterminé.
+La première personne qui a encore besoin de plis détermine la « couleur du pli » avec sa carte.
+
+
+[#points]
+== Points de victoire
+
+Après la première, la deuxième et la troisième manche, chaque joueur·euse marque des points selon les *valeurs* de ses cartes.
+
+[%autowidth,cols="^,^"]
+|===
+h| Valeur de +
+la carte
+h| Nombre +
+de points
+| 1  |
+| 2  |
+| 3  |
+| 4  |
+| 5  | *1*
+| 6  | *2*
+| 7  | *3*
+| 8  | *2*
+| 9  | *1*
+| 10 |
+| 11 |
+| 12 |
+|===
+
+Cette somme est *multipliée* par le nombre de couleurs différentes qui ont rapporté des points.
+
+.Décompte intermédiaire
+====
+5 points à ♠, 3 points à ♣ et 2 points à ♦ donnent stem:[(5 + 3 + 2) xx 3 = 30] points de victoire.
+====
+
+
+=== Capture des cartes
+
+Lors de la quatrième et dernière manche, le nombre de plis n'est pas prédéterminé.
+Les valeurs des cartes ne rapportent plus de points.
+Il faut désormais remporter autant de plis que possible.
+
+Chaque joueur·euse reçoit les points de victoire suivants pour chaque carte remportée :
+
+[%autowidth]
+|===
+h| Couleur de la carte | ♠ | ♥ | ♣ | ♦
+h| Nombre de points    | 4 | 3 | 2 | 1
+|===
+
+Ces points sont *additionnés* : ils ne sont pas multipliés.
+
+
+== Fin de la partie
+
+La partie se termine après la quatrième manche.
+Additionnez tous les points de victoire (des 4 manches).
+La personne qui a marqué le plus de points l'emporte.
+
+
+== Règles optionnelles
+
+Certain·e·s joueur·euse·s peuvent trouver le jeu de base trop dépendant de la chance.
+Nous avons donc inclus les deux règles optionnelles suivantes.
+Vous pouvez les utiliser séparément ou ensemble.
+
+
+[#refusing-a-card]
+=== Refuser une carte
+
+S'il ne vous reste en main qu'une seule carte de la « couleur du pli », vous pouvez la refuser.
+Quand vous devez jouer une carte, placez-la face visible devant vous sur la table : vous pouvez alors jouer n'importe quelle autre carte (y compris un atout).
+
+IMPORTANT: Chaque joueur·euse ne peut avoir qu'une seule carte refusée devant soi.
+Cette carte compte toujours comme une carte de sa main, et doit être jouée plus tard selon les règles.
+Une fois qu'elle a été jouée, une autre carte peut être refusée.
+
+
+=== Donner un pli
+
+La personne qui remporte un pli peut le garder et le placer devant elle (comme dans le jeu de base).
+Elle peut aussi *donner* le pli à l'un·e des autres joueur·euse·s qui n'a pas encore remporté le nombre de plis prédéterminé.
+
+Elle pousse ouvertement le pli vers cette autre personne.
+Celle-ci peut le prendre, ou tenter de le refuser.
+Pour le refuser, elle doit avoir en main une carte de valeur plus faible que toutes les cartes du pli.
+(Un pli contenant un 1 ne peut donc pas être refusé.
+En revanche, vous ne pouvez pas donner un pli à la personne qui y a joué le 1 !)
+
+IMPORTANT: La carte utilisée pour refuser le pli doit être de l'une des couleurs des cartes du pli.
+
+.Refuser
+====
+Pour refuser un pli donné composé du 12♥, du 3♥, du 5♠ et du 6♦, un·e joueur·euse doit jouer un 1 ou un 2 à ♥, ♠ ou ♦.
+====
+
+Si un pli donné est refusé, la carte utilisée pour le refuser est placée dans le pli, et la personne qui refuse peut prendre n'importe quelle carte du pli dans sa main.
+
+NOTE: Si la personne qui refuse prend une carte de la même couleur que la carte refusée posée devant elle (voir <<refusing-a-card>>), elle doit reprendre cette carte refusée dans sa main.
+
+Si un pli donné est refusé, la personne qui l'a donné doit le prendre : elle ne peut pas tenter de le donner à nouveau.
+
+La personne qui reçoit le pli entame le suivant.

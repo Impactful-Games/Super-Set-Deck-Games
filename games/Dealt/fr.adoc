@@ -1,0 +1,170 @@
+= Carro Combo
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 48 cartes numérotées : 1-12 à ♠, ♥, ♣ & ♦.
+* 6 cartes spéciales : 2 Papillons, 2 Singes & 2 Loups.
+* Du papier et un crayon pour noter les points de pénalité.
+****
+
+Débarrassez-vous de vos cartes le plus vite possible en surenchérissant sur les combinaisons des autres joueur·euse·s.
+Vous pouvez jouer une, deux ou trois cartes à chaque fois, mais seulement si elles sont côte à côte dans votre main !
+
+Une fois débarrassé·e de toutes vos cartes, vous êtes à l'abri : la dernière personne à qui il reste des cartes reçoit un point de pénalité, et la première à recevoir trois points de pénalité perd la partie !
+Pour une partie plus longue, vous pouvez aller jusqu'à 4 points de pénalité.
+
+
+[#setup]
+== Mise en place
+
+La personne la plus âgée mélange toutes les cartes et distribue *10 cartes* à chaque joueur·euse (*7 cartes* à 5 joueur·euse·s).
+
+[CAUTION]
+====
+*C'est la règle la plus importante du jeu !*
+Ne prenez pas vos cartes en main avant d'avoir reçu vos dix (ou sept) cartes.
+Prenez-les ensuite et mettez-les en éventail, mais *n'en changez pas* l'ordre.
+Pendant la partie, *personne* ne peut changer l'ordre des cartes de sa main.
+====
+
+Une fois que tout le monde a reçu ses cartes, la personne la plus âgée place aussi deux cartes de réserve face visible devant chaque joueur·euse.
+Formez une pioche face cachée avec le reste des cartes au centre de la table.
+
+
+== Déroulement de la partie
+
+La partie se joue en plusieurs manches, divisées en plis.
+Une manche se termine lorsqu'un·e joueur·euse reçoit un point de pénalité.
+La personne assise à gauche de celle qui a distribué ouvre le premier pli.
+
+
+=== Qu'est-ce qu'un pli ?
+
+L'un·e après l'autre, dans le sens horaire, chacun·e pose une combinaison de cartes de sa main.
+Une combinaison peut comprendre une, deux ou trois cartes, mais *vous ne pouvez jouer que des cartes côte à côte dans votre main*.
+
+Si vous ouvrez un pli, vous pouvez jouer n'importe quelle combinaison.
+Les joueur·euse·s suivant·e·s *doivent* surenchérir sur la dernière combinaison jouée.
+
+
+=== Que signifie « surenchérir » ?
+
+Pour surenchérir, vous *devez* jouer une combinaison plus forte que la plus forte combinaison jouée jusqu'ici : soit la même combinaison avec des valeurs plus fortes, soit une combinaison supérieure.
+
+*Les combinaisons sont classées dans cet ordre, de la plus faible à la plus forte :*
+
+. *Solo* : une carte seule.
+. *Petite suite* : deux cartes de valeurs consécutives (par exemple 2 & 3).
+. *Paire* : deux cartes de même valeur.
+. *Grande suite* : trois cartes de valeurs consécutives (par exemple 3, 4 & 5).
+. *Brelan* : trois cartes de même valeur.
+
+[IMPORTANT]
+====
+Les deux ou trois cartes de votre combinaison doivent être côte à côte dans votre main.
+Leur ordre n'a cependant pas d'importance : 8-10-9 est une grande suite au même titre que 9-8-10 ou 8-9-10.
+====
+
+.Exemple
+====
+Andy joue un 8 en solo. +
+Carla surenchérit sur ce solo en jouant un 12. +
+Nico surenchérit avec une petite suite, formée d'un 5 et d'un 4 *côte à côte* dans sa main. +
+Susie surenchérit avec une petite suite plus forte, formée d'un 5 et d'un 6.
+====
+
+
+=== À quoi servent les cartes de réserve ?
+
+Si vous ne pouvez pas, ou ne voulez pas, surenchérir sur une combinaison, vous *devez* à la place prendre en main *une* de vos cartes de réserve.
+Vous pouvez la placer où vous le souhaitez dans votre main.
+Vous ne pouvez prendre que vos propres cartes de réserve, jamais celles des autres.
+
+.Exemple
+====
+Susie joue une paire de 11. +
+Andy surenchérit avec une grande suite : 6, 7 & 8. +
+Carla ne peut pas surenchérir, et doit prendre une carte de réserve.
+Carla choisit le 7 et le place à côté d'un 6 de sa main, pour jouer les deux en petite suite lors d'un pli suivant. +
+Nico ne peut pas surenchérir non plus, et prend une carte de réserve : le 12.
+====
+
+
+=== Qui remporte un pli ?
+
+Une fois que chacun·e a joué une combinaison *ou* pris une carte de réserve, le pli est terminé.
+Placez toutes les cartes jouées lors du pli dans une défausse commune.
+La personne qui a joué la combinaison la plus forte remporte le pli et ouvre le suivant.
+
+*Cas particulier* : si la personne qui remporte le pli n'a plus de cartes en main (sans compter sa réserve), c'est celle qui a joué la deuxième combinaison la plus forte qui ouvre le pli suivant.
+Si la personne qui remporte le pli était la seule à avoir joué une combinaison, c'est sa voisine ou son voisin de droite qui ouvre le pli suivant.
+
+IMPORTANT: Le but du jeu n'est pas de remporter des plis, mais de vous débarrasser des cartes de votre main le plus vite possible.
+
+
+=== Les cartes spéciales
+
+*Le Papillon* peut prendre n'importe quelle valeur de 1 à 12.
+Vous pouvez le jouer seul ou dans une combinaison.
+Cependant, comme toute autre carte, il ne peut se combiner qu'avec les cartes qui lui sont voisines dans votre main.
+Lorsque vous jouez un Papillon, annoncez la valeur qu'il prend.
+
+*Le Singe* ne peut être joué que seul.
+Il n'a pas de rang, il n'a donc pas besoin de surenchérir : vous pouvez le jouer à n'importe lequel de vos tours.
+Lorsque vous jouez un Singe, vous arrêtez immédiatement le pli et le remportez, même si certain·e·s joueur·euse·s n'ont pas encore joué.
+Si vous avez ouvert le pli avec le Singe et que c'était votre dernière carte, c'est votre voisin·e de droite qui ouvre le pli suivant.
+
+*Le Loup* ne peut lui aussi être joué que seul.
+Il n'a pas de rang, vous n'avez donc jamais besoin de surenchérir pour le jouer : vous pouvez toujours le jouer.
+La personne suivante doit alors surenchérir sur la combinaison jouée avant votre Loup, ou prendre une carte de réserve.
+Les deux Loups peuvent être joués dans le même pli.
+Si vous remportez un pli qui contient un Loup, piochez trois cartes (six cartes si les deux Loups ont été joués), une par une, et placez chacune d'elles où vous le souhaitez dans votre main.
+
+.Exemple
+====
+Andy joue un 12 en solo. +
+Carla joue une petite suite : 7 & 6. +
+Nico joue une petite suite : 11 & 12. +
+Susie joue un Loup. +
+Nico remporte le pli.
+À cause du Loup de Susie, Nico doit piocher trois cartes, une par une, et les placer dans sa main.
+Nico ouvre ensuite le pli suivant.
+====
+
+Si vous ouvrez un pli avec un Loup, la personne suivante peut jouer n'importe quelle combinaison ou prendre une carte de réserve.
+Si tou·te·s les autres joueur·euse·s prennent une carte de réserve (ou si l'un·e d'entre eux ou elles joue l'autre Loup), vous remportez le pli.
+
+Si vous remportez un pli qui contient un Loup, vous devez appliquer son effet et piocher des cartes même si vous vous étiez débarrassé·e de votre dernière carte.
+Vous restez en jeu dans cette manche avec les cartes que vous avez piochées.
+
+
+=== Fin d'une manche
+
+Si vous n'avez plus de cartes en main à la fin d'un pli (sans compter votre réserve), vous quittez la manche en cours : vous ne pouvez plus la perdre !
+Une manche prend fin lorsqu'il ne reste plus qu'un·e joueur·euse avec des cartes en main à la fin d'un pli.
+Une manche prend également fin si, pendant un pli, un·e joueur·euse ne peut pas surenchérir sur la combinaison la plus forte *et* n'a plus de carte de réserve à prendre.
+Dans les deux cas, cette personne perd la manche et reçoit un point de pénalité.
+
+Plusieurs joueur·euse·s peuvent recevoir un point de pénalité en même temps, à la fin d'un pli.
+C'est le cas lorsque toutes les personnes encore en jeu dans la manche se retrouvent sans carte en main après un pli.
+Dans ce cas, toutes les personnes qui ont participé à ce dernier pli reçoivent un point de pénalité, sauf celle qui l'a remporté.
+
+
+=== La manche suivante
+
+La personne la plus âgée mélange à nouveau toutes les cartes et les distribue comme expliqué dans <<setup>>.
+La personne qui a reçu le point de pénalité ouvre le premier pli de la nouvelle manche.
+Si plusieurs joueur·euse·s ont reçu un point de pénalité à la fin de la manche précédente, la personne la plus âgée ouvre le premier pli de la nouvelle manche.
+
+
+== Fin de la partie
+
+Lorsqu'un·e joueur·euse reçoit son 3^e^ point de pénalité (ou son 4^e^ dans une partie plus longue), il ou elle perd la partie.
+Si cela arrive à plusieurs joueur·euse·s en même temps, ils et elles perdent tou·te·s.
+
+Tou·te·s les autres joueur·euse·s ont gagné !

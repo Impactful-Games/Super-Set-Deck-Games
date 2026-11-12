@@ -1,0 +1,161 @@
+= Good Little Tricks
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 27 numbered cards:
+** 1-2 in ★.
+** 1-3 in ♠.
+** 1-4 in ♥.
+** 1-5 in ♣.
+** 1-6 in ♦.
+** 1-7 in ✿.
+* 6 A cards, to mark the suits of the Display: A in ♠, ♥, ♣, ♦, ✿ & ★.
+* Paper and a pencil to keep the score.
+****
+
+The game is played over a fixed number of hands.
+Players score points at the end of each hand, and the winner of the game is the player with the *lowest* total score at the end of the game.
+
+
+== How to play
+
+Good Little Tricks uses many of the conventions of standard trick-taking games such as Whist, so if you are familiar with these games, playing this game should be straightforward.
+
+The main difference between Good Little Tricks and other trick-taking games is that the winner of each trick does not automatically claim the cards in the trick.
+Instead, all the cards played in a trick are first put face up into a ‘Display’ beside the play area.
+
+Then, before the next trick is played, the players check whether all the cards of any suit are now in the Display.
+If they are, the winner of the trick must claim all the cards of this suit (which are not necessarily all the cards that were played in the trick).
+
+At the end of each hand, each player scores a number of points equal to the number of cards they have claimed.
+However, if a single player claims all 27 cards, they have ‘swept the board’ and each *other* player receives a penalty of 27 points.
+
+NOTE: Remember: the player with the lowest score at the end of the game wins.
+
+
+=== Game length
+
+The game is played over a fixed number of hands.
+With 2 or 3 players, play two hands per player.
+With 4 or 5 players, play one hand per player.
+
+* *2 players*: play 4 hands.
+* *3 players*: play 6 hands.
+* *4 players*: play 4 hands.
+* *5 players*: play 5 hands.
+
+Choose a player to shuffle and deal the cards for the first hand.
+The player to the dealer’s left is always the start player and leads the first trick.
+
+Players take turns clockwise to be the dealer, so that every player is the start player and leads the first trick the same number of times.
+
+NOTE: The <<two-players,changes for 2 players>> are explained below.
+
+
+== Dealing
+
+At the start of each hand, the dealer shuffles the 27 numbered cards and deals them out evenly, so that each player receives the same number of cards:
+
+* *3 players*: 9 cards each.
+* *4 players*: 6 cards each (3 spare cards).
+* *5 players*: 5 cards each (2 spare cards).
+
+Beside the play area, place the 6 A cards in a line in this order: ★, ♠, ♥, ♣, ♦, ✿.
+This is the Display.
+
+Put any spare cards face up in the Display, below their matching A card.
+
+
+=== Adding cards to the Display
+
+When cards are added to the Display, arrange them so that the cards of the same suit are placed together below their matching A card.
+
+Overlap the cards of the same suit in a vertical stack, so that all their values remain visible.
+
+
+=== Trumps
+
+Unlike most trick-taking games, the trump suit changes during the game, so watch out!
+
+At any time, the trump suit is the *smallest* suit of which at least one card remains in the players’ hands (the leftmost visible A card).
+Once all the cards of this suit have been played, flip the matching A card face down: from the next trick on, the trump suit is the next smallest suit that still has unplayed cards.
+
+Therefore, at the start of a hand, ★ is almost always the trump suit, unless both ★ cards were dealt to the Display in a 4- or 5-player game.
+In this rare case, ♠ is the trump suit.
+
+
+== Playing tricks
+
+The player to the left of the dealer is the start player and leads the first trick.
+
+When you lead a trick, choose a card from your hand and play it face up in front of you.
+Its suit is the led suit.
+You *cannot* lead a trump, unless you only have trumps in your hand and so have no other choice.
+
+Going clockwise, each other player must then play one card in turn, and must ‘follow suit’ if possible: you must play a card of the led suit.
+
+If you cannot follow suit, you may play any card from your hand, including a trump if you have one.
+
+Once each player has played a card, the winner of the trick is determined.
+If no trump was played, the winner is the player who played the highest card of the led suit.
+If one or more trumps were played, the winner is the player who played the highest trump.
+
+After each trick, move all the cards played into the Display, arranging them by suit.
+
+
+=== Claiming cards from the Display
+
+After each trick, check whether any suit is ‘complete’: that is, whether all of its cards are now in the Display.
+The winner of the trick must claim all the cards of every complete suit, and flip their matching A cards face down.
+Leave all the cards of incomplete suits in the Display.
+Keep the cards you claim in front of you.
+
+Remember to keep track of the trump suit.
+The trump suit is always the smallest incomplete suit (the leftmost visible A card).
+
+
+=== Leading the next trick
+
+The winner of each trick must now lead the next trick.
+
+
+== Scoring
+
+Keep playing until everyone has played all their cards and all the cards have been claimed from the Display.
+Each player’s score is equal to the number of cards they claimed during the hand.
+However, if a single player claimed all 27 cards, they have ‘swept the board’: that player scores no points, and each other player receives a penalty of 27 points.
+
+Write down the scores, and keep track of each player’s total score from hand to hand.
+The game ends after the set number of hands has been played.
+
+The player with the lowest total score is the winner.
+
+
+[#two-players]
+== Changes for 2 players
+
+Deal 9 cards face down to each player, plus 9 cards to an imaginary third player called the ‘Dummy’.
+Place the Dummy’s cards in a face-down stack between the players, as if the Dummy was seated to the dealer’s left.
+
+Flip the top *three cards* of the Dummy’s stack face up and arrange them from left to right in suit order: the cards of the smallest suit first, and the cards of larger suits to their right.
+
+If there are 2 or 3 cards of the same suit, place the lower cards first.
+Always keep the Dummy’s face-up cards arranged in this way.
+This is the Dummy’s ‘line’.
+After each trick, flip a new card from the Dummy’s stack and add it to the line.
+
+
+=== Playing Dummy cards
+
+The Dummy takes its turn as if it was a third player, automatically playing one card from its line.
+
+* The Dummy must follow suit if possible, and always plays its highest card of that suit if it has a choice.
+* If the Dummy cannot follow suit, it always plays the *leftmost* card of its line.
++
+NOTE: This card is a trump if the Dummy has any face up.
+* The Dummy can win tricks and claim cards from complete suits in the Display, just like a regular player.
+If it wins a trick, it leads the next trick by playing the *rightmost* card of its line.

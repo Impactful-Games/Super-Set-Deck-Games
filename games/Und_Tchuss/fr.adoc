@@ -1,0 +1,137 @@
+= Und Tschüss!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 90 cartes numérotées : 1-15 à ♠, ♥, ♣, ♦, ✿ & ★.
+* 8 K : 1 K à ♠, ♥, ♣, ♦ & ✿, et 3 K à ★.
+* 6 J : J à ♠, ♥, ♣, ♦, ✿ & ★.
+****
+
+Un jeu d'agacement simple et malin pour 4 à 6 personnes malicieuses en quête de plaisir, à partir de 10 ans.
+
+C'est vraiment très simple.
+Des cartes de points sont posées sur la table, et bien sûr, tout le monde veut remporter la plus grosse.
+Mais votre carte est-elle assez forte ?
+À chaque manche, une personne après l'autre abandonne, et celle qui arrive deuxième repart les mains vides.
+Mais celui ou celle qui sait abandonner au bon moment, et se contente parfois d'un maigre butin, a bien joué.
+D'autant plus qu'à la manche suivante, tout le monde peut de nouveau participer.
+
+[CAUTION]
+====
+Pour ce jeu, les couleurs des cartes n'ont pas d'importance : seules leurs valeurs comptent.
+====
+
+
+== Mise en place
+
+Mélangez les cartes et distribuez-les ainsi :
+
+* À 4 joueur·euse·s, 7 cartes chacun·e.
+* À 5 joueur·euse·s, 8 cartes chacun·e.
+* À 6 joueur·euse·s, 9 cartes chacun·e.
+
+Posez quelques cartes face visible en rangée sur la table : une carte de moins que le nombre de joueur·euse·s.
+Ce sont les cartes de points que vous allez vous disputer.
+
+[IMPORTANT]
+====
+Les cartes K et J valent des points négatifs :
+
+* chaque K vaut -5,
+* chaque J vaut -10.
+====
+
+Placez les cartes restantes à proximité, en une pioche face cachée.
+
+
+== Déroulement de la partie
+
+La partie se joue en plusieurs manches.
+À chaque manche, les joueur·euse·s se disputent les cartes de points sur la table.
+Cependant, il y a toujours une carte de moins que de joueur·euse·s.
+Par conséquent, une personne repartira les mains vides.
+
+Chaque manche se compose de plusieurs étapes, au cours de chacune desquelles une personne abandonne et reçoit la carte de points la plus faible.
+La dernière carte, celle qui rapporte le plus de points, est donc remportée par la dernière personne en lice, qui arrive première.
+L'autre personne, qui n'arrive que deuxième, ne reçoit rien du tout.
+
+
+== Déroulement d'une manche
+
+Chacun·e pose une carte face cachée devant soi.
+Les cartes sont retournées en même temps.
+En commençant par la personne la plus jeune, chacun·e annonce la valeur de sa carte.
+La personne qui a joué la carte la plus faible abandonne pour cette manche.
+Elle prend la carte de points de plus faible valeur et la pose face cachée dans une pile de score devant elle.
+Sa carte jouée va sur une défausse, à proximité.
+
+.Première étape
+====
+À 4 joueur·euse·s.
+
+Cartes de points : un K (-5), un 8 et un 12.
+
+Cartes jouées : Peter 5, Claudia 14, Klaus 6, Gaby 6.
+
+Peter a posé la carte la plus faible et doit abandonner.
+Peter prend congé avec un joyeux « Tchao ! », et prend la carte de points la plus faible, le K qui vaut -5.
+====
+
+Toutes les autres personnes posent une nouvelle carte face cachée sur la précédente, les retournent de nouveau ensemble, et additionnent leurs deux nombres.
+En commençant par la personne à gauche de celle qui vient d'abandonner, chacun·e annonce son nouveau total.
+La personne qui a le total le plus faible abandonne, prend la carte de points de plus faible valeur et la pose face cachée sur sa pile de score.
+Ses cartes vont sur la défausse.
+
+.Deuxième étape
+====
+Totaux : Claudia 24, Klaus 14, Gaby 15.
+
+Klaus a le total le plus faible, abandonne, prend la plus faible carte de points restante (le 8), la pose face cachée sur sa pile de score, et défausse ses cartes jouées.
+====
+
+La partie continue ainsi jusqu'à ce qu'il ne reste plus que deux personnes.
+Chacune pose à nouveau une carte, pour obtenir un nouveau total.
+Mais cette fois, la personne gagnante (celle qui a le total le plus élevé) prend la dernière carte de points.
+L'autre ne reçoit rien.
+
+.Troisième étape
+====
+Totaux : Claudia 19 (Claudia a joué un K), Gaby 30 (Gaby a joué un 15).
+
+Gaby obtient la carte de points qui vaut 12, et Claudia n'obtient rien.
+====
+
+
+=== Égalités
+
+En cas d'égalité pour le total le plus faible, personne n'abandonne.
+Il en va de même si les deux dernières personnes sont à égalité pour le total le plus élevé.
+
+Dans les deux cas, posez d'autres cartes jusqu'à ce que l'égalité soit rompue.
+
+
+=== Nouvelle manche, nouvelle fortune
+
+La personne arrivée deuxième distribue des cartes de la pioche pour ramener la main de chacun·e au nombre de départ (voir la mise en place).
+
+La personne qui a abandonné en premier pendant la manche peut échanger autant de cartes qu'elle le souhaite.
+Elle jette ses cartes indésirables sur la défausse, et reçoit de la personne qui distribue le même nombre de cartes pour compléter sa main.
+
+Des cartes de points (une de moins que le nombre de joueur·euse·s) sont de nouveau posées sur la table.
+La suite de la partie se déroule comme décrit.
+
+
+== Fin de la partie
+
+À 4 joueur·euse·s, la partie se termine quand la pioche est épuisée pour la première fois.
+
+À 5 ou 6 joueur·euse·s, la partie se termine quand la pioche est épuisée pour la deuxième fois : mélangez la défausse pour former une nouvelle pioche quand la pioche est épuisée pour la première fois.
+
+Chacun·e additionne les valeurs des cartes de sa pile de score.
+Les cartes en main ne comptent pas.
+La personne qui a le plus de points gagne.

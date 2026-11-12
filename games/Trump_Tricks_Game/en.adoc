@@ -1,0 +1,208 @@
+= Trump, Tricks, Game!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 48 game cards: 1-12 in ♠, ♥, ♣ & ♦.
+* 4 trump cards: A in ♠, ♥, ♣ & ♦.
+* Paper and a pencil to keep the score.
+****
+
+In this game, you try to win tricks to get cards.
+In the first three rounds, the number of tricks is predetermined.
+In the fourth and last round, each player must win as many tricks as possible.
+
+In addition to the basic game, there are two optional rules for a more challenging game.
+
+The basic game is based on two mechanics:
+
+* Tricks: the number of tricks a player may take is fixed in the first three rounds.
+This way, each player receives the same number of tricks.
+* Cards: in each following round, each player plays with the cards they won in tricks in the previous one.
+
+Finally, the player with the most points wins.
+
+
+== Setup
+
+First, separate the game cards from the trump (A) cards.
+
+* With 4 players, all the game cards are used.
+* With 3 players, the game cards with a value of 1, 6 and 12 are not used.
+
+Then shuffle the game cards.
+Each player secretly receives 12 of them and takes them into their hand.
+
+Now shuffle the trump (A) cards as well, and put them on the table.
+Place each one slightly offset on top of the previous one, so that their order is visible.
+
+The suits of the trump cards determine the trump suit of each round.
+The top card gives the trump suit of the first round.
+
+NOTE: The players know the trump suits of the next rounds.
+Therefore, they may try to collect cards of these suits for them.
+
+A sheet of paper and a pencil are handy to note the victory points of the players.
+
+
+== General course of play
+
+Trump, Tricks, Game! consists of 4 rounds.
+The player who has the ♣10 starts the first round.
+In the other rounds, the player with the most victory points starts.
+A round consists of 12 tricks.
+
+At the end of the first, second and third rounds, the players add up their points (see <<points>>).
+
+IMPORTANT: In the first three rounds, each player may only take 3 tricks (with 4 players) or 4 tricks (with 3 players).
+
+The cards won are the hands of the players for the next round: the cards are not reshuffled nor dealt again.
+In the fourth round, each player tries to take as many tricks as possible.
+Then it is important to catch as many cards as possible (whatever their values).
+
+
+=== Playing a card
+
+Play clockwise.
+Each player always plays one card per trick.
+One player wins the trick and leads the next one.
+Cards with higher numbers beat cards with lower numbers.
+Each player places the tricks they won face down next to them.
+
+
+== Follow suit rule
+
+In all rounds, the players must follow suit according to these rules:
+
+* The suit of the first card played determines the "suit of the trick".
+The other players must play cards of the same suit.
+The player who plays the card with the highest number wins the trick.
+* If a player does not have a card of this suit, they must play a card of another suit.
+If they play a card of the current trump suit (look at the trump cards), it beats all the cards played earlier.
+If there are several trump cards in the trick, the highest trump wins the trick.
+
+.Trick
+====
+♠ is the trump suit.
+Michael plays the ♥5.
+Karen follows suit and plays the ♥7.
+Daniel has no ♥ and trumps with the ♠8.
+Peter has no ♥ card either, but does not want to take the trick.
+Peter plays the ♣1.
+Daniel wins the trick and leads the next one.
+====
+
+
+=== Predetermined number of tricks
+
+When a player has already won the predetermined number of tricks, they cannot take any more tricks in this round.
+The cards played by such a player no longer count.
+However, this player must still play a card and follow suit.
+
+You do *not* have to follow the suit of a card played by a player who has already won the predetermined number of tricks.
+The first player who still needs tricks determines the "suit of the trick" with their card.
+
+
+[#points]
+== Victory points
+
+After the first, second and third rounds, each player scores points according to the *values* of their cards.
+
+[%autowidth,cols="^,^"]
+|===
+h| Card +
+value
+h| Number +
+of points
+| 1  |
+| 2  |
+| 3  |
+| 4  |
+| 5  | *1*
+| 6  | *2*
+| 7  | *3*
+| 8  | *2*
+| 9  | *1*
+| 10 |
+| 11 |
+| 12 |
+|===
+
+This sum is *multiplied* by the number of different suits that provided points.
+
+.Intermediate scoring
+====
+5 points in ♠, 3 points in ♣ and 2 points in ♦ give stem:[(5 + 3 + 2) xx 3 = 30] victory points.
+====
+
+
+=== Catching cards
+
+In the fourth and last round, the number of tricks is not predetermined.
+The values of the cards no longer give points.
+Now, it is only important to win as many tricks as possible.
+
+Each player receives the following victory points for each card they won:
+
+[%autowidth]
+|===
+h| Card suit        | ♠ | ♥ | ♣ | ♦
+h| Number of points | 4 | 3 | 2 | 1
+|===
+
+These points are *added up*: they are not multiplied.
+
+
+== Winning
+
+The game ends after the fourth round.
+Add up all the victory points (from all 4 rounds).
+The player who scored the most points wins.
+
+
+== Optional rules
+
+Some players may find the basic game too dominated by luck.
+Therefore, we have included the following two optional rules.
+You can use them separately or together.
+
+
+[#refusing-a-card]
+=== Refusing a card
+
+If you have only one card of the "suit of the trick" left in your hand, you may refuse it.
+When you have to play a card, place it face up in front of you on the table: you may now play any other card (including a trump).
+
+IMPORTANT: Each player may only have one refused card in front of them.
+This card still counts as one of their hand cards, and must be played later according to the rules.
+Once it has been played, another card may be refused.
+
+
+=== Donating a trick
+
+A player who wins a trick may keep it and put it in front of them (as in the basic game).
+Alternatively, they may *donate* the trick to one of the other players who has not won the predetermined number of tricks yet.
+
+They move the trick openly to the other player.
+This player may take it, or try to refuse it.
+To refuse it, they must have a hand card with a lower value than all the cards of the trick.
+(So a trick with a 1 cannot be refused.
+However, you may not donate a trick to the player who played its 1!)
+
+IMPORTANT: The card used to refuse the trick must be of one of the suits of the cards of the trick.
+
+.Refusing
+====
+To refuse a donated trick made of the ♥12, the ♥3, the ♠5 and the ♦6, a player must play a 1 or a 2 in ♥, ♠ or ♦.
+====
+
+If a donated trick is refused, the card used to refuse it is put into the trick, and the refusing player may take any card of the trick into their hand.
+
+NOTE: If the refusing player takes a card of the same suit as the refused card lying in front of them (see <<refusing-a-card>>), they must put this refused card back into their hand.
+
+If a donated trick is refused, the donor must take it: they may not try to donate it again.
+
+The player who gets the trick leads the next one.

@@ -1,0 +1,110 @@
+= Odin
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 54 cards: 1-9 in ♠, ♥, ♣, ♦, ✿ & ★.
+* Paper and a pencil to keep the score.
+****
+
+Be the first to get rid of all the cards in your hand, and have the fewest points at the end of the game.
+
+
+== Setup
+
+. Shuffle all the cards.
+. Deal 9 cards face down to each player: this is your hand.
+Look at your hand, but don't let anyone else see it!
+
+Choose a first player at random.
+You then take turns in clockwise order.
+
+
+== How to play
+
+The game is played over several hands.
+Each hand is divided into rounds.
+
+NOTE: A round is made of several turns, and it ends when all players but one have passed.
+
+At the start of a round, the first player plays 1 of their cards face up in the middle of the table.
+
+Then, on your turn, you either:
+
+1. play 1 or more cards;
+2. or pass.
+
+
+=== 1. Play 1 or more cards
+
+The value of the cards you play must be greater than the value of the cards already in the middle of the table.
+
+.Higher value
+====
+If the value in the middle of the table is 3, you must play a value of 4 or more.
+====
+
+You can play either the same number of cards as there are in the middle of the table, or 1 card more.
+
+.More cards
+====
+If there is a set of 2 cards in the middle of the table, you can play a set of 2 or 3 cards, but not a set of 4 cards, nor 1 card on its own.
+====
+
+If you want to play several cards, they must all have the same number or the same suit.
+
+When you play several cards, their value is the highest number you can make by using the number of each card as a digit.
+
+.Value of a set
+====
+If you play ♠2 and ♠8, the value of the set is 82, not 28.
+
+If you play ♥2, ♥4 and ♥9, the value of the set is 942.
+====
+
+Once you have played 1 or more cards, you must pick up 1 of the cards that were in the middle of the table before you played.
+You cannot pick up a card you have just played.
+So:
+
+* If there is only 1 card, you must pick it up.
+* If there is a set of cards, choose the card you want to keep and discard the others.
+
+
+=== 2. Pass
+
+If you pass, you do not play any cards, and the player on your left takes their turn.
+
+NOTE: Even if you pass, you can play as normal on your next turn.
+
+If all players but 1 pass, the round ends: discard the cards left in the middle of the table.
+The last player who played cards starts the new round.
+Everyone keeps the cards in their hand.
+
+
+== End of a hand
+
+A hand can end in 2 ways:
+
+. If you start a new round and all the cards in your hand have the same number or the same suit, you may play them all.
+The hand is then over.
+If you cannot, play 1 card as normal.
+. If, at any time, you play 1 or more cards and your hand is then empty, do not pick up a card from the middle of the table.
+The hand is then over.
+
+At the end of a hand, you score 1 point for each card left in your hand.
+Note your points on paper.
+
+To start a new hand, collect all the cards, shuffle them and deal 9 cards to each player.
+The player to the left of the previous hand's first player starts the new hand by playing 1 card.
+
+
+== End of the game
+
+For your first game, we recommend playing to 15 points: once a player has 15 points or more, the game ends, and the player with the fewest points wins.
+In case of a tie, the tied players share the victory.
+
+After your first game, you can choose the number of points you play to: add 5 points for a longer game (20 points), or remove 5 points for a shorter one (10 points).
+For a very short game, just play 1 hand!

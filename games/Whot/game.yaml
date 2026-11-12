@@ -1,0 +1,20 @@
+bggId: 9251
+authors: William Henry Storey
+type:
+  - Ladder Climbing
+players: 2, 3, 4, 5, 6, 7, 8
+cards:
+  Base:
+    all-players:
+      spades: 1-5, 7-8, 10-14
+      hearts: 1-5, 7-8, 10-14
+      clubs: 1-3, 5, 7, 10-11, 13-14
+      diamonds: 1-3, 5, 7, 10-11, 13-14
+      stars: 1-5, 7-8
+      specials: Butterfly*5
+    6,7,8-players:
+      spades: K*3
+      hearts: K*3
+      clubs: K*2
+      diamonds: K*2
+      specials: Butterfly*6

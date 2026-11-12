@@ -1,0 +1,19 @@
+bggId: 5782
+authors: Michael Schacht
+type:
+  - Drafting
+  - Set Collection
+  - Push Your Luck
+players: 2, 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 0-8
+      hearts: 0-8
+      clubs: 0-8
+      diamonds: 0-8
+      florettes: 0-8
+      wheels: 0-8
+      stars: 0-8
+      specials: Ø, Butterfly*6, Phoenix*4, Wolf*3
+

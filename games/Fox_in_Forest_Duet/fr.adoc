@@ -1,0 +1,256 @@
+= Le Renard des Bois : DUO
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 30 cartes à jouer : 1-10 à ♠, ♥ & ♣.
+* 11 cartes Sentier : 1-11 à ♦.
+* 4 cartes Blocage : 1-4 à ★.
+* 22 cartes Animal : 6 Papillons, 6 Loups, 4 Phénix, 4 Serpents & 2 Dragons.
+* 1 Singe.
+
+TIP: Au lieu d'utiliser le Singe et les cartes Sentier, vous pouvez jouer avec un link:Fox_in_Forest_Duet-Board.pdf[plateau] et un pion.
+****
+
+Le Renard des Bois : Duo est un jeu de plis pour deux coéquipier·ère·s.
+À chaque manche, vous pouvez collecter des Animaux en avançant le long du sentier forestier.
+Collaborez pour ramasser toutes les cartes Animal, sans manquer de temps ni vous perdre dans la forêt !
+
+[CAUTION]
+====
+Les valeurs des cartes Sentier et Blocage n'ont pas d'importance.
+====
+
+
+[#setup]
+== Mise en place
+
+1. Utilisez la *face ⚑* de la référence Sentier, et formez le sentier correspondant entre vous avec les 11 cartes Sentier ♦ *face cachée*, de manière que chaque joueur·euse soit face à une extrémité du sentier.
+(La *face ⚑⚑ / ⚑⚑⚐* permet d'augmenter la difficulté : voir <<difficulty-levels>>.)
+2. Placez *12 cartes Animal* sur les cartes Sentier : sur chaque carte Sentier, placez autant de cartes Animal qu'il y a de *●* sur l'emplacement correspondant de la référence Sentier (0-2).
+Mettez les autres cartes Animal de côté pour constituer une réserve.
+3. Placez les quatre *cartes Blocage ★* à portée de main.
+4. Placez le *Singe* sur la carte Sentier de départ (indiquée par une couronne sur la référence Sentier).
+5. Mélangez les *30 cartes à jouer*.
+6. Choisissez qui distribue lors de la première manche.
+Cette personne distribue à chaque joueur·euse une *main* de 11 cartes.
+(Chaque joueur·euse peut regarder les cartes de sa main, mais ne doit pas les révéler à son coéquipier ou sa coéquipière.)
+7. Mettez de côté les cartes restantes, face cachée, pour former la *pioche*.
+8. Révélez la première carte de la pioche et placez-la face visible à côté du sentier.
+Cette carte est appelée la *carte décret*.
+(La couleur de cette carte est importante en cours de jeu.)
+
+
+== Le jeu
+
+=== Présentation d'une manche
+
+Chaque *manche* est constituée de 11 tours appelés *plis*.
+
+Au cours de chaque pli, un·e joueur·euse *ouvre* (c'est-à-dire joue la première carte du pli), et l'autre *suit* (c'est-à-dire joue la deuxième carte du pli).
+
+En fonction des *couleurs* et des *rangs* des deux cartes jouées, l'un·e des joueur·euse·s remporte le pli.
+Puis le Singe se déplace le long du sentier vers la personne qui a remporté le pli, en fonction des *valeurs de mouvement* des deux cartes jouées.
+
+
+=== Un pli en détail
+
+1. *Jouer des cartes* : chaque joueur·euse doit jouer une carte de sa main.
+L'un·e ouvre et l'autre suit.
+** *Ouvrir* : au premier pli de chaque manche, la personne qui n'a pas distribué ouvre.
+À chaque pli suivant, la personne qui a remporté le pli précédent ouvre.
+La personne qui ouvre doit jouer une carte, mais elle peut jouer n'importe quelle carte de sa main, sans restriction.
+** *Suivre* : une fois que l'un·e a ouvert, l'autre doit suivre en jouant une carte de sa main.
+La personne qui suit doit jouer une carte de la *couleur d'entame* si elle le peut, mais cette carte peut être de n'importe quel rang dans cette couleur.
+Si elle n'a pas de carte de la couleur d'entame, elle peut jouer n'importe quelle carte de sa main, sans restriction.
++
+NOTE: La couleur de la carte jouée par la personne qui ouvre est appelée *couleur d'entame*.
+La couleur de la carte décret, face visible à côté du sentier, est appelée *couleur d'atout*.
+
+2. *Déterminer qui remporte le pli* : une fois les deux cartes jouées, déterminez qui remporte le pli.
+Pour cela, prenez en compte les rangs des cartes jouées, ainsi que la couleur d'entame et la couleur d'atout.
+** *Atout* : si au moins une des cartes du pli est de la couleur d'atout, la personne qui a joué la carte de plus haut rang dans la couleur d'atout remporte le pli.
+** *Sans atout* : si aucune carte du pli n'est de la couleur d'atout, la personne qui a joué la carte de plus haut rang dans la couleur d'entame remporte le pli.
+
+3. *Déplacer le Singe* : une fois le pli remporté, le Singe se déplace.
+Additionnez les valeurs de mouvement des deux cartes du pli (voir <<movement-values>>), puis déplacez le Singe d'autant de cartes Sentier le long du sentier vers la personne qui a remporté le pli (sauf indication contraire).
+** *Sortir du sentier* : si le Singe devait aller au-delà de la dernière carte Sentier non recouverte à l'une des extrémités du sentier, replacez le Singe sur la carte Sentier de départ (indiquée par une couronne sur la référence Sentier) et placez une carte Blocage ★ de manière qu'elle recouvre la dernière carte Sentier non recouverte de cette extrémité.
+Cela raccourcit le sentier pour le reste de la partie.
+Si vous n'avez plus de carte Blocage ★ à placer, la partie se termine sur une défaite (voir <<end-of-game>>).
+Si une carte Blocage ★ recouvre une carte Sentier où se trouvent une ou plusieurs cartes Animal, déplacez ces cartes Animal d'une carte Sentier vers le centre.
+** *Cartes Animal* : si le Singe se retrouve sur une carte Sentier où se trouvent une ou plusieurs cartes Animal (même s'il ne s'est pas déplacé !), et à condition qu'il n'ait pas été replacé au départ pour être sorti du sentier, collectez une carte Animal de cette carte Sentier et remettez-la dans la réserve.
+Si vous collectez la dernière carte Animal du sentier, la partie se termine sur une victoire (voir <<end-of-game>>).
+
+4. *Nettoyer* : après le déplacement du Singe, mettez de côté les cartes du pli, face cachée.
+Pendant la manche, personne ne peut regarder les cartes des plis précédents.
+
+
+=== Fin d'une manche
+
+À la fin de la première et de la deuxième manche, effectuez les étapes suivantes.
+À la fin de la troisième manche, ignorez ces étapes et passez directement à la <<end-of-game>>.
+
+1. *Ajouter des cartes Animal* : ajoutez une carte Animal de la réserve sur chaque carte Sentier où la référence Sentier montre une icône plus (+).
+(Au niveau de difficulté 1 (⚑), cela signifie que vous ajoutez cinq cartes Animal à la fin de chaque manche : voir <<difficulty-levels>>.)
+
+2. *Placer une carte Blocage* : placez une carte Blocage ★ (s'il vous en reste) de manière qu'elle recouvre la dernière carte Sentier non recouverte à l'une des extrémités du sentier, de votre choix.
+Cela raccourcit le sentier pour le reste de la partie.
+(Si vous n'avez plus de carte Blocage ★ à placer, rien ne se passe.)
+Vous pouvez discuter de l'extrémité du sentier où vous souhaitez placer la carte Blocage ★.
+** *Singe* : si le Singe est à l'une des extrémités du sentier, vous devez placer la carte Blocage ★ de manière qu'elle recouvre la dernière carte Sentier non recouverte de l'autre extrémité.
+** *Cartes Animal* : si une carte Blocage ★ recouvre une carte Sentier où se trouvent une ou plusieurs cartes Animal, déplacez ces cartes Animal d'une carte Sentier vers le centre.
+
+3. *Distribuer la manche suivante* : rassemblez les 30 cartes à jouer et mélangez-les.
+La personne qui n'a pas distribué à la manche précédente distribue.
+Elle distribue à chaque joueur·euse une nouvelle main de 11 cartes pour la manche suivante.
+Mettez de côté les cartes restantes, face cachée, pour former la nouvelle pioche.
+Enfin, révélez la première carte de la pioche et placez-la face visible à côté du sentier : c'est la nouvelle carte décret.
+
+NOTE: Il n'y a pas de limite au nombre de cartes Animal sur une même carte Sentier.
+
+NOTE: Le Singe commence chaque nouvelle manche sur la carte Sentier où il a terminé la manche précédente.
+
+
+[#end-of-game]
+== Fin de la partie
+
+La partie peut se terminer de trois manières.
+Dès que l'une de ces conditions de fin de partie se produit, la partie se termine immédiatement.
+
+1. *Victoire* : si vous collectez toutes les cartes Animal du sentier, la partie se termine sur une victoire.
+Utilisez la liste ci-dessous pour calculer le score de la partie.
+Nous vous encourageons à noter vos scores d'une partie à l'autre pour suivre vos progrès !
+** Marquez un nombre de points qui dépend du niveau de difficulté : 10 au niveau 1, 20 au niveau 2, 30 au niveau 3 (voir <<difficulty-levels>>).
+** Ajoutez 1 point pour chaque carte restant dans la main de l'un·e ou l'autre.
+** Ajoutez 10 points si vous l'avez emporté à la deuxième manche (au lieu de la troisième).
+** Ajoutez 3 points pour chaque carte Blocage ★ qu'il vous reste.
+
+2. *Perdus dans la forêt* : si le Singe devait aller au-delà de la dernière carte Sentier non recouverte à l'une des extrémités du sentier, et que vous n'avez plus de carte Blocage ★ à placer, la partie se termine sur une défaite.
+
+3. *Temps écoulé* : s'il reste au moins une carte Animal sur le sentier à la fin de la troisième manche, la partie se termine sur une défaite.
+
+NOTE: Si, à n'importe quel moment, il devient impossible de collecter toutes les cartes Animal restantes, vous pouvez choisir d'abandonner.
+
+
+== Règles de communication
+
+Vous pouvez discuter librement avant la distribution des cartes de la première manche, et entre les manches.
+Mais pendant une manche, la communication est limitée :
+
+1. *Ne parlez pas de vos cartes.*
+Vous ne pouvez pas révéler votre main à votre coéquipier·ère, ni discuter des couleurs, des rangs, des valeurs de mouvement ou des capacités spéciales des cartes de votre main.
+Il en va de même pour les cartes de votre coéquipier·ère.
+
+2. *Ne posez pas de questions révélatrices.*
+Si vous avez besoin d'aide pour vous souvenir de la capacité spéciale ou de la valeur de mouvement d'une carte précise, ne la demandez pas à votre coéquipier·ère.
+Consultez plutôt la référence, pour éviter de donner des indices par accident.
+
+3. *Ne discutez pas de stratégie.*
+Vous ne pouvez pas indiquer comment vous comptez jouer, ni comment vous voulez que votre coéquipier·ère joue : que vous souhaitiez qu'il ou elle remporte le pli, vous donne une certaine carte, joue une carte avec une certaine valeur de mouvement, etc.
+
+
+== Cartes à jouer
+
+=== Capacités spéciales
+
+Toutes les cartes de rang impair (1, 3, 5, 7 et 9) ont une capacité spéciale, qui se déclenche quand la carte est jouée.
+
+
+==== 1 : changement de direction
+
+[quote]
+La personne qui remporte ce pli peut choisir de déplacer le Singe dans la direction opposée.
+
+La personne qui a remporté le pli choisit de déplacer le Singe le long du sentier soit dans la direction normale (vers elle), soit dans la direction opposée (vers son coéquipier ou sa coéquipière).
+
+
+==== 3 : échange du décret
+
+[quote]
+Quand vous jouez cette carte, choisissez un·e joueur·euse.
+Cette personne peut échanger la carte décret contre une carte de sa main.
+
+Quand vous jouez cette carte, vous pouvez vous choisir vous-même ou choisir votre coéquipier·ère.
+La personne choisie n'est pas obligée d'échanger la carte décret : elle peut rester la même.
+Cependant, si elle décide de l'échanger, l'échange a lieu immédiatement.
+Si la couleur d'atout change à cause de cet échange, cela peut changer qui remporte le pli !
+
+
+==== 5 : mouvement ignoré
+
+[quote]
+La personne qui remporte ce pli peut choisir d'ignorer la valeur de mouvement de l'une des cartes du pli.
+
+La personne qui a remporté le pli peut ignorer la valeur de mouvement d'une carte du pli ou d'aucune (à son choix).
+Par exemple, si les cartes jouées au cours du pli ont des valeurs de mouvement de un et de trois, le Singe peut se déplacer d'une, trois ou quatre cartes Sentier vers la personne qui a remporté le pli.
+Si deux 5 sont joués dans le même pli, la personne qui le remporte peut choisir d'ignorer la valeur de mouvement d'une carte du pli, d'aucune ou des deux : chaque 5 lui permet d'ignorer jusqu'à une carte.
+
+
+==== 7 : échange de cartes
+
+[quote]
+Quand vous jouez cette carte, les deux joueur·euse·s choisissent une carte de leur main, puis se les échangent.
+
+Quand cette carte est jouée, l'échange a lieu immédiatement.
+L'échange est obligatoire, à condition que chacun·e ait encore au moins une carte en main.
+Chaque joueur·euse doit choisir la carte à donner à son coéquipier ou sa coéquipière sans savoir laquelle il ou elle recevra en retour : vous vous passez les cartes choisies en même temps.
+
+
+==== 9 : choix libre
+
+[quote]
+Quand vous ouvrez avec cette carte, votre coéquipier·ère peut jouer n'importe quelle carte.
+(Il ou elle n'est pas obligé·e de fournir la couleur.)
+
+Quand c'est la première carte jouée au cours du pli, l'autre joueur·euse n'est pas obligé·e de fournir la couleur ; cependant, il ou elle peut toujours choisir de le faire.
+Quand c'est la deuxième carte jouée au cours du pli, elle n'a aucun effet.
+
+
+[#movement-values]
+=== Valeurs de mouvement
+
+[%autowidth,cols="h,^,^,^,^,^,^,^,^,^,^"]
+|===
+| Rang | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+| Mouvement | 0 | 3 | 2 | 1 | 1 | 2 | 0 | 2 | 0 | 3
+|===
+
+
+[#difficulty-levels]
+== Niveaux de difficulté
+
+Vous pouvez augmenter la difficulté du jeu en faisant quelques modifications lors de la mise en place.
+Êtes-vous prêt·e·s à relever un plus grand défi ?
+
+Les étapes décrites dans la <<setup>> ci-dessus correspondent au niveau de difficulté 1 (⚑).
+Utilisez le tableau ci-dessous pour passer au niveau 2 (⚑⚑) ou 3 (⚑⚑⚐), où vous devrez collecter plus de cartes Animal sur un sentier plus court.
+
+[%autowidth]
+|===
+| Difficulté | Modifications de la mise en place
+
+h| Niveau 1 +
+*⚑*
+a|
+* *Étape 1* : utilisez la *face ⚑* de la référence Sentier, avec 11 cartes Sentier.
+* *Étape 2* : placez 12 cartes Animal, selon le nombre de *●* sur chaque emplacement de la référence Sentier (0-2).
+* *Étape 3* : utilisez 4 cartes Blocage ★.
+
+h| Niveau 2 +
+*⚑⚑*
+a|
+* *Étape 1* : utilisez la *face ⚑⚑ / ⚑⚑⚐* de la référence Sentier, avec 10 cartes Sentier.
+* *Étape 2* : placez 13 cartes Animal, selon le nombre de *●* sur chaque emplacement de la référence Sentier (0-2), en ignorant les ○.
+* *Étape 3* : utilisez 3 cartes Blocage ★.
+
+h| Niveau 3 +
+*⚑⚑⚐*
+a|
+* *Étape 1* : utilisez la *face ⚑⚑ / ⚑⚑⚐* de la référence Sentier, avec 10 cartes Sentier.
+* *Étape 2* : placez 16 cartes Animal, selon le nombre de *●* et de *○* sur chaque emplacement de la référence Sentier (0-3).
+* *Étape 3* : utilisez 3 cartes Blocage ★.
+|===

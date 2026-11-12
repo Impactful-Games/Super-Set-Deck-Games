@@ -1,0 +1,156 @@
+= Coloretto
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 63 color cards: 0-8 in ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+* 10 "+2" cards: 6 Butterflies & 4 Phoenixes.
+* 3 jokers: 3 Wolves.
+* The Ø card, to mark the last round.
+****
+
+From 2 to 5 players draw cards from a supply in the middle of the table.
+During the game, you try to specialize in a few colors, because at the end of the game, only 3 colors score plus points, and all the others score minus points.
+So you try to collect cards in three colors and to avoid taking any in the other colors, which is not that easy.
+The more cards you have in a color, the more points it scores.
+The player with the most points wins.
+
+[CAUTION]
+====
+For this game, the numbers on the cards *do not* matter.
+Only the suit of the cards matters: each suit is one of the seven colors of the game.
+====
+
+
+== Setup
+
+* Choose whether you play with scoring scheme A or B (see <<scoring>>).
++
+TIP: Begin with scoring scheme A.
+* With 3 players, remove the ★ cards from the game.
+* Remove the Ø card from the deck and set it aside for now.
+* Each player takes one card of a different color and places it face up in front of them.
+* Shuffle the remaining cards and place them face down in the middle of the table as a supply.
+Deal 15 cards face down from the supply in a stack.
+Place the Ø card on top of this stack, then place the rest of the supply on top of it.
+* Choose a starting player at random.
+
+NOTE: The rules below are for 3 to 5 players; the changes for 2 players are explained in <<two-players>>.
+
+
+== Playing the game
+
+Players take turns clockwise.
+
+On your turn, you *must* take one of the two following actions:
+
+A. Draw and place a card.
+B. Take a row.
+
+Then the player on your left takes their turn.
+
+When every player has taken a row, the round ends and a new round begins.
+
+
+=== A. Draw and place a card
+
+Draw the top card of the supply and place it face up, either next to one or two cards already placed in a row, or alone in a new row.
+There can never be more rows than players still in the round.
+
+A row holds *at most* 3 cards.
+When a row has 3 cards, you cannot place another card in that row.
+
+When there are as many rows as players still in the round, and each row has 3 cards, you cannot choose this action: you must take a row.
+
+
+=== B. Take a row
+
+Take all the cards of a row and place them face down in front of you.
+
+You can only take a row that has at least one card.
+Once you have taken a row, you take no more turns this round, but you play again in the next round.
+The face-down pile in front of you shows everyone that you take no more turns this round.
+
+NOTE: If all players but one have taken a row, this player may keep drawing and placing cards in the last row (up to 3 cards) before taking it and ending the round.
+
+
+== End of a round
+
+When every player has taken a row, the round ends.
+Each player sorts the cards they took by color, face up in front of them.
+Butterflies and Phoenixes go in an eighth pile.
+Everyone must be able to see how many cards of each color each player has.
+Set aside any joker (Wolf) you took: you will choose its color at the end of the game, but not sooner.
+
+A new round begins.
+The player who took the last row of the previous round starts the new round.
+
+
+== End of the game
+
+When the Ø card is drawn, the current round is the last one.
+The player who drew it sets it aside, in view of everyone, and draws the next card instead.
+At the end of the round, each player chooses the color of each of their jokers (Wolves).
+A player's jokers can take different colors.
+
+
+[#scoring]
+== Scoring
+
+Each player counts their cards of each color.
+
+* The table gives the plus or minus points of a color, according to its number of cards.
+You score no extra points for more than 6 cards in a color.
++
+[%autowidth, cols="^,^,^"]
+|===
+h| Cards
+h| Points +
+(scheme A)
+h| Points +
+(scheme B)
+
+h| 1 | 1 | 1
+h| 2 | 3 | 4
+h| 3 | 6 | 8
+h| 4 | 10 | 7
+h| 5 | 15 | 6
+h| 6 or more | 21 | 5
+h| Each Butterfly or Phoenix | +2 | +2
+|===
+* Choose *3 of your colors*: they score *plus points*.
+* *All your other colors* score *minus points*.
+* Each Butterfly and each Phoenix scores 2 plus points.
+
+The player with the most points wins!
+
+.Example (scheme A)
+====
+Andy has 1 Wolf, 1 Phoenix, 6 ♣ cards, 4 ♦ cards, 3 ♥ cards and 2 ♠ cards.
+Andy already scores the maximum with the 6 ♣ cards, so the Wolf goes with the ♦ cards.
+
+♣ = +21 points +
+♦ + Wolf = +15 points +
+♥ = +6 points +
+♠ = -3 points +
+Phoenix = +2 points
+
+Andy scores 41 points in total.
+====
+
+
+[#two-players]
+== Coloretto for two players
+
+With 2 players, apply the following changes:
+
+* Before starting the game, remove all the ★ and ⎈ cards.
+* Before the first turn, each player takes two cards of different colors.
+* There are up to three rows, each with its own limit:
+** the first row holds at most 1 card;
+** the second row holds at most 2 cards;
+** the third row holds at most 3 cards.
+* When both players have taken a row, the remaining row is removed from the game, with its cards.

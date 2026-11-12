@@ -1,0 +1,25 @@
+bggId: 251433
+authors: Muneyuki Yokouchi
+type:
+  - Trick Taking
+  - Team Based
+players: 3, 4
+cards:
+  Base:
+    all-players:
+      stars: A, 2-6, K
+      wheels: 2-6, K, 8
+      florettes: 3-6, K, 8-9
+      diamonds: 4-6, K, 8-10
+      clubs: 5-6, K, 8-11
+      hearts: 6, K, 8-12
+      spades: K, 8-13
+  Seven-Suitors:
+    4-players:
+      stars: 0, J, Q, K*2
+      wheels: 0, J, Q, K*2
+      florettes: 0, J, Q, K*2
+      diamonds: 0, J, Q, K*2
+      clubs: 0, J, Q, K*2
+      hearts: 0, J, Q, K*2
+      spades: 0, J, Q, K*2

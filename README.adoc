@@ -1,0 +1,102 @@
+= Super-Set Deck Games
+:toc: macro
+:toclevels: 2
+:idprefix:
+:idseparator: -
+:source-highlighter: highlight.js
+:icons: font
+
+*The companion website of the Super-Set Deck: one deck of 198 cards, a large number of card games.*
+
+The https://super-set-deck.games[Super-Set-Deck.Games] website provides, for every game, a rule adapted to the Super-Set Deck, visual game aids, and tools: personal game lists, backups, and a travel packer that computes the cards to take for a selection of games.
+It is written in Kotlin with Compose Multiplatform for the web, runs as WebAssembly (with a JavaScript fallback for older browsers), installs as an app, and works entirely offline.
+
+toc::[]
+
+
+== Contribute
+
+=== New game rules
+
+Each game is a directory of `games/`, named after the game's identifier (`Tichu`, `Fox_in_Forest`), which the site's URLs use.
+
+Rules are written with https://asciidoctor.org[Asciidoctor].
+A game directory holds:
+
+* `game.yaml`: the game's properties, mandatory.
+* `en.adoc`: the English rule, mandatory.
+The rule's title is the game's name in that language.
+* Rules in other languages, such as `fr.adoc`.
+* The game aids (references), `reminder.designcraft`, made with DesignCraft: one page per aid, 77 × 102 mm, including a 3.5 mm print bleed on each side.
+The build exports each page without its bleed, 70 × 95 mm at 300 ppi, as `R-1.png`, `R-2.png`…, which the site shows in the order of the pages.
+* The printable board or sheet, `board.designcraft`, made with DesignCraft.
+The build exports all its pages to `<Id>-Board.pdf` (`Nyet-Board.pdf`), which the rules link with a relative link (`link:Nyet-Board.pdf[board]`).
+
+[source,yaml]
+.Example: `games/Chimera/game.yaml`
+----
+bggId: 224830                   # <1>
+authors: H. Anderson            # <2>
+type:                           # <3>
+  - Ladder Climbing
+  - Team Based
+players: 3, 5
+cards:
+  Base:                         # <4>
+    all-players:                # <5>
+      spades: 1-12, A           # <6>
+      specials: Phoenix, Dragon
+    5-players:
+      florettes: 0-12, A
+      specials: Butterfly*4     # <7>
+----
+<1> The game's BoardGameGeek identifier: its image, rating, year, duration and minimum age come from BoardGameGeek.
+<2> Comma separated; or `tradition: French` for a traditional game, and `adaptedBy:` for adapters.
+<3> The game's types, in English: the site translates the known ones.
+<4> The cards always needed are in `Base`; other variants (`Advanced`, `Tactic`…) are optional.
+<5> `all-players`, or a set of player counts: `5-players`, `4,5-players`, `4-6-players`.
+<6> Values or ranges, per suit: `stars`, `spades`, `hearts`, `clubs`, `diamonds`, `florettes`, `wheels`, `specials`.
+<7> `*n` asks for n copies of a value.
+
+A rule's components block, a sidebar with the `ssd-components` role, gets a button showing the cards the game needs.
+Formulas are written with `stem:[...]`, in AsciiMath.
+
+The design file of the cards, `cards.pcraft`, is at the root of the repository, stored with https://git-lfs.com[Git LFS].
+The icons of the game aids must come from https://game-icons.net[game-icons.net].
+
+
+=== New languages
+
+Add a `Strings` implementation in `app/src/webMain/kotlin/games/supersetdeck/i18n/`, register it in `Lang.kt`, and add the rules (`<lang>.adoc`) and the About page (`docs/about-<lang>.adoc`) in that language.
+
+
+== Build
+
+The build fetches the BoardGameGeek data of each game once, and keeps it in `build/bgg-cache`.
+Fetching needs a https://boardgamegeek.com/applications[BoardGameGeek API token], given as the `BGG_TOKEN` environment variable or the `bgg.token` Gradle property.
+
+The boards and the game aids are exported with https://github.com/storytold/designcraft[`designcraft-cli`], found in the `PATH` or in `~/.local/bin`, or given as the `DESIGNCRAFT_CLI` environment variable or the `designcraft.cli` Gradle property.
+The fonts they use (LCT Picon) must be installed: the build fails rather than export them with a substitute font.
+
+[source,bash]
+----
+./gradlew :app:site                     # <1>
+./gradlew :app:wasmJsBrowserDevelopmentRun  # <2>
+./gradlew build                         # <3>
+----
+<1> Assembles the deployable site in `app/build/site`.
+<2> Runs the Wasm version with live reload.
+<3> Builds everything and runs the tests.
+
+The site is deployed to GitHub Pages by the `deploy` workflow on every push to `main`.
+The workflows run on macOS, where `.github/actions/setup-designcraft` installs `designcraft-cli` and the fonts.
+The fonts are in `.github/fonts.tar.gz.enc`, encrypted by `.github/encrypt-fonts.sh`, which stores the passphrase in the `FONTS_PASSPHRASE` secret of the repository.
+Run it again when the design files use a new font, after adding the font's files to it.
+
+
+== Layout
+
+* `games/`, `docs/`: the content, rules and documents, in AsciiDoc.
+* `buildSrc/`: the build steps that turn the content into site files: BoardGameGeek data, boards and game aids exported from DesignCraft, rules rendered to HTML, and the list of files the service worker caches for offline use.
+* `app/`: the web application.
+Rules and documents are shown as HTML over the Compose canvas (`HtmlElementView`); everything else is drawn by Compose.

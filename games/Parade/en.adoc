@@ -1,0 +1,300 @@
+= Parade
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 66 cards: 0-10 in ♠, ♥, ♣, ♦, ✿ & ★.
+****
+
+The parade has started in Wonderland.
+Everybody is dressed up, the streets are decorated, excitement is in the air.
+Let's find more people to join the parade.
+You are one of the organizers of the parade, and you are constantly doing your best to encourage people to join it.
+
+If only the people already taking part didn't leave so early...
+After a short while, they just lose interest in the parade.
+And if somebody shows up with the same costume or of a higher rank, all they do is leave the parade immediately and complain to you.
+You just want everybody to have fun, but why is it so difficult nowadays...?
+
+
+== Goal of the game
+
+On each of your turns, play a card from your hand while trying not to collect cards from the parade, as these score penalty points.
+Nobody wants points in Wonderland.
+
+
+== Preparing the parade
+
+Choose a start player at random.
+Starting with the start player, the game continues clockwise.
+The start player shuffles the cards and deals 5 cards face down to each player.
+
+Then they place 6 more cards face up next to each other in a line in the middle of the table.
+These cards are the first participants of the parade.
+The remaining cards form a face-down draw pile, placed at one end of the line to mark the front of the parade.
+The other end is called the end of the parade.
+
+
+== Sequence of play
+
+On your turn, perform the following actions in this order:
+
+. Choose one of the cards in your hand and lay it at the end of the parade.
+. If necessary, remove cards from the parade and lay them in front of you.
+. Draw a card from the draw pile.
+
+The next player then performs the same actions on their turn.
+
+
+=== 1. Adding to the parade
+
+Choose one of the cards in your hand and place it face up at the end of the parade.
+This card never counts when counting the cards in the next action.
+
+
+=== 2. Removing from the parade
+
+Depending on the card played, some cards may have to be removed from the parade.
+
+If the number of cards already in the parade is *less than or equal to* the value of the played card, no cards are removed from the parade.
+
+If the number of cards already in the parade is *greater* than the value of the played card, some cards may have to be removed from the parade.
+
+To find these cards, look at the value of the played card.
+Then, starting from the end of the parade and ignoring the card you just played, count as many cards as this value.
+Every card *beyond* these cards (the cards you did not count) enters *removal* mode.
+
+Then, among the cards in removal mode, remove the following cards:
+
+* All the cards of the same suit as the played card.
+* All the cards of a value less than or equal to the value of the played card.
+
+Lay the removed cards face up in front of you, sorted by suit.
+The values of all the cards must be visible to all players, so it is best to lay them slightly shifted on top of each other.
+
+The remaining cards of the parade move forward towards the front of the parade, to close the gaps.
+
+If a card with the value 0 is played, *all* the cards of the parade enter *removal* mode.
+
+.Removal
+====
+.Parade
+[options="autowidth",cols="^,^,^,^,^,^,^"]
+|===
+| ♠5 | ♣0 | ♣7 | ♥3 | ♠7 | ♥1 | ♣4
+4+| *Removal mode* 3+| Not affected
+|===
+
+You play a card from your hand (♣3) and lay it at the end of the parade.
+Since it is a 3 (the value of the card), you ignore the last 3 cards of the parade: they are not affected by the played card.
+
+Here is what happens to the 4 cards in removal mode:
+
+* You take all the cards of the played suit.
+Here, ♣0 and ♣7.
+* You take all the cards of a value less than or equal to the value of the played card.
+Here, ♥3.
+
+Note that only the cards in *removal mode* can be taken.
+====
+
+
+=== 3. Drawing
+
+Draw a card from the draw pile, to have 5 cards in hand again.
+
+
+== Last round and end of the game
+
+The last round starts when a player has collected at least one card of each of the 6 suits, *or* when the draw pile is exhausted.
+
+If a player collects the 6th suit, they finish their turn as usual.
+After that, every player, including the one who collected the 6th suit, plays one more turn.
+However, players don't draw a card at the end of their turn.
+The game ends after this last round.
+
+If the draw pile is exhausted, every player plays one more turn.
+The game ends when everybody has only 4 cards left in hand.
+
+Even if other players collect their 6th suit during this last round, this has no further effect.
+The game ends after this last round.
+
+
+== Scoring
+
+At the end of the game, each player chooses 2 cards from their hand and discards them face down.
+Once everyone has discarded, add the 2 remaining cards of your hand to the cards already in front of you.
+
+NOTE: Each of these 2 cards either joins a pile of a suit you already have, or starts a pile of a new suit.
+
+To determine your score, only count the cards in front of you.
+Discard the cards still in the parade.
+
+Players determine their score for each suit separately.
+
+. For each suit, find the player who has the most cards of that suit.
+The player or players with the most cards of a suit turn their cards of that suit face down.
+Each card turned face down is worth 1 point (its printed value does not count).
+. Each player then adds up the printed values of all their face-up cards.
+Finally, add the points of your face-down cards (1 point per card) to those of your face-up cards.
+
+As you would expect in Wonderland, the player with the fewest points wins the game.
+In case of a tie, the tied player with the fewest cards in front of them (face up and face down) wins.
+
+.Scoring
+====
+* *Anna*:
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+9 +
+7 +
+6 +
+5 +
+0
+
+|
+10 +
+8 +
+3
+
+|
+4 +
+2
+
+|
+
+|
+0
+
+|
+7 +
+4 +
+0
+
+|===
++
+Anna has the most ♠ and ★ cards (tied with Ben for ★).
+Anna scores:
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Cards: | stem:[5*1] | stem:[=5]
+| ♥ | Values: | stem:[10+8+3] | stem:[=21]
+| ♣ | Values: | stem:[4+2] | stem:[=6]
+| ✿ | Values: | stem:[0] | stem:[=0]
+| ★ | Cards: | stem:[3*1] | stem:[=3]
+| 2+| *Total*: | stem:[=35] points
+|===
+
+* *Ben*:
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+8
+
+|
+1 +
+0
+
+|
+
+|
+10 +
+1
+
+|
+8 +
+7 +
+5 +
+3
+
+|
+9 +
+8 +
+1
+
+|===
++
+Ben has the most ✿ and ★ cards (tied with Anna for ★).
+Ben scores:
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Values: | stem:[8] | stem:[=8]
+| ♥ | Values: | stem:[1+0] | stem:[=1]
+| ♦ | Values: | stem:[10+1] | stem:[=11]
+| ✿ | Cards: | stem:[4*1] | stem:[=4]
+| ★ | Cards: | stem:[3*1] | stem:[=3]
+| 2+| *Total*: | stem:[=27] points
+|===
+
+* *Chloe*:
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+4 +
+3
+
+|
+7 +
+6 +
+5 +
+2
+
+|
+9 +
+8 +
+7 +
+6
+
+|
+3 +
+2 +
+0
+
+|
+2 +
+1
+
+|
+10
+
+|===
++
+Chloe has the most ♥, ♣ and ♦ cards.
+Chloe scores:
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Values: | stem:[4+3] | stem:[=7]
+| ♥ | Cards: | stem:[4*1] | stem:[=4]
+| ♣ | Cards: | stem:[4*1] | stem:[=4]
+| ♦ | Cards: | stem:[3*1] | stem:[=3]
+| ✿ | Values: | stem:[2+1] | stem:[=3]
+| ★ | Values: | stem:[10] | stem:[=10]
+| 2+| *Total*: | stem:[=31] points
+|===
+
+*Ben wins the game!*
+====
+
+
+== Two-player game
+
+The rules don't change with only 2 players, except for the scoring.
+
+When you determine the majorities, a player has the majority in a suit only if they have at least 2 more cards of that suit than the other player: these cards then score 1 point each.
+If a player has only 1 more card, the same number of cards, or fewer, the values of these cards are added up.

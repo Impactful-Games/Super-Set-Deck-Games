@@ -1,0 +1,179 @@
+= Ultimatch
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 48 numbered cards: 1-8 in ♠, ♥, ♣, ♦, ✿ & ⎈.
+****
+
+Work together as a group to remove all the cards of the pyramid, by matching their suit, their number, or both, with cards from your hand and/or from the shared alta-hand.
+
+[NOTE]
+====
+♠, ♥ and ♣ are the primary suits.
+♦, ✿ and ⎈ are the secondary suits, each made of two primary suits:
+
+* ♦ = ♠ + ♣,
+* ✿ = ♠ + ♥,
+* ⎈ = ♥ + ♣.
+====
+
+
+== Setup
+
+1. Shuffle the cards and deal them to form a pyramid in the middle of the play area.
+The number of rows of the pyramid depends on the number of players, as shown below.
++
+--
+* *1 to 3 players:* 5 rows (15 cards in total).
+* *4 or 5 players:* 6 rows (21 cards in total).
+--
++
+The cards of all the rows except the last one are face down.
+The cards of the last row are face up.
+Each card overlaps part of the card(s) above it, as shown in the example below.
++
+.▒ = face down; U = face up
+----
+            ╭───╮
+            │ ▒ │
+         ╭──┴╮ ╭┴──╮
+         │ ▒ ├─┤ ▒ │
+      ╭──┴╮ ╭┴─┴╮ ╭┴──╮
+      │ ▒ ├─┤ ▒ ├─┤ ▒ │
+   ╭──┴╮ ╭┴─┴╮ ╭┴─┴╮ ╭┴──╮
+   │ ▒ ├─┤ ▒ ├─┤ ▒ ├─┤ ▒ │
+╭──┴╮ ╭┴─┴╮ ╭┴─┴╮ ╭┴─┴╮ ╭┴──╮
+│   ├─┤   ├─┤   ├─┤   ├─┤   │
+│ U │ │ U │ │ U │ │ U │ │ U │
+╰───╯ ╰───╯ ╰───╯ ╰───╯ ╰───╯
+----
+
+2. Deal each player a hand of cards according to the number of players, as shown below.
++
+* *1 player:* 13 cards.
+* *2 players:* 6 cards.
+* *3 players:* 4 cards.
+* *4 players:* 5 cards.
+* *5 players:* 4 cards.
+
+3. Place the remaining cards face down to form a draw pile.
+
+4. Each player donates a card from their hand to the alta-hand.
+The alta-hand is a hand of cards that every player may use to make matches with the cards of the pyramid.
+All the donated cards remain face down until everyone has placed a card in the alta-hand.
+Then turn them over to reveal the cards of the alta-hand.
+These cards remain face up for the rest of the game.
+*In a 2- or 3-player game, also draw the top card of the draw pile and add it to the alta-hand.*
+
+
+== How to play
+
+The player who donated the highest number to the alta-hand starts.
+In case of a tie, the tied player closest to the dealer’s left starts.
+On your turn, follow this order of play:
+
+1. Trade a card.
+2. Make a match.
+3. Remove the matched cards.
+4. Reveal pyramid cards.
+5. Get the Ultimatch rewards.
+
+You may discuss how to use the cards of the alta-hand to match the cards of the pyramid, but you cannot discuss or show the cards in your own hand.
+
+
+=== Trade a card
+
+All the players look at their hands to see if they have a card that could help the current player.
+If they do, they hold the card face down toward the current player.
+Trades are silent.
+You may indicate the strength or the nature of your card with facial expressions, body language, gestures, or the way you place the card in front of you.
+The current player may choose 1 player to trade with, and give them 1 of their cards face down in exchange.
+The current player may not look at the offered card until the trade is made.
+Both players then add the card they received to their hand.
+(A player who has no cards can still receive a card instead of trading.)
+
+
+=== Make a match
+
+Play 1 or 2 cards from your hand and/or from the alta-hand to match 1 of the face-up cards of the pyramid.
+There are several ways to *make a match*:
+
+* Play 1 card that has:
+** the same number,
+** or the same suit.
+
+*OR*
+
+* Play 2 cards (no more) that have:
+** numbers that *add up* to the number of a face-up pyramid card (any suits),
+** or numbers whose *difference* is the number of a face-up pyramid card (any suits),
+** or primary suits that mix into the secondary suit of a face-up pyramid card (any numbers).
++
+TIP: ♦ = ♠ + ♣, ✿ = ♠ + ♥ and ⎈ = ♥ + ♣.
+
+You must make a match on your turn if you can.
+However, if the only possible matches use only cards of the alta-hand, you may pass.
+
+*Ultimatch!*
+If you match both the suit AND the number of a face-up pyramid card, you have made an Ultimatch!
+At the end of your turn, you may then draw 2 cards from the draw pile, adding 1 to your hand and 1 to the alta-hand.
+(You can make an Ultimatch on a card of a secondary suit with 2 cards of that same secondary suit, or with 2 cards of the primary suits that mix into it.
+In either case, the numbers of the cards must add up or subtract to the number of the pyramid card.)
+
+NOTE: Primary suits mix the same way, whether you add or subtract the numbers.
+
+*If you cannot make a match, you must pass.*
+*Draw 1 card and end your turn.*
+*If all the players pass one after another, the game ends in a loss.*
+If the draw pile is ever empty and a player needs to draw a card, shuffle the discard pile to make a new draw pile.
+
+
+=== Remove the matched cards
+
+Place the cards played to make the match and the matched pyramid card face up in the discard pile, next to the draw pile.
+
+
+=== Reveal pyramid cards
+
+If cards of the pyramid no longer have any card overlapping them, turn them face up: they can be matched by the next players.
+
+
+=== Get the Ultimatch rewards
+
+If you made an Ultimatch in step 2, draw 2 cards from the draw pile.
+Choose 1 to keep in your hand, and place the other face up in the alta-hand.
+
+Play continues with the player to your left, following the same order of play.
+
+
+== End of the game
+
+The game ends in a win if the last card of the pyramid is matched.
+If all the players pass one after another, the game ends in a loss.
+
+
+== Solitaire
+
+Form a 5-row pyramid and deal yourself a hand of 13 cards.
+There is no alta-hand, no trading and no passing in solo mode.
+
+On your turn:
+
+1. Make a match.
+2. Remove the matched cards.
+3. Reveal pyramid cards.
+4. Get the Ultimatch rewards (and keep both cards in your hand).
+
+If you cannot make a match, you lose.
+If you match the last card of the pyramid, you win.
+
+
+== Difficulty
+
+For an *easier* game, add 1 or 2 cards of the draw pile to the starting alta-hand, or allow the current player to make 2 trades.
+
+For *more challenge*, randomly remove 1 card from the starting alta-hand, or keep both cards of an Ultimatch reward in your hand (none added to the alta-hand).

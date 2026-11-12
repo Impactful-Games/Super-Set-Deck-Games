@@ -1,0 +1,180 @@
+= Ultimatch
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 48 cartes numérotées : 1-8 à ♠, ♥, ♣, ♦, ✿ & ⎈.
+****
+
+Travaillez ensemble pour retirer toutes les cartes de la pyramide, en faisant correspondre leur couleur, leur nombre, ou les deux, avec des cartes de votre main et/ou de l'Alta-main partagée.
+
+[NOTE]
+====
+♠, ♥ et ♣ sont les couleurs primaires.
+♦, ✿ et ⎈ sont les couleurs secondaires, chacune formée de deux couleurs primaires :
+
+* ♦ = ♠ + ♣,
+* ✿ = ♠ + ♥,
+* ⎈ = ♥ + ♣.
+====
+
+
+== Mise en place
+
+1. Mélangez les cartes et disposez-les en pyramide au milieu de la zone de jeu.
+Le nombre de rangées de la pyramide dépend du nombre de joueur·euse·s, comme indiqué ci-dessous.
++
+--
+* *1 à 3 joueur·euse·s :* 5 rangées (15 cartes au total).
+* *4 ou 5 joueur·euse·s :* 6 rangées (21 cartes au total).
+--
++
+Les cartes de toutes les rangées, sauf la dernière, sont face cachée.
+Les cartes de la dernière rangée sont face visible.
+Chaque carte chevauche une partie de la ou des cartes au-dessus d'elle, comme le montre l'exemple ci-dessous.
++
+.▒ = face cachée ; V = face visible
+----
+            ╭───╮
+            │ ▒ │
+         ╭──┴╮ ╭┴──╮
+         │ ▒ ├─┤ ▒ │
+      ╭──┴╮ ╭┴─┴╮ ╭┴──╮
+      │ ▒ ├─┤ ▒ ├─┤ ▒ │
+   ╭──┴╮ ╭┴─┴╮ ╭┴─┴╮ ╭┴──╮
+   │ ▒ ├─┤ ▒ ├─┤ ▒ ├─┤ ▒ │
+╭──┴╮ ╭┴─┴╮ ╭┴─┴╮ ╭┴─┴╮ ╭┴──╮
+│   ├─┤   ├─┤   ├─┤   ├─┤   │
+│ V │ │ V │ │ V │ │ V │ │ V │
+╰───╯ ╰───╯ ╰───╯ ╰───╯ ╰───╯
+----
+
+2. Distribuez à chacun·e une main de cartes selon le nombre de joueur·euse·s, comme indiqué ci-dessous.
++
+* *1 joueur·euse :* 13 cartes.
+* *2 joueur·euse·s :* 6 cartes.
+* *3 joueur·euse·s :* 4 cartes.
+* *4 joueur·euse·s :* 5 cartes.
+* *5 joueur·euse·s :* 4 cartes.
+
+3. Placez les cartes restantes face cachée pour former une pioche.
+
+4. Chacun·e donne une carte de sa main à l'Alta-main.
+L'Alta-main est une main de cartes que tout le monde peut utiliser pour réaliser des Matchs avec les cartes de la pyramide.
+Toutes les cartes données restent face cachée jusqu'à ce que chacun·e ait placé une carte dans l'Alta-main.
+Retournez-les ensuite pour révéler les cartes de l'Alta-main.
+Ces cartes restent face visible pour le reste de la partie.
+*À 2 ou 3 joueur·euse·s, piochez aussi la première carte de la pioche et ajoutez-la à l'Alta-main.*
+
+
+== Déroulement de la partie
+
+La personne qui a donné le plus grand nombre à l'Alta-main commence.
+En cas d'égalité, la personne ex aequo la plus proche de la gauche de la donneuse ou du donneur commence.
+À votre tour, suivez cet ordre de jeu :
+
+1. Échangez une carte.
+2. Réalisez un Match.
+3. Retirez les cartes du Match.
+4. Révélez des cartes de la pyramide.
+5. Recevez les récompenses d'Ultimatch.
+
+Vous pouvez discuter de la manière d'utiliser les cartes de l'Alta-main pour réaliser des Matchs avec les cartes de la pyramide, mais vous ne pouvez ni montrer les cartes de votre main, ni en parler.
+
+
+=== Échangez une carte
+
+Tout le monde regarde sa main pour voir si une carte pourrait aider la personne dont c'est le tour.
+Si c'est le cas, présentez cette carte face cachée vers cette personne.
+Les échanges sont silencieux.
+Vous pouvez indiquer la force ou la nature de votre carte par des expressions du visage, votre langage corporel, des gestes, ou la manière dont vous posez la carte devant vous.
+La personne dont c'est le tour peut choisir 1 personne avec qui échanger, et lui donner 1 de ses cartes face cachée en échange.
+La personne dont c'est le tour ne peut pas regarder la carte proposée avant que l'échange soit fait.
+Les deux personnes ajoutent ensuite la carte reçue à leur main.
+(Une personne qui n'a plus de cartes peut tout de même recevoir une carte, sans échange.)
+
+
+=== Réalisez un Match
+
+Jouez 1 ou 2 cartes de votre main et/ou de l'Alta-main pour correspondre à 1 des cartes face visible de la pyramide.
+Il y a plusieurs manières de *réaliser un Match* :
+
+* Jouez 1 carte qui a :
+** le même nombre,
+** ou la même couleur.
+
+*OU*
+
+* Jouez 2 cartes (pas plus) qui ont :
+** des nombres dont la *somme* est le nombre d'une carte face visible de la pyramide (peu importe leurs couleurs),
+** ou des nombres dont la *différence* est le nombre d'une carte face visible de la pyramide (peu importe leurs couleurs),
+** ou des couleurs primaires qui se mélangent pour donner la couleur secondaire d'une carte face visible de la pyramide (peu importe leurs nombres).
++
+TIP: ♦ = ♠ + ♣, ✿ = ♠ + ♥ et ⎈ = ♥ + ♣.
+
+Vous devez réaliser un Match à votre tour si vous le pouvez.
+Cependant, si les seuls Matchs possibles n'utilisent que des cartes de l'Alta-main, vous pouvez passer.
+
+*Ultimatch !*
+Si vous faites correspondre à la fois la couleur ET le nombre d'une carte face visible de la pyramide, vous avez réalisé un Ultimatch !
+À la fin de votre tour, vous pouvez alors piocher 2 cartes, en ajouter 1 à votre main et 1 à l'Alta-main.
+(Vous pouvez réaliser un Ultimatch sur une carte de couleur secondaire avec 2 cartes de cette même couleur secondaire, ou avec 2 cartes des couleurs primaires qui la forment.
+Dans les deux cas, la somme ou la différence des nombres des cartes doit être le nombre de la carte de la pyramide.)
+
+NOTE: Les couleurs primaires se mélangent de la même façon, que vous additionniez ou soustrayiez les nombres.
+
+*Si vous ne pouvez pas réaliser de Match, vous devez passer.*
+*Piochez 1 carte et terminez votre tour.*
+*Si tout le monde passe à la suite, la partie se termine par une défaite.*
+Si la pioche est vide et que quelqu'un doit piocher, mélangez la défausse pour former une nouvelle pioche.
+
+
+=== Retirez les cartes du Match
+
+Placez les cartes jouées pour réaliser le Match et la carte correspondante de la pyramide face visible dans la défausse, à côté de la pioche.
+
+
+=== Révélez des cartes de la pyramide
+
+Si des cartes de la pyramide ne sont plus chevauchées par aucune carte, retournez-les face visible : elles peuvent être utilisées pour des Matchs lors des prochains tours.
+
+
+=== Recevez les récompenses d'Ultimatch
+
+Si vous avez réalisé un Ultimatch à l'étape 2, piochez 2 cartes.
+Gardez-en 1 dans votre main, et placez l'autre face visible dans l'Alta-main.
+
+Le jeu continue avec la personne à votre gauche, qui suit le même ordre de jeu.
+
+
+== Fin de la partie
+
+La partie se termine par une victoire si la dernière carte de la pyramide est utilisée dans un Match.
+Si tout le monde passe à la suite, la partie se termine par une défaite.
+
+
+== Solitaire
+
+Formez une pyramide de 5 rangées et prenez une main de 13 cartes.
+En solo, il n'y a pas d'Alta-main, pas d'échange, et vous ne pouvez pas passer.
+
+À votre tour :
+
+1. Réalisez un Match.
+2. Retirez les cartes du Match.
+3. Révélez des cartes de la pyramide.
+4. Recevez les récompenses d'Ultimatch (en gardant les deux cartes dans votre main).
+
+Si vous ne pouvez pas réaliser de Match, vous perdez.
+Si vous utilisez la dernière carte de la pyramide dans un Match, vous gagnez.
+
+
+== Difficulté
+
+Pour une partie *plus facile*, ajoutez 1 ou 2 cartes de la pioche à l'Alta-main de départ, ou autorisez la personne dont c'est le tour à faire 2 échanges.
+
+Pour *plus de défi*, retirez au hasard 1 carte de l'Alta-main de départ, ou gardez les deux cartes de récompense d'un Ultimatch dans votre main (aucune n'est ajoutée à l'Alta-main).

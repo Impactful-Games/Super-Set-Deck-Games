@@ -1,0 +1,126 @@
+= Wizard
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 52 numbered cards: 1-13 in ♠, ♥, ♣ & ♦.
+* 4 Wolves.
+* 4 Butterflies.
+* Paper and a pencil to keep the score.
+****
+
+Wizard is a trick-taking game in which you try to predict exactly how many tricks you will win in each round.
+You score points when your prediction is correct, and the player with the most points at the end of the game wins.
+
+
+== Dealing
+
+To choose the first dealer, deal one card to each player: the highest card deals.
+
+In the first round, deal one card to each player: there is only one trick.
+In the second round, deal two cards to each player, three in the third round, and so on, until the last round, in which all the cards are dealt.
+Place the undealt cards face down in the middle of the table.
+After each round, the deal passes to the left, and the new dealer shuffles all 60 cards.
+
+
+== Trump
+
+After the deal, the dealer turns up the top undealt card: it determines the trump suit for the whole round.
+If it is a Butterfly, there is no trump in this round.
+If it is a Wolf, the dealer chooses one of the four suits as trump, after looking at their hand.
+In the last round, all the cards are dealt, so there is no trump.
+
+
+== Bidding
+
+After looking at their hand, each player in turn, starting with the player on the dealer's left, announces how many tricks they will win in this round (zero or one in the first round).
+The scorer, chosen at the start of the game, writes down each player's bid.
+The total of the bids may or may not equal the number of tricks available.
+
+
+== Playing a trick
+
+The player on the dealer's left leads the first trick: they may play any card.
+The other players then play a card in clockwise order, and must follow suit if they can.
+If you cannot follow suit, you may play any other suit, including the trump suit.
+You may play a Wolf or a Butterfly at any time, even if you can follow suit.
+
+The highest card wins the trick.
+Wolves are higher than all the other cards, trumps included.
+A trick is won:
+
+. by the first Wolf played;
+. if no Wolf was played, by the highest trump;
+. if no trump was played, by the highest card of the suit led.
+
+The winner of the trick leads the next one.
+
+
+=== Leading a Wolf or a Butterfly
+
+If the first card of a trick is a Wolf, it wins the trick, and the other players may play any card, including another Wolf or a Butterfly.
+
+If the first card of a trick is a Butterfly, the next card played may be of any suit, and it determines the suit to follow in this trick.
+Butterflies never win a trick.
+The only exception: if a trick holds only Butterflies, the first Butterfly played wins it.
+
+
+== Scoring
+
+If you predicted exactly the number of tricks you won, you score 2 points, plus 1 point for each trick you won.
+
+If your prediction is wrong, you lose 1 point for each trick of difference, whether you won more or fewer tricks than you predicted.
+
+
+== End of the game
+
+The deck holds 60 cards.
+Play continues until the round in which all the cards are dealt.
+So 3 players play 20 rounds, 4 players 15 rounds, 5 players 12 rounds, and 6 players 10 rounds.
+
+The player with the most points wins the game.
+
+
+== Keeping track of tricks
+
+Before play begins, the scorer announces how many tricks each player has bid.
+Each player keeps the tricks they won in plain view, for the others to see.
+Some players find it helpful to use coins or poker chips to show the number of tricks each player has bid.
+This lets everyone readily see how many tricks each player still needs.
+
+
+== Bidding variants
+
+=== Hidden bid
+
+All players reveal their bid at the same time: each player writes their bid on a piece of paper and hands it to the scorer, who keeps the bids secret until everyone has bid.
+This way, no player is influenced by the bids of the others.
+
+
+=== Delayed reveal bid
+
+Each player writes their bid on a piece of paper, placed face down in front of them.
+The bids are revealed only after the round has been played.
+
+
+=== Plus or minus one
+
+Each player announces their bid to the scorer, as in the base game.
+However, the total of the bids must differ from the number of tricks in the round, and no player may make a bid that breaks this rule.
+
+.Example
+====
+The round is played in five tricks, so the total of the bids must differ from 5.
+If the total of the bids already is 5 when the last player bids, this player may not bid 0.
+====
+
+
+=== Optional rule
+
+If the last player to bid has the highest score on the score sheet, they may not make a bid that makes the bids "even".
+The bids are "even" when their total equals the number of tricks available.
+This rule ensures that someone loses points in the round, since more or fewer tricks have been bid than are available.
+The rule does not apply when several players tie for the lead.

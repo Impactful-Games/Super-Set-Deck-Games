@@ -1,0 +1,164 @@
+= Nessos
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 55 game cards:
+** 40 numbered cards: 1-10 in ♠, ♥, ♣ & ♦.
+** 15 Animal cards: 6 Wolves, 4 Snakes, 4 Phoenixes & 1 Dragon.
+* 1 first player card: a Monkey.
+****
+
+During the whole game, the players must bluff in order to win the numbered cards.
+On your turn, offer a card to another player.
+They can accept it, or refuse it, or offer it to another player.
+Collect numbered cards in order to be the first to reach the number of points required.
+But be careful: if you get 3 Animal cards, you lose the game.
+
+The name of the game, Nessos, comes from an amphora showing a fight between Heracles and the Centaur Nessos.
+This amphora dates from the end of the 7th century BC, and is so famous that the artist who painted it, still unknown to this day, is called the Nessos Painter.
+
+[CAUTION]
+====
+The suits of the numbered cards do not matter: only their values count.
+All the Animal cards have the same effect.
+====
+
+
+== Setup
+
+1. Depending on the number of players, take the following cards out of the game cards:
+** With 3 players, leave out all the 4, 6 and 8 cards, and the 4 Phoenixes.
+** With 4 players, leave out all the 6 cards, and the Dragon.
+** With 5 or 6 players, play with all 55 game cards.
+
+2. Shuffle all the game cards and deal 5 cards to each player.
+
+3. Put the rest of the game cards in a pile, face down, in the center of the table: this is the draw pile.
+
+4. Choose the first player at random, and place the Monkey in front of them.
+
+
+== Playing the game
+
+The game is played in an undetermined number of rounds, until one of the three game-end conditions is met (see <<end-game>>).
+
+
+=== Playing a round
+
+The player who has the Monkey chooses a card from their hand and offers it by putting it face down in front of another player of their choice.
+
+*There are then several possibilities:*
+
+* If the card offered is a numbered card, you must say its number out loud, without lying.
++
+.Numbered card
+====
+If you offer ♣3 to another player, you must say "3" out loud.
+====
+
+* If the card offered is an Animal card, you can (and should) lie by saying out loud any number you wish.
++
+.Animal card
+====
+You offer a Snake to another player.
+You can say "7" out loud.
+====
+
+*The player who gets the card has 3 choices:*
+
+* They accept the card before looking at it, and then place it face up in front of them.
+* They refuse the card without looking at it.
+It returns to the player who offered it, who places it face up in front of themselves.
+* They add a card from their hand, face down, and offer the two cards to another player.
+They are only allowed to lie about Animal cards, by announcing the number they choose.
++
+*In this third case, the player who receives the two cards has the same choices:*
+
+** They accept the cards before looking at them, and then place them face up in front of them.
+** They refuse the cards without looking at them.
+The two cards return to the player who offered them, who places them face up in front of themselves.
+** They add a card from their hand, face down, and offer the three cards to another player.
+They are only allowed to lie about Animal cards, by announcing the number they choose.
++
+You cannot offer the cards to a player who has already been offered cards in this round, nor to the player who has the Monkey.
++
+*In this third case, the player who receives the three cards only has two choices:*
+
+*** They accept the cards before looking at them, and then place them face up in front of them.
+*** They refuse the cards without looking at them.
+The three cards return to the player who offered them, who places them face up in front of themselves.
+
+
+[#end-round]
+=== End of a round
+
+As soon as a player turns cards face up in front of them, the round ends.
+
+*It is possible to turn over 1, 2 or 3 cards at the same time, depending on the situation.*
+
+* The numbered cards face up in front of you bring you closer to victory.
++
+Add their values to those of the cards you won before (see also <<bonus>>).
+If you reach the number of points required for the number of players, go to <<end-game>>.
++
+[%autowidth]
+|===
+| Number of players | Number of points required
+
+| 3 | 40
+| 4 | 40
+| 5 | 35
+| 6 | 30
+|===
+
+* The Animal cards in front of you bring you closer to defeat.
++
+If you have three Animal cards in front of you, you are sent to Hell.
+You lose immediately (even before you can claim the victory) and are eliminated.
+In other words, you lose whatever your score: if you die while reaching the number of points required, too bad for you.
+Leave the cards you won face up in front of you.
+The cards in your hand stay hidden.
+
+If only one player remains, or if a total of 9 Animal cards are face up in front of the players, go to <<end-game>>.
+
+*If no game-end condition is met, take the following steps:*
+
+* All players with fewer than 5 cards in their hand draw as many cards as necessary to have 5 cards.
+* Pass the Monkey to the player on the left of the first player.
+This new first player starts a new round.
+
+
+[#bonus]
+=== Bonus of the 1, 2 and 3 cards
+
+The 1, 2 and 3 cards may seem insignificant because their values are low.
+However, having a 1 card, a 2 card and a 3 card in front of you gives you 10 bonus points.
+You may get this bonus several times if you own several sets of these cards.
+
+.Points
+====
+You have these cards face up in front of you: ♦1, ♣2, ♦3, ♥3, ♥5 & ♠5.
+You have a total of 29 points: 19 points for the sum of the card values, and 10 points for the 1, 2 and 3 cards.
+====
+
+
+[#end-game]
+== End of the game
+
+*The game may end in three different ways:*
+
+* *The sum of the card values of a player reaches or exceeds the number of points required* (see <<end-round>>).
+They are the Chosen One of the gods, and will forever remain the most famous of mortals.
+This player wins the game.
+
+* After a player is eliminated, *only one player remains in the game*.
+This player wins the game.
+
+* When a total of *9 Animal cards* are face up on the table, the game ends.
+The player who has the most points wins the game.
+If there is a tie among the leading players, the winner is the one who has the most cards in front of them.
+If there is still a tie, the tied players share the victory.

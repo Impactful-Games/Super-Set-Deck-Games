@@ -1,0 +1,113 @@
+= Stick'em “Hat Trick”
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 54 numbered cards: 1-18 in ♠, ♥ & ♣.
+* 6 figures: Q & K in ♠, ♥ & ♣.
+* With 7 players, 3 more numbered cards: 0 in ♠, ♥ & ♣.
+****
+
+Each player tries to collect as many cards as possible in only one suit, and to avoid the cards of the other suits.
+The cards of one suit count one point per card.
+The cards of the other suits count one negative point per card.
+The player with the most points wins.
+
+
+== Setup
+
+* *With 4 to 6 players*: use all the cards except the 0s.
+A player shuffles the cards and deals them out evenly to all players: 15 cards each with four players, 12 cards each with five players, and 10 cards each with six players.
+* *With 7 players*: use all the cards.
+Each player then gets 9 cards.
+
+[IMPORTANT]
+====
+* The Q cards are worth *19*.
+* The K cards are worth *20*.
+====
+
+
+== Playing the game
+
+The starting player begins by leading a card from their hand to the center of the table.
+This begins a trick.
+In turn, the other players add a card either of the suit played first, or of a second suit.
+With the second suit, a second trick is begun.
+Thus, a double trick develops.
+
+IMPORTANT: At most two suits can be played in a double trick.
+
+The player who played the card with the highest value wins the trick.
+With a double trick, each suit is won as a separate trick.
+The trick winners take their tricks and place their cards in face-up piles, separated by suit.
+Thus, everyone sees who has collected which suit.
+
+.Double trick
+====
+[%autowidth,grid=none,frame=none,cols="^,^,^,^,^"]
+|===
+| Axel | Lore | Uli | Doris | Birgit
+| ♥10  | ♠13  | ♥11 | ♥3    | ♠18
+|===
+Uli wins the ♥ trick and receives three ♥ cards.
+Birgit wins the ♠ trick and receives two ♠ cards.
+====
+
+The winner of the previous trick leads the next trick.
+If the trick was a double trick, whichever winner won with the highest card leads.
+If there is a tie, the player who won the second, third, or fourth highest card leads.
+If there is still a tie, it is broken by the suit order: ♠, ♥, ♣.
+
+
+=== The rules of the tricks
+
+* In a double trick, there may be at most two suits.
+* The K, as the highest card, always wins a trick.
+* A single card is considered a trick.
+* Each player may overbid the highest card or play a lower card.
+
+
+=== Passing
+
+If a player cannot, or does not wish to, play one of the two suits of the double trick, they must pass.
+They must show all the other players any card of the third suit, and put it face down in front of themselves.
+Passing is only possible if two suits have already been played in the trick.
+
+
+=== Scoring
+
+All the cards are played out in successive tricks, up to the final card.
+
+IMPORTANT: The last card is not played.
+It is put aside and not scored.
+
+Each player now has up to three face-up piles in front of them, and possibly face-down cards, if they passed during play.
+Each player counts their cards of each suit.
+The suit of which they have the most cards scores one positive point per card.
+If there is a tie between two or three suits, the player chooses one suit to count as positive points.
+All the cards of the other suits count one negative point per card.
+Face-down cards, from passing during play, count two negative points each, regardless of their suit.
+
+.Scoring
+====
+Axel has nine ♥ cards, two ♠ cards, four ♣ cards and a face-down card.
+Axel's score is stem:[9 - 2 - 4 - 2 = 1] point.
+====
+
+
+=== The next round
+
+After all the scores are tallied, the next round begins.
+A player shuffles all the cards together and deals them evenly to all the players, as before.
+The player to the left of the dealer leads the first card, and play continues as described before.
+
+
+== End of the game
+
+The game ends after five rounds.
+The player with the most points wins.
+If all players have negative points, the player with the fewest negative points wins.

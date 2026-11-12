@@ -1,0 +1,11 @@
+bggId: 221965
+authors: Joshua Buergel
+type:
+  - Trick Taking
+players: 2
+cards:
+  Base:
+    all-players:
+      spades: 1-11
+      hearts: 1-11
+      clubs: 1-11

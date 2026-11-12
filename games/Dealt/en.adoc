@@ -1,0 +1,169 @@
+= Dealt!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 48 number cards: 1-12 in ♠, ♥, ♣ & ♦.
+* 6 special cards: 2 Butterflies, 2 Monkeys & 2 Wolves.
+* Paper and a pencil to keep the penalty points.
+****
+
+All of you are trying to play your cards as quickly as possible by outbidding the other players' combinations.
+You may play one, two or three cards each time, but only if they are next to each other in your hand!
+
+Once you get rid of all your cards, you are safe: the last player who still has cards gets a penalty point, and the first player with three penalty points loses the game!
+If you fancy a longer game, you can play up to 4 penalty points.
+
+
+[#setup]
+== Setup
+
+The oldest player shuffles all the cards and deals *10 cards* to each player (*7 cards* with 5 players).
+
+[CAUTION]
+====
+*This is the most important rule of the game!*
+Do not take your cards in hand until you have all ten (or seven) cards in front of you.
+Then pick them up and fan them out, but *do not* change their order.
+During the game, *no one* may change the order of the cards in their hand.
+====
+
+Once all the players have received their cards, the oldest player also deals two reserve cards face up in front of each player.
+Put the remaining cards in the middle of the table as a face-down draw pile.
+
+
+== Playing the game
+
+The game is played in several rounds, each made of several tricks.
+A round ends when a player gets a penalty point.
+The player to the left of the dealer opens the first trick.
+
+
+=== What is a trick?
+
+One after another, clockwise, each of you plays one card combination from your hand.
+A combination may include one, two or three cards, but *you can only play cards that are next to each other in your hand*.
+
+If you open a trick, you can play any card combination.
+The following players *must* outbid the last combination played.
+
+
+=== What does "outbid" mean?
+
+To outbid, you *must* play a card combination that ranks higher than the highest combination played so far: either the same combination with higher values, or a higher combination.
+
+*The card combinations rank in this order, from the lowest to the highest:*
+
+. *Solo*: a single card.
+. *2-straight*: two cards of consecutive values (for example 2 & 3).
+. *Pair*: two cards of the same value.
+. *3-straight*: three cards of consecutive values (for example 3, 4 & 5).
+. *Trips*: three cards of the same value.
+
+[IMPORTANT]
+====
+The two or three cards of your combination must be next to each other in your hand.
+Their order does not matter, however: 8-10-9 is just as good a 3-straight as 9-8-10 or 8-9-10.
+====
+
+.Example
+====
+Andy plays an 8 as a Solo. +
+Carla outbids the Solo by playing a 12. +
+Nico outbids it with a 2-straight, made of a 5 and a 4 that are *next to each other* in hand. +
+Susie outbids it with a higher 2-straight, made of a 5 and a 6.
+====
+
+
+=== When do the reserve cards come into play?
+
+If you cannot, or do not want to, outbid a combination, you *must* instead take *one* of your reserve cards in hand.
+You can place it anywhere you want in your hand.
+You may only take your own reserve cards, never those of other players.
+
+.Example
+====
+Susie plays a pair of 11s. +
+Andy outbids it with a 3-straight: 6, 7 & 8. +
+Carla cannot outbid it, and must take a reserve card.
+Carla chooses the 7 and places it next to a 6 in hand, to play both as a 2-straight in a later trick. +
+Nico cannot outbid it either, and takes a reserve card: the 12.
+====
+
+
+=== Who wins a trick?
+
+Once every player has either played a card combination *or* taken a reserve card, the trick ends.
+Put all the cards played in the trick on a common discard pile.
+The player who played the highest combination wins the trick and opens the next one.
+
+*Special case*: if the winner of the trick has no cards left in hand (reserve cards do not count), the player who played the second-highest combination opens the next trick.
+If the winner of the trick was the only player who played a combination, their right-hand neighbor opens the next trick.
+
+IMPORTANT: The point of the game is not to win tricks, but to get rid of the cards in your hand as fast as possible.
+
+
+=== The special cards
+
+*The Butterfly* can take any value from 1 to 12.
+You may play it on its own or as part of a combination.
+However, like any other card, it can only be part of a combination with the cards next to it in your hand.
+When you play a Butterfly, announce the value it takes.
+
+*The Monkey* can only be played on its own.
+It has no rank, so it does not need to outbid anything: you can play it whenever it is your turn.
+When you play a Monkey, you immediately end and win the trick, even if some players have not played yet.
+If you opened the trick with the Monkey and it was your last card, your right-hand neighbor opens the next trick.
+
+*The Wolf* can only be played on its own too.
+It has no rank, so you never need to outbid anyone to play it: you can always play it.
+The next player must then outbid the combination played before your Wolf, or take a reserve card.
+Both Wolves can be played in the same trick.
+If you win a trick that includes a Wolf, draw three cards from the draw pile (six cards if both Wolves were played), one at a time, and place each of them anywhere you want in your hand.
+
+.Example
+====
+Andy plays a 12 as a Solo. +
+Carla plays a 2-straight: 7 & 6. +
+Nico plays a 2-straight: 11 & 12. +
+Susie plays a Wolf. +
+Nico wins the trick.
+Because of Susie's Wolf, Nico must draw three cards from the draw pile, one at a time, and place them in hand.
+Then Nico opens the next trick.
+====
+
+If you open a trick with a Wolf, the next player can play any card combination or take a reserve card.
+If all the other players take a reserve card (or if one of them plays the other Wolf), you win the trick.
+
+If you win a trick that includes a Wolf, you must apply its effect and draw cards even if you had played your last card.
+You stay in the round with the cards you drew.
+
+
+=== End of a round
+
+If you have no cards left in hand at the end of a trick (your reserve cards do not count), you are out of the current round: you can no longer lose it!
+A round ends when only one player has cards left in hand at the end of a trick.
+A round also ends if, during a trick, a player cannot outbid the highest combination *and* has no reserve card left to take.
+In either case, that player loses the round and gets a penalty point.
+
+Several players may get a penalty point at the same time, at the end of a trick.
+This happens when all the players still in the round end up with no cards in hand after a trick.
+In this case, all the players who took part in this last trick get a penalty point, except its winner.
+
+
+=== The next round
+
+The oldest player shuffles all the cards again and deals them as explained in <<setup>>.
+The player who got the penalty point opens the first trick of the new round.
+If several players got a penalty point at the end of the last round, the oldest player opens the first trick of the new round.
+
+
+== End of the game
+
+When a player gets their 3rd penalty point (or their 4th in a longer game), they lose the game.
+If this happens to several players at the same time, they all lose.
+
+All the other players can consider themselves the lucky winners!

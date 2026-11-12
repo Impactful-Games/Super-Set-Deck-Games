@@ -1,0 +1,14 @@
+bggId: 406854
+authors: Gary Kim, Hope S. Hwang, Yohan Goh
+type:
+  - Ladder Climbing
+players: 2, 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-9
+      hearts: 1-9
+      clubs: 1-9
+      diamonds: 1-9
+      stars: 1-9
+      florettes: 1-9

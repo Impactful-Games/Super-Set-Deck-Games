@@ -1,0 +1,176 @@
+= Qwinto
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 32 cartes : 0-6 & S à ♠, ♥, ♣ & ★.
+* Une link:Qwinto-Board.pdf[feuille de score] et un crayon par joueur·euse.
+****
+
+À votre tour, posez une carte sur la grille au centre de la table, et annoncez la somme de trois cartes.
+Tout le monde peut alors inscrire cette somme sur sa feuille de score, dans une rangée de la bonne couleur.
+Remplissez vos rangées avec soin : la personne qui a le plus de points à la fin de la partie gagne.
+
+
+[#entering-numbers]
+== Inscrire des nombres
+
+*Seuls* les nombres *de 1 à 18* peuvent être inscrits sur les feuilles de score.
+Le zéro et les nombres négatifs ne peuvent *pas* être inscrits !
+
+Vous inscrivez les nombres dans les rangées de couleur dans l'ordre de votre choix.
+Vous pouvez par exemple d'abord inscrire un nombre à droite de la rangée ♥, puis au milieu de la rangée ♣, puis à gauche de la rangée ♣, puis tout à droite de la rangée ♠, puis à gauche de la rangée ♥, et ainsi de suite.
+
+Quand vous inscrivez des nombres, vous devez seulement respecter ces deux règles :
+
+1. *Dans une même rangée de couleur* (horizontalement), les nombres doivent être croissants de gauche à droite, et aucun nombre ne peut apparaître plus d'une fois dans la même rangée.
+Vous pouvez laisser autant de cases vides que vous voulez entre les nombres inscrits dans une rangée, et les remplir plus tard (avec des nombres adaptés).
+2. *Dans une même colonne* (verticalement), aucun nombre ne peut apparaître plus d'une fois : cela s'applique aux colonnes de 2 cases comme aux colonnes de 3 cases.
+L'ordre des nombres dans une colonne n'a pas d'importance.
+
+NOTE: Chaque rangée de couleur comporte une case blanche.
+N'inscrivez aucun nombre dans cette case : elle reste vide et ne sert à rien.
+Chacune des cinq colonnes de 3 cases comporte une case bonus en forme de pentagone.
+Si les trois cases de la colonne sont remplies, vous marquez le nombre de la case bonus en points de bonus.
+
+NOTE: Chacun·e peut voir à tout moment les feuilles des autres joueur·euse·s.
+
+
+[#setup]
+== Mise en place
+
+Mélangez les cartes.
+Distribuez *trois cartes* à chaque joueur·euse : c'est sa *main*.
+Posez *quatre cartes* face visible au centre de la table, en une *grille de 2 sur 2*.
+Placez les cartes restantes face cachée à côté de la grille : c'est la pioche.
+Tirez au sort le ou la premier·ère joueur·euse.
+
+
+== Déroulement de la partie
+
+=== Poser une carte
+
+À votre tour, vous devez poser *exactement une* carte de votre main, face visible, sur l'une des quatre cartes de la grille (voir <<playing-two-cards>> pour un cas particulier).
+La *carte posée* et ses deux cartes voisines déterminent le résultat du tour.
+Additionnez les trois nombres de ces cartes.
+
+IMPORTANT: Les cartes S valent -2 (moins deux).
+
+Puis annoncez clairement la somme.
+Annoncez aussi les couleurs des trois cartes.
+
+CAUTION: ★ n'est pas considérée comme une couleur dans ce jeu, et n'est jamais annoncée avec les couleurs.
+
+.Poser une carte
+====
+.Avant
+[%autowidth]
+|===
+| 2♠ | 3♥
+| 3★ | 5♣
+|===
+
+Tim pose le 4♠ sur le 5♣, en bas à droite.
+
+.Après
+[%autowidth]
+|===
+| 2♠ | 3♥
+| 3★ | 4♠
+|===
+
+Le 4♠ et ses deux cartes voisines sont additionnés : stem:[4 + 3 + 3 = 10].
+Les trois cartes sont des couleurs ♠ et ♥ (★ ne compte pas).
+Tim annonce : « Un 10 à ♠ ou à ♥. »
+====
+
+
+[#playing-two-cards]
+=== Poser deux cartes
+
+À votre tour, si vous avez deux cartes de *même valeur* en main, vous pouvez poser ces deux cartes *directement l'une après l'autre*.
+Posez d'abord l'une de ces cartes sur n'importe quelle carte de la grille, puis l'autre sur l'une de ses cartes *voisines*.
+La *dernière carte posée* détermine le résultat du tour, exactement comme décrit ci-dessus : additionnez sa valeur et celles de ses deux cartes voisines, et annoncez la somme.
+
+NOTE: Vous ne pouvez jamais poser plus de deux cartes à votre tour.
+
+.Poser deux cartes
+====
+.Avant
+[%autowidth]
+|===
+| 2♠ | 3♥
+| 3★ | 4♠
+|===
+
+Sarah a deux cartes de valeur 1 en main.
+Sarah pose d'abord le 1♣ sur le 3★, en bas à gauche de la grille.
+Puis, Sarah pose le 1♠ sur le 2♠.
+
+.Après
+[%autowidth]
+|===
+| 1♠ | 3♥
+| 1♣ | 4♠
+|===
+
+Le 1♠ et ses deux cartes voisines sont additionnés : stem:[1 + 1 + 3 = 5].
+Les trois cartes sont des couleurs ♠, ♥ et ♣.
+Sarah annonce : « Un 5 à ♠, à ♥ ou à ♣. »
+====
+
+
+=== Inscrire la somme
+
+*Tout le monde* peut alors (sans y être obligé) inscrire la somme annoncée dans *exactement une case* de sa feuille de score.
+La somme ne peut être inscrite que dans une rangée dont la couleur est l'une des couleurs des trois cartes (★ ne compte pas).
+Tant que vous respectez les règles d'inscription (voir <<entering-numbers>>), vous choisissez librement où inscrire le nombre.
+
+
+=== Coups manqués
+
+Si la personne dont c'est le tour ne peut pas ou ne veut pas inscrire la somme annoncée, elle doit cocher un coup manqué sur sa feuille de score.
+Si ce n'est pas votre tour, vous ne cochez jamais de coup manqué.
+
+NOTE: À votre tour, si vous posez une carte ★ et que ses deux cartes voisines sont aussi des ★, personne ne peut rien inscrire à ce tour, et vous devez cocher un coup manqué.
+Il en va de même si la somme est égale à 0 ou négative.
+
+
+=== Fin du tour
+
+Piochez ensuite une carte (ou deux, si vous avez posé deux cartes), pour avoir de nouveau trois cartes en main.
+C'est alors à la personne suivante, dans le sens des aiguilles d'une montre, de jouer son tour comme décrit ci-dessus.
+Le jeu continue ainsi dans le sens des aiguilles d'une montre.
+
+NOTE: Quand la pioche est épuisée, mélangez toutes les cartes de la grille, en ne laissant que la carte du dessus de chaque position de la grille, et utilisez-les comme nouvelle pioche.
+
+
+== Fin de la partie et décompte
+
+La partie se termine quand une personne a entièrement rempli *deux rangées de couleur*.
+La partie se termine aussi quand quelqu'un a coché son *quatrième coup manqué*.
+
+D'abord, chacun·e marque les points de chacune de ses trois rangées de couleur :
+
+* Si une rangée de couleur comporte des *cases vides*, chaque nombre inscrit dans cette rangée rapporte 1 point.
+* Si une rangée de couleur ne comporte *aucune case vide*, le nombre inscrit tout à droite de la rangée rapporte autant de points.
+
+Puis chacun·e marque les points de bonus des cinq colonnes (verticales) *de 3 cases* :
+
+* Si une colonne comporte des *cases vides*, elle ne rapporte aucun point de bonus.
+* Si les trois cases de la colonne *sont remplies*, le nombre de sa case bonus en forme de pentagone rapporte autant de points de bonus.
+
+Additionnez les points des trois rangées de couleur et les points de bonus.
+Soustrayez de cette somme 5 points par coup manqué.
+La personne qui a le plus de points gagne.
+
+
+== Partie en solo
+
+Toutes les règles restent exactement les mêmes.
+Cependant, dans cette partie, la pioche n'est jouée qu'**une seule** fois, et n'est pas remélangée.
+La partie se termine comme décrit ci-dessus, ou quand vous avez joué toutes les cartes (y compris celles de votre main).

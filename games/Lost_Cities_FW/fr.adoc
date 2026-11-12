@@ -1,0 +1,245 @@
+= Lost Cities: Flip & Write
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 60 cartes numérotées : 1-10 à ♠, ♥, ♣, ♦, ✿ & ★.
+* 1 Singe : la carte de premier·ère joueur·euse.
+* Une link:Lost_Cities_FW-Board.pdf[feuille de jeu] et un crayon par joueur·euse.
+****
+
+Partez à la chasse aux points dans la jungle !
+Une personne révèle quatre cartes, en choisit deux comme résultat, et l'inscrit sur sa feuille de jeu.
+Les autres choisissent également un résultat parmi les cartes restantes, et l'inscrivent sur leur feuille.
+Les nombres doivent être inscrits par ordre croissant.
+Celles et ceux qui tombent sur des cases d'accélération ou trouvent des gemmes ont de la chance.
+Si vous ne pouvez pas ou ne voulez pas inscrire de résultat, vous pouvez utiliser vos passes.
+Mais pas trop souvent, car vous voulez progresser le plus possible pour finir avec le plus de points.
+
+
+== La feuille de jeu
+
+. *Expéditions :* +
+La feuille de jeu présente six expéditions, qui vont du bas vers le haut.
+Chacune des six expéditions a sa propre couleur, correspondant à l'une des six couleurs des cartes.
+L'expédition la plus à gauche est ♠, la suivante ♥, puis ♣, ♦, ✿ et ★.
+
+. *Gemmes et passes :* +
+Le côté droit de la feuille de jeu présente une colonne de gemmes et, à côté, une colonne de symboles de passe.
+
+. *Hexagones de score :* +
+À plusieurs endroits de la feuille, de petits hexagones indiquent les points du décompte :
+.. à gauche, pour les six expéditions (de -50 à 50) ;
+.. à droite, pour les gemmes et les symboles de passe (de -40 à 100, et 0) ;
+.. une ligne de bonus (de 20 points), dans le tiers supérieur de la feuille.
+
+. *Hexagones de score vides :* +
+À la fin de la partie, inscrivez vos points dans les hexagones vides en haut de la feuille de jeu.
+Les points sont marqués pour les six expéditions, la colonne des gemmes et la colonne des passes.
+Dans le grand hexagone vide en haut à droite, inscrivez votre nom et votre score total.
+
+. *Cercle de points doublés :* +
+Si vous entourez le symbole ×2 au bas d'une expédition, les points de cette expédition sont doublés.
+
+
+== Mise en place
+
+Chacun·e reçoit une link:Lost_Cities_FW-Board.pdf[*feuille de jeu*].
+
+Placez votre feuille de jeu devant vous, de façon que tous les autres puissent facilement la voir pendant la partie.
+
+Donnez le Singe, la carte de premier·ère joueur·euse, à la personne la plus aventurière (ou, en cas de doute, à la dernière personne partie en randonnée).
+Elle joue le premier tour.
+
+Mélangez les cartes, et formez une pioche de 24 cartes au hasard.
+Mettez les autres cartes de côté sans les regarder.
+
+Chaque joueur·euse a besoin d'un crayon.
+
+
+== Déroulement de la partie
+
+Le jeu se poursuit dans le sens horaire à partir de la personne qui a le Singe.
+
+
+=== Révélez les cartes et choisissez
+
+À votre tour, révélez quatre cartes de la pioche et placez-les au centre de la table.
+
+* Parmi les quatre cartes, choisissez-en une pour sa couleur et une pour sa valeur, et placez-les devant vous.
+Vous *ne pouvez pas* utiliser la même carte pour la couleur et pour la valeur.
+
+* Les deux cartes restantes restent au centre de la table, à la disposition de tous les autres.
+** Chacun·e des autres peut choisir une combinaison d'une couleur et d'une valeur parmi les deux cartes du centre de la table.
+Elles et ils *peuvent* utiliser la même carte pour la couleur et pour la valeur.
+Laissez les deux cartes au centre.
+Ne les déplacez pas.
+** Plusieurs personnes peuvent choisir la même combinaison.
+
+Chaque joueur·euse inscrit la combinaison de couleur et de valeur choisie sur sa feuille de jeu, comme décrit dans <<lead-expeditions>>.
+
+
+==== Refuser la pioche
+
+* La personne qui a révélé les cartes peut refuser la pioche et ne choisir aucune combinaison.
+Dans ce cas, elle défausse l'une des quatre cartes (de son choix).
+Les trois cartes restantes restent au centre et sont à la disposition de tous les autres.
+
+* Tous les autres peuvent également refuser les deux ou trois cartes et ne choisir aucune combinaison (cela n'a aucun effet sur les cartes du centre de la table).
+
+Chaque personne qui refuse d'inscrire un résultat sur sa feuille de jeu doit le marquer sur sa feuille comme décrit dans <<refusing-cards>>.
+
+
+[#lead-expeditions]
+=== Mener les expéditions
+
+*Chaque expédition se remplit du bas vers le haut.*
+
+
+==== Symbole ×2 (points doublés)
+
+Si vous combinez *un 10 avec la couleur correspondante*, vous pouvez entourer le symbole « ×2 ».
+Pour utiliser le ×2, vous devez *l'entourer avant* de commencer une expédition dans la colonne de cette couleur.
+
+Vous pouvez commencer une expédition sans entourer le symbole ×2, mais vous ne pouvez plus l'entourer une fois l'expédition commencée.
+
+Si vous commencez une expédition sans utiliser le symbole ×2, barrez-le.
+
+*Si le symbole ×2 est entouré, les points de l'expédition sont doublés à la fin de la partie.*
+
+
+==== Cases d'expédition
+
+*Quand vous commencez ou continuez une expédition*, inscrivez les nombres dans les neuf cases de l'expédition, l'un après l'autre (du bas vers le haut).
+Le plus petit nombre possible est « 1 ».
+
+*Chaque nombre doit être supérieur ou égal au précédent.*
+
+TIP: C'est bien sûr une bonne idée de commencer petit et d'éviter les trop grands sauts.
+Vous aurez ainsi autant de nombres que possible parmi lesquels choisir plus tard.
+
+
+==== Cases d'accélération
+
+Si vous inscrivez un nombre dans une case avec une flèche, vous pouvez accélérer l'une de vos expéditions, au choix.
+Pour accélérer, inscrivez à nouveau le même nombre dans la case suivante de l'expédition choisie.
+(Par exemple, si le plus grand nombre de l'expédition que vous avez choisi d'accélérer est un 2, inscrivez un 2 dans la case au-dessus.)
+Si cette case est aussi une case d'accélération, vous pouvez accélérer à nouveau.
+Vous ne pouvez cependant pas utiliser une accélération pour entourer un symbole ×2.
+
+TIP: Vous pouvez utiliser une case d'accélération pour commencer une nouvelle expédition.
+Pour cela, inscrivez un 1 dans sa première case (et barrez son symbole ×2 s'il n'est pas déjà entouré).
+
+
+==== Cases de gemme
+
+Si vous inscrivez un nombre dans une case avec une gemme, entourez immédiatement une gemme sur le côté droit de votre feuille de jeu.
+Cela se fait aussi du bas vers le haut.
+Si vous avez déjà entouré toutes les gemmes de la colonne de droite, inscrire un nombre dans une case de gemme n'a plus d'effet.
+
+
+[#refusing-cards]
+==== Refuser les cartes
+
+Si vous refusez les cartes, vous devez entourer un symbole de passe sur le côté droit de votre feuille de jeu.
+Cela se fait aussi du bas vers le haut.
+
+Si vous avez déjà entouré les neuf symboles de passe, vous pouvez toujours refuser les cartes, sans autre effet.
+
+
+==== Ponts de bonus
+
+Si vous inscrivez un nombre dans la septième case d'une colonne, ou entourez la septième gemme ou le septième symbole de passe, vous avez franchi le pont de bonus correspondant, et vous devez l'annoncer immédiatement.
+
+Vous recevez *20 points de bonus*, mais seulement si vous êtes la *première personne à franchir ce pont de bonus*.
+Si plusieurs personnes franchissent ce pont au même tour, elles reçoivent toutes les 20 points de bonus.
+
+* Les personnes qui reçoivent le bonus entourent le « 20 » du pont correspondant.
+* Les personnes qui ne reçoivent pas le bonus pendant ce tour doivent barrer le pont correspondant sur leur feuille de jeu.
+
+[TIP]
+====
+*Recommandation : jouez dans l'ordre.*
+
+Dans la plupart des cas, les joueur·euse·s font leurs choix indépendamment et peuvent agir simultanément.
+Il arrive cependant que votre choix dépende de celui des autres (par exemple, pour des points de bonus).
+Dans ce cas, vous pouvez demander que les combinaisons soient choisies et inscrites sur les feuilles de jeu dans le sens horaire.
+
+Même en jouant simultanément, il vaut mieux annoncer votre choix à voix haute.
+
+Si vous atteignez des cases d'accélération, des gemmes ou des ponts, vous devriez aussi annoncer comment vous procédez.
+La personne suivante dans le sens horaire annonce alors son choix, l'inscrit sur sa feuille de jeu, et ainsi de suite.
+C'est la façon de jouer la plus passionnante, car chacun·e comprend les tours de ses adversaires.
+====
+
+
+=== Poursuivre la partie
+
+Défaussez les quatre cartes révélées.
+
+Si la pioche est maintenant vide, mélangez toutes les cartes, et formez une nouvelle pioche de 24 cartes au hasard.
+
+
+== Fin de la partie et décompte
+
+Si un·e joueur·euse entoure le neuvième (dernier) symbole de passe sur le côté droit de sa feuille de jeu, elle ou il est « épuisé·e ».
+Cette personne perd tous les points de cette colonne.
+Elle continue cependant à jouer.
+
+Une fois que vous avez entouré votre dernier symbole de passe, vous marquez 0 point pour cette colonne.
+
+*La fin de la partie est déclenchée quand, à la fin d'un tour :*
+
+* soit tous les joueur·euse·s sont « épuisé·e·s » ;
+* soit les huit ponts ont été franchis.
+Les ponts peuvent avoir été franchis par des personnes différentes.
+
+Continuez à jouer jusqu'à ce que chacun·e ait joué le même nombre de tours.
+
+CAUTION: Une fois la fin de la partie déclenchée, vous pouvez toujours refuser les cartes (comme avant), mais vous *n'entourez pas de symbole de passe* en le faisant.
+
+Après le dernier tour de la personne à droite de celle qui a le Singe, chacun·e calcule son score comme suit.
+
+
+=== Décompte des expéditions
+
+* Pour chacune de vos six expéditions, prenez le score indiqué sur le côté gauche de votre feuille de jeu.
+Il est déterminé par la case la plus haute de la colonne où un nombre est inscrit.
+
+* Si trois nombres ou moins sont inscrits dans une colonne, le score est négatif ; au-delà, il est positif.
+
+* Si le *symbole ×2 au début de l'expédition est entouré, le score est doublé* (positif ou négatif).
+
+* *Si une expédition n'a aucun nombre inscrit, elle rapporte 0 point.*
+
+* *Attention !*
+*Si vous avez entouré le symbole ×2 sans poursuivre l'expédition, vous marquez le double de -50, soit -100 points.*
+
+* Si vous avez entouré le pont de bonus, ajoutez 20 points à l'expédition.
+*Remarque : les points de bonus des ponts ne sont pas doublés.*
+
+* Inscrivez les points marqués dans les hexagones vides au-dessus des expéditions, en haut de la feuille de jeu.
+
+
+=== Décompte des gemmes et des passes
+
+* Pour vos colonnes de gemmes et de symboles de passe, prenez les points indiqués sur le côté droit de votre feuille de jeu, et inscrivez votre score dans l'hexagone vide au-dessus de chaque colonne, en haut de la feuille de jeu.
+
+* Une colonne complète de neuf gemmes entourées vaut 100 points.
+
+* Une colonne complète de neuf symboles de passe entourés vous rend « épuisé·e » et rapporte 0 point.
+Huit symboles de passe entourés rapportent en revanche 70 points.
+
+* Même si vous êtes « épuisé·e », les 20 points de bonus de la colonne des passes comptent toujours.
+
+
+=== Score total et victoire
+
+Chaque joueur·euse inscrit ses *points dans les hexagones en haut* de sa feuille de jeu.
+Inscrivez leur somme dans le grand hexagone en haut à droite de la feuille, avec le nom de la personne.
+La personne qui a le score le plus élevé l'emporte.
+En cas d'égalité pour le meilleur score, les personnes à égalité se partagent la victoire.

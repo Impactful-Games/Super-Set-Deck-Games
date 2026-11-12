@@ -1,0 +1,220 @@
+= Skull King
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 66 cartes :
+** 52 cartes de couleur : 1-13 à ♠, ♥, ♣ & ♦.
+** 5 Papillons.
+** 5 Loups.
+** 2 Serpents.
+** 1 Phénix.
+** 1 Singe.
+* Du papier et un crayon pour noter les annonces et les scores.
+****
+
+*Yo – Ho – Ho !*
+
+Batailles navales à coups de canons et de grappins ?
+Tu parles !
+En réalité, tout était beaucoup plus inoffensif !
+Les pirates respectables préféraient se livrer à des batailles de cartes sur les tables de jeu de minables tavernes.
+Qui arrive non seulement à piquer la majorité des plis à ses adversaires, mais aussi à les pronostiquer le plus précisément possible, ressort vainqueur de la compétition.
+
+
+== But du jeu
+
+Les pirates s’affrontent pendant 10 manches.
+À chacune d’elles, les joueur·euse·s annoncent le nombre de plis qu’ils et elles veulent réaliser au cours de la manche.
+Après quoi, il s’agit de réaliser exactement ce pronostic…
+
+Qui n’y arrive pas, parce qu’il ou elle fait trop ou pas assez de plis, perd à la fois gloire et prestige.
+Pronostiquer zéro pli peut s’avérer lucratif.
+Mais c’est aussi très risqué…
+
+Lors de la première manche, chacun·e ne dispose que d’une seule carte ; à chaque manche suivante, une carte supplémentaire s’y ajoute.
+Au cours de chaque manche, les joueur·euse·s essaient d’accumuler le plus de points possible.
+La personne qui en a accumulé le plus à l’issue des 10 manches gagne.
+
+
+== Préparatifs et déroulement d’une manche
+
+Mélangez bien toutes les cartes.
+Distribuez-les ensuite face cachée à chaque joueur·euse.
+*Le nombre de cartes varie d’une manche à l’autre* : lors de la première manche, chaque joueur·euse ne reçoit qu’une seule carte, puis 2 cartes lors de la deuxième manche, et ainsi de suite, jusqu’à la dixième et dernière manche, où chacun·e en reçoit 10.
+Dans chaque manche, vous jouez autant de tours que vous avez de cartes en main.
+Par exemple, vous ne pouvez pas faire 5 plis avec quatre cartes en main, car il n’y aura que quatre tours.
+À chaque tour, chaque joueur·euse joue à son tour une carte face visible.
+Ces cartes forment un « pli ».
+
+Une fois les cartes distribuées, chaque joueur·euse regarde sa ou ses cartes et réfléchit au nombre de plis qu’il ou elle va pouvoir faire avec.
+Il vaut mieux enlever son bandeau pour ne rien perdre de vue !
+
+
+== Yo – Ho – Ho !
+
+Lorsque vous avez décidé du nombre de plis que vous allez faire, tendez le poing vers le centre de la table.
+Lorsque tous les pirates ont le poing tendu vers le centre de la table, ils et elles lancent ensemble leur cri de bataille *« YO – HO – HO »*, en frappant la table du poing à chaque syllabe.
+Au deuxième « HO », tout le monde ouvre le poing en même temps et montre avec ses doigts le nombre de plis qu’il ou elle pense faire au cours de la manche.
+
+NOTE: Si vous pensez pouvoir faire plus de cinq plis, montrez les cinq doigts de votre main et dites *simultanément*, à voix haute et de façon bien compréhensible, le nombre sur lequel vous misez.
+
+Notez l’annonce de chaque joueur·euse.
+
+
+=== C’est alors que la bataille commence
+
+La personne à gauche de celle qui a distribué les cartes entame le premier tour en jouant la première carte.
+Dans le sens des aiguilles d’une montre, les autres joueur·euse·s *doivent jouer la couleur demandée*, c’est-à-dire poser une carte de la même couleur.
+Qui ne le peut pas se défait d’une carte d’une autre couleur (et perd par conséquent le pli) ou d’un ♠ (pour ramasser le pli, dans la mesure du possible).
+
+Une fois que tout le monde a posé une carte, regardez à qui revient le pli.
+La personne qui le remporte le pose face cachée devant elle, à l’écart de ses autres plis (pour que tout le monde puisse bien voir le nombre de plis de chaque joueur·euse), puis joue la première carte du tour suivant.
+
+Une fois toutes les cartes jouées, la manche prend fin et les points sont notés.
+
+
+=== Quelles sont les cartes et à qui revient le pli ?
+
+Le pli revient toujours à la personne qui a joué la carte la plus haute.
+En général, il s’agit de la carte la plus haute de la couleur demandée.
+Si des cartes d’une autre couleur ont été jouées (parce que la personne n’avait pas la couleur demandée), leur valeur ne compte pas.
+*Exception* : ♠ est la couleur la plus haute, et elle a priorité sur toutes les autres couleurs, quelle que soit sa valeur.
+Toutes les autres couleurs ont la même valeur entre elles.
+
+.Pli
+====
+Le 2♦ est entamé, suivi du 12♦.
+N’ayant pas de ♦, les deux joueur·euse·s suivant·e·s posent le 13♥ et le 1♠.
+Le 1♠ remporte le pli, car ♠ est toujours la couleur la plus haute.
+Sans la carte ♠, le 12♦ aurait remporté le pli, car c’était la carte la plus haute de la couleur demandée (♦).
+====
+
+En principe, *vous devez jouer la couleur demandée*.
+Cependant, même si vous pouvez jouer cette couleur, vous pouvez *toujours* jouer l’une des *cartes spéciales* suivantes.
+
+
+== Cartes spéciales
+
+*Les cartes spéciales peuvent être jouées à tout moment !*
+Même si vous pouvez jouer la couleur demandée !
+
+[NOTE]
+====
+* Si la première carte jouée est une carte spéciale, la première carte de couleur jouée ensuite détermine la couleur à suivre pour le reste du tour.
+* Si la première carte jouée est un ♠, une personne qui n’a pas de ♠ en main peut jouer une carte d’une autre couleur : elle n’est pas obligée de jouer un Loup.
+====
+
+
+=== Papillon
+
+Le Papillon vaut 0 : c’est toujours la carte la plus faible.
+Jouez-le pour éviter de faire un pli.
+
+NOTE: Si tout le monde joue un Papillon, le pli revient à la personne qui a joué *le premier Papillon*.
+
+
+=== Serpent
+
+Le Serpent est *plus fort que toutes les cartes de couleur* (♠ compris), mais il est battu par les Loups.
+Il est aussi plus fort que le Singe, qu’il empoisonne : si le Serpent est dans le même pli que le Singe, c’est toujours lui qui remporte le pli (quelles que soient les autres cartes du pli), et la personne qui l’a joué gagne en plus une prime.
+
+NOTE: Si 2 Serpents sont joués au cours d’un tour, le premier joué est le plus fort et remporte le pli.
+
+
+=== Loup
+
+Les Loups sont *plus forts que toutes les cartes de couleur* (quelles que soient leur couleur et leur valeur) et que les Serpents.
+Il n’y a que 3 façons de ne pas faire de pli avec un Loup :
+
+* il est joué après un autre Loup ;
+* il est battu par le Singe joué ensuite, ou il est joué après le Singe ;
+* il est battu par un Serpent joué dans le même pli que le Singe.
+
+NOTE: Si 2 Loups sont joués au cours d’un tour, le premier joué est le plus fort et remporte le pli.
+
+
+=== Phénix
+
+Le Phénix peut être joué soit comme un Loup, soit comme un Papillon.
+*En le jouant*, annoncez lequel des deux il représente.
+
+
+=== Singe
+
+Le Singe ne peut être *battu que par un Serpent*.
+Toutes les autres cartes sont plus faibles que le Singe.
+Si le pli remporté avec le Singe contient un Loup (le Phénix en fait partie, quelle que soit la façon dont il a été joué), la personne qui l’a remporté gagne une prime.
+
+
+== Décompte des points
+
+Si vous avez *pronostiqué correctement* votre nombre de plis, vous marquez *2 points par pli gagné*.
+
+.Pronostic réussi
+====
+David pronostique 3 plis et en fait bel et bien 3.
+David marque 6 points en tout.
+====
+
+Si vous faites plus ou moins de plis qu’annoncé, vous ne marquez *aucun point positif*, ni aucune prime.
+Vous *perdez 1 point pour chaque pli d’écart* avec votre pronostic.
+
+.Pronostic raté
+====
+Simon annonce 5 plis, mais n’en fait qu’un.
+La différence est de 4 plis.
+Simon perd donc 4 points.
+====
+
+IMPORTANT: Si vous annoncez *zéro pli* et n’en faites bel et bien aucun, vous marquez autant de points que le numéro de la manche en cours.
+
+.Zéro pli réussi
+====
+Lors de la manche 4, Éloïse annonce zéro pli.
+À la fin de la manche, Éloïse n’a fait aucun pli, et marque 4 points.
+====
+
+[IMPORTANT]
+====
+Si vous n’y arrivez pas et devez ramasser *un ou plusieurs plis*, vous perdez le même nombre de points.
+Pour un zéro pli raté, peu importe que vous ramassiez un pli ou, par exemple, trois.
+====
+
+.Zéro pli raté
+====
+Lors de la manche 9, David annonce zéro pli.
+Mais au cours de la manche, David doit ramasser deux plis, et perd donc 9 points.
+====
+
+CAUTION: Annoncer zéro pli est risqué : vous pouvez gagner beaucoup de points, mais aussi en perdre beaucoup.
+
+
+== Points de prime
+
+Les Serpents et le Singe permettent de gagner des points de prime.
+Cependant, vous ne *marquez ces primes que si vous faites exactement le nombre de plis annoncé*.
+Sinon, vous ne marquez aucune prime.
+
+* Si vous prenez un ou plusieurs Loups dans un pli remporté avec le *Singe*, vous marquez *une prime de 3 points pour chaque Loup du pli*.
+Pour cela, le Phénix compte toujours comme un Loup, même s’il a été joué comme un Papillon.
+* Si vous *prenez le Singe avec un Serpent* dans un pli, vous marquez *une prime de 5 points*.
+
+
+== La feuille de score
+
+Les plis annoncés et les points obtenus sont notés sur une feuille de papier.
+Cette tâche est à confier de préférence à un pirate sans crochet à la main.
+
+À l’issue d’une manche, une fois les points notés, remélangez toutes les cartes et distribuez-les pour la manche suivante.
+À chaque manche, le nombre de cartes distribuées augmente de 1.
+
+
+== Fin de la partie
+
+La partie s’achève après la 10^e^ manche.
+Le pirate qui a le plus de points a fait de bons pronostics, réussi ses plis et gagné la bataille.

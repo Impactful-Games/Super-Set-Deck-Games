@@ -1,0 +1,151 @@
+= Le Renard des Bois
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 33 cartes de jeu : 1-11 à ♠, ♥ & ♣.
+* Du papier et un crayon pour noter les scores.
+****
+
+Le Renard des Bois est un jeu de plis pour deux joueur·euse·s, qui jouent des cartes pour remporter des plis l'un·e contre l'autre au cours de plusieurs manches.
+Vous marquez des points pendant une manche en remportant des plis contenant certaines cartes, et à la fin de la manche en fonction du nombre de plis que vous avez remportés.
+La personne qui a le plus de points à la fin de la partie l'emporte.
+
+
+== Mise en place
+
+Une partie se joue en plusieurs manches.
+À chaque manche, l'un·e des joueur·euse·s distribue les cartes.
+Pour la première manche, tirez au sort la personne qui distribue ; ensuite, vous distribuez chacun·e votre tour.
+Au début d'une manche, la personne qui distribue effectue les actions suivantes :
+
+. Mélanger les *33 cartes de jeu*.
+. Distribuer à chaque joueur·euse une *main* de 13 cartes.
+Chacun·e peut regarder sa propre main, mais doit la cacher à son adversaire.
+. Mettre de côté les 7 cartes restantes face cachée pour former la *pioche*.
+. Retourner la première carte de la pioche et la placer face visible à côté de la pioche.
+Cette carte est appelée la *carte Décret*.
+Sa couleur sera importante pendant la manche.
+
+
+== Déroulement de la partie
+
+=== Déroulement d'une manche
+
+Une manche se compose d'une succession de 13 tours pour chaque joueur·euse, appelés *plis*.
+À chaque pli, chacun·e pose une carte de sa main face visible au centre de la table : l'un·e *ouvre* (c'est-à-dire joue la première carte du pli), puis l'autre *suit* (c'est-à-dire joue la seconde carte du pli).
+En fonction des deux cartes jouées, l'un·e des deux *remporte le pli*.
+
+
+=== Détail des plis
+
+*Ouvrir* :
+La personne qui n'a pas distribué ouvre le premier pli d'une manche.
+Ensuite, sauf indication contraire, la personne qui remporte un pli ouvre le pli suivant.
+Vous pouvez ouvrir avec n'importe quelle carte de votre main, sans restriction.
+La couleur de cette carte est la *couleur d'entame* du pli.
+
+*Suivre* :
+Après l'ouverture, l'autre joueur·euse doit jouer une carte de la couleur d'entame, si possible ; sauf indication contraire, cette carte peut être de n'importe quelle valeur dans cette couleur.
+Si vous n'avez pas de carte de la couleur d'entame, vous pouvez jouer n'importe quelle carte, sans restriction.
+
+*Déterminer qui remporte le pli* :
+Une fois les deux cartes jouées (et les éventuelles capacités activées, voir <<abilities>>), déterminez qui remporte le pli.
+En général, la carte de plus forte valeur dans la couleur d'entame remporte le pli.
+Cependant, la couleur de la carte Décret, appelée *couleur d'atout*, est considérée comme supérieure à la couleur d'entame :
+
+* Si l'une des cartes du pli est de la couleur d'atout, la personne qui a joué la plus forte carte de la couleur d'atout remporte le pli.
+* Si aucune carte du pli n'est de la couleur d'atout, la personne qui a joué la plus forte carte de la couleur d'entame remporte le pli.
+
+La personne qui remporte le pli prend les deux cartes et les garde face cachée de son côté de la table.
+Le nombre de plis remportés par chacun·e est une information publique, visible des deux joueur·euse·s pendant la manche.
+Cependant, personne ne peut regarder les cartes des plis déjà remportés.
+
+La personne qui remporte un pli ouvre le pli suivant, sauf indication contraire.
+Continuez à jouer des plis jusqu'à ce que les 13 plis aient été remportés.
+
+
+[#abilities]
+=== Capacités
+
+Toutes les cartes de valeur impaire (1, 3, 5, 7, 9 et 11) ont des capacités spéciales, qui s'activent lorsque la carte est jouée.
+Elles peuvent modifier ce que votre adversaire peut jouer, la façon de déterminer qui remporte le pli, ou qui ouvre le pli suivant ; elles peuvent vous permettre d'effectuer une action spéciale lorsque vous jouez la carte ; et elles peuvent rapporter des points à la personne qui remporte le pli.
+
+* *1* : Si vous jouez cette carte et perdez le pli, vous ouvrez le pli suivant.
+* *3* : Lorsque vous jouez cette carte, vous pouvez échanger la carte Décret avec une carte de votre main.
+* *5* : Lorsque vous jouez cette carte, piochez 1 carte, puis placez n'importe quelle carte de votre main face cachée sous la pioche.
+* *7* : Après le pli, la personne qui l'a remporté marque 1 point pour chaque 7 présent dans le pli.
+* *9* : Pour déterminer qui remporte un pli qui ne contient qu'un seul 9, considérez ce 9 comme s'il était de la couleur d'atout.
+* *11* : Lorsque vous ouvrez avec cette carte, si votre adversaire a une carte de cette couleur, il ou elle doit jouer soit le 1 de cette couleur, soit sa carte la plus forte de cette couleur.
+
+Voir l'<<appendix,annexe>> pour plus d'aide sur ces capacités.
+
+
+=== Décompte de fin de manche
+
+Une fois les 13 plis joués, comptez combien de plis chacun·e a remportés.
+Vous pouvez marquer des points à la fin de la manche, en fonction du nombre de plis remportés, comme indiqué dans le tableau ci-dessous.
+
+Vous voulez remporter plus de plis que votre adversaire, mais pas trop.
+
+[%autowidth, cols="^.^,^.^,^.^"]
+|===
+h| Plis h| Points h| Description
+| 0-3    | 6      | Humble
+| 4      | 1   .3+| Vaincu·e
+| 5      | 2
+| 6      | 3
+| 7-9    | 6      | Victorieux·se
+| 10-13  | 0      | Cupide
+|===
+
+Si vous vous montrez trop cupide, vous serez renversé·e, comme les méchant·e·s de tant de contes de fées !
+
+Après le décompte de fin de manche, si l'un·e des joueur·euse·s a au moins 21 points, la partie est terminée.
+Sinon, jouez une nouvelle manche, distribuée par la personne qui n'a pas distribué la manche en cours.
+
+
+== Fin de la partie
+
+Jouez des manches complètes jusqu'à ce que l'un·e des joueur·euse·s ait au moins 21 points.
+La personne qui a le plus de points l'emporte !
+En cas d'égalité, la personne qui a marqué le plus de points lors de la dernière manche l'emporte.
+
+*Durée de partie variable* :
+Pour une partie plus courte ou plus longue, vous pouvez convenir d'arrêter la partie à un autre nombre de points :
+
+* Pour une partie plus courte, nous vous recommandons de jouer des manches complètes jusqu'à ce que l'un·e des joueur·euse·s ait au moins 16 points.
+* Pour une partie plus longue, nous aimons jouer des manches complètes jusqu'à ce que l'un·e des joueur·euse·s ait au moins 35 points.
+
+
+[#appendix]
+== Annexe : questions courantes
+
+* *Quand les capacités du 3 et du 5 s'activent-elles ?* +
+Chacune de ces deux capacités s'active dès que la carte est jouée, avant qu'une autre carte ne soit jouée ou que l'on détermine qui remporte le pli.
++
+[NOTE]
+====
+Si la personne qui joue un 3 change la carte Décret, la couleur d'atout peut également changer.
+La nouvelle couleur d'atout sert à déterminer qui remporte le pli en cours.
+====
+
+* *Si mon adversaire ouvre avec un 9, dois-je suivre dans la couleur du 9 ou dans la couleur d'atout ?* +
+Vous devez suivre dans la couleur du 9 si vous le pouvez.
+Un 9 qui n'est pas de la couleur d'atout n'est considéré comme un atout qu'une fois les deux cartes du pli jouées selon les règles normales.
+
+* *Si mon adversaire ouvre avec une carte d'atout et que j'ai une carte d'atout, puis-je jouer un 9 qui n'est pas de la couleur d'atout ?* +
+Non.
+Un 9 qui n'est pas de la couleur d'atout n'est considéré comme un atout qu'une fois les deux cartes du pli jouées selon les règles normales.
+Si vous pouvez suivre avec une carte d'atout, vous ne pouvez pas jouer un 9 qui n'est pas de la couleur d'atout.
+
+* *Qui remporte un pli qui contient deux 9 ?* +
+La capacité du 9 ne s'applique que si le pli contient un seul 9.
+Si le 9 de la couleur d'atout a été joué, il remporte le pli ; sinon, c'est le 9 de la couleur d'entame qui le remporte.
+
+* *Qui ouvre le pli suivant après un pli qui contient deux 1 ?* +
+Si les deux joueur·euse·s jouent un 1, c'est la personne qui perd le pli qui ouvre le pli suivant.

@@ -1,0 +1,223 @@
+= Boast or Nothing
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 21 cartes numérotées : 1-7 à ♠, ♥ & ♣.
+* 6 cartes numérotées de plus à 4 ou 5 joueur·euse·s : 8 & 9 à ♠, ♥ & ♣.
+* 6 cartes numérotées de plus à 5 joueur·euse·s : 10 & 11 à ♠, ♥ & ♣.
+* 3 cartes Ordre des Couleurs : A à ♠, ♥ & ♣.
+* 2 Papillons (3 à 4 joueur·euse·s, 4 à 5 joueur·euse·s).
+* Du papier et un crayon pour noter les scores.
+****
+
+B.O.N - Le jeu de plis astucieux où la force de votre main change constamment !
+
+Bienvenue aux Championnats du monde de la vantardise !
+Les plus grand·e·s vantard·e·s du monde se sont réuni·e·s pour se disputer le titre.
+Il ne reste plus que quelques concurrent·e·s, et vous en faites partie !
+Gagnez, et profitez de boissons gratuites dans n’importe quel bar pour le restant de vos jours !
+Perdez, et retour à la ligue mineure de la vantardise.
+C’est parti pour la compétition !
+
+
+== Mise en place
+
+Mélangez les 3 cartes Ordre des Couleurs (les cartes A) et empilez-les dans un ordre aléatoire, en décalant chaque carte pour que les cartes du dessous restent visibles.
+Vous les utiliserez pour déterminer la force des couleurs pendant la partie.
+
+[%autowidth, cols="4*^"]
+|===
+h| Joueur·euse·s
+h| Cartes +
+utilisées
+h| Nombre de +
+Papillons
+h| Objectif de plis par +
+manche et par joueur·euse
+
+| 3 | 1-7 | 2 | 3
+| 4 | 1-9 | 3 | 2
+| 5 | 1-11 | 4 | 1
+|===
+
+Utilisez le tableau ci-dessus pour préparer le paquet.
+Mélangez les cartes et distribuez-en 7 à chaque joueur·euse.
+Posez les deux cartes restantes face visible sur le côté de la table.
+
+.Mise en place
+====
+Dans une partie à 3 joueur·euse·s, prenez les cartes 1 à 7 de chaque couleur et deux Papillons, et mélangez-les.
+Distribuez 7 cartes à chaque joueur·euse, puis posez les deux cartes restantes face visible sur le côté de la table.
+====
+
+
+== Déroulement de la partie
+
+B.O.N est un jeu de plis, comme la Dame de pique à laquelle vous jouiez sur votre ordinateur au bureau.
+Ou le whist que votre grand-mère vous a appris.
+Elle mettait aussi du sirop chaud sur vos crêpes ; c’était vraiment génial.
+
+Bref, B.O.N se joue en plusieurs manches.
+Les joueur·euse·s marquent des points à la fin de chaque manche.
+La première personne à marquer au moins autant de points qu’il y a de joueur·euse·s devient Champion·ne incontesté·e de la Vantardise, et peut toiser tout le monde pour l’éternité.
+
+Désignez la première personne à jouer par la méthode de votre choix.
+Nous vous suggérons de choisir la personne qui a bu une boisson alcoolisée le plus récemment.
+Si vous n’arrivez toujours pas à choisir, désignez celui ou celle qui propose de laver votre voiture.
+Ou organisez une bagarre générale en cage.
+Ou peu importe.
+Commencez la partie, à la fin.
+Pfff.
+
+L’heureux·se élu·e joue une carte de sa main, au choix.
+La couleur de cette carte détermine la Couleur Principale.
+
+Le jeu tourne toujours dans le sens des aiguilles d’une montre (parce que qui ferait un jeu de cartes qui tourne dans l’autre sens ? franchement…), et les joueur·euse·s suivant·e·s doivent jouer une carte de la Couleur Principale s’ils ou elles le peuvent.
+Si vous ne pouvez pas jouer la bonne couleur, vous pouvez jouer n’importe quelle carte de votre main.
+
+Si la première carte jouée est un Papillon, la première carte d’une couleur jouée détermine la Couleur Principale.
+Et puis pourquoi tu compliques toujours tout, Kevin ?
+
+Une fois que chacun·e a joué une carte (c’est ce qu’on appelle un Pli !), il est temps de déterminer la carte ayant la valeur la plus élevée.
+Une fois cette carte déterminée, la personne qui l’a jouée remporte le Pli et entame le Pli suivant.
+
+
+== Déterminer la carte la plus forte
+
+C’est la meilleure partie du jeu.
+Sérieusement.
+Soyez attentif·ve·s.
+
+OK.
+Si toutes les cartes jouées sont de la Couleur Principale, la carte ayant la valeur numérique la plus élevée l’emporte.
+Assez simple.
+
+Mais si une carte jouée n’est pas de la Couleur Principale, il est temps de consulter les cartes Ordre des Couleurs !
+Les cartes sont classées de la plus forte à la plus faible, de haut en bas.
+En haut, bien.
+En bas, pas bien.
+Au milieu… euh, au milieu.
+La carte ayant la valeur numérique la plus élevée dans la couleur la mieux classée parmi celles jouées remporte toujours le Pli.
+C’est clair ?
+Un petit exemple ?
+
+.Pli
+====
+Les cartes Ordre des Couleurs sont empilées de haut en bas : ♠, ♥, ♣.
+
+Guillaume entame avec 8♥.
+Léa suit avec 3♥.
+Julie joue 1♠.
+Grégoire joue 9♣.
+
+♥ est la Couleur Principale, et 8 est la carte la plus forte de cette couleur.
+Mais il y a des cartes d’autres couleurs, alors vérifions l’Ordre des Couleurs.
+♠ est en haut, donc n’importe quelle carte ♠, quelle que soit sa valeur numérique, bat toutes les cartes ♥ ou ♣.
+
+Grégoire a la valeur numérique la plus élevée du Pli, mais c’est un ♣.
+T’auras plus de chance la prochaine fois, Greg !
+Julie a joué 1♠, et même si c’est la valeur numérique la plus faible, ♠ est actuellement plus fort que les autres couleurs : elle remporte donc le Pli.
+Ramasse tout ça, Julie.
+C’est toi qui entames le Pli suivant.
+====
+
+La hiérarchie est donc la suivante :
+
+. la couleur des cartes, puis
+. la valeur numérique des cartes dans la couleur la plus forte jouée.
+
+Si ce n’est toujours pas clair, n’hésitez pas à nous contacter sur Instagram, Twitter ou Facebook pour nous dire à quel point on est nul·le·s pour expliquer des mécanismes simples par écrit.
+
+MAINTENANT !
+Voici la partie vraiment astucieuse de ce « Jeu de plis astucieux »…
+
+Prêt·e·s ?
+Chaque fois qu’une couleur remporte un Pli, sa carte Ordre des Couleurs est déplacée au bas de la pile.
+Cool, non ?
+
+.Changement de l’ordre des couleurs
+====
+Dans notre exemple ci-dessus, la carte ♠ passe donc en bas de la pile, et le nouvel ordre est ♥, ♣, ♠.
+Époustouflé·e·s ?
+On s’en doutait.
+====
+
+
+== Papillons
+
+« Tout ça, c’est super », dites-vous, « mais à quoi servent ces cartes Papillon ?
+Quel est le principe ? »
+
+Ravi·e·s que vous posiez la question.
+On y arrivait justement.
+Les cartes Papillon sont assez simples, en fait.
+Vous pouvez jouer un Papillon à tout moment, que vous ayez ou non des cartes de la Couleur Principale en main.
+Et les Papillons sont toujours les cartes les plus faibles d’un Pli.
+
+On vous entend déjà : « Mais, mais que se passe-t-il si tout le monde joue un Papillon ?
+Hein, que se passe-t-il ? »
+Regardez bien le tableau de mise en place.
+On attend.
+
+
+== Fin de la manche
+
+À la fin de chaque manche, les joueur·euse·s marquent des points en fonction des Plis remportés.
+Mais comme les juges des Championnats du monde de la vantardise sont un peu éméchés, le décompte est un peu bancal.
+
+Voici le nombre de Plis que chaque joueur·euse doit remporter selon le nombre de joueur·euse·s (au cas où vous l’auriez manqué dans le tableau de mise en place) :
+
+* 3 joueur·euse·s : 3 Plis.
+* 4 joueur·euse·s : 2 Plis.
+* 5 joueur·euse·s : 1 Pli.
+
+C’est compris ?
+Parfait.
+Donc, si vous jouez à 3, chaque joueur·euse qui remporte EXACTEMENT 3 Plis marque 1 point.
+2 Plis dans une partie à 4.
+Et 1 Pli dans une partie à 5.
+Ce n’est pas si compliqué !
+
+MAIS !
+Si vous ne remportez aucun Pli, quel que soit le nombre de joueur·euse·s, vous marquez 2 points.
+Parce que t’es trop cool : tu le sais, le public le sait, et les juges le savent très bien.
+Prends tes deux points, frimeur·euse.
+
+.Points
+====
+Dans une partie à 4 joueur·euse·s, si vous avez remporté :
+
+* 0 Pli : vous marquez 2 points.
+* 1 Pli : vous ne marquez aucun point.
+* 2 Plis : vous marquez 1 point.
+* 3 Plis ou plus : vous ne marquez aucun point.
+====
+
+La partie se termine lorsqu’un·e joueur·euse a marqué au moins autant de points qu’il y a de joueur·euse·s.
+Si plusieurs joueur·euse·s atteignent ce seuil en même temps, la personne à qui appartient ce jeu gagne.
+Non.
+Désolé·e·s.
+Pas ça.
+Si plusieurs joueur·euse·s atteignent ce seuil en même temps, celui ou celle qui a le plus de points gagne.
+
+En cas d’égalité, c’est celui ou celle qui a remporté le plus de cartes de la couleur la plus forte (la carte Ordre des Couleurs du haut de la pile) lors de la dernière manche qui gagne.
+Si l’égalité persiste, c’est celui ou celle qui a remporté le plus de cartes de la deuxième couleur la plus forte lors de la dernière manche qui gagne.
+Si l’égalité persiste encore, c’est clair, vous êtes des sosies, et l’un·e de vous deux a de gros ennuis.
+
+Maintenant, célébrez cette victoire avec un petit verre de votre alcool préféré.
+Et mettez-le sur leur ardoise.
+
+
+== Règle avancée
+
+Vous vous croyez malin·e, hein ?
+Vous vous dites : « Ce jeu n’a pas l’air si difficile.
+Je vais tous·tes les écraser ! »
+Si vous voulez corser un peu les choses pour vous et vos ami·e·s, essayez cette règle alternative :
+
+Une fois toutes les cartes distribuées, mettez de côté les deux cartes restantes face cachée au lieu de face visible.

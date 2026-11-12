@@ -1,0 +1,323 @@
+= Tichu
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 52 cartes numérotées : 2-10, J, Q, K & A à ♠, ♥, ♣ & ♦.
+* 4 cartes spéciales :
+** Le *1★*.
+** Le *Loup*.
+** Le *Phénix*.
+** Le *Dragon*.
+* Du papier et un crayon pour noter les scores.
+****
+
+Tichu est un jeu de défausse par équipes, que les auteurs ont appris dans les parcs et sur les places de Chine.
+Débarrassez-vous de vos cartes avant les autres, remportez les plis qui contiennent les cartes à points, et prenez des risques en annonçant « Tichu » : la première équipe à atteindre 1000 points l'emporte.
+
+
+== Tichu Nankin (4 joueur·euse·s)
+
+*Le jeu se joue par équipes de deux partenaires*, les partenaires de chaque équipe étant assis·e·s face à face.
+Pendant la partie, les partenaires s'efforcent de s'entraider pour marquer des points et prendre la main.
+
+
+=== Prise des cartes et dons
+
+Avant la partie, choisissez une personne qui mélange les cartes pour la première donne, et les présente à sa voisine ou son voisin de gauche, qui peut couper.
+Lors des donnes suivantes, la personne qui a remporté la donne précédente mélange les cartes et les fait couper.
+Elle place ensuite la pile de cartes face cachée au centre de la table.
+En Chine, on ne distribue pas les cartes : on les prend.
+La donneuse ou le donneur commence par prendre la carte du dessus de la pile.
+Puis chacun·e prend à son tour une carte, dans le sens inverse des aiguilles d'une montre, jusqu'à ce que la pile soit épuisée et que chacun·e ait un éventail de 14 cartes en main.
+Comme dans la plupart des jeux de cartes, gardez vos cartes secrètes, y compris pour votre partenaire.
+
+On passe ensuite aux dons : chaque joueur·euse donne 3 cartes, une à chacun·e des trois autres.
+Donnez les cartes face cachée : vous vous débarrassez ainsi de trois cartes qui ne vous intéressent pas, et en recevez trois autres en contrepartie.
+Vous ne pouvez ramasser les cartes qu'on vous donne qu'après avoir donné vos 3 cartes.
+
+
+=== Le jeu
+
+La personne qui a le 1★ commence en entamant (en posant face visible sur la table) l'une des combinaisons suivantes de sa main :
+
+[options="autowidth",frame=none,grid=none]
+|===
+| Combinaison | Exemple
+
+a| * Une carte isolée | 4
+a| * Une paire +
+(deux cartes de même valeur) | 8,8
+a| * Une suite de paires +
+de valeurs consécutives | 4,4,5,5 +
+J,J,Q,Q,K,K
+a| * Un brelan +
+(trois cartes de même valeur) | 2,2,2
+a| * Un full +
+(brelan + paire) | 5,5,5,9,9
+a| * Une suite d'au moins *cinq* cartes +
+de valeurs consécutives | 4,5,6,7,8,9
+|===
+
+La personne suivante (à droite : en Chine, on joue vers la droite, comme les Suisses et les Hopis) a alors le choix entre :
+
+* passer,
+* ou jouer une combinaison de même type, mais de valeur supérieure.
+
+Une carte isolée ne peut donc être battue que par une carte isolée plus forte, une suite de deux paires que par une suite de deux paires plus fortes, une suite de huit cartes que par une suite plus forte d'exactement huit cartes, et un full que par un full plus fort (comme au poker, c'est le brelan qui détermine la valeur d'un full).
+
+Exception : les bombes (voir plus loin).
+
+Le jeu continue vers la droite.
+Passer ne vous empêche pas de jouer plus tard dans le même pli, quand votre tour revient.
+Dès que 3 joueur·euse·s passent à la suite, la personne qui a joué la dernière combinaison (la plus forte) ramasse le pli et entame une nouvelle combinaison.
+Si cette personne n'a plus de cartes, elle est « sortie », et le droit d'entamer passe à sa voisine ou son voisin de droite (ou plus loin à droite si cette personne est aussi sortie).
+
+
+=== Cartes spéciales
+
+==== 1★
+
+Le 1★ est une carte intéressante, qui a autant d'avantages que d'inconvénients :
+
+* Son propriétaire commence la donne, mais n'est pas obligé d'entamer avec le 1★.
+* Le 1★ a une valeur de 1, et est donc la carte la plus faible du jeu.
+En tant que 1, il peut faire partie d'une suite (par exemple 1, 2, 3, 4, 5).
+* Quand vous jouez le 1★, vous pouvez faire un vœu : annoncez une valeur (par exemple un 8 ou un K, mais pas une carte spéciale).
+La prochaine personne qui a une carte de la valeur demandée, et peut la jouer en respectant les règles, doit la jouer (éventuellement dans une bombe, ou plus rarement dans une suite).
+Une personne qui n'a pas de carte de la valeur demandée, ou ne peut pas la jouer, peut passer ou jouer n'importe quelle combinaison autorisée.
+*Le vœu reste actif jusqu'à ce que quelqu'un le réalise, dans les plis suivants si nécessaire.*
+
+
+==== Loup
+
+Le fidèle Loup n'a aucune valeur, et ne peut être joué que seul, pour entamer un nouveau pli. +
+Le droit d'entamer passe alors au ou à la partenaire de la personne qui a joué le Loup.
+Si ce ou cette partenaire est déjà sorti·e, l'entame passe à sa voisine ou son voisin de droite.
+
+
+==== Phénix
+
+Le Phénix, aussi changeant que puissant, est la carte la plus forte du jeu, mais il vaut *moins 25 points*. +
+Il peut être joué :
+
+* comme joker : il peut remplacer n'importe quelle carte normale dans une combinaison, mais il ne peut pas faire partie d'une bombe ;
+* comme carte isolée : il vaut alors une demi-valeur de plus que la carte sur laquelle il est joué.
+Si un 8 est la carte la plus forte jouée, le Phénix vaut 8½, et peut être battu par un 9 ou plus.
+Le Phénix peut battre un A, mais pas le Dragon.
+S'il est joué pour entamer un pli, le Phénix vaut 1½.
+
+
+==== Dragon
+
+Le Dragon est la carte isolée la plus forte, et rapporte *25 points*. +
+Joué seul, il bat n'importe quelle autre carte isolée, même un A ou un « A½ » (le Phénix joué sur un A).
+Seule une bombe peut le battre.
+
+* En revanche, le Dragon ne peut pas faire partie d'une suite, ni d'aucune autre combinaison.
+* Si le Dragon remporte un pli, la personne qui l'a joué doit donner le pli (y compris les 25 points du Dragon) à l'adversaire de son choix.
+
+
+=== Bombes
+
+Une bombe est :
+
+* une suite d'au moins cinq cartes consécutives de la même couleur,
+* ou les quatre cartes d'une même valeur.
+
+Les bombes peuvent être jouées à tout moment, même en dehors de son tour, pour prendre un pli.
+Elles battent n'importe quoi, carte isolée ou combinaison.
+Une bombe plus forte bat une bombe plus faible : une bombe peut donc être jouée sur une bombe.
+La valeur d'une bombe dépend d'abord de son nombre de cartes, puis de la valeur de ses cartes : une bombe-suite bat donc toujours une bombe-carré.
+Vous pouvez même entamer un nouveau pli avec une bombe.
+
+
+=== Fin d'une manche
+
+La manche se termine immédiatement quand il ne reste des cartes en main qu'à une seule personne.
+
+La *dernière personne* à avoir des cartes en main :
+
+* donne les cartes qui lui restent en main à ses adversaires,
+* et donne les plis qu'elle a remportés à la personne qui gagne la manche (la première sortie).
+
+Chaque équipe compte ensuite les cartes de ses plis :
+
+* +10 par 10 et par K,
+* +5 par 5,
+* +25 pour le Dragon,
+* -25 pour le Phénix.
+
+Il y a donc 100 points en jeu, répartis entre les deux équipes.
+
+Si, en revanche, les deux joueur·euse·s d'une même équipe réalisent un doublé (en étant les *deux premier·ère·s* à ne plus avoir de cartes), la manche se termine immédiatement, on ne procède pas au décompte, et cette équipe marque *200 points*.
+
+
+=== Annonces
+
+Un Tichu permet de marquer encore plus de points, mais au prix d'un risque.
+
+
+==== Petit Tichu
+
+*Tant que vous n'avez pas joué votre première carte* d'une donne, vous pouvez annoncer « Petit Tichu ».
+Si vous gagnez alors la manche (en sortant en premier), votre équipe marque 100 points de bonus. +
+Si vous ne sortez pas en premier, votre équipe perd 100 points.
+
+Attention :
+
+* Le Tichu est une annonce individuelle.
+Les partenaires ne peuvent ni en discuter, ni s'arranger à l'avance.
+Une fois le Tichu annoncé, le ou la partenaire peut bien sûr jouer pour aider la personne qui l'a annoncé, mais les partenaires ne peuvent toujours pas discuter de stratégie pendant le jeu.
+Et la personne qui a annoncé le Tichu doit sortir première elle-même : si c'est son ou sa partenaire qui sort en premier, l'équipe perd les 100 points !
+* Les 100 points du Tichu s'ajoutent au score normal de la donne, indépendamment de celui-ci.
+* Vous pouvez annoncer le Tichu bien avant de jouer votre première carte, même avant le don des cartes.
+L'annoncer avant le don peut inciter votre partenaire à vous donner sa meilleure carte.
+
+
+==== Grand Tichu
+
+Bien sûr, s'il y a un Petit Tichu, il doit aussi y avoir un Grand Tichu.
+
+Une personne particulièrement courageuse ou désespérée peut annoncer « Grand Tichu » *avant de prendre sa neuvième carte* de la pile en début de donne.
+Il fonctionne exactement comme un Petit Tichu, mais il rapporte, ou fait perdre, 200 points.
+
+
+=== Fin de la partie
+
+L'équipe qui atteint (ou dépasse) un total de 1000 points à la fin d'une manche gagne la partie.
+Si les deux équipes atteignent 1000 points lors de la même manche, l'équipe qui a le plus de points l'emporte.
+En cas d'égalité, la partie continue jusqu'à ce qu'une équipe ait 1000 points ou plus à la fin d'une manche, sans égalité.
+
+
+=== Conseils tactiques
+
+Pour les conseils tactiques, le mieux est d'interroger un chauffeur de bus de Nankin.
+Au cas où vous n'en auriez pas sous la main, voici quelques modestes conseils tirés de notre petite expérience.
+
+Les bon·ne·s joueur·euse·s de Tichu :
+
+* Se débarrassent d'abord de leurs cartes les plus difficiles à jouer (cartes isolées et paires faibles), et économisent leurs A, leur Dragon et leurs bombes en début de donne.
+Une personne qui se retrouve avec un 5 isolé après une éblouissante démonstration de force a soit été victime d'une bombe inattendue, soit pas encore compris le jeu.
+* Soutiennent sans réserve le Tichu de leur partenaire.
+En jouant le 1★, ils ou elles ne demandent pas une carte qui risquerait de briser une bombe de leur partenaire, et ne prennent pas les plis de leur partenaire (c'est certes permis, mais probablement dangereux, sauf avec des cartes très faibles).
+* S'efforcent de faire chuter le Tichu d'un·e adversaire quand ils ou elles jouent juste avant cette personne, en lui faisant payer cher ses plis.
+* Gardent un œil sur le score.
+Si le score est, par exemple, de 630 à 970, un Grand Tichu ne demande qu'à être annoncé.
+
+
+=== Questions fréquentes
+
+* *Peut-on poser une bombe sur le Loup ?* +
+Non, les bombes ne permettent pas de prendre le Loup (ni le droit d'entamer).
+Les bombes ne peuvent être jouées (même en dehors de son tour) que sur une combinaison (ou une carte isolée) posée sur la table.
+Vous pouvez jouer une bombe sur votre propre pli, si vous y tenez vraiment.
+On ne peut donc pas jouer une bombe entre le moment où une personne joue le Loup et celui où son ou sa partenaire entame.
+Quand 3 joueur·euse·s ont passé à la suite, n'importe qui peut encore jouer une bombe avant que le pli soit ramassé.
+
+* *Quand une bombe peut-elle être jouée sur le 1★ ?* +
+Le mieux est de répondre par un exemple.
++
+====
+La personne 1 entame avec le 1★ et fait le vœu d'un 8.
+Entre les tours des personnes 1 et 2 (en dehors de leur tour), tout le monde (y compris les personnes 1 et 2) peut jouer une bombe, sans réaliser le vœu.
+
+Si la personne 2 a une main comme 3,4,5,6,7,8,9,10,J,Q,K,K,K,K, elle peut (avant son tour) jouer la bombe de K.
+Une fois que tous les autres ont passé, elle doit entamer le pli suivant (et réaliser le vœu) avec sa suite.
+Si quelqu'un d'autre avait une bombe-suite avec un 8, il ou elle devrait la jouer sur la bombe de K à son tour.
+====
+
+* *Quand doit-on réaliser le vœu du 1★ ?* +
+Lors de son tour ordinaire uniquement.
+On n'est pas obligé de réaliser le vœu du 1★ quand on joue une bombe en dehors de son tour.
+En revanche, si vous remportez le pli avec votre bombe, vous devez entamer le pli suivant et réaliser le vœu à ce moment-là, si vous le pouvez (voir aussi l'exemple ci-dessus).
+
+* *Le Dragon donne-t-il un pli remporté par une bombe ?* +
+Non.
+Comme le Dragon n'a pas remporté le pli, la personne qui l'a joué ne le donne pas.
+
+* *Dois-je utiliser le Phénix pour réaliser un vœu ?* +
+Oui, si vous avez une carte de la valeur demandée : la prochaine personne qui a une carte de la valeur demandée et peut la jouer en respectant les règles doit la jouer, même si elle doit pour cela jouer une bombe ou une suite de la bonne longueur avec le Phénix.
+Si vous n'avez pas de carte de la valeur demandée, vous n'êtes pas obligé·e de réaliser le vœu, même si vous avez le Phénix (qui n'est pas une carte de la valeur demandée, même s'il peut servir de joker).
+
+* *Qu'arrive-t-il au dernier pli de la donne (quand la troisième personne joue ses dernières cartes) ?* +
+Le pli se termine immédiatement, mais il est tout de même ramassé normalement, ou donné si le Dragon le remporte.
+
+* *Que se passe-t-il si deux personnes veulent jouer une bombe en même temps ?* +
+Cela arrive très rarement, et la solution est généralement évidente.
++
+Cela dit, si vous avez besoin d'une règle : Tichu n'est pas un jeu de réflexes, et jouer vite ne doit donner aucun avantage.
+Les bombes peuvent être jouées avant les combinaisons ordinaires, et plusieurs bombes peuvent être jouées dans l'ordre du tour.
+Mais si une personne décide de jouer le Dragon après 5 secondes de réflexion, personne ne peut prétendre avoir joué une bombe en même temps (et donc avant le Dragon).
+Si vous voulez plus de temps pour réfléchir, que ce soit votre tour ou non, demandez aux autres d'attendre que vous ayez fini.
+
+* *Que se passe-t-il si deux partenaires annoncent un Tichu en même temps ?* +
+C'est un problème du jeu en ligne, mais c'est très rare autour d'une table.
+En tournoi, la deuxième personne dans l'ordre du tour peut retirer son Tichu si elle le souhaite.
+Cependant, ne laissez personne prétendre avoir annoncé un Tichu en même temps, à moins que l'annonce ait vraiment été simultanée.
+S'il y a eu un délai, les deux Tichus tiennent, ce qui pose un sérieux problème à l'équipe.
+
+* *3,3,3,3,Phénix est-il un full valide ?* +
+Non.
+Ce cas n'est pas prévu par les règles, mais on attend de la personne qui a une bombe et le Phénix qu'elle joue sa main sans ce drôle de full.
+
+* *Puis-je jouer une bombe-suite comme une suite normale ?* +
+Non.
+Ce n'est pas prévu par les règles non plus, mais qui voudrait avantager les chanceux·ses qui ont toujours des bombes ?
+
+* *Puis-je jouer une bombe sur ma propre entame ?* +
+Oui, mais les bombes des autres sont prioritaires.
+Entamez donc, attendez un temps raisonnable (disons 2 secondes) pour laisser aux autres la possibilité de jouer une bombe, puis jouez votre bombe.
+
+* *Peut-on jouer dans le sens des aiguilles d'une montre ?* +
+Oui, si vous êtes plus à l'aise avec le sens horaire, utilisez-le : inversez simplement le sens du jeu dans toutes les règles.
+Si vous êtes aussi plus à l'aise pour distribuer les cartes plutôt que pour les prendre, la personne qui mélange les cartes les distribue.
+
+
+== Trichu (Tichu Nankin à 3 joueur·euse·s)
+
+=== Le jeu
+
+Mélangez et prenez les cartes comme dans le jeu à 4 joueur·euse·s.
+La donneuse ou le donneur joue avec un·e partenaire fictif·ve, le mort.
+
+La donneuse ou le donneur ne peut pas annoncer de Grand Tichu, ni pour son compte, ni pour celui du mort, mais ses adversaires peuvent en annoncer un avant de prendre leur neuvième carte.
+
+Avant les dons, la donneuse ou le donneur peut regarder ses cartes et celles du mort, sans les mélanger.
+
+Les dons se font comme dans le jeu à 4 joueur·euse·s, mais vous ne donnez des cartes qu'à vos adversaires : chaque main donne deux cartes au lieu de trois.
+Il n'y a pas de don entre la donneuse ou le donneur et le mort.
+
+Après les dons, étalez les cartes du mort face visible sur la table, à la place où serait assis·e le ou la partenaire de la donneuse ou du donneur.
+La donneuse ou le donneur joue pour le compte du mort.
+Tout le monde peut annoncer un Petit Tichu normalement, et la donneuse ou le donneur peut en annoncer un pour le compte du mort avant de jouer la première carte du mort.
+Le mort n'est pas tenu de réaliser le vœu du 1★.
+
+
+=== Le score
+
+Notez les scores individuellement, même pour le mort.
+Chaque membre d'une équipe marque les points que l'équipe marquerait dans une partie à 4 joueur·euse·s : par exemple, 60 points pour Anne et pour Bob, et 40 points pour Christian et pour le mort.
+
+La donne (et le partenariat avec le mort) passe à gauche après chaque donne.
+La partie se termine après un nombre de donnes divisible par trois (par exemple neuf donnes), et la personne qui a le plus de points l'emporte.
+
+Ne jouez pas en 1000 points, car c'est généralement le mort qui gagnerait une telle partie.
+
+
+== Tichu Tientsin (6 joueur·euse·s)
+
+Le Tichu de Tientsin (Tianjin) se joue à six, en deux équipes de trois assises en alternance autour de la table : chaque joueur·euse est assis·e entre deux adversaires.
+
+Les règles sont les mêmes que celles du jeu à 4 joueur·euse·s, sauf que :
+
+* Avec 56 cartes, la pile ne se partage pas également : prenez les cartes comme d'habitude jusqu'à épuisement de la pile, la donneuse ou le donneur et la personne suivante ont donc 10 cartes, et les autres 9.
+* Le Grand Tichu doit être annoncé avant de prendre la septième carte.
+* Chaque joueur·euse ne donne que deux cartes, une à chacun·e de ses deux partenaires, et reçoit une carte de chacun·e d'eux.
+* Le Loup donne le droit d'entamer au ou à la partenaire de son choix.
+* Pour le décompte, la dernière personne qui a des cartes donne à l'équipe adverse non seulement les cartes qui lui restent en main, mais aussi tous ses plis ; la cinquième personne (l'avant-dernière à sortir) donne ses plis à la personne qui gagne la manche.
+* Un doublé ne rapporte rien de particulier, mais un triplé (une équipe se débarrasse de toutes ses cartes alors que ses trois adversaires ont encore des cartes en main) rapporte 300 points, et on ne procède pas au décompte.

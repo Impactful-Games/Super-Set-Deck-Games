@@ -1,0 +1,75 @@
+= Ohio
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 11 cartes par joueur·euse, une couleur chacun·e : 1-10 & K.
+** À 2 joueur·euse·s : à ♠ & ♥.
+** À 3 joueur·euse·s : à ♠, ♥ & ♣.
+** À 4 joueur·euse·s : à ♠, ♥, ♣ & ♦.
+** À 5 joueur·euse·s : à ♠, ♥, ♣, ♦ & ✿.
+* Du papier et un crayon pour noter les scores.
+****
+
+Ohio est un jeu de cartes passionnant, dans lequel les cartes de faible valeur sont plus fortes que les cartes de valeur élevée.
+Tout le monde reçoit exactement les mêmes cartes.
+À tour de rôle, vous jouez des cartes de valeur de plus en plus faible.
+La personne qui joue finalement la carte la plus faible remporte le pli.
+À la fin, la personne qui totalise la plus grande valeur de cartes gagne la partie.
+
+CAUTION: Pour ce jeu, la couleur des cartes ne compte pas : seule leur valeur compte.
+
+
+== Mise en place
+
+Chaque joueur·euse reçoit une série complète de cartes d'une couleur : les valeurs de 1 à 10 et un K.
+Tenez vos cartes en main.
+Tirez au sort qui joue la première carte, puis jouez dans le sens des aiguilles d'une montre.
+
+
+== Déroulement de la partie
+
+Il s'agit de remporter des plis et d'obtenir des cartes de valeur élevée.
+À votre tour, jouez une carte plus faible que la précédente, ou passez.
+Vous pouvez passer pour des raisons tactiques, même si vous pouvez jouer.
+Une fois que vous avez passé, vous ne pouvez plus jouer de carte dans le pli en cours.
+
+Les cartes n'ont pas besoin de se suivre, il suffit qu'elles soient plus faibles.
+Par exemple, si la personne précédente a joué un 9, vous pouvez jouer un 8, ou n'importe quelle carte plus faible, comme un 2 ou même un 1.
+Il est tout à fait possible de jouer plusieurs fois dans un même pli.
+
+Si, au début de votre tour, votre propre carte est toujours la dernière carte jouée, tout le monde a passé, et vous remportez le pli.
+Placez ses cartes face cachée devant vous, puis jouez la première carte du pli suivant.
+Tout le monde doit pouvoir bien voir toutes les cartes du pli en cours.
+Pour cela, placez-les les unes à côté des autres sur la table.
+Quand vous jouez une carte, annoncez la valeur actuelle du pli.
+La valeur du pli est la somme des valeurs de toutes ses cartes.
+Chaque K vaut moins 10.
+Par exemple, après un 10 et un 8, une personne joue un 4 et annonce « 22 ».
+
+Un K peut être joué après n'importe quelle carte, même après un autre K.
+Il est toujours un peu plus faible que la carte précédente.
+Par exemple, un 4 peut être suivi d'un K, puis d'un autre K, puis d'un 3.
+Si un pli commence par un K, n'importe quelle carte peut le suivre.
+
+
+== Fin de la partie
+
+Quand un·e joueur·euse joue sa dernière carte, le pli en cours est encore joué jusqu'au bout.
+Puis la partie se termine.
+
+Chaque joueur·euse additionne les valeurs des cartes de ses plis, et soustrait les valeurs des cartes qui lui restent en main.
+Chaque K vaut moins 10, qu'il soit dans un pli ou dans votre main.
+La personne qui a le score le plus élevé gagne.
+
+Le plus simple pour calculer votre score est d'additionner toutes les cartes de votre main et tous vos K.
+Puis compensez ce total avec vos autres cartes.
+Additionnez ensuite les cartes restantes pour obtenir votre score.
+
+Jouez plusieurs parties à la suite.
+Notez le résultat de chacun·e après chaque partie.
+À la fin, la personne qui totalise le plus de points gagne.

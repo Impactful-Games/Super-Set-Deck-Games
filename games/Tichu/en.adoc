@@ -1,0 +1,322 @@
+= Tichu
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 52 numbered cards: 2-10, J, Q, K & A in ♠, ♥, ♣ & ♦.
+* 4 special cards:
+** The *★1*.
+** The *Wolf*.
+** The *Phoenix*.
+** The *Dragon*.
+* Paper and a pencil to keep the score.
+****
+
+Tichu is a climbing game played in teams, which the authors learned in the parks and squares of China.
+Get rid of your cards before the other players, win the tricks that hold the point cards, and take risks by calling “Tichu”: the first team to reach 1000 points wins.
+
+
+== Tichu Nanking (4 players)
+
+*The game is played by teams of two partners*, with the partners of each team sitting opposite each other.
+During the game, the partners try to help each other score points and win the lead.
+
+
+=== Taking and pushing the cards
+
+Before the game starts, the players choose a starting player who shuffles the cards for the first hand, and offers the shuffled deck to the player on their left, who may cut it.
+In the next hands, the winner of the previous hand shuffles the deck and offers it to be cut.
+That player then places the deck face down in the middle of the table.
+The Chinese do not deal cards: they take them.
+The dealer starts by taking the top card.
+Then all players take turns counter-clockwise, taking one card at a time, until the deck is exhausted and each player holds a fan of 14 cards.
+As in most card games, the players keep their cards secret from each other, including from their partner.
+
+Next, each player pushes 3 cards, one to each other player.
+Push the cards face down: you get rid of three cards you do not want, and receive three other cards in return.
+You may only pick up the cards pushed to you once you have pushed your own 3 cards.
+
+
+=== Playing
+
+The player holding the ★1 begins by leading (playing face up on the table) any of the following combinations of cards from their hand:
+
+[options="autowidth",frame=none,grid=none]
+|===
+| Combination | Example
+
+a| * A single card | 4
+a| * A pair +
+(two cards of equal rank) | 8,8
+a| * A sequence of pairs +
+of adjacent ranks | 4,4,5,5 +
+J,J,Q,Q,K,K
+a| * A trio +
+(three cards of equal rank) | 2,2,2
+a| * A full house +
+(trio + pair) | 5,5,5,9,9
+a| * A sequence of at least *five* cards +
+of consecutive ranks | 4,5,6,7,8,9
+|===
+
+The next player (to the right: the Chinese play to the right, like the Swiss and the Hopi) then has the choice of:
+
+* passing,
+* or playing a combination of the same kind, but of higher value.
+
+A single card can thus only be beaten by a higher single card, a sequence of two pairs only by a sequence of two higher pairs, a sequence of eight cards only by a higher sequence of exactly eight cards, and a full house only by a higher full house (in a full house, the rank of the trio is what counts).
+
+Exception: bombs (see below).
+
+Play continues to the right.
+Passing does not prevent you from playing later in the same trick, when your turn comes back.
+As soon as 3 players in a row pass, the player who played the last (highest) combination gathers the trick and leads a new combination.
+If this player has no cards left, they have “gone out”, and the right to lead passes to their right-hand neighbor (or further to the right if that player has gone out as well).
+
+
+=== Special cards
+
+==== ★1
+
+The ★1 is an interesting card of mixed reputation, with the following properties:
+
+* Its owner starts the hand, but does not have to lead the ★1.
+* The ★1 ranks as a 1, and is therefore the lowest card of the deck.
+As a 1, it may be part of a sequence (for example 1, 2, 3, 4, 5).
+* When you play the ★1, you may make a wish: name a rank (for example an 8 or a K, but not a special card).
+The next player who has a card of the wished rank, and can lawfully play it, must play it (possibly in a bomb, or more rarely in a sequence).
+A player who does not hold a card of the wished rank, or cannot play it, may pass or play any lawful combination.
+*The wish remains in force until someone fulfills it, in the next tricks if needed.*
+
+
+==== Wolf
+
+The faithful Wolf has no trick-taking power at all, and can only be played by leading it as a single card. +
+The right to lead then passes to the partner of the player who led the Wolf.
+If that partner has already gone out, the lead passes to the partner’s right-hand neighbor.
+
+
+==== Phoenix
+
+The ever-changing Phoenix is the most powerful card of Tichu, but it counts *minus 25 points*. +
+It can be played:
+
+* as a joker: it can take the place of any normal card in a combination, but it cannot be part of a bomb;
+* as a single card: its value is then half a rank higher than the card it is played on.
+If an 8 is the current highest card, the Phoenix counts as 8½, and can be beaten by a 9 or higher.
+The Phoenix can beat an A, but not the Dragon.
+If led, the Phoenix counts as 1½.
+
+
+==== Dragon
+
+The Dragon is the highest single card, and is worth *25 points*. +
+As a single card, it beats any other single card, even an A or an “A½” (the Phoenix played on an A).
+Only a bomb can beat it.
+
+* However, the Dragon cannot be part of a sequence, or of any other combination.
+* If the Dragon wins a trick, the player who played it must give the trick (including the Dragon’s 25 points) to an opponent of their choice.
+
+
+=== Bombs
+
+A bomb is:
+
+* a sequence of at least five consecutive cards of the same suit,
+* or all four cards of the same rank.
+
+Bombs can be played at any time, even out of turn, to take a trick.
+They beat anything, be it a single card or a combination.
+A higher bomb beats a lower bomb, so a bomb can be played on a bomb.
+The rank of a bomb is determined first by its number of cards, then by the rank of its cards: so a sequence bomb always beats a four-of-a-kind bomb.
+You can even lead a bomb when you lead a new trick.
+
+
+=== End of a round
+
+The round ends immediately when only one player has cards left in their hand.
+
+The *last player* with cards in hand:
+
+* gives the cards left in their hand to the opponents,
+* and gives the tricks they won to the winner (the first player who went out).
+
+Then each team scores the cards of its tricks:
+
+* +10 for each 10 and each K,
+* +5 for each 5,
+* +25 for the Dragon,
+* -25 for the Phoenix.
+
+There are thus 100 points in the whole deck, divided between the two teams.
+
+If, however, the two players of one team achieve a double victory (being the *first two* to run out of cards), the round ends immediately, the counting is skipped, and this team scores *200 points*.
+
+
+=== Tichu calls
+
+A Tichu is a way for players to score even more points, but at a risk.
+
+
+==== Small Tichu
+
+*Until you play your first card* in a hand, you may call “Small Tichu”.
+If you then win the round (by going out first), your team scores 100 extra points. +
+If you do not go out first, your team loses 100 points.
+
+Note that:
+
+* Calling Tichu is an individual undertaking.
+The partners cannot discuss it or arrange it beforehand.
+Once a Tichu is called, the partner may of course play to help the caller, but they still cannot discuss strategy during the play.
+And the caller must go out first themselves: if their partner goes out first, the team loses the 100 points!
+* The 100 points of a Tichu are scored independently of, and in addition to, the normal scoring of the hand.
+* You can call Tichu long before you play your first card, even before the cards are pushed.
+Calling it before the push can be useful to ask your partner to push you their best card.
+
+
+==== Grand Tichu
+
+Of course, where there is a Small Tichu, there must be a Grand Tichu, as well.
+
+An especially brave or desperate player may call “Grand Tichu” *before taking their ninth card* from the deck at the beginning of the hand.
+It works exactly like a Small Tichu, but it wins or loses 200 points.
+
+
+=== End of the game
+
+The team that reaches (or exceeds) a total score of 1000 points at the end of a round wins the game.
+If both teams reach 1000 points in the same round, the team with the most points wins.
+In case of a tie, the game continues until a team has 1000 points or more at the end of a round, without a tie.
+
+
+=== Tactical tips
+
+For hints on tactics, it is best to ask a Chinese bus driver.
+Since such a person may not be available to everyone reading these rules, here are a few tips from our humble experience.
+
+Good Tichu players:
+
+* First try to get rid of their rotten cards (low single cards and pairs), and are sparing with their A, Dragon and bombs early in the hand.
+A player left with a single 5 after a dazzling display of power was either the victim of an unexpected bomb, or does not understand the game yet.
+* Unreservedly support their partner’s Tichu.
+When playing the ★1, they do not wish for a card that might break their partner’s bomb, and they do not take their partner’s tricks (this is certainly lawful, but likely dangerous, unless very low ranks are involved).
+* Try to bring down an opponent’s Tichu when they play just before the caller, by making the caller take their tricks dearly.
+* Keep an eye on the score.
+If the score is, for example, 630 to 970, a Grand Tichu is begging to be called.
+
+
+=== Frequently asked questions
+
+* *Can the Wolf be bombed?* +
+No, bombs cannot be used to take the Wolf (and the right to lead).
+Bombs can only be played (even out of turn) on a combination (or a single card) on the table.
+You may bomb your own trick, if you really want to.
+So you cannot play a bomb between the moment a player leads the Wolf and the moment their partner leads.
+When 3 players have passed in a row, any player may still bomb before the trick is gathered.
+
+* *When can a bomb be played on the ★1?* +
+The best way to answer is with an example.
++
+====
+Player 1 leads the ★1 and wishes for an 8.
+Between the turns of players 1 and 2 (out of turn), all players (including players 1 and 2) may bomb, without fulfilling the wish.
+
+If player 2 has a hand like 3,4,5,6,7,8,9,10,J,Q,K,K,K,K, they may (before their turn) play the K bomb.
+After all the other players have passed, they must lead the next trick (and fulfill the wish) with their sequence.
+If another player had a sequence bomb with an 8, they would have to play it over the K bomb on their turn.
+====
+
+* *When must a player fulfill the wish of the ★1?* +
+On their ordinary turn only.
+A player does not need to fulfill the wish of the ★1 when playing a bomb out of turn.
+However, if they win the trick with the bomb, they must lead the next trick and fulfill the wish then, if they can (see also the example above).
+
+* *Does the Dragon give away a bombed trick?* +
+No.
+As the Dragon did not win the trick, its player does not give it away.
+
+* *Do I have to use the Phoenix to fulfill a wish?* +
+Yes, if you have a card of the wished rank: the next player who has a card of the wished rank and can lawfully play it must play it, even if they have to play a bomb or a sequence of the right length with the Phoenix.
+If you do not have a card of the wished rank, you do not have to fulfill the wish, even if you have the Phoenix (which is not a card of the wished rank, even though it can be a joker).
+
+* *What happens to the last trick of the hand (when the third player plays their last cards)?* +
+The trick ends immediately, but it is still taken normally, or given away if the Dragon wins it.
+
+* *What happens if two players want to play a bomb at the same time?* +
+This happens very rarely, and the solution is usually obvious.
++
+However, if you need a rule: Tichu should not be a game of reflexes, and fast play should not give any advantage.
+Bombs can be played before ordinary combinations, and several bombs can be played in turn order.
+But if a player decides to play the Dragon after 5 seconds of thinking, no other player can claim to have played a bomb at the same time (and therefore before the Dragon).
+If you want more time to think about your play, whether it is your turn or not, ask the other players to wait until you are done.
+
+* *What if two players of the same team call a Tichu at the same time?* +
+This is a problem in online games, but very rare in normal games.
+In a tournament, the second player in turn order may withdraw their Tichu if they wish.
+However, do not allow players to claim they called a Tichu at the same time unless it really was simultaneous.
+If there was a delay, both Tichus stand, which gives that team a serious problem.
+
+* *Is 3,3,3,3,Phoenix a valid full house?* +
+No.
+This case is not covered by the rules, but the owner of a bomb and of the Phoenix is expected to play their hand without this strange kind of full house.
+
+* *Can I play a sequence bomb as a normal sequence?* +
+No.
+This is not covered by the rules either, but who wants to favor the lucky players who always have bombs?
+
+* *Can I bomb my own lead?* +
+Yes, but the bombs of the other players have priority.
+So lead, wait a reasonable time (say 2 seconds) to give the other players the chance to bomb, then play your bomb.
+
+* *Can we play clockwise instead?* +
+Yes, if you are more comfortable with a clockwise order of play, use it instead: just switch the direction of play in all the rules.
+If you are also more comfortable dealing the cards instead of taking them, the player who shuffles the cards deals them.
+
+
+== Threechu (Tichu Nanking for 3 players)
+
+=== Playing
+
+Shuffle and take the cards as in the 4-player game.
+The dealer plays with a dummy partner.
+
+The dealer may not call a Grand Tichu, neither for themselves nor for the dummy, but their opponents may call one before taking their ninth card.
+
+Before any cards are pushed, the dealer may look at both their hand and the dummy’s hand, without mixing them.
+
+Pushing is the same as in the 4-player game, except that you only push cards to your opponents: each hand pushes two cards instead of three.
+There is no push between the dealer and the dummy.
+
+After the push, lay the dummy’s cards face up on the table, in the place where the dealer’s partner would sit.
+The dealer plays on the dummy’s behalf.
+All players may call a Small Tichu as usual, and the dealer may call a Small Tichu on behalf of the dummy before playing the dummy’s first card.
+The dummy does not have to fulfill the wish of the ★1.
+
+
+=== Scoring
+
+Keep the scores individually, even for the dummy.
+Each player of a team scores the points that the team would score in a 4-player game: for example, 60 points for Anne and for Bob, and 40 points for Chris and for the dummy.
+
+The deal (and the partnership with the dummy) passes to the left after each hand.
+The game ends after a number of hands divisible by three (for example nine hands), and the player with the most points wins.
+
+Do not play to 1000 points, as the dummy is likely to win such a game.
+
+
+== Tichu Tientsin (6 players)
+
+Tientsin (Tianjin) Tichu is played by six players in two teams of three, seated alternately around the table: each player sits between two opponents.
+
+The rules are the same as for the 4-player game, except that:
+
+* With 56 cards, the deck does not divide evenly: take the cards as usual until the deck is exhausted, so the dealer and the next player get 10 cards, and the others 9.
+* A Grand Tichu must be called before taking the seventh card.
+* Each player pushes only two cards, one to each of their own partners, and gets one card back from each of them.
+* The Wolf transfers the right to lead to the partner of its player’s choice.
+* In the scoring, the last player gives the opposing team not only their remaining cards, but also all their tricks; the fifth player (the last but one to go out) gives their tricks to the winner of the round.
+* There is no special reward for a double victory, but a triple victory (one team gets rid of all its cards while all three opponents still hold cards) scores 300 points, and the counting is skipped.

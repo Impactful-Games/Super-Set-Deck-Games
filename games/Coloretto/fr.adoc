@@ -1,0 +1,157 @@
+= Coloretto
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 63 cartes de couleur : 0-8 à ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+* 10 cartes « +2 » : 6 Papillons & 4 Phénix.
+* 3 jokers : 3 Loups.
+* La carte Ø, pour signaler la dernière manche.
+****
+
+De 2 à 5 joueur·euse·s prennent des cartes dans une pioche placée au centre de la table.
+Tout au long de la partie, vous essayez de vous spécialiser dans quelques couleurs, car à la fin de la partie, seules trois couleurs vous font gagner des points, et toutes les autres vous en font perdre.
+Vous essayez donc d’accumuler des cartes dans trois couleurs et d’éviter d’en prendre dans les autres, ce qui n’est pas si simple.
+Plus vous avez de cartes dans une couleur, plus elle rapporte de points.
+La personne qui a le plus de points gagne.
+
+[CAUTION]
+====
+Dans ce jeu, les nombres sur les cartes *n’ont pas* d’importance.
+Seule la couleur des cartes compte : chaque symbole est l’une des sept couleurs du jeu.
+====
+
+
+== Mise en place
+
+* Choisissez si vous jouez avec le système de points A ou B (voir <<scoring>>).
++
+TIP: Commencez par le système de points A.
+* À 3 joueur·euse·s, retirez du jeu les cartes ★.
+* Retirez la carte Ø du paquet et mettez-la de côté pour l’instant.
+* Chaque joueur·euse prend une carte d’une couleur différente et la place face visible devant soi.
+* Mélangez les cartes restantes et placez-les face cachée au centre de la table : c’est la pioche.
+Prenez 15 cartes de la pioche, face cachée, en une pile.
+Posez la carte Ø sur cette pile, puis placez le reste de la pioche par-dessus.
+* Tirez au sort la personne qui commence.
+
+NOTE: Les règles qui suivent s’appliquent au jeu à 3, 4 ou 5 joueur·euse·s ; les modifications pour 2 joueur·euse·s sont décrites dans <<two-players>>.
+
+
+== Déroulement de la partie
+
+Vous jouez chacun·e votre tour, dans le sens des aiguilles d’une montre.
+
+À votre tour, vous *devez* effectuer l’une des deux actions suivantes :
+
+A. Piocher et placer une carte.
+B. Prendre une rangée.
+
+C’est ensuite au tour de la personne à votre gauche.
+
+Lorsque chaque joueur·euse a pris une rangée, la manche se termine et une nouvelle manche commence.
+
+
+=== A. Piocher et placer une carte
+
+Prenez la première carte de la pioche et placez-la face visible, soit à côté d’une ou deux cartes déjà posées dans une rangée, soit seule dans une nouvelle rangée.
+Il ne peut jamais y avoir plus de rangées que de joueur·euse·s encore en jeu dans la manche.
+
+Une rangée contient *au maximum* 3 cartes.
+Vous ne pouvez plus ajouter de carte à une rangée qui en contient déjà 3.
+
+Lorsqu’il y a autant de rangées que de joueur·euse·s encore en jeu dans la manche, et que chaque rangée contient 3 cartes, vous ne pouvez pas choisir cette action : vous devez prendre une rangée.
+
+
+=== B. Prendre une rangée
+
+Prenez toutes les cartes d’une rangée et posez-les face cachée devant vous.
+
+Vous ne pouvez prendre qu’une rangée qui contient au moins une carte.
+Une fois que vous avez pris une rangée, vous ne jouez plus de la manche, mais vous jouerez de nouveau à la manche suivante.
+La pile face cachée devant vous signale à tout le monde que vous ne jouez plus de la manche.
+
+NOTE: Si tout le monde sauf une personne a pris une rangée, cette personne peut continuer à piocher et placer des cartes dans la dernière rangée (jusqu’à 3 cartes) avant de la prendre et de terminer ainsi la manche.
+
+
+== Fin d’une manche
+
+La manche se termine lorsque chaque joueur·euse a pris une rangée.
+Chacun·e trie les cartes qu’il ou elle a prises par couleur, face visible devant soi.
+Les Papillons et les Phénix forment une huitième pile.
+Tout le monde doit pouvoir voir combien de cartes de chaque couleur possède chaque joueur·euse.
+Mettez de côté les jokers (Loups) que vous avez pris : vous ne choisirez leur couleur qu’à la fin de la partie, pas avant.
+
+Une nouvelle manche commence.
+La personne qui a pris la dernière rangée de la manche précédente commence la nouvelle manche.
+
+
+== Fin de la partie
+
+Lorsque la carte Ø est piochée, la manche en cours est la dernière.
+La personne qui l’a piochée la met de côté, bien en vue, et pioche la carte suivante à la place.
+À la fin de la manche, chaque joueur·euse choisit la couleur de chaque joker (Loup) qu’il ou elle possède.
+Les jokers d’une même personne peuvent prendre des couleurs différentes.
+
+
+[#scoring]
+== Décompte
+
+Chaque joueur·euse compte ses cartes dans chaque couleur.
+
+* Le tableau indique combien de points rapporte ou fait perdre une couleur, en fonction de son nombre de cartes.
+Au-delà de 6 cartes dans une couleur, vous ne marquez pas de points supplémentaires.
++
+[%autowidth, cols="^,^,^"]
+|===
+h| Cartes
+h| Points +
+(système A)
+h| Points +
+(système B)
+
+h| 1 | 1 | 1
+h| 2 | 3 | 4
+h| 3 | 6 | 8
+h| 4 | 10 | 7
+h| 5 | 15 | 6
+h| 6 ou plus | 21 | 5
+h| Chaque Papillon ou Phénix | +2 | +2
+|===
+* Choisissez *3 de vos couleurs* : elles vous rapportent des *points positifs*.
+* *Toutes vos autres couleurs* vous font perdre des points : elles comptent en *points négatifs*.
+* Chaque Papillon et chaque Phénix rapporte 2 points.
+
+La personne qui a le plus de points gagne la partie !
+
+.Exemple (système A)
+====
+André a 1 Loup, 1 Phénix, 6 cartes ♣, 4 cartes ♦, 3 cartes ♥ et 2 cartes ♠.
+André marque déjà le maximum avec les 6 cartes ♣ : le Loup rejoint donc les cartes ♦.
+
+♣ = +21 points +
+♦ + Loup = +15 points +
+♥ = +6 points +
+♠ = -3 points +
+Phénix = +2 points
+
+André marque 41 points au total.
+====
+
+
+[#two-players]
+== Coloretto à deux joueur·euse·s
+
+À 2 joueur·euse·s, appliquez les modifications suivantes :
+
+* Avant le début de la partie, retirez toutes les cartes ★ et ⎈.
+* Avant le premier tour, chaque joueur·euse prend deux cartes de couleurs différentes.
+* Il peut y avoir jusqu’à trois rangées, chacune avec sa propre limite :
+** la première rangée contient au maximum 1 carte ;
+** la deuxième rangée contient au maximum 2 cartes ;
+** la troisième rangée contient au maximum 3 cartes.
+* Lorsque les deux joueur·euse·s ont pris une rangée, la rangée restante est retirée du jeu, avec ses cartes.

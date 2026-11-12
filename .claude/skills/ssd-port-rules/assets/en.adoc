@@ -1,0 +1,53 @@
+= Game Name
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 36 Number cards: 0-8 in ♠, ♥, ♣ & ♦.
+* 9 Number cards with 4 or 5 players: 0-8 in ✿.
+* 6 Butterflies.
+* 3 Wolves (4 Wolves with 4 or 5 players).
+* The Ø card.
+* Paper and a pencil to keep the score.
+* _Advanced variant_: the ×2 and -‽ cards.
+****
+
+One or two short paragraphs present the game: its theme, its goal, who wins.
+One sentence per line.
+
+[CAUTION]
+====
+Only when SSD cards carry information the game ignores: say what does not count.
+====
+
+
+== Setup
+
+. Shuffle the cards.
+. Deal 7 cards to each player.
+
+
+== Playing the game
+
+Text.
+
+.Example
+====
+An example with SSD cards only: ♥7, ♣8, the Wolf.
+====
+
+
+[#scoring]
+== Scoring
+
+Text, with a cross-reference to <<scoring,the scoring>> where needed.
+
+
+== Variants
+
+=== Advanced variant
+
+Text.

@@ -1,0 +1,192 @@
+= Lost Cities
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* Jeu de base :
+** 5 cartes A : A à ♠, ♥, ♣, ♦ & ★.
+** 60 cartes de jeu :
+*** 45 cartes Expédition : 2-10 à ♠, ♥, ♣, ♦ & ★.
+*** 15 cartes Pari : les 3 K à ♠, ♥, ♣, ♦ & ★.
+* _Variante à six expéditions_ :
+** 1 carte A supplémentaire : A✿.
+** 12 cartes de jeu supplémentaires :
+*** 9 cartes Expédition : 2-10 à ✿.
+*** 3 cartes Pari : les 3 K à ✿.
+* Du papier et un crayon pour noter les scores.
+****
+
+*Le duel des expéditions*
+
+Avec vos cartes, vous engagez des expéditions vers les coins les plus reculés et mystérieux de la Terre : les montagnes de l'Himalaya, la forêt vierge d'Amérique centrale, le désert égyptien, un volcan mystérieux et le fond des mers.
+Et si vous êtes particulièrement audacieux·se, vous pouvez même parier sur la réussite d'une expédition avec des cartes Pari.
+Mais attention : cela peut se retourner contre vous.
+Si, au bout de trois manches, vous avez le plus de points, vous gagnez.
+
+NOTE: Les règles du jeu sont très simples.
+Mais ne vous laissez pas piéger par cette apparente simplicité.
+Il y a bien plus à découvrir dans Lost Cities qu'il n'y paraît à première vue !
+
+
+[#preparation]
+== Préparation
+
+Placez les *5 cartes A* (♠, ♥, ♣, ♦ & ★) en ligne au centre de la table, entre les deux joueur·euse·s.
+Elles marquent les cinq emplacements des piles de défausse.
+
+Rangez dans la boîte l'A✿ et les 12 cartes de jeu ✿ (9 cartes Expédition & 3 cartes Pari).
+Elles ne sont pas nécessaires pour le jeu de base.
+
+Mélangez les 60 cartes de jeu.
+Distribuez *huit cartes* face cachée à chaque joueur·euse.
+Ce sont les cartes de votre *main*.
+Placez les cartes restantes face cachée à côté de la ligne de cartes A : elles forment la *pioche*.
+
+Préparez du papier et un crayon pour noter vos scores.
+
+
+== But du jeu
+
+Votre but est de mener des expéditions qui vous rapportent le plus de points de découverte possible, après déduction des coûts d'expédition.
+Vous formez les expéditions en constituant une colonne de cartes distincte pour chaque couleur.
+Les valeurs des cartes d'une colonne doivent augmenter d'une carte à l'autre.
+Au début de chaque colonne, vous pouvez placer des cartes Pari pour multiplier sa valeur.
+À la fin de la manche, les cartes des colonnes de chaque joueur·euse sont décomptées.
+
+
+== Déroulement du jeu
+
+La personne la plus âgée commence.
+Ensuite, vous jouez à tour de rôle.
+Chaque joueur·euse place ses cartes uniquement de son côté de la ligne de cartes A.
+
+À votre tour, vous devez d'abord jouer *une des cartes de votre main*.
+Ensuite seulement, vous pouvez *piocher une nouvelle carte*.
+
+
+=== 1. Jouer une carte
+
+Choisissez une carte de votre main.
+Vous avez deux possibilités.
+
+
+==== Option 1 : poser une carte dans l'une de vos colonnes d'expédition
+
+Avec cette carte, vous pouvez *commencer une nouvelle expédition* ou *faire progresser une expédition en cours*.
+Pour cela, placez la carte face visible de votre côté de la ligne, devant la carte A de la même couleur.
+
+Vous ne pouvez ajouter des cartes qu'au bout d'une colonne.
+Placez les cartes d'une colonne de manière qu'elles se chevauchent, avec les valeurs de toutes les cartes bien visibles.
+
+IMPORTANT: Chaque nouvelle carte que vous placez dans une colonne doit avoir une *valeur supérieure* à celle de la dernière carte que vous avez placée dans cette colonne.
+
+Une *carte Pari* ne peut être placée qu'au début d'une colonne.
+Vous pouvez placer plusieurs cartes Pari sur une expédition : 0, 1, 2 ou 3 cartes Pari avant ses cartes Expédition.
+En revanche, dès que vous avez placé une carte Expédition dans une expédition, vous ne pouvez plus y placer de carte Pari de sa couleur.
+
+
+==== Option 2 : défausser une carte
+
+Si vous ne voulez pas (ou ne pouvez pas) poser de carte dans une expédition, vous devez placer une carte de votre main face visible sur la carte A de la même couleur, quelle que soit sa valeur.
+Cinq piles de défausse se forment ainsi au cours de la partie, une par couleur.
+Placez les cartes sur les piles de manière que seule la carte du dessus soit visible.
+
+
+=== 2. Piocher une carte
+
+Piochez une nouvelle carte, pour revenir à huit cartes en main.
+Vous avez deux possibilités : prendre la première carte de la pioche *ou* prendre la première carte de l'une des cinq piles de défausse (s'il y en a une).
+
+IMPORTANT: Vous ne pouvez pas reprendre la carte que vous venez de défausser.
+
+Une fois la carte piochée, votre tour se termine.
+
+
+== Fin de la manche et décompte
+
+La manche se termine *dès que* l'un·e des joueur·euse·s pioche la dernière carte de la pioche.
+
+NOTE: Vers la fin de la manche, vous pouvez convenir d'étaler un peu la pioche face cachée et de compter les cartes restantes, pour estimer le nombre de tours restants.
+
+À la fin de la manche, les expéditions de chaque joueur·euse sont décomptées.
+Pour cela, additionnez les valeurs de toutes les cartes de chaque expédition (chaque colonne de cartes).
+Retirez 20 points à la somme de chaque colonne.
+C'est le coût de l'expédition de cette colonne.
+
+IMPORTANT: Si vous n'avez placé *aucune carte* d'une couleur, cette couleur n'engendre *aucun coût d'expédition*.
+
+*Après déduction du coût d'expédition*, s'il y a une, deux ou trois cartes Pari au début d'une colonne, multipliez le résultat par deux, trois ou quatre, respectivement.
+
+Une colonne peut donc vous rapporter des points positifs ou négatifs.
+Si vous n'avez placé aucune carte d'une couleur, vous ne gagnez ni ne perdez aucun point pour cette couleur.
+
+Par ailleurs, chaque colonne d'*au moins huit cartes* rapporte un bonus de 20 points.
+
+IMPORTANT: Ce bonus n'est *pas* multiplié par les cartes Pari !
+
+Notez les points de chaque joueur·euse.
+Commencez ensuite une nouvelle manche comme décrit dans la <<preparation>>.
+Cette fois, la personne qui a le plus de points commence.
+Additionnez vos points après chaque manche.
+
+Si, au bout de trois manches, vous avez le plus de points, vous gagnez !
+
+
+== Variante : partie longue à six expéditions
+
+La partie longue se joue comme décrit ci-dessus, avec les modifications suivantes.
+Lors de la préparation, placez l'A✿ au bout de la ligne pour former un *sixième emplacement d'expédition*.
+Mélangez ensuite les *72 cartes de jeu*, y compris les 12 cartes de jeu ✿.
+
+
+== Exemple de décompte
+
+Un·e joueur·euse a placé les cartes ci-dessous.
+
+[options="autowidth",cols=">h,^,^,^,^,^",role="big-table"]
+|===
+| | ♠ | ♥ | ♣ | ♦ | ★
+
+| Cartes
+|
+5 +
+8 +
+10
+|
+K
+|
+|
+K +
+3 +
+5 +
+7
+|
+K +
+K +
+2 +
+3 +
+5 +
+7 +
+8 +
+10
+
+| Somme | 23 | 0 | 0 | 15 | 35
+| Coût d'expédition | -20 | -20 | | -20 | -20
+| Sous-total | 3 | -20 | 0 | -5 | 15
+| Pari | | × 2 | | × 2 | × 3
+| Total | *3* | *-40* | *0* | *-10* | *45*
+| Bonus ≥ 8 cartes | | | | | *20*
+|===
+
+*Explication de la colonne ♥ :* +
+La carte Pari double la valeur de la colonne.
+Comme aucune autre carte n'a été jouée, seul le coût de l'expédition s'applique, et il est doublé.
+
+Cette personne a marqué 18 points : stem:[3 - 40 - 10 + 45 + 20 = 18].
+
+TIP: Comme le montre l'exemple, mieux vaut ne pas commencer une expédition si vous ne pouvez pas la mener à bien.
+De plus, ne jouez des cartes Pari que si vous avez assez de cartes pour l'expédition et qu'il vous reste le temps de les poser !

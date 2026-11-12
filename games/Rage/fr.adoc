@@ -1,0 +1,189 @@
+= Rage
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 96 cartes numérotées : 0-15 à ♠, ♥, ♣, ♦, ✿ & ★.
+* 16 cartes Action :
+** 2 Singes.
+** 3 Phénix.
+** 3 Serpents.
+** 4 Loups.
+** 4 Papillons.
+* Du papier et un crayon pour noter les scores.
+****
+
+À chaque manche, chaque joueur·euse reçoit un certain nombre de cartes.
+Chacun·e son tour, vous posez une carte au centre de la table.
+La personne qui a joué la plus forte carte de la couleur demandée (ou de la couleur d'atout) remporte le pli et prend les cartes.
+La partie se termine au bout de dix manches.
+Le but du jeu est de marquer le plus de points, en remportant des plis et en prédisant exactement combien de plis vous allez remporter.
+
+
+== Mise en place
+
+Un·e joueur·euse est désigné·e pour noter les scores.
+Il ou elle inscrit le nom de tou·te·s les joueur·euse·s sur une feuille de score.
+Puis il ou elle mélange les 112 cartes et distribue 10 cartes à chaque joueur·euse.
+Après chaque manche, la personne à gauche de celle qui a distribué distribue à son tour.
+
+
+== Déroulement de la partie
+
+=== La donne
+
+Lors de la première manche, chaque joueur·euse reçoit dix cartes.
+Chaque carte peut remporter un pli : il est donc possible de remporter dix plis lors de la première manche.
+Lors de la deuxième manche, chaque joueur·euse reçoit neuf cartes, et il est possible de remporter jusqu'à neuf plis.
+Lors de la troisième manche, chaque joueur·euse reçoit huit cartes, puis sept cartes lors de la quatrième manche, et ainsi de suite, jusqu'à la dixième manche, où chacun·e ne reçoit qu'une seule carte.
+
+Les cartes qui ne sont pas distribuées forment une pile face cachée au centre de la table.
+Retournez la première carte de cette pile et placez-la à côté de la pile : elle détermine la couleur d'atout de la manche.
+S'il s'agit d'une carte Action, retournez une autre carte, jusqu'à ce qu'une carte numérotée apparaisse.
+
+
+=== Les annonces
+
+Après avoir trié vos cartes par couleur et par valeur, estimez combien de plis vous allez remporter lors de cette manche.
+En commençant par la personne à gauche de celle qui a distribué, chacun·e annonce ensuite le nombre de plis qu'il ou elle pense remporter.
+La personne qui note les scores inscrit les annonces sur la feuille de score.
+Pour éviter tout malentendu, répétez toutes les annonces à voix haute avant de commencer à jouer.
+
+
+=== Les plis
+
+La personne à gauche de celle qui a distribué joue la première carte du pli.
+Puis, dans le sens horaire, chacun·e joue une carte.
+Chaque joueur·euse *doit* jouer une carte de la couleur demandée, si possible.
+Si vous n'avez pas de carte de la couleur demandée, vous pouvez jouer n'importe quelle carte : un atout, une carte d'une autre couleur ou une carte Action.
+
+Si vous n'avez pas de carte de la couleur demandée, vous pouvez jouer une carte de la couleur d'atout (la couleur de la carte à côté de la pile), et ainsi remporter le pli.
+Si plusieurs atouts sont joués dans le pli, l'atout le plus fort remporte le pli.
+
+.Remporter le pli
+[IMPORTANT]
+====
+La personne qui a joué la plus forte carte de la couleur demandée remporte le pli, sauf si un atout a été joué.
+Dans ce cas, l'atout le plus fort remporte le pli.
+====
+
+Chacun·e garde les plis remportés en *piles séparées*, à l'écart des cartes de sa main, pour que tout le monde sache à tout moment combien de plis chacun·e a remportés.
+La personne qui remporte un pli ouvre le pli suivant.
+Quand plus personne n'a de cartes en main, faites le décompte de la manche (voir <<scoring>>).
+
+
+=== Les cartes Action
+
+Si vous n'avez pas de carte de la couleur demandée, vous pouvez jouer une carte Action.
+Les cartes Action n'appartiennent à aucune des six couleurs.
+
+* *Phénix* : La personne qui remporte le pli contenant cette carte marque *5 points de plus* à la fin de la manche.
+
+* *Serpent* : La personne qui remporte le pli contenant cette carte marque *5 points de moins* à la fin de la manche.
+
+* *Loup* : Lorsque cette carte est jouée, retournez la carte d'atout face cachée à côté de la pile.
+Il n'y a pas d'atout pour ce pli.
+Les atouts déjà joués dans le pli comptent comme des cartes normales.
+La personne qui a joué la plus forte carte de la couleur demandée remporte le pli.
++
+.Loup
+====
+La couleur d'atout est ♥. +
+Anna ouvre le pli avec le 8♦. +
+Bernard joue le 4♥ (un atout). +
+Camille joue un Loup : la carte d'atout à côté de la pile est retournée face cachée, et ♥ n'est plus la couleur d'atout. +
+Anna remporte le pli, avec la plus forte carte de la couleur demandée (♦), puisqu'il n'y a pas d'atout pour ce pli.
+====
++
+Une fois le pli terminé, retournez la première carte de la pile face cachée et placez-la sur la carte qui déterminait l'atout précédent.
+S'il s'agit d'une carte Action, retournez une autre carte, jusqu'à ce qu'une carte numérotée apparaisse.
+Cette nouvelle carte détermine la couleur d'atout pour le reste de la manche.
+
+* *Papillon* : Lorsque vous jouez cette carte, retournez immédiatement la première carte de la pile et placez-la sur la carte d'atout précédente.
+S'il s'agit d'une carte Action, ou d'une carte de la même couleur que l'atout précédent, recommencez jusqu'à ce qu'une carte numérotée d'une autre couleur apparaisse.
+La couleur de cette nouvelle carte est la couleur d'atout pour le pli en cours et pour le reste de la manche.
+À moins, bien sûr, qu'un deuxième, un troisième ou un quatrième Papillon soit joué au cours de la manche !
+L'atout précédent ne compte plus, ni pour ce pli, ni pour le reste de la manche.
+La nouvelle couleur d'atout ne peut jamais être la même que la précédente.
+
+* *Singe* : Lorsque vous jouez cette carte, vous devez annoncer sa couleur.
+Vous pouvez choisir la couleur d'atout.
+Le Singe est la plus forte carte de la couleur choisie dans le pli.
+Si la couleur du Singe n'est pas la couleur d'atout, tous les atouts battent le Singe.
+Si les deux Singes sont joués dans le même pli, le second bat le premier.
+
+[CAUTION]
+====
+La première carte d'un pli peut être une carte Action.
+Dans ce cas, la deuxième carte du pli peut être n'importe quelle carte.
+La première carte numérotée ou le premier Singe joué détermine la couleur à suivre.
+Si seules des cartes Action autres que des Singes sont jouées, la première carte jouée dans le pli remporte le pli.
+====
+
+
+[#scoring]
+== Décompte
+
+Une fois tous les plis de la manche joués (quand plus personne n'a de cartes en main), faites le décompte de la manche :
+
+* Chaque joueur·euse marque 1 point par pli remporté.
+* Si vous avez remporté exactement le nombre de plis annoncé, vous marquez 10 points.
+* Si vous n'avez pas remporté le nombre de plis annoncé, vous perdez 5 points.
+* Chaque joueur·euse perd 5 points pour chaque *Serpent* présent dans les plis remportés.
+* Chaque joueur·euse marque 5 points pour chaque *Phénix* présent dans les plis remportés.
+
+Additionnez les points positifs et négatifs pour obtenir votre score de la manche, que la personne qui note les scores inscrit sur la feuille de score.
+
+.Première manche, à dix cartes
+====
+* Anna a annoncé trois plis et remporté trois plis : 10 points, plus 1 point par pli, soit 3 points.
+Malheureusement, l'un de ces plis contenait un Serpent, qui coûte 5 points.
+Anna marque 8 points pour cette manche (stem:[10 + 3 - 5 = 8]).
+* Bernard n'a pas remporté le nombre de plis annoncé (-5 points).
+Bernard a remporté un seul pli, qui rapporte 1 point et contenait un Phénix (5 points).
+Bernard marque 1 point pour cette manche (stem:[-5 + 5 + 1 = 1]).
+* Camille a annoncé deux plis et remporté deux plis (10 points).
+Chaque pli rapporte 1 point de plus.
+Camille marque 12 points pour cette manche (stem:[10 + 2 = 12]).
+* Daniel n'a pas réussi son annonce (-5 points).
+Les 4 plis remportés par Daniel rapportent 4 points.
+Daniel marque -1 point pour cette manche (stem:[-5 + 4 = -1]).
+====
+
+
+== Fin de la partie
+
+La partie se termine au bout de dix manches.
+Faites le décompte de la dernière manche, puis additionnez les scores des dix manches.
+La personne qui a le plus de points l'emporte.
+
+
+== Variantes
+
+* *Plus ou moins un* : Comme d'habitude, les annonces sont faites à voix haute à la personne qui note les scores.
+Le total des annonces ne doit pas être égal au nombre de plis de la manche : il doit être supérieur ou inférieur.
+Par exemple, lors d'une manche de cinq plis, le total des annonces de tou·te·s les joueur·euse·s ne peut pas être 5.
+La dernière personne à annoncer est donc contrainte.
+
+* *Annonce cachée* : Chacun·e inscrit son annonce sur un morceau de papier.
+Quand tout le monde a terminé, les annonces sont révélées et la personne qui note les scores les inscrit, avant que la manche ne commence.
+De cette façon, personne n'est influencé·e par les annonces des autres.
+
+* *Annonce secrète* : Chacun·e inscrit son annonce sur un morceau de papier, et la personne qui note les scores ramasse les papiers.
+Les annonces ne sont notées et révélées qu'après le dernier pli de la manche.
+Ainsi, pendant la manche, personne ne sait combien de plis les autres veulent remporter.
+
+* *Le bonus* : Si un·e joueur·euse remporte tous les plis d'une manche, chaque pli lui rapporte deux points au lieu d'un.
+Cela ne s'applique pas à la dernière manche, qui n'a qu'un seul pli.
+
+* *Ordre inversé* : Commencez par la manche à 1 carte, et montez jusqu'à 10 cartes.
+Les manches 1 à 3 relèvent de toute façon surtout de la chance.
+Débarrassez-vous-en, puis jouez les manches 4 à 10, plus stratégiques.
+Cela rend la partie plus serrée, en donnant aux joueur·euse·s plus d'occasions de cibler la personne en tête avec des Serpents.
+
+* *Manches sans atout* : Lorsque vous retournez des cartes pour déterminer la couleur d'atout, si un Papillon apparaît, jouez immédiatement comme s'il n'y avait pas de couleur d'atout.
+Jusqu'à ce que quelqu'un change l'atout, bien sûr !

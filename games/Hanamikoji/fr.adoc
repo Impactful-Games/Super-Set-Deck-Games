@@ -1,0 +1,175 @@
+= Hanamikoji
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 7 cartes Geisha : 2⎈, 2✿, 2♦, 3♣, 3♥, 4♠ & 5★.
+* 21 cartes Objet :
+** K & Q à ⎈, ✿ & ♦ ;
+** K, Q & J à ♣ & ♥ ;
+** K, Q, J & S à ♠ ;
+** K, Q, J, S & C à ★.
+* 8 cartes Action : 2 Loups, 2 Serpents, 2 Phénix & 2 Dragons.
+****
+
+Bienvenue dans la plus célèbre rue des geishas de l’ancienne capitale, Hanamikoji.
+Les geishas sont des femmes gracieuses, hautement respectées et adorées, car après des années d’entraînement, elles maîtrisent avec élégance les arts, la musique, la danse et de nombreuses autres performances artistiques.
+« Geisha » peut être traduit par « artiste » : elles dansent, chantent et divertissent tout le monde.
+
+Dans Hanamikoji, deux joueur·euse·s s’affrontent pour gagner les faveurs des sept maîtresses geishas en récupérant les objets des arts dans lesquels elles excellent.
+Grâce à des anticipations réfléchies et à quelques coups audacieux, vous pouvez obtenir les objets essentiels en cédant les moins intéressants.
+Saurez-vous déjouer votre adversaire et gagner la majorité des faveurs des geishas ?
+
+[CAUTION]
+====
+La valeur d’une carte Geisha est son nombre de points de charme, et aussi son nombre de cartes Objet.
+Pour les cartes Objet, seule la couleur compte : elle indique à quelle Geisha la carte se rapporte.
+====
+
+
+== But du jeu
+
+Dans Hanamikoji, le but est de gagner les faveurs de 4 Geishas ou d’obtenir 11 points de charme (ou plus).
+
+Votre adversaire et vous jouez à tour de rôle et réalisez des actions pour obtenir différentes sortes de cartes Objet.
+Pour chaque Geisha, si vous avez plus de cartes Objet de la couleur correspondante que votre adversaire, vous remportez la faveur de la Geisha.
+
+La partie se poursuit jusqu’à ce qu’un·e joueur·euse atteigne l’objectif de victoire lors de la phase de décompte.
+
+
+== Mise en place
+
+. Alignez les 7 cartes Geisha entre les deux joueur·euse·s, dans l’ordre suivant, de gauche à droite : ⎈, ✿, ♦, ♣, ♥, ♠, ★.
+. Formez une pile face cachée avec toutes les cartes Objet et posez-la à côté.
+. Chaque joueur·euse prend 4 cartes Action (1 Loup, 1 Serpent, 1 Phénix & 1 Dragon) et les pose face visible devant soi.
+. La personne la plus jeune commence.
+
+
+== Déroulement de la partie
+
+La partie se joue en *une ou plusieurs manches*.
+Chaque manche est constituée de 3 phases, jouées dans l’ordre suivant :
+
+* Phase 1 : distribution.
+* Phase 2 : action.
+* Phase 3 : décompte et mise à jour.
+
+Si un·e joueur·euse atteint l’objectif de victoire lors de la phase de décompte, la partie se termine immédiatement.
+Si personne n’atteint l’objectif de victoire, une nouvelle manche commence.
+La partie se poursuit jusqu’à ce qu’un·e joueur·euse l’emporte.
+
+
+=== Phase 1 : distribution
+
+La personne qui commence mélange les 21 cartes Objet pour former une pile face cachée, en retire une carte au hasard *sans la regarder*, et la met de côté face cachée.
+Cette carte ne sera pas utilisée pendant cette manche.
+*Personne ne peut la regarder.*
+
+Distribuez 6 cartes Objet à chaque joueur·euse : ce sera sa main.
+Ne montrez pas votre main à votre adversaire.
+
+Formez une pile face cachée avec les cartes Objet restantes (la « pioche Objets »), et placez-la à côté de la rangée des cartes Geisha.
+
+
+=== Phase 2 : action
+
+En commençant par la personne qui commence la manche, les joueur·euse·s *jouent chacun·e leur tour (joueur·euse A → joueur·euse B → joueur·euse A → joueur·euse B → et ainsi de suite)* jusqu’à ce que chacun·e ait joué *4 tours*.
+
+À votre tour, vous devez *piocher une carte* de la pioche Objets, puis *réaliser une action*.
+*Il n’y a pas d’ordre fixe pour les actions.*
+
+Pour réaliser une action, choisissez 1 de vos cartes Action *non utilisées* et réalisez l’action correspondante.
+Après avoir résolu l’action, tournez la carte d’un quart de tour pour indiquer qu’elle a été utilisée.
+Vous ne pouvez pas choisir une carte Action déjà utilisée (chaque joueur·euse n’utilise chacune de ses cartes Action qu’une seule fois par manche).
+
+Il y a 4 actions dans Hanamikoji :
+
+
+==== Loup
+
+Choisissez 1 carte de votre main et placez-la *face cachée* sous le Loup.
+Cette carte sera révélée lors de la phase de décompte et *sera comptée*.
+
+Vous pouvez regarder cette carte à tout moment.
+
+
+==== Serpent
+
+Choisissez 2 cartes de votre main et placez-les *face cachée* sous le Serpent.
+Ces cartes *ne seront pas comptées* lors de cette manche.
+
+Vous pouvez regarder ces cartes à tout moment.
+
+
+==== Phénix
+
+Choisissez 3 cartes de votre main et placez-les *face visible* devant vous.
+
+Votre adversaire en choisit 1 et la place de son côté, à côté de la *Geisha correspondante*.
+Placez ensuite les 2 cartes restantes de votre côté, à côté des Geishas correspondantes.
+*Ces cartes seront comptées.*
+
+
+==== Dragon
+
+Choisissez 4 cartes de votre main et placez-les *face visible* devant vous.
+Divisez-les en deux lots de 2 cartes.
+
+Votre adversaire choisit 1 lot et place ces 2 cartes de son côté, à côté des *Geishas correspondantes*.
+Placez ensuite les 2 cartes restantes de votre côté, à côté des Geishas correspondantes.
+*Ces cartes seront comptées.*
+
+
+=== Phase 3 : décompte et mise à jour
+
+Une fois que les deux joueur·euse·s ont réalisé leurs 4 actions, la partie passe à la phase 3.
+
+Les deux joueur·euse·s révèlent la carte placée sous leur Loup, et la placent de leur côté, à côté de la Geisha correspondante.
+Ensuite, comparez le nombre de cartes Objet de chaque côté de chaque Geisha :
+
+* Un côté en a plus que l’autre : le côté qui a le plus de cartes Objet remporte cette Geisha.
+Déplacez la carte Geisha de quelques centimètres vers le côté de la personne qui l’a remportée.
+* Égalité des deux côtés, ou aucune carte : ne déplacez pas la carte Geisha.
+
+Après le décompte, chaque joueur·euse compte les Geishas qu’il ou elle a remportées et additionne ses points de charme.
+Si un·e joueur·euse atteint l’objectif de victoire, la partie se termine immédiatement (voir <<end>>).
+
+Si personne n’atteint l’objectif de victoire, passez à la mise à jour :
+
+* Reprenez TOUTES les cartes Objet, celles de la table et la carte mise de côté, formez une pile face cachée et posez-la à côté.
+* Les cartes Geisha restent à leur place.
++
+NOTE: Ne les remettez pas au centre de la table.
+* Les deux joueur·euse·s redressent leurs cartes Action.
+* La personne qui jouait en second commence la manche suivante.
+* La manche suivante peut commencer.
+
+
+[#end]
+== Fin de la partie
+
+Si un·e joueur·euse remporte 4 Geishas ou 11 points de charme (ou plus), la partie se termine immédiatement.
+
+Si un·e seul·e joueur·euse atteint l’objectif de victoire, il ou elle gagne la partie.
+
+Si l’un·e remporte 4 Geishas et l’autre 11 points de charme (ou plus), c’est ce·tte dernier·e qui gagne.
+
+.Victoire
+====
+[%autowidth, frame=none, grid=none]
+|===
+| 2⎈ | | | 3♣ | 3♥ | |
+| | | 2♦ | | | |
+| | 2✿ | | | | 4♠ | 5★
+|===
+
+La personne en haut remporte 3 Geishas, pour un total de 8 points de charme. +
+La personne en bas remporte aussi 3 Geishas, mais pour un total de 11 points de charme.
+
+Comme la personne en bas atteint un objectif de victoire, la partie se termine immédiatement.
+La personne en bas gagne la partie.
+====

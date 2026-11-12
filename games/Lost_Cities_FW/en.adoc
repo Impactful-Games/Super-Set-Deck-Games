@@ -1,0 +1,244 @@
+= Lost Cities: Flip & Write
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 60 numbered cards: 1-10 in ♠, ♥, ♣, ♦, ✿ & ★.
+* 1 Monkey: the first player card.
+* One link:Lost_Cities_FW-Board.pdf[game sheet] and one pen per player.
+****
+
+Hunt for points in the jungle!
+One player flips four cards, chooses two of them as a result, and writes it on their game sheet.
+All the other players also choose a result from the remaining cards, and write it on their sheet.
+Numbers must be written in ascending order.
+Those who land on acceleration boxes or find gems may count themselves lucky.
+If you cannot or do not want to write anything down, you can use your passes.
+But not too often, as you want to make as much progress as possible, in order to end with the most points.
+
+
+== The game sheet
+
+. *Expeditions:* +
+The game sheet shows six expeditions running from the bottom to the top.
+Each of the six expeditions has its own suit, matching one of the six suits of the cards.
+The expedition on the left is ♠, the next one ♥, then ♣, ♦, ✿ and ★.
+
+. *Gems and passes:* +
+The right side of the game sheet shows a column of gems and, next to it, a column of card passing symbols.
+
+. *Score hexes:* +
+At various places of the sheet, small hexagons show the points for scoring:
+.. on the left, for the six expeditions (from -50 to 50);
+.. on the right, for the gems and the card passing symbols (from -40 to 100, and 0);
+.. a row of bonus points (20 each), in the upper third of the sheet.
+
+. *Empty score hexes:* +
+At the end of the game, write your points in the empty hexagons at the top of the game sheet.
+Points are scored for the six expeditions, the gems column and the card passing column.
+In the large empty hexagon at the top right, write your name and your overall score.
+
+. *Double point circle:* +
+If you circle the ×2 symbol at the bottom of an expedition, the points of this expedition are doubled.
+
+
+== Setup
+
+Each of you receives one link:Lost_Cities_FW-Board.pdf[*game sheet*].
+
+Place your game sheet in front of you, so that all the other players can easily see it during the game.
+
+Give the Monkey, the first player card, to the greatest adventurer (or, if unsure, to the last person who went on a hike).
+This player takes the first turn.
+
+Shuffle the cards, and form a draw deck of 24 random cards.
+Set the other cards aside without looking at them.
+
+Each player needs a pen.
+
+
+== Course of play
+
+Play continues clockwise from the first player.
+
+
+=== Flip the cards and choose
+
+On your turn, flip four cards from the draw deck and place them in the middle of the table.
+
+* Out of the four cards, pick one for its suit and one for its value, and place them both in front of you.
+You are *not allowed* to use the same card for both suit and value.
+
+* The two remaining cards stay in the middle of the table, available to all the other players.
+** Each of the other players may choose a combination of one suit and one value from the two cards in the middle of the table.
+They *are allowed* to use the same card for both suit and value.
+Leave the two cards in the middle.
+Do not move them.
+** Several players may choose the same combination.
+
+Each player writes the chosen combination of suit and value on their game sheet, as described in <<lead-expeditions>>.
+
+
+==== Refusing the draw
+
+* The player who flipped the cards may refuse the draw and not choose any combination.
+In this case, they discard one of the four cards (of their choice).
+The three remaining cards stay in the middle and are available to all the other players.
+
+* All the other players may also refuse the two or three cards and not choose any combination (this has no effect on the cards in the middle of the table).
+
+Every player who refuses to write a result on their game sheet must mark their sheet as described in <<refusing-cards>>.
+
+
+[#lead-expeditions]
+=== Lead expeditions
+
+*Each expedition is tracked from the bottom to the top.*
+
+
+==== ×2 symbol (double points)
+
+If you combine a *10 with the matching suit*, you can circle the "×2" symbol.
+To use the ×2, you must *circle it before* you start an expedition in the column of this suit.
+
+You may start an expedition without circling the ×2 symbol, but you are not allowed to circle it after the expedition has started.
+
+If you start an expedition without using the ×2 symbol, cross it out.
+
+*If the ×2 symbol is circled, the expedition is worth double points at the end of the game.*
+
+
+==== Expedition boxes
+
+*When you start or continue an expedition*, write numbers into the nine boxes of the expedition, one after the other (from the bottom to the top).
+The smallest possible number is "1".
+
+*Each number must be equal to or greater than the previous one.*
+
+TIP: Of course, it's a good idea to start small and not to make too many big jumps.
+This ensures that you have as many numbers as possible to choose from later.
+
+
+==== Acceleration boxes
+
+If you write a number in a box with an arrow, you can accelerate any one of your expeditions.
+To accelerate, write the same number again in the next box up of the chosen expedition.
+(For example, if the highest number of the expedition you chose to accelerate is a 2, write a 2 in the box above it.)
+If this box is also an acceleration box, you can accelerate again.
+However, you may not use an acceleration to circle a ×2 symbol.
+
+TIP: You can use an acceleration box to start a new expedition.
+To do so, write a 1 in its first box (and cross out its ×2 symbol if it is not already circled).
+
+
+==== Gem boxes
+
+If you write a number in a box with a gem, immediately circle a gem on the right side of your game sheet.
+This is also done from the bottom to the top.
+If you have already circled all the gems of the right-hand column, writing in a gem box has no further effect.
+
+
+[#refusing-cards]
+==== Refusing cards
+
+If you refuse the cards, you must circle a card passing symbol on the right side of your game sheet.
+This is also done from the bottom to the top.
+
+If you have already circled all nine card passing symbols, you may still refuse the cards, with no further effect.
+
+
+==== Bonus bridges
+
+If you write a number in the seventh box of a column, or circle the seventh gem or the seventh card passing symbol, you have crossed the matching bonus bridge, and you must announce it immediately.
+
+You receive *20 bonus points*, but only if you are the *first player to cross this bonus bridge*.
+If several players cross this bridge in the same turn, they all receive 20 bonus points.
+
+* Whoever receives the bonus circles the "20" on the matching bridge.
+* The players who do not receive the bonus during this turn must cross out the matching bridge on their game sheet.
+
+[TIP]
+====
+*Recommendation: play in sequence.*
+
+In most cases, players make their choices independently and may act simultaneously.
+Sometimes, however, your own choice depends on the choices of the others (for example, for bonus points).
+In this case, you may request that the card combinations be chosen and written on the game sheets in clockwise order.
+
+Even when acting simultaneously, it is best to announce your entry out loud.
+
+If you reach acceleration boxes, gems or bridges, you should also announce how you proceed.
+Then the next player in clockwise order announces their choice, writes it on their game sheet, and so on.
+This is the most exciting way to play, as everyone understands the turns of their opponents.
+====
+
+
+=== Continue play
+
+Discard the four flipped cards.
+
+If the draw deck is now empty, shuffle all the cards, and form a new draw deck of 24 random cards.
+
+
+== End of the game and scoring
+
+If a player circles the ninth (last) card passing symbol on the right side of their game sheet, they are "exhausted".
+This player loses all the points of this column.
+However, they keep playing.
+
+Once you have circled your last card passing symbol, you score 0 points for this column.
+
+*The end of the game is triggered when, at the end of a turn:*
+
+* either all the players are "exhausted";
+* or all eight bridges have been crossed.
+The bridges may have been crossed by different players.
+
+Keep playing until every player has had the same number of turns.
+
+CAUTION: Once the end of the game has been triggered, players can still refuse cards (as before), but they *do not circle card passing symbols* when doing so.
+
+After the player on the right of the first player has taken their last turn, each player adds up their score as follows.
+
+
+=== Scoring expeditions
+
+* For each of your six expeditions, take the score shown on the left side of your game sheet.
+It is determined by the highest box of the column with a number written in it.
+
+* If three or fewer numbers are written in a column, the score is negative; beyond that, it is positive.
+
+* If the *×2 symbol at the beginning of the expedition is circled, the score is doubled* (positive or negative).
+
+* *If an expedition has no entries at all, it scores 0 points.*
+
+* *Beware!*
+*If you circled the ×2 symbol without continuing the expedition, you score -50 doubled, that is, -100 points.*
+
+* If you have circled the bonus bridge, add 20 points to the expedition.
+*Note: the bonus points of the bridges are not doubled.*
+
+* Write the points scored in the empty hexagons above the expeditions, at the top of the game sheet.
+
+
+=== Scoring gems and card passing symbols
+
+* For your columns of gems and of card passing symbols, take the points shown on the right side of your game sheet, and write your score in the empty hexagon above each column, at the top of the game sheet.
+
+* A completed column of nine circled gems is worth 100 points.
+
+* A completed column of nine circled card passing symbols makes you "exhausted" and scores 0 points.
+However, eight circled card passing symbols score 70 points.
+
+* Even if you are "exhausted", the 20 bonus points of the card passing column still count.
+
+
+=== Total score and winner
+
+Each player writes their *points in the hexagons at the top* of their game sheet.
+Write the resulting sum in the large hexagon at the top right of the sheet, together with the player's name.
+The player with the highest score wins.
+If several players tie for the highest score, they all win.

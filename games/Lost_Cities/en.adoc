@@ -1,0 +1,191 @@
+= Lost Cities
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* Base game:
+** 5 A cards: A in ♠, ♥, ♣, ♦ & ★.
+** 60 playing cards:
+*** 45 Expedition cards: 2-10 in ♠, ♥, ♣, ♦ & ★.
+*** 15 Wager cards: the 3 K in ♠, ♥, ♣, ♦ & ★.
+* _Six-expedition variant_:
+** 1 additional A card: ✿A.
+** 12 additional playing cards:
+*** 9 Expedition cards: 2-10 in ✿.
+*** 3 Wager cards: the 3 K in ✿.
+* Paper and a pencil to keep the score.
+****
+
+*The Duel of the Explorers*
+
+Place your cards to form expedition routes that lead you to remote and mysterious corners of the Earth: the Himalayan mountains, the Central American rainforest, the Egyptian desert, a mysterious volcano and the bottom of the sea.
+And if you are particularly daring, you can also bet on the success of an expedition with Wager cards.
+But beware: this can backfire.
+If after three rounds you have the highest overall score, you win.
+
+NOTE: The game rules are very simple.
+But don't get the wrong impression.
+There is much more to discover in Lost Cities than it might seem at first glance!
+
+
+[#preparation]
+== Preparation
+
+Place the *5 A cards* (♠, ♥, ♣, ♦ & ★) in a line in the middle of the table, between the two players.
+They mark the five spaces for the discard piles.
+
+Put the ✿A and the 12 ✿ playing cards (9 Expedition cards & 3 Wager cards) back in the box.
+They are not needed for the base game.
+
+Shuffle the 60 playing cards.
+Deal *eight cards* face down to each player.
+These are your *hand*.
+Place the remaining cards face down next to the line of A cards: they form the *draw pile*.
+
+Have a pencil and paper ready to tally your scores.
+
+
+== Object of the game
+
+Your goal is to form expedition routes that earn you as many discovery points as possible, after subtracting the expedition costs.
+You set up the expeditions by forming a separate column of cards for each suit.
+The values within a column of cards must increase from card to card.
+You can place Wager cards at the beginning of each column to multiply its value.
+At the end of the round, the cards in each player's columns are scored.
+
+
+== Sequence of play
+
+The oldest player begins.
+Then, the players alternate turns.
+Each player only places cards on their side of the line of A cards.
+
+During your turn, you must first play *one of the cards from your hand*.
+Only then can you *draw one new card*.
+
+
+=== 1. Play a card
+
+Choose a card from your hand.
+You have two options.
+
+
+==== Option 1: place a card in one of your expedition columns
+
+You can use this card to *start a new expedition* or to *expand an existing expedition*.
+To do this, place the card face up on your side of the line, in front of the A card of the same suit.
+
+You may only place additional cards at the end of a column.
+Place the cards of a column so that they overlap, with the values of all the cards clearly visible.
+
+IMPORTANT: Each new card you place in a column must have a *higher value* than the last card you placed in this column.
+
+A *Wager card* may only be placed at the beginning of a column.
+You may place several Wager cards on an expedition: 0, 1, 2 or 3 Wager cards before its Expedition cards.
+However, as soon as you have placed an Expedition card on an expedition, you can no longer place any Wager card of its suit.
+
+
+==== Option 2: discard a card
+
+If you don't want to (or can't) place a card on an expedition, you must place a card from your hand face up on the A card of the same suit, whatever its value.
+In this manner, five discard piles are formed during the game, one for each suit.
+Place the cards on the piles so that only the top card is visible.
+
+
+=== 2. Draw a card
+
+Draw a new card into your hand, to get back to eight cards.
+You have two options: take the top card of the draw pile *or* take the top card of one of the five discard piles (if there is a card there).
+
+IMPORTANT: You are not allowed to draw the card you have just discarded.
+
+Once you have drawn a card, your turn ends.
+
+
+== End of the round and scoring
+
+The round ends *as soon as* a player draws the last card of the draw pile.
+
+NOTE: Near the end of the round, the players may agree to fan out the face-down draw pile a little and count the remaining cards, to estimate the number of turns left.
+
+When the round ends, each player's expeditions are scored.
+To do this, add up the values of all the cards in each expedition (each column of cards).
+From each column's sum, subtract 20 points.
+This is the expedition cost for that column.
+
+IMPORTANT: If you have not placed *any card* of a suit, this suit incurs *no expedition cost*.
+
+*After deducting the expedition cost*, if one, two or three Wager cards were placed at the beginning of a column, multiply the result by two, three or four, respectively.
+
+Hence, a column can earn you positive or negative points.
+If you haven't placed any card of a suit, you neither earn nor lose any points for this suit.
+
+Furthermore, each column of *at least eight cards* earns its owner a bonus of 20 points.
+
+IMPORTANT: This bonus is *not* multiplied by Wager cards!
+
+Write down the points of each player.
+Then start a new round as described in <<preparation>>.
+This time, the player who has the most points goes first.
+Add up your points after each round.
+
+If after three rounds you have the highest overall score, you win!
+
+
+== Variant: long game with six expeditions
+
+The long game is played as described above, with the following changes.
+During the preparation, place the ✿A at the end of the line to form a *sixth expedition space*.
+Then shuffle all *72 playing cards*, including the 12 ✿ playing cards.
+
+
+== Scoring example
+
+A player has placed the cards below.
+
+[options="autowidth",cols=">h,^,^,^,^,^",role="big-table"]
+|===
+| | ♠ | ♥ | ♣ | ♦ | ★
+
+| Cards
+|
+5 +
+8 +
+10
+|
+K
+|
+|
+K +
+3 +
+5 +
+7
+|
+K +
+K +
+2 +
+3 +
+5 +
+7 +
+8 +
+10
+
+| Sum | 23 | 0 | 0 | 15 | 35
+| Expedition cost | -20 | -20 | | -20 | -20
+| Subtotal | 3 | -20 | 0 | -5 | 15
+| Wager | | × 2 | | × 2 | × 3
+| Total | *3* | *-40* | *0* | *-10* | *45*
+| ≥ 8 cards bonus | | | | | *20*
+|===
+
+*Explanation of the ♥ column:* +
+The Wager card doubles the value of the column.
+Since no other card has been played, only the expedition cost is incurred, and it is doubled.
+
+The player has earned 18 points: stem:[3 - 40 - 10 + 45 + 20 = 18].
+
+TIP: As you can see in the example, it is better not to start an expedition at all if you can't bring it to a satisfactory conclusion.
+Also, only play Wager cards if you have enough cards for the expedition and there is still time to place them!

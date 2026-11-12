@@ -1,0 +1,191 @@
+= Hungry Monkey
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 72 cards: 1-11 & K in ♠, ♥, ♣, ♦, ✿ & ★.
+****
+
+In Hungry Monkey, you have cards both in hand and in a face-down row in front of you.
+*In order to win, you must be the first to play all your cards*, first from your hand and then from your card row.
+
+CAUTION: For this game, the suits of the cards *do not* matter: only their values do.
+
+
+== Setup
+
+. Shuffle all the cards and deal 3 to each player as their hand.
+. Deal *4 cards, face down in a row*, to each player.
+No one is allowed to look at these cards unless a card effect allows it later in the game.
+. Place the remaining cards in the middle of the playing area as a face-down draw pile.
+. Without looking at them, remove a number of cards from the draw pile depending on the number of players:
++
+[%autowidth, cols=">,^,^,^"]
+|===
+h| Number of players | 2 | 3 | 4
+h| Cards removed | 24 | 16 | 8
+|===
++
+With 5 or 6 players, play with the whole draw pile.
+
+The youngest player starts.
+
+
+== Gameplay
+
+Players take turns playing cards on the central pile, in clockwise order.
+On your turn, you *must*:
+
+. Play *one or more* cards face up on the central pile.
+. Trigger a *gang of four* if possible, *otherwise* trigger the *card effect*, if any.
+. *Draw back up to 3 cards* in hand, if possible.
+
+*During your turn, you try to:*
+
+* Optimize your cards (row and hand) until the draw pile is empty.
+* Get rid of all your cards after the draw pile is empty.
+
+
+=== 1. Play cards
+
+Choose one of these ways to play cards:
+
+* *Play cards from your hand*: +
+Play *any number of identical valid cards* from your hand.
++
+NOTE: You can *never play invalid cards* from your hand.
+
+* *Play 1 card from the draw pile*: +
+Draw the top card of the draw pile and play it face up on the central pile.
++
+NOTE: You may choose to play a card from the draw pile even if you have a valid card in hand.
+
+* *Play 1 card from your card row*: +
+If, and only if, the draw pile and your hand are empty, you may play *only one* card from your card row on the central pile.
+
+*Valid cards*: +
+For a card to be valid on the central pile, it must have the *same or a higher number* than the card on top of the central pile.
+If the *central pile is empty*, any card is valid.
+
+*Invalid cards*: +
+When you play a card from the draw pile or from your card row, it may show a lower number, and is therefore invalid.
+In this case, you *must* add the central pile, including the card you played, to your hand.
+*Do not* trigger its effect.
+
+*Card effects may change these rules!*
+
+.Playing from the draw pile
+====
+You play a card from the draw pile: a 3.
+It has a lower number than the 10 on the central pile, which makes it invalid.
+Add the whole central pile to your hand.
+*Do not* trigger the effect of the 3.
+====
+
+IMPORTANT: If the draw pile is empty and you have cards in hand, but no valid card, you must add the central pile to your hand.
+Then your turn is over.
+
+
+=== 2. Trigger an effect
+
+*Only* the topmost card you played can trigger a *card effect*.
+
+If you play several cards of the same value, apply the effect only once.
+
+A *gang of four* (see below) prevents any card effect!
+
+.Playing from your hand
+====
+You play two 2s.
+The card effect is triggered only *once*.
+====
+
+
+==== Card effects
+
+* *1*:
+** A 1 is *always valid*.
+** If you play your 1 on another 1, nothing happens.
+** If you play your 1 on another card, *take all* the cards of the central pile, except your 1.
+
+* *2*:
+** *Swap* one of your face-down cards with one of the cards in your hand.
+** If your hand is empty, the 2 has no effect.
+
+* *3*:
+** *Peek* at one face-down card of any player, including yourself.
+
+* *7*:
+** Take an *extra turn* (*after* the draw step).
+
+* *8*:
+** The next player must play a card with the *same or a lower* number.
+
+* *11*:
+** Discard all the cards of the central pile, including these 11s, to the discard pile.
+
+* *K*:
+** A K is *always valid*.
+** A K can be played alone or together with other valid cards.
+** If another card is on top of the K, the K copies its effect.
+** If no other card is on top of the K, the K copies the card below it and triggers its effect.
+** The copy of a K is permanent and does not need to be triggered.
+
+
+==== A gang of four
+
+If there are ever four or more cards of the same value (including copies by a K) on top of the central pile, the current player *must*:
+
+. Immediately discard all the cards of the central pile to the discard pile, *without* triggering any card effect.
+. Draw back up to 3 cards.
+. Take another turn.
+
+[CAUTION]
+====
+A K always counts towards a gang of four.
+It does not matter which card it copied originally.
+====
+
+.A gang of four
+====
+You play three 9s.
+Together with the K on top of the central pile, they trigger a gang of four.
+====
+
+
+=== 3. Draw back up to 3 cards
+
+Draw until you have 3 cards in hand (as long as the draw pile is not empty).
+
+If you have 3 or more cards in hand, do not draw.
+
+
+== End of the game
+
+*The first player to play all their cards*, both from their hand and from their card row, *is the winner*.
+
+Play continues with the remaining players until only one player has cards left.
+That player loses.
+
+
+== Optional scoring
+
+Score over 4 games.
+
+For each game:
+
+* The first player to play all their cards scores 5 points.
+* The second player to play all their cards scores 3 points.
+In a 2-player game, the second player does not score.
+* The third player to play all their cards scores 2 points.
+In a 3-player game, the third player does not score.
+* The last player with cards left loses 1 point.
+If they have no points, they lose none.
+
+The player who lost the last game starts the next one.
+
+After 4 games, the player with the most points wins.
+In case of a tie, all tied players win.

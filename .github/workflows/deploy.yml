@@ -1,0 +1,60 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+
+  deploy:
+    # macOS: designcraft-cli, which exports the boards and the game aids, is only released for macOS.
+    runs-on: macos-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out
+        uses: actions/checkout@v7
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Set up JDK Temurin 17
+        uses: actions/setup-java@v5
+        with:
+          distribution: temurin
+          java-version: 17
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v6
+      - name: Set up DesignCraft
+        uses: ./.github/actions/setup-designcraft
+        with:
+          fonts-passphrase: ${{ secrets.FONTS_PASSPHRASE }}
+      # BoardGameGeek answers are kept between runs: the API is only called for new games.
+      - name: Cache BoardGameGeek data
+        uses: actions/cache@v4
+        with:
+          path: build/bgg-cache
+          key: bgg-${{ hashFiles('games/*/game.yaml') }}
+          restore-keys: bgg-
+      - name: Build the site
+        run: ./gradlew --stacktrace :app:site
+        shell: bash
+        env:
+          BGG_TOKEN: ${{ secrets.BGG_TOKEN }}
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: app/build/site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

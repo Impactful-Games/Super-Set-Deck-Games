@@ -1,0 +1,90 @@
+= Zéro!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 56 cartes numérotées : 1-8 à ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+* Du papier et un crayon pour noter les scores.
+****
+
+À tour de rôle, dans le sens des aiguilles d'une montre, échangez une carte de votre main contre une carte de la table.
+Le but est d'avoir le moins de points possible à la fin de la manche.
+Si quelqu'un réussit un ZÉRO (une main qui vaut zéro point), la manche s'arrête immédiatement.
+Après plusieurs manches, la personne qui a le moins de points au total l'emporte.
+
+
+== Mise en place
+
+Mélangez les cartes et distribuez-en 9 à chaque joueur·euse.
+Prenez vos cartes en main, sans montrer leurs valeurs aux autres.
+Puis étalez cinq cartes (ou, en variante, sept cartes) face visible au milieu de la table, les unes à côté des autres.
+À 2 joueur·euse·s, étalez neuf cartes.
+Écartez les autres cartes face cachée : elles ne servent pas pendant cette manche.
+
+
+== Tour de jeu
+
+La personne à gauche de la donneuse ou du donneur commence la manche.
+Puis le jeu continue dans le sens des aiguilles d'une montre.
+À votre tour, vous devez soit échanger, soit frapper sur la table.
+
+
+=== Échanger
+
+Posez une carte de votre main face visible sur la table.
+Puis prenez une autre carte de la table dans votre main.
+Votre tour est terminé.
+
+
+=== Frapper
+
+Si vous ne voulez pas échanger de carte, frappez une fois sur la table.
+Votre tour est terminé.
+
+Le premier coup frappé de la manche est sans effet : le jeu continue normalement.
+En revanche, le deuxième coup frappé de la manche (qu'il soit frappé par la même personne ou par une autre) annonce la dernière occasion d'échanger.
+Après ce deuxième coup, tout le monde joue une dernière fois avant la fin de la manche, sauf la personne qui a frappé le deuxième coup.
+Si vous ne voulez pas profiter de cette dernière occasion d'échanger, frappez simplement sur la table et passez.
+
+
+== Décompte
+
+5 cartes ou plus de la même couleur, ou 5 cartes ou plus du même nombre, valent 0 point.
+Sinon, chaque nombre présent dans votre main compte une seule fois.
+
+Par exemple, un 7 seul vaut 7 points, tout comme deux, trois ou quatre 7.
+En revanche, cinq 7 ou plus valent 0 point.
+
+.Décompte
+====
+2♣ 5♥ 5★ 3⎈ 3♦ 3♠ 3♣ 3★ 3♥ -> 2 + 5 = 7 points
+
+1✿ 1♠ 4♣ 8♠ 1♥ 3♥ 4♥ 7♥ 8♥ -> 1 + 4 + 8 = 13 points
+
+1♦ 2♠ 2♥ 2♣ 5⎈ 7⎈ 7♠ 7♦ 7★ -> 1 + 2 + 5 + 7 = 15 points
+====
+
+
+== Zéro
+
+Si vous réussissez à former une main de cinq cartes de la même couleur et de cinq cartes du même nombre (une de vos neuf cartes appartenant aux deux groupes), vous avez réussi un ZÉRO.
+C'est le seul cas où une main peut valoir 0 point.
+Révélez aussitôt vos cartes et annoncez « Zéro ».
+La manche s'arrête, et toutes les mains sont comptées immédiatement (les cartes des autres joueur·euse·s sont comptées normalement).
+
+.Zéro
+====
+8♠ 7♠ 5♠ 1♠ 2♠ 2♦ 2♥ 2★ 2♣ -> Zéro !
+====
+
+
+== Manche suivante
+
+Après avoir noté les points de chacun·e, mélangez toutes les cartes pour commencer la manche suivante.
+Jouez autant de manches qu'il y a de joueur·euse·s.
+
+La personne qui a le moins de points au total l'emporte.

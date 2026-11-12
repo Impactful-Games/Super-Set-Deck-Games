@@ -1,0 +1,181 @@
+= Eternity
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 42 cartes Jeu : 1-14 à ♠, ♥ & ♣.
+* 3 cartes Atout : les A de ♠, ♥ & ♣.
+* 18 cartes Animal : 6 Papillons, 6 Loups, 4 Phénix & 2 Dragons.
+* Du papier et un crayon pour noter les scores.
+****
+
+Marquez des points en faisant coïncider les plis que vous ramassez et les engagements que vous prenez.
+Pour cela, il vous faut :
+
+* recueillir les animaux que vous vous engagez à loger ;
+* conquérir les presqu'îles (les plis) où loger vos animaux.
+
+CAUTION: Pour ce jeu, toutes les cartes Animal sont équivalentes : l'espèce de l'animal ne compte pas.
+
+
+== Mise en place
+
+Sur le côté de la table, placez les 3 cartes Atout côte à côte, dans l'ordre de votre choix.
+Ces 3 cartes forment *le tableau d'atouts*.
+Laissez de la place sous chaque carte pour une colonne de cartes de sa couleur.
+
+À côté, placez les 18 cartes Animal en une pile face visible.
+
+*Une partie se joue en 3 manches.*
+
+*La personne la plus sage* (à qui appartient ce Super-Set Deck) est la première à distribuer et à jouer.
+
+
+== Déroulement de la première manche
+
+La personne qui distribue mélange les cartes Jeu face cachée et les distribue deux par deux :
+
+* à 5 joueur·euse·s, 8 cartes à chacun·e ;
+* à 4 joueur·euse·s, 10 cartes à chacun·e.
+
+Placez les 2 cartes restantes dans le tableau d'atouts, dans la colonne de leur couleur.
+
+* À 3 joueur·euse·s, distribuez comme à 4, puis placez face visible au-dessus du tableau d'atouts les 10 cartes qui n'ont pas été distribuées.
+
+Le nombre de cartes en main détermine le nombre de tours de jeu (le nombre de plis) de la manche.
+
+Dans le tableau d'atouts, l'atout est la couleur qui a le plus de cartes, ou, en cas d'égalité, la plus à gauche des couleurs à égalité.
+Les valeurs des cartes du tableau d'atouts ne comptent pas.
+
+[IMPORTANT]
+====
+*Dans Eternity, l'atout peut changer à la fin de chaque tour de jeu !*
+Surveillez bien le tableau d'atouts.
+====
+
+
+=== Tour de jeu
+
+Pour commencer un tour de jeu (un pli), la première personne pose une carte.
+
+Chaque personne suivante choisit alors de :
+
+* *Participer au pli :* jouez une carte de la couleur de la première carte.
+Si vous n'en avez pas, vous devez jouer une carte de la couleur d'atout.
+Si vous n'en avez pas non plus, jouez la carte de votre choix.
+
+* *S'engager :* *ne mettez pas votre carte dans le pli*, mais *posez-la face visible et à l'horizontale devant vous*.
+Vous pouvez engager une carte de n'importe quelle couleur, puisque la carte engagée ne fait pas partie du pli.
+Prenez ensuite un nombre de cartes Animal qui dépend de la valeur de la carte engagée, et posez-les face visible devant vous :
++
+[%autowidth,cols="^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^"]
+|===
+h| 1 .4+| *0* .5+| h| 5 .5+| *1* .5+| h| 10 .5+| *2*
+h| 2 h| 6 h| 11
+h| 3 h| 7 h| 12
+h| 4 h| 8 h| 13
+2+| h| 9 h| 14
+|===
++
+Si la carte donne 0 animal (valeurs 1 à 4), vous n'en prenez aucun, mais votre engagement compte quand même.
+
+[IMPORTANT]
+====
+Dans un tour de jeu (un pli), à 3 ou 4 joueur·euse·s, une seule personne peut s'engager.
+À 5 joueur·euse·s, deux personnes seulement peuvent s'engager.
+
+Les autres doivent donc participer au pli.
+Un pli peut aussi n'avoir aucun engagement.
+====
+
+
+=== Fin du tour
+
+Quand chacun·e a posé une carte, le tour de jeu est terminé.
+
+*Parmi les cartes qui participent au pli :*
+
+* s'il y a des cartes d'atout, la carte d'atout la plus forte remporte le pli ;
+* s'il n'y a pas d'atout, la carte la plus forte de la couleur demandée (la couleur de la première carte du pli) remporte le pli.
+
+La personne qui a joué la carte gagnante prend le pli : elle empile toutes les cartes du pli face cachée devant elle.
+Elle a conquis une presqu'île !
+Les presqu'îles ne peuvent pas être retournées pour en revoir les cartes.
+
+*La carte engagée* (ou les deux cartes engagées à 5 joueur·euse·s) *est ajoutée au tableau d'atouts*, dans la colonne de sa couleur.
+Les joueur·euse·s découvrent alors l'atout du tour suivant.
+
+La personne qui a remporté le pli devient la première à jouer au pli suivant.
+Les tours de jeu s'enchaînent jusqu'à ce que les joueur·euse·s n'aient plus de cartes en main.
+
+
+=== Loger un animal
+
+Pendant la manche, au fur et à mesure que vous amassez des plis et des animaux, vous pouvez loger vos animaux.
+Pour cela, posez l'une de vos cartes Animal face visible sur l'un de vos plis : l'animal est logé.
+Vous pouvez toujours poser l'un de vos animaux sur l'un de vos plis à tout moment, que vous ayez obtenu l'animal ou le pli en premier.
+
+
+== Fin de la première manche
+
+Chaque joueur·euse compte ses plis et ses animaux :
+
+* Si vous avez exactement autant d'animaux que de plis, *vous marquez 1 point par animal, plus le bonus d'harmonie* : *2 points* pour cette première manche.
+* Si vous avez logé tous vos animaux, MAIS que vous avez aussi des plis sans animal, *vous marquez 1 point par animal*.
+* S'il vous reste des animaux sans logement, *vous ne marquez aucun point !*
+Tel est le sort de celles et ceux qui laissent des animaux sans habitat et ne respectent pas leurs engagements !
+
+IMPORTANT: Une personne qui n'a fait aucun pli et pris aucun animal a autant d'animaux que de plis, et marque elle aussi le bonus d'harmonie.
+
+Notez les points de chaque joueur·euse.
+Tout le monde remet ensuite ses cartes Animal à côté du tableau d'atouts.
+
+
+== Deuxième et troisième manches
+
+Ces deux manches se jouent comme la première, sauf que :
+
+* *La personne qui a marqué le moins de points* à la manche précédente mélange toutes les cartes Jeu (celles des plis et du tableau d'atouts), distribue et entame le premier pli.
+En cas d'égalité, la plus âgée des personnes à égalité commence.
+* *Le bonus d'harmonie est de 4 points à la deuxième manche, et de 7 points à la troisième manche !*
+(Pour rappel, une personne qui a 0 pli et 0 animal le marque aussi.)
+
+
+== Fin de la partie
+
+Après trois manches, la personne qui a le plus grand total de points remporte la partie.
+En cas d'égalité, la personne à égalité qui a marqué le plus de points à la dernière manche l'emporte.
+S'il y a toujours égalité, les personnes à égalité se partagent la victoire.
+
+
+== Variante aux points
+
+Vous pouvez jouer des parties plus longues, en plus de manches, jusqu'à un nombre de points fixé (20, par exemple).
+Dans ce cas, les règles normales s'appliquent, sauf que :
+
+* le *bonus d'harmonie* est toujours de *3 points*, à la fin de chaque manche ;
+* *seule la personne (ou les personnes, en cas d'égalité) qui marque le plus de points pendant la manche* marque ces points (animaux et bonus d'harmonie).
+Les autres ne marquent rien pour la manche.
+
+
+== Partie à deux
+
+La personne qui distribue mélange les cartes Jeu face cachée et distribue *14 cartes* à chacun·e des deux joueur·euse·s.
+Les 14 cartes restantes forment un tas neutre face cachée, qui tient le rôle d'un·e troisième joueur·euse.
+
+Chaque manche, brève et intense, se joue en *7 plis*.
+
+Au début de chaque tour, révélez les deux premières cartes du tas neutre.
+Attention : au premier tour seulement, placez aussitôt ces deux cartes dans le tableau d'atouts.
+
+À chaque tour, les deux joueur·euse·s (A et B) jouent les quatre cartes du pli dans cet ordre : une carte de A, une carte de B, une carte de B, une carte de A.
+*Pour le reste, la règle normale s'applique intégralement.*
+
+* La première personne d'un tour peut s'engager quand elle joue sa deuxième carte, puisque sa première carte ouvre le pli.
+* La deuxième personne peut s'engager aussi bien avec sa première qu'avec sa deuxième carte.
+
+Il n'y a bien sûr qu'un seul engagement par pli.

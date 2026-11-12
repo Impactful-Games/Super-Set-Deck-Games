@@ -1,0 +1,21 @@
+bggId: 142325
+authors: Jun Sasaki
+type:
+  - Bluffing
+  - Auction
+players: 3, 4, 5, 6, 7, 8
+cards:
+  Base:
+    all-players:
+      stars: 0-11
+      specials: Monkey
+    4,5,6,7,8-players:
+      stars: 12-14
+    5,6,7,8-players:
+      stars: 15-17
+    6,7,8-players:
+      stars: 18-20
+    7,8-players:
+      stars: 21,J,S
+    8-players:
+      stars: C, Q, K

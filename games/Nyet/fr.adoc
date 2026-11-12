@@ -1,0 +1,282 @@
+= Niet !
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 60 cartes de jeu : 1-12 & 3 K à ♠, ♥, ♣ & ♦ (sans les 10-12 à 3 joueur·euse·s).
+* 19 cartes « Niet ! » :
+** 5 cartes Défausse : 0-2, ► & K à ⎈.
+** 4 cartes Atout : A à ♠, ♥, ♣ & ♦.
+** 5 cartes Superatout : S à ♠, ♥, ♣ & ♦, et la carte Ø.
+** 5 cartes Valeur de pli : 1-4 & -‽ à ★.
+* 1 carte Bonus : ×2★.
+* Des cartes Personnage, 2 par joueur·euse : 2 Papillons & 2 Loups, plus 2 Phénix à partir de 3 joueur·euse·s, 2 Serpents à partir de 4 joueur·euse·s, 2 Dragons à partir de 5 joueur·euse·s, et 2 Singes à 6 joueur·euse·s.
+* Du papier et un crayon pour noter les scores.
+
+TIP: Au lieu d'utiliser les cartes « Niet ! », vous pouvez jouer avec un link:Nyet-Board.pdf[plateau] et des jetons pour en couvrir les options.
+****
+
+Les joueur·euse·s sont réparti·e·s en 2 équipes qui tentent chacune de marquer des points en remportant des plis.
+
+Chaque pli dépend des décisions prises par les joueur·euse·s au début de la manche.
+Par exemple, les joueur·euse·s choisissent la couleur d'atout et la valeur des plis.
+
+À chaque manche, les joueur·euse·s retirent des cartes « Niet ! » de leur choix, et décident ainsi de ce qui ne sera PAS permis pendant la manche.
+Par exemple, si un·e joueur·euse retire la carte Atout A♥, le ♥ ne sera pas la couleur d'atout de la manche.
+
+
+== Mise en place
+
+* Choisissez un Personnage et posez l'une de ses deux cartes face visible devant vous.
+
+* Placez les cartes « Niet ! » au centre de la table en 5 lignes :
+** *Premier·e joueur·euse* : une carte Personnage par joueur·euse (la seconde carte du Personnage choisi par chaque joueur·euse).
+** *Défausse* : 0⎈, 1⎈, 2⎈, ►⎈ & K⎈.
+** *Atout* : A♠, A♥, A♣ & A♦.
+** *Superatout* : S♠, S♥, S♣, S♦ & la carte Ø.
+** *Points* : 1★, 2★, 3★, 4★ & -‽★.
+
+* À 3 joueur·euse·s, retirez 12 cartes de jeu (voir <<setup-specs>>).
+À 2, 4, 5 ou 6 joueur·euse·s, utilisez les 60 cartes de jeu.
+
+* Désignez une personne qui prend du papier et un crayon et se charge de noter les scores.
+Elle y inscrit les points des joueur·euse·s pendant la partie.
+
+* Désignez au hasard qui distribue.
+Cette personne mélange les cartes de jeu et les distribue une par une aux joueur·euse·s, face cachée.
+
+
+== Déroulement de la partie
+
+La partie se joue en plusieurs manches (selon le nombre de joueur·euse·s).
+Chaque manche se divise en 2 phases : la phase « Niet ! » et la phase de plis.
+Pendant la phase « Niet ! », les joueur·euse·s fixent les conditions de la phase de plis qui suit.
+
+
+=== Déroulement d'une manche
+
+Au début d'une manche, la personne qui distribue mélange les cartes de jeu et les distribue aux joueur·euse·s.
+Passez ensuite à la phase « Niet ! ».
+
+
+=== La phase « Niet ! »
+
+Les joueur·euse·s regardent leurs cartes et tentent d'influencer en leur faveur les conditions de la phase de plis à venir en retirant des cartes « Niet ! ».
+
+La personne qui distribue retire toujours en premier une carte « Niet ! » de son choix de la table.
+Par exemple, si vous n'avez que peu de cartes ♠, vous pouvez retirer de la table la carte « Niet ! » A♠, et décider ainsi que le ♠ n'est pas l'atout de cette manche.
+
+Une fois qu'elle a retiré une carte « Niet ! », la personne suivante dans le sens horaire fait de même, et ainsi de suite.
+Il est interdit de retirer la dernière carte « Niet ! » d'une ligne.
+Dès qu'il ne reste plus qu'une carte « Niet ! » par ligne (5 cartes en tout), la phase « Niet ! » prend fin.
+
+
+=== Les cartes « Niet ! »
+
+La carte restant dans chaque ligne sur la table fixe les conditions de la manche en cours.
+
+
+==== Ligne 1 : premier·e joueur·euse [cartes Personnage]
+
+La personne dont la carte Personnage reste sur la table est premier·e joueur·euse.
+Elle choisit son équipe.
+Les autres joueur·euse·s forment l'équipe adverse.
+Elle choisit qui reçoit la carte Bonus, et joue la première carte de la phase de plis.
+
+
+==== Ligne 2 : défausse [cartes ⎈]
+
+Pour cette manche, chaque joueur·euse doit défausser face cachée le nombre de cartes indiqué.
+Ces cartes ne sont pas utilisées pendant la manche et ne comptent pas pour les points.
+
+Si la carte K⎈ reste sur la table, chaque joueur·euse doit défausser une carte, qui ne doit *pas* être un K.
+
+Si la carte ►⎈ reste sur la table, chaque joueur·euse doit à la place donner une carte de son choix à son voisin ou sa voisine de gauche.
+
+Si la carte 0⎈ reste sur la table, personne ne défausse de carte.
+
+
+==== Ligne 3 : atout [cartes A]
+
+La couleur d'atout de la manche est la couleur de la carte A restant sur la table.
+La couleur d'atout peut être ♠, ♥, ♣ ou ♦.
+
+
+==== Ligne 4 : superatout [cartes S]
+
+Les trois cartes K de la couleur de la carte S restant sur la table sont les superatouts.
+Les superatouts peuvent être les cartes K à ♠, ♥, ♣ ou ♦, ou il peut n'y avoir aucun superatout pendant la manche (la carte Ø).
+Si vous avez choisi un superatout pendant la phase « Niet ! », il devient agent double !
+Quelle que soit sa couleur d'origine, pendant la phase de plis, le superatout compte comme une carte de la couleur d'atout.
+
+
+==== Ligne 5 : points (pli/butin) [cartes ★]
+
+La valeur des cartes ne compte pas pour les points.
+Chaque pli remporté et chaque carte K capturée à l'équipe adverse (butin) rapporte le nombre de points de la carte ★ restant sur la table.
+Si la carte -‽★ reste sur la table, chaque pli et chaque butin de la manche vaut -2 points (voir <<loot>>).
+
+
+=== La phase de plis
+
+Avant que la phase de plis ne commence réellement :
+
+* Le ou la premier·e joueur·euse forme les équipes en choisissant ses partenaires.
+* Chaque joueur·euse défausse le nombre de cartes indiqué (ou donne 1 carte à son voisin ou sa voisine de gauche, le cas échéant).
+
+Le ou la premier·e joueur·euse commence ensuite la phase de plis en jouant une carte de son choix face visible sur la table.
+
+Les autres joueur·euse·s jouent dans le sens horaire, chacun·e posant une carte face visible à son tour.
+Les règles suivantes doivent être respectées :
+
+* Vous devez suivre la couleur de la première carte jouée, si vous le pouvez.
+* Si vous ne pouvez pas suivre, vous pouvez jouer n'importe quelle carte de votre main (y compris un atout ou un superatout).
+* Si la première carte est un atout, vous devez jouer un atout ou un superatout, si vous le pouvez.
+* Si la première carte est un superatout, vous devez jouer un atout ou un superatout, si vous le pouvez.
+
+Une fois que chaque joueur·euse a joué une carte, vérifiez qui remporte le pli (le pli étant une carte jouée par chaque joueur·euse).
+
+.Partie à 5
+====
+La carte Loup reste sur la ligne 1.
+La personne qui a le Loup est donc premier·e joueur·euse, et forme une équipe de 3 avec les personnes qui ont le Papillon et le Dragon.
+Elle donne la carte Bonus à une personne de l'équipe adverse (celle qui a le Phénix ou celle qui a le Serpent). +
+La carte 0⎈ reste sur la table : aucune carte n'est défaussée. +
+La carte A♣ indique que la couleur d'atout est le ♣. +
+La carte S♠ indique que les cartes K à ♠ sont les superatouts. +
+Enfin, la carte 2★ indique que pendant cette manche, chaque pli et chaque butin vaut 2 points (voir <<loot>>).
+====
+
+
+=== Qui remporte le pli ?
+
+* La carte la plus forte de la couleur demandée remporte le pli, à moins qu'un atout ou un superatout ait été joué.
++
+CAUTION: Les cartes K qui ne sont pas des superatouts ont une valeur de 0.
++
+Si plusieurs cartes de même valeur et de même couleur sont jouées, c'est la dernière jouée qui remporte le pli (cela vaut aussi pour les atouts et les superatouts).
+* Si un ou plusieurs atouts sont joués sans aucun superatout, l'atout le plus fort remporte le pli.
+* Si un superatout est joué, il remporte le pli.
+
+La personne qui remporte le pli ramasse ses cartes et les empile face cachée devant elle, en gardant chaque pli remporté séparé.
+
+Elle commence le pli suivant en jouant une carte de son choix.
+
+Une fois tous les plis joués (et quand plus personne n'a de carte en main), comptez les points.
+
+Chaque équipe compte le nombre de plis remportés et de cartes butin capturées (voir ci-dessous).
+Ce total est multiplié par les points de la manche, indiqués par la carte ★ restant sur la ligne 5.
+La personne qui note les scores inscrit les résultats.
+
+
+[#loot]
+== Le butin
+
+Les cartes K deviennent un butin lorsqu'elles sont capturées à l'équipe adverse.
+Cela vaut aussi pour les superatouts.
+Lorsqu'un·e joueur·euse remporte un pli qui contient une carte K jouée par un·e adversaire, il ou elle la réclame comme butin.
+Chaque carte K capturée est placée face visible à côté de la pile des plis remportés pendant cette manche.
+Il est possible de gagner jusqu'à 3 cartes butin dans un même pli.
+
+.Pli
+====
+Le ou la premier·e joueur·euse (d'une équipe de 3) joue 8♦. +
+Son ou sa partenaire joue K♦, puis une personne de l'équipe adverse joue 3♦. +
+La seconde personne de l'équipe adverse n'a pas de carte ♦ et choisit de jouer K♣ (le ♣ est l'atout). +
+Pour finir, la dernière personne de l'équipe de 3 n'a pas non plus de carte ♦, et joue 6♣. +
+Cette dernière personne remporte le pli et prend les 5 cartes : le K♣ face visible devant elle, et les 4 autres cartes en une pile face cachée.
+Le K♦ n'est pas un butin, car c'est un ou une partenaire qui l'a joué.
+====
+
+
+== Nouvelle manche
+
+Après le décompte, replacez toutes les cartes « Niet ! » sur la table.
+La personne à gauche de celle qui a distribué en dernier distribue à son tour.
+Elle mélange toutes les cartes de jeu et les distribue à nouveau.
+Une nouvelle manche commence.
+
+
+== Fin de la partie
+
+La partie se termine après un nombre de manches fixé.
+
+[%autowidth]
+|===
+h| Joueur·euse·s | 2 | 3 | 4 | 5 | 6
+h| Manches | 8 | 9 | 8 | 10 | 12
+|===
+
+*Chaque joueur·euse distribue le même nombre de fois.*
+
+À la fin de la partie, la personne qui a le plus de points l'emporte.
+En cas d'égalité, il y a plusieurs gagnant·e·s.
+
+[TIP]
+.Variante
+====
+Vous pouvez aussi jouer avec un objectif de points fixé en début de partie.
+Par exemple, vous pouvez décider que la partie se termine dès qu'un·e joueur·euse atteint 100 points.
+====
+
+
+[#setup-specs]
+== Cas particuliers de mise en place
+
+=== Carte Bonus ×2★
+
+N'utilisez cette carte qu'à 3 ou 5 joueur·euse·s.
+
+La personne ou l'équipe en infériorité numérique reçoit la carte Bonus.
+À 5, le ou la premier·e joueur·euse décide laquelle des 2 personnes de cette équipe la reçoit (y compris soi-même).
+Cette carte double les points que la personne qui la détient marque pendant la manche.
+
+
+=== 6 joueur·euse·s
+
+Utilisez les 60 cartes.
+Distribuez 10 cartes à chaque joueur·euse.
+On joue à 3 contre 3, et le ou la premier·e joueur·euse choisit ses partenaires.
+La partie se termine après 12 manches.
+
+
+=== 5 joueur·euse·s
+
+Utilisez les 60 cartes.
+Distribuez 12 cartes à chaque joueur·euse.
+On joue à 3 contre 2.
+Le ou la premier·e joueur·euse choisit s'il ou elle joue dans l'équipe de 2 ou de 3.
+Il ou elle choisit aussi qui joue dans chaque équipe.
+Il ou elle donne la carte Bonus à une personne de l'équipe de 2 (éventuellement à soi-même).
+Cette personne double les points que lui rapportent les plis et les butins pendant cette manche.
+La partie se termine après 10 manches.
+
+
+=== 4 joueur·euse·s
+
+Utilisez les 60 cartes.
+Distribuez 15 cartes à chaque joueur·euse.
+On joue à 2 contre 2, et le ou la premier·e joueur·euse choisit son ou sa partenaire.
+La partie se termine après 8 manches.
+
+
+=== 3 joueur·euse·s
+
+Retirez les cartes 10, 11 et 12 de chaque couleur : il reste 48 cartes, et vous en distribuez 16 à chaque joueur·euse.
+On joue à 1 contre 2.
+Le ou la premier·e joueur·euse choisit de jouer seul·e ou avec un ou une partenaire.
+La personne seule reçoit la carte Bonus : tous ses points sont doublés.
+La partie se termine après 9 manches.
+
+
+=== 2 joueur·euse·s
+
+Utilisez les 60 cartes.
+Distribuez 15 cartes à chaque joueur·euse.
+Les 30 cartes restantes ne sont pas utilisées pendant cette manche.
+Mettez-les de côté face cachée, et mélangez-les de nouveau au paquet pour la manche suivante.
+La partie se termine après 8 manches.

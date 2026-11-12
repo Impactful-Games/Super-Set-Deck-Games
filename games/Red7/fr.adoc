@@ -1,0 +1,152 @@
+= Red7
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 49 cartes de jeu : 1-7 à ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+* 1 carte de départ de la Toile : S★.
+* 7 cartes de jeu à 5 ou 6 joueur·euse·s : 0 à ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+****
+
+La règle pour gagner est simple : avoir la meilleure carte ou la meilleure combinaison de cartes !
+Mais jouerez-vous toujours au même jeu lorsque votre tour prendra fin ?
+Si vous n'êtes pas en train de gagner le jeu en cours à la fin de votre tour, vous êtes éliminé·e, et la dernière personne en lice remporte la manche.
+
+Le paquet se compose de 49 cartes numérotées de 1 à 7, dans chacune des sept couleurs.
+Un 7 est toujours plus haut qu'un 6, mais quand vous comparez deux 6, un 6★ est plus haut qu'un 6♠, et ainsi de suite dans l'ordre des couleurs (★, ♠, ♥, ♣, ♦, ✿, ⎈).
+Lorsque vous comparez deux cartes, comparez d'abord leurs valeurs, puis leurs couleurs.
+
+.Ordre des cartes
+====
+5★ > 5⎈ > 4★ > 2♦
+====
+
+
+== Mise en place du premier tour
+
+Pour commencer une partie de Red7, distribuez une main de sept cartes à chaque joueur·euse, puis une carte supplémentaire face visible devant chaque joueur·euse, pour commencer sa Palette.
+
+Commencez la Toile (pile de défausse) avec le S★.
+La carte du dessus de la Toile détermine la règle en vigueur.
+La personne qui a la plus haute carte sur sa Palette est actuellement la meilleure au ★, donc la personne à sa gauche joue en premier.
+Red7 de base se joue en une seule manche : la personne qui remporte la manche gagne la partie.
+
+
+== Votre tour
+
+À votre tour, vous devez effectuer l'une des actions suivantes :
+
+1. Jouez une carte face visible de votre main sur votre Palette.
+2. Défaussez une carte de votre main sur la Toile, pour changer le jeu en la règle de la couleur de la carte défaussée.
+Vous devez être en train de gagner le nouveau jeu après cette action.
+3. Jouez une carte de votre main sur votre Palette, *puis* défaussez une carte sur la Toile.
+Vous devez être en train de gagner le jeu après cette action.
+4. Ne faites rien, et perdez.
+Vous pouvez le faire volontairement en jouant à Red7 avancé, pour limiter le nombre de points qu'un·e adversaire va marquer.
+Si votre main est vide, vous devez le faire.
+
+Si vous n'êtes pas en train de gagner le jeu à la fin de votre tour, vous perdez et êtes éliminé·e de la manche.
+Placez les cartes de votre main et de votre Palette face cachée.
+Si vous commencez votre tour en étant la seule personne en lice, vous remportez la manche !
+
+Vous êtes en train de gagner un jeu si votre Palette contient plus de cartes qui respectent la règle en vigueur que celle de toute autre personne.
+En cas d'égalité, comparez la carte la plus haute qui respecte la règle de chaque personne à égalité, en vérifiant sa valeur, puis sa couleur si nécessaire.
+Si vous n'avez aucune carte qui respecte la règle (au ♣ ou au ⎈), vous n'êtes pas en train de gagner.
+Le tableau ci-dessous donne un exemple pour chaque règle.
+Si vous n'avez pas de carte en main au début de votre tour, vous perdez, puisque vous ne pouvez rien faire pour gagner d'ici la fin de votre tour.
+
+[%autowidth, cols="^,<,<"]
+|===
+| Jeu | Règle de la Toile | Exemple
+
+| ★
+| Carte la plus haute
+| [5♥, 1♦, #6♣#, 4♣] > +
+[3♣, #6⎈#, 1✿, 1♠]
+
+| ♠
+| Cartes d'un même nombre
+| [#2⎈#, #2✿#, #2♥#, 1★] > +
+[#7♠#, #7⎈#, 1✿, 2♦]
+
+| ♥
+| Cartes d'une même couleur
+| [#2♥#, #6♥#, 1♦, 5♣] > +
+[6♠, #4★#, #1★#, 4♥]
+
+| ♣
+| Cartes paires
+| [#4♥#, #2⎈#, #6♥#, 3♣] > +
+[3✿, 1✿, #6♦#, 1★]
+
+| ♦
+| Cartes de couleurs toutes différentes
+| [6♠, #7♠#, #5♥#, #4♦#] > +
+[#5♣#, #6♦#, #4✿#, 1♣]
+
+| ✿
+| Cartes formant une suite
+| [#4♠#, #5♥#, #7★#, #6♣#] > +
+[#2♦#, #3⎈#, #4✿#, #5⎈#]
+
+| ⎈
+| Cartes inférieures à 4
+| [#1♣#, #2♥#, 4✿, #3★#] > +
+[5♥, #1♥#, #1✿#, 7⎈]
+|===
+
+
+== Red7 avancé
+
+Après quelques parties de Red7, vous serez peut-être prêt·e·s pour des règles avancées, avec un décompte entre les manches !
+
+Red7 avancé ajoute deux règles :
+
+1. Lorsque vous défaussez une carte sur la Toile, si sa valeur est plus grande que le nombre total de cartes de votre Palette, vous pouvez piocher une carte supplémentaire (à moins que la pioche ne soit vide).
+2. La personne qui remporte une manche marque des points.
+
+Si vous remportez une manche, prenez toutes les cartes de votre Palette qui respectent la règle en vigueur, et placez-les en une pile face cachée devant vous.
+Par exemple, si vous avez gagné au ♦ en ayant le plus de cartes de couleurs différentes sur votre Palette, prenez la carte la plus haute de chaque couleur de votre Palette et placez-les en une pile face cachée devant vous.
+La donne suivante se fait sans ces cartes, qui forment désormais votre pile de score.
+Chaque carte rapporte autant de points que sa valeur.
+S'il n'y a pas assez de cartes pour distribuer une nouvelle main à chaque joueur·euse, la partie se termine et la personne qui a le plus de points l'emporte.
+Vous pouvez aussi jouer jusqu'à un score cible : la première personne à atteindre 40 points à 2 joueur·euse·s, 35 points à 3 ou 30 points à 4 gagne la partie.
+
+
+== 5 ou 6 joueur·euse·s
+
+Pour jouer à 5 ou 6 joueur·euse·s, ajoutez les 0 de toutes les couleurs au paquet.
+
+À votre tour, vous êtes éliminé·e si vous n'êtes ni en train de gagner, ni en deuxième position :
+
+* Au début de votre tour, si vous êtes premier·ère ou deuxième selon la règle en vigueur, *passez votre tour*.
+* À la fin de votre tour, vous devez être premier·ère ou deuxième selon la règle en vigueur pour rester dans la partie.
+
+Il y a donc 2 gagnant·e·s à chaque manche.
+
+
+== Règles d'action (optionnelles)
+
+Les quatre cartes impaires ont une règle optionnelle d'action, réservée aux joueur·euse·s expérimenté·e·s de Red7.
+Elles peuvent être ajoutées à Red7 de base comme à Red7 avancé.
+Selon ces règles, lorsque vous jouez un 1, 3, 5 ou 7 sur votre Palette, vous *devez* effectuer l'action de cette carte si vous le pouvez.
+
+[NOTE]
+====
+Vous *pouvez* jouer un 3 pour tenter de piocher une carte que vous pourrez défausser comme nouvelle règle pour rester dans la partie.
+Vous *ne pouvez pas* utiliser un 1 pour prendre une carte à une autre personne si vous ne pouvez pas rester dans la partie ensuite.
+====
+
+* *7* : choisissez une carte de votre Palette, et soit défaussez-la sur la Toile, soit placez-la face cachée sur la pioche.
+Si vous la défaussez, vous devez être en train de gagner ensuite.
+Si vous jouez à Red7 avancé, ne piochez pas de carte pour cette défausse.
+* *5* : jouez une autre carte de votre main sur votre Palette.
+Si votre main est vide, ne faites rien ; si cette carte a une action, effectuez-la.
+Vous pouvez encore défausser une carte sur la Toile si vous le souhaitez, une fois que vous avez fini de jouer sur votre Palette pendant ce tour.
+* *3* : piochez une carte de la pioche si vous le pouvez.
+* *1* : choisissez une carte de la Palette d'une autre personne, et placez-la face cachée sur la pioche.
+Vous ne pouvez pas choisir une personne dont la Palette compte moins de cartes que la vôtre.

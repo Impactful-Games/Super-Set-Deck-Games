@@ -1,0 +1,16 @@
+bggId: 37628
+authors: Sean Ross
+type:
+  - Ladder Climbing
+players: 2, 3
+cards:
+  Base:
+    all-players:
+      spades: 2-10
+      hearts: 2-10
+      clubs: 2-10
+      diamonds: 2-10
+      specials: Butterfly*2, Snake*2, Wolf*2
+    3-players:
+      florettes: 2-10
+      specials: Butterfly*3, Snake*3, Wolf*3

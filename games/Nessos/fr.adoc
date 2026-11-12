@@ -1,0 +1,165 @@
+= Nessos
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 55 cartes de jeu :
+** 40 cartes numérotées : 1-10 à ♠, ♥, ♣ & ♦.
+** 15 cartes Animal : 6 Loups, 4 Serpents, 4 Phénix & 1 Dragon.
+* 1 carte Premier·ère joueur·euse : un Singe.
+****
+
+Tout au long de la partie, vous devez bluffer pour obtenir les cartes numérotées.
+À votre tour, proposez une carte à un·e autre joueur·euse.
+Cette personne peut l'accepter, la refuser, ou la proposer à quelqu'un d'autre.
+Récoltez des cartes numérotées afin d'être la première personne à atteindre le nombre de points requis.
+Mais attention : si vous obtenez trois cartes Animal, vous perdez la partie.
+
+Le nom du jeu, Nessos, vient d'une amphore représentant un combat entre Héraclès et le centaure Nessos.
+Cette amphore date de la fin du VII^e^ siècle avant J.-C., et elle est si célèbre que l'artiste qui l'a peinte, dont l'identité reste inconnue à ce jour, est appelé le Peintre de Nessos.
+
+[CAUTION]
+====
+Les couleurs des cartes numérotées n'ont pas d'importance : seules leurs valeurs comptent.
+Toutes les cartes Animal ont le même effet.
+====
+
+
+== Mise en place
+
+1. En fonction du nombre de joueur·euse·s, retirez les cartes suivantes des cartes de jeu :
+** À 3 joueur·euse·s, laissez de côté tous les 4, 6 et 8, ainsi que les 4 Phénix.
+** À 4 joueur·euse·s, laissez de côté tous les 6, ainsi que le Dragon.
+** À 5 ou 6 joueur·euse·s, jouez avec les 55 cartes de jeu.
+
+2. Mélangez toutes les cartes de jeu et distribuez 5 cartes à chaque joueur·euse.
+
+3. Placez le reste des cartes de jeu en une pile, face cachée, au centre de la table : c'est la pioche.
+
+4. Tirez au sort le ou la premier·ère joueur·euse, et placez le Singe devant lui ou elle.
+
+
+== Déroulement de la partie
+
+La partie se déroule en un nombre indéterminé de manches, jusqu'à ce que l'une des trois conditions de fin de partie soit remplie (voir <<end-game>>).
+
+
+=== Déroulement d'une manche
+
+La personne qui a le Singe choisit une carte de sa main, et la propose à la personne de son choix en la posant face cachée devant elle.
+
+*Il existe alors plusieurs possibilités :*
+
+* Si la carte proposée est une carte numérotée, vous devez annoncer sa valeur à voix haute, sans mentir.
++
+.Carte numérotée
+====
+Si vous proposez le 3♣ à quelqu'un, vous devez annoncer « 3 » à voix haute.
+====
+
+* Si la carte proposée est une carte Animal, vous pouvez (et devriez) mentir en annonçant à voix haute la valeur de votre choix.
++
+.Carte Animal
+====
+Vous proposez un Serpent à quelqu'un.
+Vous pouvez annoncer « 7 » à voix haute.
+====
+
+*La personne qui reçoit la carte a 3 possibilités :*
+
+* Elle accepte la carte avant de la regarder, puis la place face visible devant elle.
+* Elle refuse la carte sans la regarder.
+La carte revient à la personne qui l'a proposée, qui la place face visible devant elle.
+* Elle ajoute une carte de sa main, face cachée, et propose les deux cartes à quelqu'un d'autre.
+Elle n'a le droit de mentir qu'à propos des cartes Animal, en annonçant la valeur de son choix.
++
+*Dans ce troisième cas, la personne qui reçoit les deux cartes a les mêmes possibilités :*
+
+** Elle accepte les cartes avant de les regarder, puis les place face visible devant elle.
+** Elle refuse les cartes sans les regarder.
+Les deux cartes reviennent à la personne qui les a proposées, qui les place face visible devant elle.
+** Elle ajoute une carte de sa main, face cachée, et propose les trois cartes à quelqu'un d'autre.
+Elle n'a le droit de mentir qu'à propos des cartes Animal, en annonçant la valeur de son choix.
++
+Vous ne pouvez pas proposer les cartes à une personne qui s'est déjà vu proposer des cartes lors de cette manche, ni à celle qui a le Singe.
++
+*Dans ce troisième cas, la personne qui reçoit les trois cartes n'a plus que deux possibilités :*
+
+*** Elle accepte les cartes avant de les regarder, puis les place face visible devant elle.
+*** Elle refuse les cartes sans les regarder.
+Les trois cartes reviennent à la personne qui les a proposées, qui les place face visible devant elle.
+
+
+[#end-round]
+=== Fin d'une manche
+
+Dès qu'une personne retourne des cartes face visible devant elle, la manche se termine.
+
+*Il est possible de retourner 1, 2 ou 3 cartes en même temps, selon la situation.*
+
+* Les cartes numérotées face visible devant vous vous rapprochent de la victoire.
++
+Ajoutez leurs valeurs à celles des cartes que vous avez gagnées auparavant (voir aussi <<bonus>>).
+Si vous atteignez le nombre de points requis selon le nombre de joueur·euse·s, passez à <<end-game>>.
++
+[%autowidth]
+|===
+| Nombre de joueur·euse·s | Nombre de points requis
+
+| 3 | 40
+| 4 | 40
+| 5 | 35
+| 6 | 30
+|===
+
+* Les cartes Animal devant vous vous rapprochent de la défaite.
++
+Si vous avez trois cartes Animal devant vous, vous êtes envoyé·e aux Enfers.
+Vous perdez immédiatement (avant même de pouvoir revendiquer la victoire) et vous êtes éliminé·e.
+En d'autres termes, vous perdez quel que soit votre score : si vous mourez en atteignant le nombre de points requis, tant pis pour vous.
+Laissez face visible devant vous les cartes que vous avez gagnées.
+Les cartes de votre main restent cachées.
+
+S'il ne reste qu'une personne en jeu, ou si un total de 9 cartes Animal sont face visible devant les joueur·euse·s, passez à <<end-game>>.
+
+*Si aucune condition de fin de partie n'est remplie, effectuez les étapes suivantes :*
+
+* Toutes les personnes qui ont moins de 5 cartes en main piochent autant de cartes que nécessaire pour en avoir 5.
+* Passez le Singe à la personne à gauche du ou de la premier·ère joueur·euse.
+Cette personne commence une nouvelle manche.
+
+
+[#bonus]
+=== Bonus des cartes 1, 2 et 3
+
+Les cartes 1, 2 et 3 peuvent sembler insignifiantes, car leurs valeurs sont faibles.
+Cependant, avoir une carte 1, une carte 2 et une carte 3 devant vous vous rapporte 10 points de bonus.
+Vous pouvez obtenir ce bonus plusieurs fois si vous avez plusieurs séries de ces cartes.
+
+.Points
+====
+Vous avez devant vous ces cartes face visible : 1♦, 2♣, 3♦, 3♥, 5♥ & 5♠.
+Vous avez un total de 29 points : 19 points pour la somme des valeurs des cartes, et 10 points pour les cartes 1, 2 et 3.
+====
+
+
+[#end-game]
+== Fin de la partie
+
+*La partie peut se terminer de trois façons différentes :*
+
+* *La somme des valeurs des cartes d'une personne atteint ou dépasse le nombre de points requis* (voir <<end-round>>).
+Cette personne est l'Élu·e des dieux, et restera à jamais la plus célèbre des mortel·le·s.
+Elle gagne la partie.
+
+* Après une élimination, *il ne reste qu'une personne en jeu*.
+Elle gagne la partie.
+
+* Quand un total de *9 cartes Animal* sont face visible sur la table, la partie se termine.
+La personne qui a le plus de points gagne la partie.
+En cas d'égalité entre les personnes en tête, la victoire revient à celle qui a le plus de cartes devant elle.
+Si l'égalité persiste, les ex æquo se partagent la victoire.

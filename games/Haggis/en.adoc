@@ -1,0 +1,217 @@
+= Haggis
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 36 numbered cards: 2-10 in ♠, ♥, ♣ & ♦.
+* 6 wild cards: 2 Butterflies, 2 Snakes & 2 Wolves.
+* 12 more cards with 3 players: 2-10 in ✿, 1 Butterfly, 1 Snake & 1 Wolf.
+* Paper and a pencil to keep the score.
+****
+
+The object of the game is to empty your hand of cards before the other player(s), while also trying to capture certain scoring cards during play.
+Additional points may be earned by betting that you will be the first to shed all of your cards.
+
+With 3 players, the game uses 54 cards: ranks 2 through 10 in five suits, plus three Butterflies, three Snakes and three Wolves.
+The cards rank, from low to high: 2, 3, 4, 5, 6, 7, 8, 9, 10, Butterfly, Snake, Wolf.
+
+
+== Beginning the round
+
+IMPORTANT: With two players, remove all the ✿ cards, one Butterfly, one Snake and one Wolf from the deck before the game begins.
+
+A game of Haggis is played over several rounds (hands).
+For the first round, select one of the players to be the dealer.
+
+Place one Butterfly, one Snake and one Wolf face up in front of each player: these are their wild cards.
+
+Shuffle the remaining cards and deal 14 cards face down to each player.
+A player's hand consists of these 14 dealt cards, which are picked up and held in hand, plus the 3 wild cards, which remain face up on the table until played.
+
+The remaining cards (8 cards with 2 players, 3 cards with 3 players) form the Haggis: put them aside without looking at them.
+
+
+=== Betting
+
+Players may bet to be the first to "go out" (shed all the cards from their hand).
+A bet may be declared at any time before the player has played any cards.
+The player declares a bet of 0 points (No Bet), 15 points (Little Bet) or 30 points (Big Bet).
+
+All players may place bets.
+The bets do not have to be equal.
+
+Once placed, a bet may not be retracted or altered.
+
+
+== Play
+
+Each round is played over a number of tricks.
+For the first round, the player to the dealer's left leads to the first trick by playing an opening card combination.
+A card combination may be a set, a sequence or a bomb.
+
+
+=== Sets
+
+A set is a group of cards of the same rank.
+Sets may consist of one to eight cards (singles, pairs, 3 of a kind, etc.).
+
+.Sets
+====
+♣8 = single. +
+♠8 + ♦8 = pair. +
+♥8 + ♦8 + ♣8 = 3 of a kind. +
+♥8 + ♦8 + ♣8 + ♠8 + ✿8 + Butterfly = 6 of a kind, with a wild card.
+====
+
+
+=== Sequences
+
+A sequence (or run) is a group of three or more singles of consecutive rank in the same suit, or of two or more larger sets (pairs, 3 of a kind, etc.) of consecutive rank, each set having the same suits.
+
+.Sequences
+====
+♥7 + ♥8 + ♥9 = run of 3 singles (7-8-9). +
+♥10 + Butterfly + Snake = run of 3 singles (10-Butterfly-Snake). +
+♣6 + ♣7 + Snake + ♣9 + ♣10 + Butterfly = run of 6 singles (6-7-8-9-10-Butterfly, with a wild card).
+
+♥8 + ♦8 + ♥9 + ♦9 = run of 2 pairs. +
+♥7 + ✿7 + ♥8 + ✿8 + ♥9 + ✿9 = run of 3 pairs. +
+♥8 + ♦8 + ♣8 + ♠8 + ♥9 + Snake + ♣9 + ♠9 = run of two 4 of a kinds, with a wild card.
+====
+
+
+=== Wild cards
+
+The Butterflies, Snakes and Wolves may also be used as wild cards, to stand for any lower-ranked card(s) in a set or sequence (for example, a Butterfly can stand for an 8, but not for a Wolf).
+
+When played as part of a sequence, wild cards may have whichever suit is required.
+
+NOTE: The Butterflies, Snakes and Wolves do not have to be played as wild cards: they can be played as singles, or in a set or sequence. +
+For example, a Butterfly beats a single 10; 9-10-Butterfly beats 8-9-10; 10-10-Butterfly-Snake (where the Butterfly is "natural" and the Snake "wild") can be played as a sequence to beat 9-9-10-10.
+
+When played as part of a larger combination (set or sequence), wild cards must be combined with at least one numbered card (otherwise the combination would be a bomb).
+
+
+=== Bombs
+
+A bomb is a special combination of point cards, explained further in <<trick>>.
+There are 6 types of bombs.
+Ranked from lowest to highest:
+
+* 3-5-7-9 (these 4 ranks in 4 different suits, no wild cards).
+* Butterfly + Snake.
+* Butterfly + Wolf.
+* Snake + Wolf.
+* Butterfly + Snake + Wolf.
+* 3-5-7-9 (these 4 ranks in one suit, no wild cards).
+
+
+[#trick]
+== Trick play
+
+After a combination of cards is led, play proceeds clockwise, with each other player having the option to play a higher-ranking combination or to pass.
+Note that a player with a higher combination can choose to pass instead of playing it.
+A player without a higher combination must pass.
+
+To be higher ranking, the new combination must be of the exact same type, have the exact same number of cards, and have higher-ranking cards.
+So if a single card is led, only a higher single card can be played; if a pair is led, only a higher pair can be played; a three-card sequence can only be beaten by a higher three-card sequence; and so on.
+
+Bombs are the only exception to this rule.
+A bomb can be played, in turn order, to beat any combination except a higher bomb.
+After a bomb has been played, only a higher bomb may beat it.
+
+Players continue to play in this manner, playing successively higher combinations of the same size and type (or bombs), or passing, until a combination is played and all the other players pass in succession.
+
+In a two-player game, the trick ends as soon as one player passes.
+
+In a three-player game, the trick ends as soon as two players pass in succession.
+A player who passes may still play later, until the trick ends.
+
+When the trick ends, the player who played the highest combination wins the trick.
+If the highest combination played was not a bomb, the winner captures the cards played to the trick.
+If the trick was won by a bomb, the cards played to the trick are captured by one of the winner's opponents (the winner of the trick chooses which).
+
+The winner of the trick leads the next trick.
+In a three-player game, if the winner of the trick has gone out, the player to their left leads.
+
+
+== Ending the round
+
+When all players but one have shed the cards from their hand, the round is over.
+
+The last player to play a combination captures all the cards played to the final trick (unless the last combination played was a bomb, in which case an opponent captures the cards of the final trick, as detailed in <<trick>>).
+The final player does not get to play any more cards.
+
+The player who went out first captures all the cards remaining in the final player's hand, and the Haggis.
+Remember to record the number of cards (including wild cards) in the final player's hand.
+
+
+== Scoring
+
+Points are scored for:
+
+. cards left in your opponents' hands,
+. point cards captured during trick play,
+. bets.
+
+A player who goes out scores 5 points for each card in the hand of the opponent who held the most cards at the moment they shed their last card.
+Remember, wild cards count as part of the hand.
+
+All point cards (3, 5, 7, 9, Butterfly, Snake and Wolf) captured during trick play score their point value for the capturing player:
+
+[%autowidth]
+|===
+h| Card | 3 | 5 | 7 | 9 | Butterfly | Snake | Wolf
+h| Points | 1 | 1 | 1 | 1 | 2 | 3 | 5
+|===
+
+Then points for bets are scored.
+If a bet was successful, the amount bet is added to the player's score.
+If a bet was not successful, the amount bet is added to the score of the player who went out first, and of any other opponent who did not bet in this round.
+
+.Scoring bets
+====
+Adam, Brenda and Carol are playing.
+
+Adam and Brenda both make Little Bets after receiving all their cards.
+Carol does not bet.
+
+Adam goes out first.
+Adam earns 15 points for winning the bet, plus 15 points for Brenda's unsuccessful bet, for a total of 30 points.
+Brenda does not earn any points from bets.
+Carol earns 15 points for Brenda's unsuccessful bet.
+
+In the same scenario, if Carol had gone out first instead of Adam, Carol would have earned 30 points: 15 for each of Adam's and Brenda's unsuccessful bets.
+No other player would earn points from bets.
+====
+
+NOTE: In a three-player game, the first player to go out records the number of cards held by the opponent with the most cards, before the remaining two players continue play.
+
+
+== Continuing play
+
+After adding the points scored this round to each player's cumulative score, another round begins and new hands are dealt.
+
+The dealer is the leader in points; if there is a tie, the winner of the last round deals.
+
+The player with the fewest points leads first; if there is a tie, the player to the left of the dealer leads.
+
+
+== Winning the game
+
+Continue playing rounds until at least one player reaches (or passes) a cumulative score agreed upon in advance.
+The player with the most points wins.
+If the scores are tied, continue playing rounds until there is a winner.
+
+For a shorter game, 250 points is suggested. +
+For a longer game, 350 points is suggested.
+
+[TIP]
+.Tournament rules
+====
+In a three-player tournament, instead of the winner deciding who captures the cards, a trick won by a bomb is captured by the player who played the next highest combination to the trick.
+If a trick is won by a bomb that was led, the trick is captured by the player to the right of the player who led the bomb.
+====

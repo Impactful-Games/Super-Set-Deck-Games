@@ -1,0 +1,255 @@
+= The Fox in the Forest: DUET
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 30 game cards: 1-10 in ♠, ♥ & ♣.
+* 11 Path cards: 1-11 in ♦.
+* 4 Blocker cards: 1-4 in ★.
+* 22 Animal cards: 6 Butterflies, 6 Wolves, 4 Phoenixes, 4 Snakes & 2 Dragons.
+* 1 Monkey.
+
+TIP: Instead of using the Monkey and the Path cards, you can play with a link:Fox_in_Forest_Duet-Board.pdf[board] and a pawn.
+****
+
+The Fox in the Forest: Duet is a trick-taking game for two teammates.
+Each round, you can collect Animals by moving along the forest path.
+Work together to collect all the Animal cards, without running out of time or getting lost in the forest!
+
+[CAUTION]
+====
+The values of the Path and Blocker cards do not matter.
+====
+
+
+[#setup]
+== Setup
+
+1. Use the *⚑ side* of the Path reference, and lay out the corresponding path between you with the 11 Path ♦ cards *face down*, so that each player faces one end of the path.
+(The *⚑⚑ / ⚑⚑⚐ side* provides ways to increase the difficulty: see <<difficulty-levels>>.)
+2. Place *12 Animal cards* on the Path cards: on each Path card, place as many Animal cards as there are *●* on the matching space of the Path reference (0-2).
+Set the other Animal cards aside to form a supply.
+3. Place the four *Blocker ★ cards* nearby.
+4. Place the *Monkey* on the starting Path card (marked with a crown on the Path reference).
+5. Shuffle the *30 game cards*.
+6. Select one player to be the dealer for the first round.
+That player deals each player a *hand* of 11 cards.
+(Each player may look at the cards in their own hand, but must not reveal them to their teammate.)
+7. Set the remaining cards aside, face down, to form the *deck*.
+8. Reveal the top card of the deck and place it face up next to the path.
+This card is known as the *decree card*.
+(The suit of this card will be important during play.)
+
+
+== Gameplay
+
+=== Round overview
+
+Each *round* consists of a series of 11 turns, known as *tricks*.
+
+During each trick, one player *leads* (that is, plays the first card of the trick), and the other player *follows* (that is, plays the second card of the trick).
+
+Based on the *suits* and *ranks* of the two cards played, one player wins the trick.
+Then the Monkey moves along the path toward the player who won the trick, based on the *movement values* of the two cards played.
+
+
+=== Trick details
+
+1. *Play cards*: Each player must play one card from their hand.
+One player leads and the other player follows.
+** *Leading*: During the first trick of each round, the player who did not deal leads.
+During each subsequent trick, the winner of the previous trick leads.
+The player who leads must play a card, but they may play any card from their hand, without restriction.
+** *Following*: After one player leads, the other player must follow by playing a card from their hand.
+The player who follows must play a card that matches the *lead suit*, if possible, but the card may be of any rank in that suit.
+If they do not have a card in the lead suit, they may play any card from their hand, without restriction.
++
+NOTE: The suit of the card played by the player who leads is known as the *lead suit*.
+The suit of the decree card, which is face up next to the path, is known as the *trump suit*.
+
+2. *Determine the trick winner*: After both cards have been played, determine the winner of the trick.
+To do this, take into account the ranks of the cards played, as well as the lead suit and the trump suit.
+** *Trump*: If one or both cards of the trick are in the trump suit, the player who played the highest-ranked card in the trump suit wins the trick.
+** *No trump*: If neither card of the trick is in the trump suit, the player who played the highest-ranked card in the lead suit wins the trick.
+
+3. *Move the Monkey*: After the winner has been determined, the Monkey moves.
+Add together the movement values of the two cards of the trick (see <<movement-values>>), then move the Monkey that many Path cards along the path toward the player who won the trick (unless specified otherwise).
+** *Beyond the path*: If the Monkey would move beyond the last uncovered Path card at either end of the path, reset the Monkey to the starting Path card (marked with a crown on the Path reference) and place a Blocker ★ card so that it covers the last uncovered Path card at that end.
+This makes the path shorter for the rest of the game.
+If you do not have a Blocker ★ card to place, the game ends in a defeat (see <<end-of-game>>).
+If a Blocker ★ card ever covers a Path card with one or more Animal cards, move those Animal cards one Path card closer to the center.
+** *Animal cards*: If the Monkey ends up on a Path card with one or more Animal cards (even if it did not move!), provided it was not just reset after moving beyond the path, collect one Animal card from that Path card and return it to the supply.
+If you collect the final Animal card from the path, the game ends in a victory (see <<end-of-game>>).
+
+4. *Clean up*: After the Monkey moves, set the cards of the trick aside, face down.
+During the round, neither player may look at the cards of previous tricks.
+
+
+=== End of a round
+
+At the end of the first and second rounds, carry out the following steps.
+At the end of the third round, skip these steps and proceed immediately to the <<end-of-game>>.
+
+1. *Add Animal cards*: Add one Animal card from the supply to each Path card where the Path reference shows a plus icon (+).
+(At difficulty level 1 (⚑), this means that you add five Animal cards at the end of each round: see <<difficulty-levels>>.)
+
+2. *Place a Blocker card*: Place one Blocker ★ card (if you have any left) so that it covers the last uncovered Path card at one end of the path, of your choice.
+This makes the path shorter for the rest of the game.
+(If you do not have a Blocker ★ card to place, nothing happens.)
+You may discuss at which end of the path you wish to place the Blocker ★ card.
+** *Monkey*: If the Monkey is at one end of the path, you must place the Blocker ★ card so that it covers the last uncovered Path card at the other end.
+** *Animal cards*: If a Blocker ★ card ever covers a Path card with one or more Animal cards, move those Animal cards one Path card closer to the center.
+
+3. *Deal the next round*: Gather all 30 game cards and reshuffle them.
+The player who did not deal the previous round is the new dealer.
+That player deals each player a new hand of 11 cards for the next round.
+Set the remaining cards aside, face down, to form the new deck.
+Finally, reveal the top card of the deck and place it face up next to the path, as the new decree card.
+
+NOTE: There is no limit to the number of Animal cards on a single Path card.
+
+NOTE: The Monkey begins each new round on the same Path card where it ended the previous round.
+
+
+[#end-of-game]
+== End of the game
+
+The game can end in three different ways.
+As soon as one of these end-game conditions occurs, the game ends immediately.
+
+1. *Victory*: If you collect all the Animal cards from the path, the game ends in a victory.
+Use the list below to calculate a score for the game.
+We encourage you to record your scores from game to game to track your progress!
+** Score a number of points based on the difficulty level: 10 for level 1, 20 for level 2, 30 for level 3 (see <<difficulty-levels>>).
+** Add 1 point for each card left in either player's hand.
+** Add 10 points if you won in the second round (instead of the third round).
+** Add 3 points for each Blocker ★ card you have left.
+
+2. *Lost in the forest*: If the Monkey would move beyond the last uncovered Path card at either end of the path, and you do not have a Blocker ★ card to place, the game ends in a defeat.
+
+3. *Out of time*: If any Animal card remains on the path at the end of the third round, the game ends in a defeat.
+
+NOTE: If at any point it becomes impossible to collect all the remaining Animal cards, you may choose to resign.
+
+
+== Communication rules
+
+You may talk freely before dealing the cards of the first round, and between rounds.
+But during a round, communication is limited:
+
+1. *Don't talk about your cards.*
+You may not reveal your hand to your teammate, or otherwise discuss the suits, ranks, movement values or special abilities of the cards in your hand.
+The same applies to discussing your teammate's cards.
+
+2. *Don't ask revealing questions.*
+If you need help remembering the special ability or the movement value of a specific card, don't ask your teammate.
+Check the reference instead, to avoid giving accidental clues.
+
+3. *Don't discuss strategy.*
+You may not communicate how you plan to play or how you want your teammate to play: whether you want them to win the trick, pass you a certain card, play a card with a certain movement value, etc.
+
+
+== Game cards
+
+=== Special abilities
+
+All the cards of odd rank (1, 3, 5, 7 and 9) have special abilities, which activate when the card is played.
+
+
+==== 1: Change of direction
+
+[quote]
+The winner of this trick may choose to move the Monkey in the opposite direction.
+
+The player who won the trick chooses whether to move the Monkey along the path in the normal direction (toward themselves) or in the opposite direction (toward their teammate).
+
+
+==== 3: Decree exchange
+
+[quote]
+When you play this card, choose a player.
+That player may exchange the decree card with a card from their hand.
+
+When you play this card, you may choose yourself or your teammate.
+The chosen player is not required to exchange the decree card: it may stay the same.
+However, if they do choose to exchange it, the exchange occurs immediately.
+If the trump suit changes as a result of the exchange, that might affect who wins the trick!
+
+
+==== 5: Ignored movement
+
+[quote]
+The winner of this trick may choose to ignore the movement value of one of the cards in the trick.
+
+The player who won the trick may ignore the movement value of one or none of the cards in the trick (their choice).
+For example, if the cards played in the trick have movement values of one and three, the Monkey could move one, three or four Path cards toward the player who won the trick.
+If two 5s are played in the same trick, the winner may choose to ignore the movement value of one, none or both cards in the trick: each 5 allows the winner to choose up to one card to ignore.
+
+
+==== 7: Card exchange
+
+[quote]
+When you play this card, both players select a card from their hand and then exchange those cards with each other.
+
+When this card is played, the exchange occurs immediately.
+The exchange is mandatory, provided both players have at least one card left in their hands.
+Each player must choose which card to give to their teammate without knowing which card they will receive in return: the players pass the chosen cards to each other at the same time.
+
+
+==== 9: Free choice
+
+[quote]
+When you lead this card, your teammate may play any card.
+(They don't have to follow suit.)
+
+When this is the first card played in the trick, the other player is not required to follow suit; however, they may still choose to follow suit.
+When this is the second card played in the trick, it has no effect.
+
+
+[#movement-values]
+=== Movement values
+
+[%autowidth,cols="h,^,^,^,^,^,^,^,^,^,^"]
+|===
+| Rank | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+| Movement | 0 | 3 | 2 | 1 | 1 | 2 | 0 | 2 | 0 | 3
+|===
+
+
+[#difficulty-levels]
+== Difficulty levels
+
+You can increase the difficulty of the game by making a few changes during setup.
+Are you ready to take on a bigger challenge?
+
+The steps described in <<setup>> above are the level 1 (⚑) difficulty.
+Use the chart below to adjust for level 2 (⚑⚑) or level 3 (⚑⚑⚐) difficulty, giving yourselves more Animal cards to collect on a shorter path.
+
+[%autowidth]
+|===
+| Difficulty | Game setup differences
+
+h| Level 1 +
+*⚑*
+a|
+* *Step 1*: Use the *⚑ side* of the Path reference, with 11 Path cards.
+* *Step 2*: Place 12 Animal cards, matching the number of *●* on each space of the Path reference (0-2).
+* *Step 3*: Use 4 Blocker ★ cards.
+
+h| Level 2 +
+*⚑⚑*
+a|
+* *Step 1*: Use the *⚑⚑ / ⚑⚑⚐ side* of the Path reference, with 10 Path cards.
+* *Step 2*: Place 13 Animal cards, matching the number of *●* on each space of the Path reference (0-2), and ignoring the ○.
+* *Step 3*: Use 3 Blocker ★ cards.
+
+h| Level 3 +
+*⚑⚑⚐*
+a|
+* *Step 1*: Use the *⚑⚑ / ⚑⚑⚐ side* of the Path reference, with 10 Path cards.
+* *Step 2*: Place 16 Animal cards, matching the number of *●* and *○* on each space of the Path reference (0-3).
+* *Step 3*: Use 3 Blocker ★ cards.
+|===

@@ -1,0 +1,16 @@
+bggId: 651
+authors: Reiner Knizia
+type:
+  - Drafting
+  - Set Collection
+players: 2, 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-8
+      hearts: 1-8
+      clubs: 1-8
+      diamonds: 1-8
+      stars: 1-8
+      florettes: 1-8
+      wheels: 1-8

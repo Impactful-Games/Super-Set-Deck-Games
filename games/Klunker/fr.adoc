@@ -1,0 +1,175 @@
+= Klunker
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 94 cartes Marchandise :
+** 1-14 à ♠, ♥, ♣, ♦, ✿ & ★.
+** 10 Animaux : 5 Papillons & 5 Loups.
+* 3 à 5 cartes Achat : 1-3 à ⎈, plus 4⎈ à 4 ou 5 joueur·euse·s et 5⎈ à 5 joueur·euse·s.
+* 1 carte Premier·ère joueur·euse : K⎈.
+****
+
+Les joueur·euse·s exposent, achètent et vendent des marchandises, en essayant d'être la personne la plus riche à la fin de la partie.
+
+[CAUTION]
+====
+Pour ce jeu, seules les couleurs des cartes Marchandise comptent : leurs valeurs sont ignorées.
+Les 10 Papillons & Loups appartiennent tous au même type de marchandise, les Animaux.
+====
+
+
+== Mise en place
+
+La personne la plus jeune prend la carte Premier·ère joueur·euse, K⎈.
+Elle mélange les 94 cartes Marchandise et donne 1 carte à chaque joueur·euse.
+Chacun·e place cette carte face cachée à droite de son comptoir.
+C'est son argent de départ.
+Vous ne pouvez pas regarder le côté marchandise de votre argent.
+
+Le ou la premier·ère joueur·euse place 1 carte Achat par joueur·euse face visible au centre de la table.
+Ainsi, utilisez 1⎈ à 3⎈ à 3 joueur·euse·s, 1⎈ à 4⎈ à 4 joueur·euse·s, et les 5 cartes Achat à 5 joueur·euse·s.
+Puis, il ou elle distribue 6 cartes Marchandise face cachée à chaque joueur·euse.
+Enfin, il ou elle place la pioche de marchandises face cachée au centre de la table.
+
+Vous pouvez maintenant regarder (et organiser) vos cartes : c'est votre main de départ.
+
+La zone de jeu de chaque joueur·euse devrait ressembler à ceci au début de la partie :
+
+[%autowidth,frame=none,grid=none]
+|===
+| | | | | | | | | | | | |
+3.5+^.^h| A | | | | | | | 3.5+^.^h| C
+| 5.3+^.^h| B |
+| |
+| |
+| | | | | | |
+|===
+
+* *A* : comptoir (face visible).
+* *B* : argent (face cachée).
+* *C* : entrepôt (face visible).
+
+TIP: Si votre table est assez grande, vous pouvez placer votre comptoir sur une ligne au-dessus de votre argent et de votre entrepôt.
+
+Il est plus facile de s'y retrouver si les cartes de votre comptoir sont tournées vers vos adversaires et celles de votre entrepôt vers vous.
+
+
+== Aperçu du jeu
+
+La partie se joue en plusieurs manches.
+Chaque manche se compose de 3 phases, jouées dans l'ordre suivant :
+
+1. Remplir les comptoirs.
+2. Stocker des marchandises dans les entrepôts.
+3. Acheter des marchandises.
+
+
+=== 1. Remplir les comptoirs
+
+Les joueur·euse·s placent autant de marchandises qu'ils et elles le souhaitent sur leur comptoir.
+
+En commençant par le ou la premier·ère joueur·euse, puis dans le sens des aiguilles d'une montre, une seule fois autour de la table, chacun·e peut placer des cartes Marchandise de sa main sur son comptoir.
+Toutes les cartes placées sur les comptoirs doivent être visibles : aucune carte ne peut être cachée par d'autres cartes.
+À votre tour, vous pouvez placer une partie ou la totalité des 6 cartes de votre main sur votre comptoir.
+
+IMPORTANT: Si vous n'avez aucune marchandise sur votre comptoir, vous devez y placer au moins 1 carte.
+Si vous avez des marchandises sur votre comptoir, vous pouvez en placer d'autres, mais vous n'y êtes pas obligé·e.
+Chaque comptoir doit avoir au moins une carte Marchandise à la fin de cette phase.
+Sinon, il n'y a aucune limite au nombre ni au type de cartes d'un comptoir.
+
+Les marchandises des comptoirs pourront être achetées plus tard dans la manche par les autres joueur·euse·s ou par la personne à qui appartient le comptoir.
+
+
+=== 2. Stocker des marchandises dans les entrepôts
+
+Contrairement à la pose des marchandises sur les comptoirs, les cartes Marchandise sont stockées dans les entrepôts une par une.
+Le ou la premier·ère joueur·euse commence.
+Il ou elle peut stocker 1 carte de sa main dans son entrepôt, ou passer.
+Le jeu continue dans le sens des aiguilles d'une montre, chacun·e choisissant de stocker 1 carte dans son entrepôt ou de passer.
+Le jeu continue tant qu'au moins une personne veut et peut stocker des cartes dans son entrepôt.
+
+La première personne à passer sans placer de carte dans son entrepôt prend la carte Achat 1⎈ et la place face visible dans sa zone de jeu.
+La personne suivante qui passe prend la carte Achat 2⎈, et ainsi de suite jusqu'à ce que toutes les cartes Achat aient été prises.
+La phase suivante de la manche commence alors.
+Une fois que vous avez pris une carte Achat, vous ne faites plus aucune action lors de cette phase de cette manche : vous ne pouvez plus stocker de cartes dans votre entrepôt, ni prendre une autre carte Achat.
+
+Vous ne pouvez stocker des cartes que dans votre propre entrepôt.
+Les joueur·euse·s stockent les cartes dans leur entrepôt face visible et triées par type de marchandise, à la vue de tout le monde.
+Aucune carte ne peut être cachée par d'autres cartes.
+
+NOTE: Vous n'êtes pas obligé·e de stocker des cartes dans votre entrepôt au cours d'une manche, ni d'avoir des cartes dans votre entrepôt.
+De plus, vous pouvez stocker plusieurs cartes dans votre entrepôt au cours d'une manche.
+
+Dès que vous avez 4 cartes du même type de marchandise dans votre entrepôt, vous devez les vendre, pour les convertir en argent.
+
+
+==== Vendre des marchandises
+
+Si vous n'avez que ces 4 cartes dans votre entrepôt, prenez les 4 cartes, retournez-les et placez-les sur votre pile d'argent.
+Vous les avez vendues pour 4 billets.
+
+Si vous avez 2 types de marchandise dans votre entrepôt quand vous vendez un groupe de 4, vous ne recevez que 3 billets : retournez 3 des cartes Marchandise et placez-les sur votre pile d'argent.
+Placez la 4^e^ carte sur la défausse.
+Si vous avez 3 types, vous ne recevez que 2 billets, et défaussez les 2 autres cartes.
+Enfin, si vous avez 4 types ou plus, vous ne recevez qu'1 billet, et défaussez les 3 autres cartes.
+Si vous avez plus de 4 cartes d'un même type, les cartes en trop comptent comme un autre type.
+
+IMPORTANT: *Exception* : quand vous vendez des cartes de l'ensemble des 10 Animaux, vous recevez toujours 4 billets, quel que soit le nombre de types de marchandise dans votre entrepôt.
+Comme pour toute vente, vous devez vendre exactement 4 cartes Animal.
+
+NOTE: Dès qu'un type de marchandise est vendu d'un entrepôt, la valeur des marchandises restantes augmente.
+
+.Hausse de la valeur
+====
+Une joueuse a 3 types de marchandise dans son entrepôt, dont un ensemble de 4 marchandises ♦ et un ensemble de 4 marchandises ♠.
+Elle choisit de vendre d'abord ses 4 marchandises ♦.
+Elle en reçoit 2 billets, puisqu'il y a 3 types de marchandise dans son entrepôt.
+Elle vend ensuite ses marchandises ♠ et reçoit 3 billets, puisqu'elle n'a plus que 2 types de marchandise dans son entrepôt.
+====
+
+
+=== 3. Acheter des marchandises sur les comptoirs
+
+En commençant par la personne qui a la carte Achat 1⎈, puis celle qui a la carte 2⎈, et ainsi de suite, les joueur·euse·s peuvent acheter des cartes sur les comptoirs.
+À votre tour, vous pouvez acheter les cartes d'un (et d'un seul) comptoir, y compris le vôtre.
+
+Quand vous achetez les cartes d'une autre personne, payez-lui 1 billet de votre argent, quel que soit le nombre de cartes sur son comptoir.
+Quand vous achetez les cartes de votre propre comptoir, vous ne payez rien.
+Dans tous les cas, vous devez prendre toutes les cartes du comptoir choisi : un achat partiel n'est pas autorisé.
+
+Vous devez immédiatement placer toutes les cartes achetées dans votre entrepôt.
+Si cela complète un ensemble de 4 cartes, vendez-le immédiatement, comme décrit plus haut.
+
+Si vous avez des cartes sur votre comptoir quand c'est votre tour d'acheter, vous devez acheter des marchandises, sur votre propre comptoir ou sur celui d'une autre personne.
+
+Si vous n'avez aucune carte sur votre comptoir, vous pouvez acheter des marchandises sur un autre comptoir, ou choisir de ne rien acheter.
+Si vous choisissez de ne rien acheter, la phase d'achat se termine immédiatement : les joueur·euse·s qui ont encore une carte Achat ne peuvent pas acheter lors de cette manche.
+Sinon, la phase se termine avec l'achat de la dernière personne.
+
+
+== Fin de la manche
+
+Remettez toutes les cartes Achat au centre de la table.
+La personne qui a mis fin à la phase d'achat en n'achetant rien prend la carte Premier·ère joueur·euse, K⎈.
+Si tout le monde a choisi d'acheter, la carte Premier·ère joueur·euse reste à la personne qui l'avait déjà.
+
+Avec la pioche de marchandises, le ou la premier·ère joueur·euse distribue à chacun·e assez de cartes Marchandise pour ramener sa main à 6 cartes, en commençant par lui-même ou elle-même, puis dans le sens des aiguilles d'une montre.
+Si nécessaire, mélangez les cartes de la défausse et utilisez-les pour compléter les mains.
+
+La manche suivante commence comme la précédente, par le ou la premier·ère joueur·euse.
+
+
+== Fin de la partie
+
+La partie se termine immédiatement quand il n'y a plus assez de cartes dans la pioche de marchandises et la défausse pour ramener la main de chaque joueur·euse à 6 cartes.
+
+Chacun·e compte son argent : chaque billet vaut 1.
+Les cartes en main, sur les comptoirs et dans les entrepôts ne valent rien.
+La personne la plus riche gagne.
+En cas d'égalité, celui ou celle des ex æquo qui a le moins de cartes dans son entrepôt et sur son comptoir réunis gagne.
+Si l'égalité persiste, les ex æquo se partagent la victoire.

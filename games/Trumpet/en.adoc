@@ -1,0 +1,141 @@
+= Trumpet
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 69 game cards:
+** 66 numbered cards: 1-11 in ♠, ♥, ♣, ♦, ✿ & ★.
+** 3 Super-Trumps: J, Q & K in ⎈.
+* 6 Trump cards: the A of ♠, ♥, ♣, ♦, ✿ & ★.
+* 24 path cards:
+** 18 empty spaces: the 3 K of ♠, ♥, ♣, ♦, ✿ & ★.
+** 6 trump spaces: 1-6 in ⎈.
+* 2 character cards per player:
+** 2 Butterflies & 2 Wolves.
+** 2 Phoenixes with 3 players or more.
+** 2 Monkeys with 4 players or more.
+** 2 Snakes with 5 players or more.
+** 2 Dragons with 6 players.
+
+TIP: Instead of the path and character cards, you can play with a link:Trumpet-Board.pdf[board] and player pawns.
+****
+
+Each time a player wins a trick, their character moves forward one free space along the path.
+When a character reaches a ⎈ space, its owner may choose a trump suit.
+
+The decisions of when to change trumps and when to play a Super-Trump must be made carefully, since they are decisive.
+The first player to reach the end of the path wins the game.
+
+
+== Setup
+
+Build the path in the middle of the table.
+Place all the K cards face down: they are the empty spaces of the path.
+Place all the ⎈ cards 1-6 face up (*their value does not matter*): they are the trump spaces of the path.
+
+.From **S**tart to **F**inish
+[%autowidth,cols="^,^,^,^,^,^,^"]
+|===
+h| ⎈ h| _ h| _ h| _ h| _ h| ⎈ .4+|
+h| _
+4.11+.^| Trump +
+line
+h| _
+h| _ h| _
+h| _ h| _
+h| ⎈ .7+| h| _
+h| _ h| ⎈
+h| _ h| _
+h| ⎈ h| _
+h| _ h| ⎈
+h| _ h| _
+h| ↑ +
+*S*
+h| ↓ +
+*F*
+|===
+
+[CAUTION]
+====
+There is a gap before the last six spaces of the path, to remind the players that these six spaces are special.
+This gap is *not* a space of the path.
+====
+
+Each player takes a pair of identical character cards, places one in front of them and the other at the start of the path, before its first empty space.
+
+Choose a dealer.
+The dealer shuffles the game cards and deals 7 cards face down to each player.
+The remaining cards form a face-down draw pile.
+
+Place the 6 Trump cards (A) face down in the middle of the path.
+
+
+== Playing the game
+
+The player to the left of the dealer leads a card.
+Then, clockwise, each player must play a card of the same suit.
+
+If you cannot follow suit, you may play any card.
+If you play a trump, you can win the trick; otherwise, your card is lost.
+
+A trick is won by the highest trump or, if there is none, by the highest card of the lead suit.
+
+A Super-Trump beats any other card.
+If more than one Super-Trump is played, the last one played wins the trick (the letter of the Super-Trumps *does not matter*).
+If a trick is led with a Super-Trump, it has no lead suit: players can play any card they wish.
+
+Once a trick is played out, place its cards face up next to the face-down draw pile.
+The player who wins the trick must move their character to the next *unoccupied* space of the path.
+
+NOTE: Only one character can occupy a space.
+
+The player who wins a trick leads the next one.
+
+Once all the cards in hand have been played, the deal passes to the player to the left of the previous dealer.
+The game cards are reshuffled and each player is dealt a new hand of 7 cards.
+
+
+== Trumps
+
+Whenever a character lands on a ⎈ space, its owner may choose a trump suit.
+They take the Trump card (A) of the suit of their choice and place it face up at the end of the Trump line, in the middle of the path.
+
+Once all 6 Trump cards are on the Trump line, a character landing on a ⎈ space allows its owner to swap two Trump cards in the line.
+
+If a player has no cards left in hand when their character lands on a ⎈ space, they may wait until the new hand is dealt before choosing trumps.
+
+
+=== Trump strength
+
+The first Trump card is placed at the beginning of the Trump line.
+
+All trumps are good, but the further along the line its Trump card is, the stronger a trump suit is.
+The strongest trump suit beats all the others.
+The second strongest trump suit beats all those below it, but not the strongest one, and so on.
+
+A Super-Trump beats all trumps.
+
+
+== The last six spaces
+
+The last six spaces of the path are special.
+
+When you win a trick while your character is in this region, you have two choices:
+
+* Move your own character forward to the next free space.
+* Move the character of an opponent in this same region backward to the preceding free space.
+
+If a character lands on a ⎈ space after moving backward, its owner carries out the normal action of that space.
+
+
+== Penalties
+
+If you fail to follow suit when you could, you must move your character to the space immediately behind the last character on the path.
+
+
+== End of the game
+
+The first player to move *past* the last space of the path wins the game.

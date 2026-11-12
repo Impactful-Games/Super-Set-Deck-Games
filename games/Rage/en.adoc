@@ -1,0 +1,188 @@
+= Rage
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 96 numbered cards: 0-15 in ♠, ♥, ♣, ♦, ✿ & ★.
+* 16 action cards:
+** 2 Monkeys.
+** 3 Phoenixes.
+** 3 Snakes.
+** 4 Wolves.
+** 4 Butterflies.
+* Paper and a pencil to keep the score.
+****
+
+In each round, every player is dealt a number of cards.
+In turn, each player plays a card in the middle of the table.
+The player who played the highest card of the lead suit (or of the trump suit) wins the trick and takes the cards.
+The game ends after ten rounds.
+The goal is to score the most points, by winning tricks and by correctly predicting how many tricks you will win.
+
+
+== Setup
+
+A player is chosen as scorekeeper.
+They write the names of all the players on a score sheet.
+Then they shuffle the 112 cards and deal 10 cards to each player.
+After each round, the player to the left of the dealer becomes the new dealer.
+
+
+== Playing the game
+
+=== The deal
+
+In the first round, each player is dealt ten cards.
+With each card, a player could win a trick, so it is possible to win ten tricks in the first round.
+In the second round, each player is dealt nine cards, and it is possible to win up to nine tricks.
+In the third round, each player is dealt eight cards, then seven cards in the fourth round, and so on, until the tenth round, in which each player receives only one card.
+
+The cards that are not dealt form a face-down pile in the middle of the table.
+Turn over the top card of this pile and place it next to the pile: it determines the trump suit of the round.
+If it is an action card, turn over another card, until a numbered card is revealed.
+
+
+=== Bidding
+
+After sorting your cards by suit and value, consider how many tricks you will win in this round.
+Beginning with the player to the left of the dealer, each player then announces their bid for the round.
+The scorekeeper writes down the bids on the score sheet.
+To avoid any misunderstanding, repeat all the bids aloud before play begins.
+
+
+=== Tricks
+
+The player to the left of the dealer plays the first card of the trick.
+Then, clockwise, each player plays a card.
+Each player *must* play a card of the lead suit, if possible.
+If you have no card of the lead suit, you may play any card: a trump, a card of another suit, or an action card.
+
+If you have no card of the lead suit, you may play a card of the trump suit (the suit of the card next to the pile), and thus win the trick.
+If several trumps are in the trick, the highest trump wins the trick.
+
+.Winning the trick
+[IMPORTANT]
+====
+The player who played the highest card of the lead suit wins the trick, unless a trump was played.
+In that case, the highest trump wins the trick.
+====
+
+Each player keeps the tricks they win in *separate piles*, apart from the cards in their hand, so that everyone always knows how many tricks each player has won.
+The winner of a trick leads the next trick.
+When no player has cards left in hand, score the round (see <<scoring>>).
+
+
+=== Action cards
+
+If you have no card of the lead suit, you may play an action card.
+Action cards do not belong to any of the six suits.
+
+* *Phoenix*: The winner of the trick that includes this card scores *5 more points* at the end of the round.
+
+* *Snake*: The winner of the trick that includes this card scores *5 fewer points* at the end of the round.
+
+* *Wolf*: When this card is played, turn the trump card face down next to the pile.
+There is no trump for this trick.
+Any trumps already played in the trick count as normal cards.
+The player who played the highest card of the lead suit wins the trick.
++
+.Wolf
+====
+The trump suit is ♥. +
+Anja leads ♦8. +
+Bernd follows with ♥4 (a trump). +
+Claudia plays a Wolf: the trump card next to the pile is turned face down, and ♥ is no longer the trump suit. +
+Anja wins the trick, with the highest card of the lead suit (♦), as there is no trump for this trick.
+====
++
+After the trick, turn over the top card of the face-down pile and place it on the card that determined the previous trump.
+If it is an action card, turn over another card, until a numbered card is revealed.
+This new card determines the trump suit for the rest of the round.
+
+* *Butterfly*: When you play this card, immediately turn over the top card of the pile and place it on the previous trump card.
+If it is an action card, or a card of the same suit as the previous trump, repeat until a numbered card of another suit is revealed.
+The suit of this new card is the trump suit for the current trick and for the rest of the round.
+Unless, of course, a second, third or fourth Butterfly is played during the round!
+The previous trump no longer counts, neither for this trick nor for the rest of the round.
+The new trump suit can never be the same as the previous one.
+
+* *Monkey*: When you play this card, you must announce its suit.
+You may choose the trump suit.
+The Monkey is the highest card of the chosen suit in the trick.
+If the suit of the Monkey is not the trump suit, every trump beats the Monkey.
+If both Monkeys are played in the same trick, the second one beats the first.
+
+[CAUTION]
+====
+The first card of a trick may be an action card.
+In that case, the second card of the trick may be any card.
+The first numbered card or Monkey played determines the suit to follow.
+If only action cards other than Monkeys are played, the first card played in the trick wins the trick.
+====
+
+
+[#scoring]
+== Scoring
+
+After all the tricks of the round have been played (when no player has cards left in hand), score the round:
+
+* Each player scores 1 point for each trick they won.
+* If you won exactly the number of tricks you bid, you score 10 points.
+* If you did not win the number of tricks you bid, you lose 5 points.
+* Each player loses 5 points for each *Snake* in the tricks they won.
+* Each player scores 5 points for each *Phoenix* in the tricks they won.
+
+Add up the positive and negative points to get your score for the round, which the scorekeeper writes down on the score sheet.
+
+.First round, with ten cards
+====
+* Anja bid three tricks and won three tricks: 10 points, plus 1 point per trick, that is 3 points.
+Unfortunately, one of these tricks included a Snake, which costs 5 points.
+Anja scores 8 points for this round (stem:[10 + 3 - 5 = 8]).
+* Bernd did not win the number of tricks bid (-5 points).
+Bernd won a single trick, which scores 1 point and included a Phoenix (5 points).
+Bernd scores 1 point for this round (stem:[-5 + 5 + 1 = 1]).
+* Claudia bid two tricks and won two tricks (10 points).
+Each of these tricks scores 1 more point.
+Claudia scores 12 points for this round (stem:[10 + 2 = 12]).
+* Dieter did not make the bid (-5 points).
+The 4 tricks Dieter won score 4 points.
+Dieter scores -1 point for this round (stem:[-5 + 4 = -1]).
+====
+
+
+== End of the game
+
+The game ends after ten rounds.
+Score the last round, then add up the scores of all ten rounds.
+The player with the highest score wins.
+
+
+== Variants
+
+* *Plus or minus one*: As usual, the bids are announced openly to the scorekeeper.
+The total of the bids may not equal the number of tricks of the round: it must be higher or lower.
+For example, in a round of five tricks, the total of the bids of all the players cannot be 5.
+The last player to bid is therefore constrained.
+
+* *Hidden bid*: Each player writes their bid on a piece of paper.
+When everyone is done, the bids are revealed and the scorekeeper writes them down, before the round begins.
+This way, no player's bid is influenced by the bids of the others.
+
+* *Secret bid*: Each player writes their bid on a piece of paper, and the scorekeeper collects the papers.
+The bids are written down and revealed only after the last trick of the round.
+So during the round, nobody knows how many tricks the other players want to win.
+
+* *Marching through*: If a player wins all the tricks of a round, they score two points for each trick instead of one.
+This does not apply to the last round, which has only one trick.
+
+* *Reverse order*: Start with the round of 1 card, and go up to 10 cards.
+Rounds 1 to 3 are pretty much blind luck anyway.
+Get them out of the way, then play the more skillful rounds 4 to 10.
+This keeps the game closer, by giving players more opportunities to target the leader with Snakes.
+
+* *No trump rounds*: When turning over cards to determine the trump suit, if a Butterfly comes up, immediately play as if there were no trump suit.
+Until someone changes the trump, of course!

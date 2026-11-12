@@ -1,0 +1,187 @@
+= Stick'em Classic
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* Up to 114 cards, depending on the number of players (see <<setup>>): 0-15, J, Q & K in ♠, ♥, ♣, ♦, ✿ & ★.
+* Paper and a pencil to keep the score.
+****
+
+Each player is dealt cards.
+Each player selects one of these cards to set their own "misery colour".
+The goal of the game is to take as many tricks as possible, while avoiding the cards of your misery colour.
+The cards of your misery colour bring you negative points, while the other colours bring positive points.
+The player with the most points wins.
+
+CAUTION: In this game, a colour is a suit, whatever the colour printed on the cards.
+
+
+[#setup]
+== Setup
+
+The cards used in the game depend on the number of players.
+The cards not listed are not used.
+
+* *3 players*: 0-8 in ♠, ♥, ♣, ♦ & ✿.
+* *4 players*: 0-11 in ♠, ♥, ♣, ♦ & ✿.
+* *5 players*: 0-14 in ♠, ♥, ♣, ♦ & ✿.
+* *6 players*: 0-14 in ♠, ♥, ♣, ♦, ✿ & ★.
+* *7 players*: 0-15, J & Q in ♠, ♥, ♣, ♦, ✿ & ★.
+* *8 players*: 0-15, J, Q & K in ♠, ♥, ♣, ♦, ✿ & ★.
+
+Shuffle the cards and deal them out to the players.
+Each player receives 15 cards (14 cards with 8 players).
+
+[NOTE]
+====
+With 7 or 8 players, some cards remain undealt: 3 cards with 7 players, 2 cards with 8 players.
+Show these cards to all the players, then set them aside.
+====
+
+
+=== Choosing your misery colour
+
+Look at your hand and choose your misery colour for this round.
+Then select a card of this colour from your hand and place it face down in front of you.
+Once everyone has placed a card, all the players reveal them at the same time.
+These cards stay face up until the end of the round, so that everyone knows everyone else's misery colour.
+Several players may choose the same misery colour.
+
+Each card of your misery colour that you take in tricks scores its value in negative points.
+The misery begins with the choice of the misery colour, because the card you used to declare it counts against you at the end of the round.
+
+[TIP]
+====
+When choosing your misery colour, do not choose a colour in which you have only 1 to 3 cards, nor a colour in which you have very many cards.
+Also, it is better to choose a colour in which your cards have low values, so as not to take tricks with high cards of your misery colour.
+====
+
+
+== Playing the game
+
+The starting player begins by playing a card in the middle of the table.
+Then, in turn, each player must play a card from their hand.
+You do not have to follow suit.
+Any card can be played.
+
+The cards played in the middle of the table form the "trick".
+The colour of the first card played is the "lead colour".
+Every other colour played in this trick is a trump colour.
+Every card of a trump colour is a trump card, except the 0 cards.
+
+CAUTION: The 0 cards are not trump cards.
+
+
+=== Who wins a trick?
+
+IMPORTANT: With 7 or 8 players, the J cards are worth 16, the Q cards 17 and the K cards 18.
+
+* If only cards of the lead colour were played in the trick, the player who played the highest card wins the trick.
+* If, besides the cards of the lead colour, only 0 cards were played, the player who played the highest card of the lead colour wins the trick.
+A 0 card is not a trump card.
+* If, besides the cards of the lead colour, at least one trump card was played, the player who played the highest trump card wins the trick.
+A 0 card cannot win this trick.
+* If several trump cards share the highest value, the player who played the first of them wins the trick.
+* If only 0 cards were played in the trick, the player who led the first 0 card wins the trick.
+
+The winner of the trick takes the cards and places them face down in a pile in front of them.
+This player then leads the next trick by playing a card.
+The colour of this card is the new lead colour.
+
+
+=== End of the round and scoring
+
+The round ends after 14 tricks (13 tricks with 8 players).
+Each player now has at least one card of their misery colour (the card used to declare it), and possibly other cards taken in tricks.
+Each card of your misery colour scores its value in negative points.
+Each card of another colour scores 1 positive point, whatever its value.
+To find your score for the round, add your positive points and subtract your negative points.
+
+IMPORTANT: With 7 or 8 players, the J cards are worth 16, the Q cards 17 and the K cards 18.
+
+.Scoring
+====
+Axel used ♥4 to declare ♥ as misery colour.
+In tricks, Axel took ♥2 and ♥5, as well as 14 cards of other colours.
+Axel scores 14 points for the 14 other cards, and stem:[4 + 2 + 5 = 11] negative points for the ♥ cards.
+So Axel's score for the round is stem:[14 - 11 = 3] points.
+====
+
+
+=== The next round
+
+Once every player's score is noted, the next round begins.
+The player with the lowest score shuffles the cards (including those set aside in the previous deal, with 7 or 8 players) and deals them (setting aside the undealt cards again).
+If several players are tied for the lowest score, the player who scored the least in the previous round deals.
+Each player chooses a misery colour, which may or may not be the same as in the previous round.
+
+The player to the left of the dealer leads the first trick, and play continues as described above.
+
+
+== End of the game
+
+The game ends after five rounds.
+The player with the highest positive score wins.
+If all players have negative points, the player with the fewest negative points wins.
+
+
+== Variants
+
+=== "Reverse" Stick'em
+
+The players select a personal "lucky colour" from the cards in their hand.
+Each card of your lucky colour that you win in tricks scores its value in positive points.
+Of course, the card chosen at the beginning to declare your lucky colour also counts in your favour.
+However, each card of another colour now scores 1 negative point, whatever its value.
+
+[IMPORTANT]
+====
+The lowest trump card wins the trick, rather than the highest.
+A 0 card still cannot win a trick.
+If several players play a trump card of the lowest value, the first player who played such a card wins the trick.
+====
+
+Otherwise, play with the rules of Stick'em Classic.
+
+
+=== "Mild" Stick'em
+
+Each card of your misery colour scores 5 negative points, rather than its value.
+This also applies to the 0 card of that colour.
+Each card of another colour still scores 1 positive point.
+
+Otherwise, play with the rules of Stick'em Classic.
+
+
+=== "Aggravated" Stick'em
+
+Each player chooses two personal misery colours, and selects two cards from their hand.
+Each card of your two misery colours scores its value in negative points, and each card of another colour scores 1 positive point.
+
+So only 13 tricks are played with 3 to 7 players, and only 12 tricks with 8 players.
+
+Otherwise, play with the rules of Stick'em Classic.
+
+
+=== "Hazy" Stick'em
+
+The card declaring each player's misery colour stays face down in front of them.
+It is only revealed at the end of the round.
+
+Otherwise, play with the rules of Stick'em Classic.
+
+
+=== "Delayed" Stick'em
+
+The players select their misery colour not at the beginning of the round, but at the end, when counting the cards won in tricks.
+Each player must choose as misery colour a colour among the cards they won.
+If you have not won any card of a colour, you cannot choose that colour as your misery colour.
+
+A player who did not take any trick scores 0 points.
+
+In this variant, 15 tricks are played (14 tricks with 8 players).
+
+Otherwise, play with the rules of Stick'em Classic.

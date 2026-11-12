@@ -1,0 +1,154 @@
+= Whot!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 49 cartes numérotées, et 10 K de 6 à 8 joueur·euse·s :
++
+[%autowidth]
+|===
+^| Couleur 14+^| 2 à 8 joueur·euse·s 4+| 6 à 8 joueur·euse·s
+^| ♠ | 1 | 2 | 3 | 4 | 5 | | 7 | 8 | | 10 | 11 | 12 | 13 | 14 | | K | K | K
+^| ♥ | 1 | 2 | 3 | 4 | 5 | | 7 | 8 | | 10 | 11 | 12 | 13 | 14 | | K | K | K
+^| ♣ | 1 | 2 | 3 |   | 5 | | 7 |   | | 10 | 11 |    | 13 | 14 | | K | K |
+^| ♦ | 1 | 2 | 3 |   | 5 | | 7 |   | | 10 | 11 |    | 13 | 14 | | K | K |
+^| ★ | 1 | 2 | 3 | 4 | 5 | | 7 | 8 | |    |    |    |    |    | |   |   |
+|===
+* 5 Papillons (6 Papillons de 6 à 8 joueur·euse·s).
+****
+
+Whot! fut l'un des premiers jeux commerciaux de la famille des « Huit », dans lesquels chacun·e tente d'être le premier ou la première à se débarrasser de ses cartes en suivant un numéro ou une couleur.
+Whot! a été inventé (mais apparemment pas breveté) et déposé par William Henry Storey, de Southend-on-Sea, en Angleterre, en 1935.
+Le jeu a d'abord été commercialisé par Storey & Co de Croydon, la société que Storey avait fondée en 1930, mais il a rapidement été racheté par Waddingtons de Leeds, et a connu un grand succès en Grande-Bretagne dans les années 1950 et 1960.
+Waddingtons a continué à le vendre jusque dans les années 1990 ; il est aujourd'hui distribué par Winning Moves UK dans sa série Top Cards.
+
+Whot! est devenu le jeu de cartes national du Nigeria.
+
+
+== Jeu
+
+Pour commencer, la personne qui distribue mélange le paquet et distribue :
+
+* *2 à 5 joueur·euse·s* : six cartes à chacun·e.
+* *6 ou 7 joueur·euse·s* : cinq cartes à chacun·e.
+* *8 joueur·euse·s* : quatre cartes à chacun·e.
+
+La première carte du paquet est posée face visible pour servir de « carte d'appel » (une base sur laquelle les autres cartes sont jouées), et le reste du paquet est posé face cachée entre les joueur·euse·s pour former la pioche.
+
+À tour de rôle, chacun·e doit soit poser sur la carte d'appel une carte de la même couleur ou du même numéro, soit jouer un Papillon, soit piocher la première carte de la pioche.
+Vous n'êtes pas obligé·e de jouer une carte, mais si vous ne le faites pas, vous devez piocher.
+La carte spéciale Papillon peut être posée sur n'importe quelle carte d'appel, et vous permet de choisir la couleur à jouer au tour suivant.
+
+NOTE: De 6 à 8 joueur·euse·s, les cartes K agrandissent le paquet, car le jeu d'origine conseille d'utiliser deux paquets au-delà de cinq joueur·euse·s.
+Elles n'ont aucune fonction spéciale : comme toute autre carte, jouez un K sur une carte de la même couleur, ou sur un autre K.
+
+Votre tour prend immédiatement fin lorsque vous piochez une ou plusieurs cartes.
+Vous ne pouvez jamais piocher et jouer une carte au cours du même tour.
+
+Habituellement, chacun·e dispose de 10 secondes pour jouer une carte.
+Si une personne ne joue pas dans ce délai, les autres lui demandent de piocher une carte pour attente excessive.
+C'est ensuite au tour de la personne suivante.
+Les joueur·euse·s n'utilisent pas de chronomètre et ne regardent pas leur montre toutes les quelques secondes, mais réagissent lorsque l'attente leur paraît trop longue.
+
+Le jeu continue jusqu'à ce qu'un·e joueur·euse joue sa dernière carte : elle ou il remporte la manche.
+
+Une fois qu'un·e joueur·euse a joué sa dernière carte, tous les autres marquent des points en additionnant les valeurs des cartes qui restent dans leur main :
+
+* Les cartes ★ valent le double de leur valeur imprimée (par exemple, 4★ vaut 8 points).
+* Les Papillons valent 20 points.
+* Les cartes K valent 15 points.
+* Les autres cartes (♠, ♥, ♣ & ♦) valent leur valeur imprimée.
+
+La partie se termine lorsqu'un·e joueur·euse atteint 100 points ou plus.
+La personne qui a alors le score cumulé le plus bas remporte la partie.
+
+
+=== Fonctions des cartes
+
+==== Cartes non défendables
+
+On ne peut pas se défendre contre trois valeurs de cartes :
+
+* *14* (Marché général !) : tous les autres doivent piocher une carte chacun·e, et la personne qui a joué le 14 peut jouer à nouveau.
+* *1* (Attendez !) : tous les autres sont sautés, et la personne qui a joué le 1 peut jouer à nouveau, avec la même couleur ou le même numéro que le 1.
+* *8* (Passez !) : la personne suivante dans l'ordre du tour passe son tour.
+À deux joueur·euse·s, un 8 est équivalent à un 1.
+
+
+==== Cartes de pioche (deux et cinq)
+
+* *2* (Piochez deux !), _défendu par un autre 2_ : la personne suivante doit piocher deux cartes sur le dessus de la pioche, à moins de jouer elle aussi un 2.
+* *5* (Piochez trois !), _défendu par un autre 5_ : la personne suivante doit piocher trois cartes sur le dessus de la pioche, à moins de jouer elle aussi un 5.
+
+Si un 2 est défendu, la troisième personne doit piocher quatre cartes, à moins de jouer elle aussi un autre 2.
+Cela continue jusqu'à ce qu'une personne ne joue pas de 2, parce qu'elle n'en a pas ou ne veut pas le jouer.
+Elle doit alors piocher deux cartes pour chaque 2 joué.
+Par exemple, si quatre 2 ont été joués d'affilée, la personne qui ne peut pas ou ne veut pas jouer un autre 2 doit piocher huit cartes sur le dessus de la pioche.
+
+Un 5 fonctionne comme un 2, sauf que la personne qui ne peut pas ou ne veut pas se défendre contre un 5 en jouant un autre 5 doit piocher trois cartes pour chaque 5 joué d'affilée.
+
+
+==== Papillons
+
+* *Papillon* (changement de couleur), _défendu par un autre Papillon_ : vous pouvez changer la couleur de la carte d'appel demandée par un·e autre joueur·euse en jouant un Papillon et en demandant la couleur de votre choix.
+Par exemple, pour changer la carte d'appel de ♦ à ♠.
+Une personne qui n'a pas la couleur demandée par le Papillon doit piocher une carte sur le dessus de la pioche.
+
+
+=== Annonces
+
+Quand vous jouez l'une de ces cartes, vous devez l'annoncer à voix haute (pour informer les autres) :
+
+* *1* : dites « Attendez ! ».
+* *2* : dites « Piochez deux ! ».
+* *5* : dites « Piochez trois ! ».
+* *8* : dites « Passez ! ».
+* *14* : dites « Marché général ! ».
+* *Quand vous jouez votre avant-dernière carte* : vous devez dire « Dernière carte ! ».
+* *Quand vous jouez votre dernière carte* : vous devez dire « C'est fini ! ».
+
+Si vous ne faites pas la bonne annonce, vous en subissez les conséquences.
+Les voici :
+
+* Si vous oubliez de dire « Dernière carte ! » avant que la personne suivante ait joué, vous devez piocher deux cartes supplémentaires.
+* Si vous oubliez de dire « C'est fini ! » au moment où vous posez votre dernière carte, et que la personne suivante continue à jouer, vous devez piocher deux cartes supplémentaires, et le jeu continue.
+* Oublier de dire « Piochez deux ! », « Piochez trois ! », « Passez ! » ou « Marché général ! » n'a pas de conséquence, mais dire ces mots à voix haute rend le jeu plus animé.
+
+
+=== Pioche vide
+
+Lorsque toutes les cartes de la pioche sont passées dans les mains des joueur·euse·s et dans la pile des cartes d'appel, retirez toutes les cartes situées sous la carte d'appel, pour ne laisser que celle-ci.
+Mélangez les cartes retirées et posez-les face cachée sur la table : elles forment la nouvelle pioche.
+
+
+== Variantes
+
+=== Super Papillons
+
+Le Papillon a désormais trois fonctions :
+
+* *Changement de couleur* : vous pouvez changer la couleur de la carte d'appel demandée par un·e autre joueur·euse en jouant un Papillon et en demandant la couleur de votre choix.
+Une personne qui n'a pas la couleur demandée par le Papillon doit piocher une carte sur le dessus de la pioche.
+* *Changement de sens* : la personne qui joue le Papillon peut exiger un changement de sens de jeu (par exemple, du sens horaire au sens antihoraire, ou inversement).
+Cela permet d'exiger une couleur que la personne de l'autre côté n'a probablement pas, si elle est proche de gagner.
+* *Passer le tour suivant* : la personne qui joue le Papillon peut exiger que la personne suivante passe son tour.
+S'il ne reste que deux joueur·euse·s, la personne qui a joué le Papillon peut jouer une deuxième fois de suite.
+
+
+=== Suites
+
+Si vous avez des cartes en ordre croissant ou décroissant, vous pouvez les jouer à la suite en sautant tous les autres joueur·euse·s.
+C'est ce qu'on appelle une suite.
+N'importe quelle carte (sauf les cartes K et les Papillons) pouvant être jouée sur la carte d'appel peut être la première carte de la suite.
+Les joueur·euse·s peuvent convenir qu'une suite n'est autorisée qu'avec des cartes de la même couleur, ou que la couleur n'a pas d'importance.
+
+
+=== Attaques directionnelles
+
+Les cartes de pioche (les 2 et les 5) permettent désormais de changer le sens de jeu (par exemple, du sens horaire au sens antihoraire, ou inversement).
+Cela permet d'attaquer la personne de l'autre côté, si elle est proche de la victoire.
+Dans ce cas, vous devez l'annoncer à voix haute : « Changez de sens et piochez deux ! » ou « Changez de sens et piochez trois ! ».

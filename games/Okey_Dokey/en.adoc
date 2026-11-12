@@ -1,0 +1,281 @@
+= Okey Dokey
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 40 Number cards: 1-8 in ♠, ♥, ♣, ♦ & ✿.
+* 10 Reset cards: 2 K in ♠, ♥, ♣, ♦ & ✿.
+* 3 Phoenixes.
+****
+
+All of you have gathered to organize a spectacular music festival.
+Vocals, guitars, drums, pianos and bass from all over the land come together to play their part in this special event.
+Many bands have gathered, and each performer has their part to play in creating a successful music festival!
+
+
+== Object of the game
+
+Okey Dokey is a cooperative game: the players are not competing, but striving together for the common goal of successfully staging the festival.
+You play cards one by one, in accordance with the rules, to a 5 by 10 grid to create a colourful music festival.
+
+
+== Goal of the game in detail
+
+The goal of the game is to play all 50 Number and Reset (K) cards to a grid of 5 rows by 10 columns.
+
+[options="autowidth", frame=none, grid=none, cols="^,^,^,^,^,^,^,^,^,^,^"]
+|===
+h| ♠ | 2 | K | 1 | 3 | 7 | 8 | K | 4 | 5 | 6
+h| ♥ | K | 2 | 3 | 4 | 5 | 6 | 7 | 8 | K | 1
+h| ♣ | 1 | 2 | 5 | K | 3 | 4 | 6 | 7 | 8 | K
+h| ♦ | 2 | 6 | K | 7 | 8 | K | 1 | 3 | 4 | 5
+h| ✿ | 1 | 3 | 4 | 6 | K | 2 | 5 | K | 7 | 8
+|===
+
+
+== Setup
+
+1. First, determine the difficulty level of the game.
+The difficulty level determines the number of Phoenixes used in the game.
++
+[%autowidth]
+|===
+| Difficulty level | Number of Phoenixes
+
+| Amateur | 3
+| Standard | 2
+| Professional | 1
+| Maestro | 0
+|===
+
+2. Shuffle the corresponding number of Phoenixes and all the Number cards well into a face-down deck.
+Return the unused Phoenixes to the box: they are not used in the game.
+Then, deal the Number cards (with the Phoenixes mixed in, but not the Reset cards) according to the number of players.
+The table below gives the number of cards of each player:
++
+[%autowidth]
+|===
+| Player count | Starting hand size
+
+| 1 player | 10 cards
+| 2 players | 7 cards
+| 3 players | 6 cards
+| 4 players | 5 cards
+| 5 players | 4 cards
+|===
++
+Place the remaining cards in a Number card deck, within reach of all players.
+
+3. Set up the Reset cards by placing 5 piles of 2 K each face up, in 5 rows:
++
+[%autowidth]
+|===
+| ♠K
+| ♥K
+| ♣K
+| ♦K
+| ✿K
+|===
+
+4. Decide together on a start player.
+Look at your own hands, and decide who should begin.
+When the game begins, play proceeds in turns clockwise from the start player.
+You are now ready to begin!
+
+
+== Flow of the game
+
+The game proceeds in turns until all 50 cards are placed in the grid.
+The turns proceed clockwise from the start player.
+
+CAUTION: *Exception*: In a 5-player game, when a player places the fifth card of a column, they immediately take another turn.
+
+On your turn, carry out 1 of the following 2 actions:
+
+a. Play a Number card.
+b. Place a Reset card.
+
+If, during your turn, you cannot carry out an action (neither (a) nor (b)), the game ends immediately and you have all lost the game.
+
+
+=== a. Play a Number card
+
+Play a Number card to the grid.
+You can also play a Phoenix in place of a Number card.
+You must obey the card placement rules below.
+After playing a Number card, draw a card from the Number card deck to your hand, if any is left.
+
+
+=== b. Place a Reset card
+
+Choose a suit, and place a Reset (K) card of the pile of that row into the grid.
+You cannot take this action if there are no Reset cards left of that suit.
+You must obey the Reset placement rules below.
+Then, if there is at least one card left in the deck, choose 0 to 2 cards from your hand, discard them face down to the bottom of the deck, and draw as many cards as you discarded from the top of the deck.
+
+
+=== Drawing cards
+
+Once the deck runs out, you can no longer draw cards.
+
+In addition, when you place a Phoenix, you may discard a Number card of the suit of the row where you placed the Phoenix.
+Place the discarded card under the Phoenix you just placed.
+You may only discard one card per Phoenix.
+
+If you run out of cards in your hand, skip your turn for the rest of the game.
+
+
+=== Card placement rules
+
+==== Column placement rules
+
+You must place cards in the current column.
+You can only start a new column when the current one is complete.
+(For example, you can place a card in column 2 only after placing 5 cards in column 1.)
+
+* *OK example*: The column has 5 cards, so the ♥4 *can* be placed.
++
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| ♠1 | _
+| ♥3 | <- ♥4
+| ♣2 | _
+| ♦K | _
+| ✿4 | _
+|===
+
+* *Error example*: The column only has 3 cards, so the ♥4 *cannot* be placed.
++
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| _  | _
+| ♥3 | <- ♥4
+| ♣2 | _
+| ♦K | _
+| _  | _
+|===
+
+
+==== Suit placement rules
+
+All the Number cards of a row must be of the same suit.
+In addition, there is exactly one row for each suit.
+(For example, even if a Reset card is placed in the first column of the first row, all the subsequent cards of this row must still be ♠.)
+
+* *OK example*: Same suit, so the ♥4 *can* be placed.
++
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| ♠2 | _
+| ♥3 | <- ♥4
+| ♣K | _
+| ♦1 | _
+| ✿4 | _
+|===
+
+* *Error example*: Different suit, so the ♥4 *cannot* be placed.
++
+[options="autowidth", frame=none, grid=none, cols="^,^"]
+|===
+| ♠2 | <- ♥4
+| ♥3 | _
+| ♣K | _
+| ♦1 | _
+| ✿4 | _
+|===
+
+
+==== Number placement rules
+
+The number of the card played must be equal to or greater than the number of the card to its left.
+You may play a Reset (K) card regardless of the number of the previous card.
+Placing a Reset card resets the number to zero (that is, any Number card may be played after it).
+
+* *Example*:
++
+[options="autowidth", frame=none, grid=none, cols="^,^,<"]
+|===
+| ... | ♠6 | <- Here, a ♠7, a ♠8, a Phoenix or a ♠K may be played.
+| ... | ♥K | <- Here, any ♥ Number card, a Phoenix or a ♥K may be played.
+|===
+
+
+==== Reset placement rules
+
+Every column of 5 cards must hold exactly 4 Number cards and 1 Reset (K) card.
+At the end of the game, there must be exactly two Reset cards per row.
+
+* *OK example*: There is exactly 1 Reset (K) card in this column.
++
+[options="autowidth", frame=none, grid=none, cols="^"]
+|===
+| ♠2
+| ♥3
+| ♣4
+| ♦1
+| ✿K
+|===
+
+* *Error example*: There are 2 or more Reset cards in this column.
++
+[options="autowidth", frame=none, grid=none, cols="^"]
+|===
+| ♠3
+| ♥7
+| ♣K
+| ♦K
+| ✿2
+|===
+
+* *Error example*: There are no Reset cards in this column.
++
+[options="autowidth", frame=none, grid=none, cols="^"]
+|===
+| ♠3
+| ♥4
+| ♣8
+| ♦1
+| ✿2
+|===
+
+
+==== Phoenix placement rules
+
+You may place a Phoenix instead of any Number card.
+When a Phoenix is played, its number is the same as the number of the card to its left.
+If the card to its left is a Reset (K) card, the number of the Phoenix is zero.
+
+* *Example*:
++
+[options="autowidth", frame=none, grid=none, cols="^,<"]
+|===
+| ♠6 | Phoenix <- Treat this Phoenix as a ♠6.
+| ♥2 |
+| ♣K | Phoenix <- Treat this Phoenix as a ♣0.
+| ♦3 |
+| ✿1 |
+|===
+
+
+== End of the game
+
+When all 50 cards have been placed in the grid, and all 10 columns have been filled, you have all won the game.
+If you cannot accomplish this, you have all lost the game.
+
+
+== Rules regarding player discussion
+
+No player may show their hand to another player.
+You may not say or give hints about the numbers of the cards in your hand.
+However, you may reveal how many cards you have in a suit.
+You may also suggest a suit that you would like to be played.
+
+
+== Hints
+
+* For every column, it can be useful to discuss who places which suit, and who will play the Reset card.
+* The 1s can only be placed in the first column or after a Reset (K) card, so try to play them as soon as possible.
+* Except in the 10th column, try to avoid placing two 8s in the same column.

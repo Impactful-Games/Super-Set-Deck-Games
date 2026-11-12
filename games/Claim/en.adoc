@@ -1,0 +1,157 @@
+= Claim!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 52 cards in 5 factions:
+** 14 Goblins: 1-14 in ♠.
+** 8 Knights: 1-8 in ♥.
+** 10 Undead: 1-10 in ♣.
+** 10 Dwarves: 1-10 in ♦.
+** 10 Doppelgängers: 1-10 in ★.
+****
+
+The King is dead!
+What happened?
+Nobody really knows, but the King was found face down in a wine barrel this morning.
+It could have been foul play, or the King's own thirst.
+Regardless, the King is dead without any known heir, so it is up to the five factions of the realm to decide who will be the new king: will it be you or your opponent?
+Do you have what it takes to win over the factions of the realm?
+
+
+== Setup
+
+Shuffle all the cards and place them face down in the middle of the table as a deck.
+Deal 13 cards to each player.
+Take your cards into your hand without showing them to your opponent.
+
+
+== Game overview
+
+The game is played in two distinct phases.
+In phase one, each player gets a hand of cards that they use to recruit followers.
+In phase two, they use the followers they gained in phase one to compete for the five factions of the realm.
+At the end of the game, the player who has the majority of the followers of a faction wins that faction's vote.
+The player who wins the vote of at least three factions wins the game!
+
+
+== Phase one: recruit followers
+
+This phase consists of thirteen tricks, one for each card in your hand.
+The Leader of a trick is the player who won the previous trick (for the first trick, the youngest player).
+
+Each trick is played in the three following steps.
+
+
+=== Reveal a card
+
+Flip the top card of the deck and place it face up between both players.
+This is the card the players compete for.
+
+
+=== Play cards
+
+. The Leader plays any card from their hand.
++
+NOTE: The Leader can play a card of any faction: it does not have to be of the faction of the card the players compete for.
+. Then the other player plays a card from their hand.
++
+[IMPORTANT]
+====
+If able, the other player must follow faction.
+This means that if they have in hand a card of the faction just played, they must play one (exception: the Doppelgängers, ★).
+In other words, you can only play a card of another faction if no card in your hand matches the faction of the card played by the Leader.
+====
+
+
+=== Collect cards
+
+. The player who played the highest card of the faction played by the Leader wins the card in the middle.
+If both cards have the same value, the Leader wins.
++
+NOTE: If the other player played a card of another faction, the Leader automatically wins the trick, unless a faction power (Doppelgängers ★ or Knights ♥) applies.
+. The winner places the card they won face down in their Follower deck.
+The loser takes the top card of the deck and places it face down in their Follower deck.
+They may look at this card, but must not show it to their opponent.
++
+NOTE: The cards of your Follower deck will be your hand in phase two.
+. If either player played an Undead (♣), the winner of the trick places it face up in their Score pile.
++
+IMPORTANT: An Undead (♣) won from the middle of the table still goes to the winner's Follower deck.
+. Discard all the other cards played.
++
+IMPORTANT: Keep your Score pile face up and your Follower deck face down, so as not to mix them up.
+
+Continue until the deck is empty and the players have no cards left in hand.
+Then move on to phase two.
+
+
+== Phase two: gather supporters
+
+Each player takes into their hand the 13 cards of the Follower deck they gained in phase one.
+The players now play another 13 tricks.
+However, instead of competing for a card in the middle of the table, this time they compete for both cards played in each trick.
+
+Each trick is played in the two following steps.
+
+
+=== Play cards
+
+. The Leader plays any card from their hand.
+. Then the other player plays a card from their hand.
++
+IMPORTANT: The obligation to follow faction still applies!
+
+
+=== Collect cards
+
+. Determine the winner of the trick as in phase one.
+. The winner of the trick places both cards played face up in their Score pile, unless a faction power (Dwarves ♦) applies.
+
+Once the players have played all their cards, score the factions.
+
+
+== End of the game and scoring
+
+Count how many cards of each faction you have in your Score pile.
+The player who has the most cards of a faction wins that faction's vote.
+If there is a tie, the player who has the highest card of that faction wins the vote.
+The player who wins the vote of at least three factions wins the game!
+
+
+== Faction powers
+
+Each faction has a special power that affects play.
+
+[%autowidth]
+|===
+| Faction | Suit | Power
+
+| Goblins | ♠
+| No special power.
+
+| Knights | ♥
+a| When played after a Goblin (♠), a Knight automatically beats it, whatever their values.
+
+IMPORTANT: The player must still follow faction, if able.
+
+| Undead | ♣
+| In phase one, the Undead (♣) played are not discarded like the cards of the other factions.
+They go to the Score pile of the trick's winner.
+
+| Dwarves | ♦
+| In phase two, the player who loses a trick takes all the Dwarves (♦) played in this trick and adds them to their Score pile.
+The winner still takes the cards of the other factions played.
+
+| Doppelgängers | ★
+a| This faction is wild.
+You may play a Doppelgänger (★) instead of the faction led, *even if you can follow faction*.
+When played second, it counts as the faction of the first card, and so follows faction.
+
+NOTE: If the Leader plays a Doppelgänger (★), the other player must still follow faction by playing a Doppelgänger (★), if able.
+
+IMPORTANT: A Doppelgänger (★) does not take the special power of the faction it follows: played after an Undead (♣) in phase one, it is not taken by the winner, and played after a Dwarf (♦) in phase two, it is not taken by the loser.
+|===

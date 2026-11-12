@@ -1,0 +1,114 @@
+= Stick'em « Hat Trick »
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 54 cartes numérotées : 1-18 à ♠, ♥ & ♣.
+* 6 figures : Q & K à ♠, ♥ & ♣.
+* À 7 joueur·euse·s, 3 cartes numérotées en plus : 0 à ♠, ♥ & ♣.
+****
+
+Chaque joueur·euse essaie de collecter autant de cartes que possible d'une seule couleur, et d'éviter les cartes des autres couleurs.
+Les cartes d'une couleur rapportent un point par carte.
+Les cartes des autres couleurs rapportent un point négatif par carte.
+La personne qui a le plus de points gagne.
+
+
+== Mise en place
+
+* *De 4 à 6 joueur·euse·s* : utilisez toutes les cartes sauf les 0.
+Une personne mélange les cartes et les distribue équitablement à tout le monde : 15 cartes chacun·e à quatre, 12 cartes chacun·e à cinq, et 10 cartes chacun·e à six.
+* *À 7 joueur·euse·s* : utilisez toutes les cartes.
+Chacun·e reçoit alors 9 cartes.
+
+[IMPORTANT]
+====
+* Les cartes Q valent *19*.
+* Les cartes K valent *20*.
+====
+
+
+== Déroulement de la partie
+
+La première personne commence en jouant une carte de sa main au centre de la table.
+Cela ouvre un pli.
+À tour de rôle, les autres ajoutent une carte soit de la couleur jouée en premier, soit d'une deuxième couleur.
+Avec la deuxième couleur, un deuxième pli est ouvert.
+Ainsi se forme un double pli.
+
+IMPORTANT: Au plus deux couleurs peuvent être jouées dans un double pli.
+
+La personne qui a joué la carte de plus forte valeur remporte le pli.
+Dans un double pli, chaque couleur est remportée comme un pli séparé.
+Les personnes qui remportent les plis prennent leurs plis et placent leurs cartes face visible, en piles séparées par couleur.
+Ainsi, tout le monde voit qui a collecté quelle couleur.
+
+.Double pli
+====
+[%autowidth,grid=none,frame=none,cols="^,^,^,^,^"]
+|===
+| Axel | Lore | Uli | Doris | Birgit
+| 10♥  | 13♠  | 11♥ | 3♥    | 18♠
+|===
+Uli remporte le pli ♥ et reçoit trois cartes ♥.
+Birgit remporte le pli ♠ et reçoit deux cartes ♠.
+====
+
+La personne qui a remporté le pli précédent entame le pli suivant.
+Si c'était un double pli, celle des deux qui l'a remporté avec la carte la plus forte entame.
+En cas d'égalité, c'est la personne qui a remporté la deuxième, troisième ou quatrième carte la plus forte qui entame.
+Si l'égalité persiste, elle est départagée par l'ordre des couleurs : ♠, ♥, ♣.
+
+
+=== Les règles des plis
+
+* Dans un double pli, il ne peut y avoir que deux couleurs au plus.
+* Le K, en tant que carte la plus forte, remporte toujours le pli.
+* Une carte seule est considérée comme un pli.
+* Chacun·e peut surenchérir sur la carte la plus forte ou jouer une carte plus faible.
+
+
+=== Passer
+
+Si vous ne pouvez pas, ou ne voulez pas, jouer l'une des deux couleurs du double pli, vous devez passer.
+Vous devez montrer à tout le monde une carte de la troisième couleur, et la poser face cachée devant vous.
+Vous ne pouvez passer que si deux couleurs ont déjà été jouées dans le pli.
+
+
+=== Décompte
+
+Toutes les cartes sont jouées en plis successifs, jusqu'à la dernière carte.
+
+IMPORTANT: La dernière carte n'est pas jouée.
+Elle est mise de côté et ne compte pas.
+
+Chacun·e a maintenant devant soi jusqu'à trois piles face visible, et éventuellement des cartes face cachée, en cas de passe pendant la manche.
+Chacun·e compte ses cartes de chaque couleur.
+La couleur dont vous avez le plus de cartes vous rapporte un point positif par carte.
+En cas d'égalité entre deux ou trois couleurs, vous choisissez la couleur qui compte en points positifs.
+Toutes les cartes des autres couleurs comptent un point négatif par carte.
+Les cartes face cachée, posées en passant pendant la manche, comptent deux points négatifs chacune, quelle que soit leur couleur.
+
+.Décompte
+====
+Axel a neuf cartes ♥, deux cartes ♠, quatre cartes ♣ et une carte face cachée.
+Axel marque stem:[9 - 2 - 4 - 2 = 1] point.
+====
+
+
+=== La manche suivante
+
+Une fois tous les scores calculés, la manche suivante commence.
+Une personne mélange toutes les cartes et les distribue équitablement à tout le monde, comme précédemment.
+La personne à gauche de celle qui a distribué entame le premier pli, et le jeu continue comme décrit précédemment.
+
+
+== Fin de la partie
+
+La partie se termine après cinq manches.
+La personne qui a le plus de points gagne.
+Si tout le monde a un score négatif, la personne qui a le moins de points négatifs gagne.

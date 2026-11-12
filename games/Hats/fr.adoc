@@ -1,0 +1,153 @@
+= Hats
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 30 cartes Chapeau : 1-6 à ♠, ♥, ♣, ♦ & ★.
+* 12 cartes Chapeau en plus à 3 ou 4 joueur·euse·s : 1-6 à ✿ & ⎈.
+* La carte Ø, pour marquer le début de la ligne de Thé.
+* Du papier et un crayon pour noter les scores.
+****
+
+C’est l’heure du thé, le Chapelier Fou vous attend à 17 h dans son jardin.
+La table est dressée, les cookies ont un délicat goût de beurre, et le thé exhale un parfum puissant et épicé. +
+— Encore un peu de sucre ? +
+Le Chapelier Fou vous fixe d’un œil curieux. +
+— Oui, volon… +
+— Pas le temps ! +
+Le Chapelier Fou vous coupe.
+Autour de vous, le sucre, les cookies et des millions de chapeaux tournoient dans les airs.
+Du thé se renverse sur la nappe, et un sourire malicieux illumine le visage du Chapelier. +
+— Il est temps de jouer à un jeu !
+
+Dans Hats, de deux à quatre joueur·euse·s rivalisent pour collectionner les chapeaux les plus délirants, en échangeant des cartes de leur main avec celles de la ligne de Thé.
+Chaque échange chamboule la façon dont les chapeaux rapportent des points.
+Bien entendu, à la fin de la partie, la personne qui a le plus de points est déclarée la plus folle.
+Préparez-vous à un moment de folie !
+
+NOTE: La couleur d'une carte est son type de chapeau.
+
+
+== Mise en place
+
+. Mélangez les cartes Chapeau pour former la pioche, et posez-la face cachée sur le côté de la table.
+À 2 joueur·euse·s, n'utilisez que les cartes ♠, ♥, ♣, ♦ & ★.
+À 3 ou 4 joueur·euse·s, utilisez toutes les cartes Chapeau.
+. Placez la carte Ø sur la table, puis piochez six cartes Chapeau et posez-les face visible en ligne sur la table : c'est la ligne de Thé.
+*À 2 joueur·euse·s, ne piochez que cinq cartes.*
+Les cartes doivent former une ligne, avec la carte Ø à l'une des extrémités.
+La carte Chapeau la plus proche de la carte Ø est en position 1 de la ligne de Thé, et la carte la plus éloignée en position 6 (ou en position 5 à 2 joueur·euse·s).
+. La dernière personne à avoir mangé un cookie commence la partie.
+. Distribuez neuf cartes Chapeau à chaque joueur·euse.
+Gardez vos cartes secrètes !
+
+
+== Déroulement
+
+À votre tour, effectuez l'une des deux actions suivantes.
+
+
+=== Actions
+
+==== 1. Échange de chapeaux
+
+Posez une carte de votre main face visible, et échangez-la avec une carte de la ligne de Thé, si :
+
+* les deux cartes sont du même type (de la même couleur),
+* *ou* le nombre de la carte que vous posez est plus élevé que celui de la carte que vous prenez.
+
+Votre carte prend la place de la carte que vous prenez dans la ligne de Thé.
+Ajoutez la carte que vous prenez à votre collection, en la posant face visible devant vous.
+
+IMPORTANT: Les cartes ne s'échangent qu'avec la ligne de Thé.
+Les cartes ne s'échangent pas entre joueur·euse·s.
+
+
+==== 2. Création d’un chapeau noir
+
+Posez une carte face cachée devant vous pour l'ajouter à votre collection.
+Cette carte est un chapeau noir.
+À la fin de la partie, chaque chapeau noir de votre collection vaut un point.
+
+
+==== Action facultative
+
+À tout moment pendant votre tour, vous pouvez défausser une carte de votre choix et en piocher une nouvelle.
+Les cartes défaussées sont placées face cachée près de la pioche.
+Si la pioche est épuisée, mélangez la défausse pour former une nouvelle pioche.
+
+
+=== Partie à 4 joueur·euse·s
+
+Suivez les règles normales, avec la modification suivante : vous jouez en équipes de deux.
+Installez-vous de sorte que chaque partenaire soit assis·e en face de l'autre, avec un·e adversaire de chaque côté.
+
+*Nouvelle action facultative : au lieu de défausser une carte pour en piocher une nouvelle, à tout moment pendant votre tour, vous pouvez échanger une carte face cachée avec votre partenaire.*
+
+Vous pouvez parler librement de l’échange, mais vous ne pouvez pas nommer le type (la couleur) ni le nombre des cartes.
+
+
+== Décompte
+
+La partie se termine quand tout le monde a joué huit cartes.
+Chaque joueur·euse révèle la dernière carte de sa main : son type est son « chapeau préféré ».
+Ensuite, si plusieurs cartes Chapeau du même type figurent dans la ligne de Thé, gardez face visible celle de ce type qui occupe la position la plus basse, et retournez face cachée toutes les autres cartes de ce type.
+
+Calculez les scores dans chacune des trois catégories.
+
+
+=== Collection de chapeaux
+
+Vous marquez des points pour les cartes Chapeau de votre collection, selon la position du type correspondant dans la ligne de Thé.
+Par exemple, si une carte ♥ est en position 3 de la ligne de Thé, chaque carte ♥ de votre collection vous rapporte trois points.
+Chaque chapeau noir devant vous rapporte un point.
+Les cartes face cachée de la ligne de Thé ne rapportent aucun point.
+Les cartes Chapeau de votre collection sans carte face visible correspondante dans la ligne de Thé ne rapportent aucun point.
+
+.Décompte de la collection de chapeaux
+====
+Ligne de Thé avant le décompte : [Ø], [2♣], [4♦], [5♥], [4♥], [6✿], [6♥]
+
+Ligne de Thé lors du décompte : [Ø], [2♣], [4♦], [5♥], [], [6✿], []
+
+Votre collection : ([2♥]) + ([2♠], [3♠]) + ([1✿], [3✿]) + ([5⎈], [6⎈]) + ([]) +
+Vous marquez stem:[(3) + (0 + 0) + (5 + 5) + (0 + 0) + (1) = 14] points.
+====
+
+
+=== Chapeau préféré
+
+Additionnez les valeurs des cartes de votre collection qui correspondent au type de votre chapeau préféré, puis soustrayez la valeur de la dernière carte de votre main.
+La dernière carte de votre main ne fait pas partie de votre collection.
+Ce score peut être négatif.
+
+.Décompte du chapeau préféré
+====
+Avec la même collection que dans l'exemple précédent, votre carte de chapeau préféré est le [2⎈].
+
+Vous marquez stem:[6 + 5 - 2 = 9] points.
+====
+
+
+=== Le dernier cookie
+
+Il n’y a qu’un seul cookie.
+Pour l'obtenir, ayez le plus de types de cartes Chapeau différents dans votre collection.
+Les chapeaux noirs comptent comme un type.
+En cas d’égalité, la personne ex aequo qui a la carte Chapeau la plus faible dans sa collection obtient le cookie.
+Si l’égalité persiste, comparez la deuxième carte la plus faible, puis la troisième, et ainsi de suite jusqu’à départager.
+*Le cookie rapporte cinq points.*
+
+La personne qui a le plus de points gagne la partie.
+En cas d’égalité, celle qui a le plus de chapeaux noirs dans sa collection l’emporte.
+Si l’égalité persiste, la victoire revient à la personne qui a le cookie.
+
+
+=== Décompte à 4 joueur·euse·s
+
+Calculez le score de chaque joueur·euse.
+Additionnez ensuite les scores des deux membres d’une équipe pour obtenir le score de l'équipe.

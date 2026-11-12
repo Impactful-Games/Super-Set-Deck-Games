@@ -1,0 +1,127 @@
+= Wizard
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 52 cartes numérotées : 1-13 à ♠, ♥, ♣ & ♦.
+* 4 Loups.
+* 4 Papillons.
+* Du papier et un crayon pour noter les scores.
+****
+
+Wizard est un jeu de plis dans lequel vous essayez de prédire exactement combien de plis vous allez remporter à chaque manche.
+Vous marquez des points quand votre prédiction est juste, et la personne qui a le plus de points à la fin de la partie l'emporte.
+
+
+== Distribution
+
+Pour désigner la première personne qui distribue, donnez une carte à chaque joueur·euse : la carte la plus forte distribue.
+
+À la première manche, distribuez une carte à chaque joueur·euse : il n'y a qu'un seul pli.
+À la deuxième manche, distribuez deux cartes à chacun·e, trois à la troisième manche, et ainsi de suite, jusqu'à la dernière manche, où toutes les cartes sont distribuées.
+Posez les cartes non distribuées face cachée au centre de la table.
+Après chaque manche, la distribution passe à gauche, et la nouvelle personne qui distribue mélange les 60 cartes.
+
+
+== Atout
+
+Après la distribution, la personne qui a distribué retourne la première carte non distribuée : elle détermine la couleur d'atout pour toute la manche.
+Si c'est un Papillon, il n'y a pas d'atout pour cette manche.
+Si c'est un Loup, la personne qui a distribué choisit l'une des quatre couleurs comme atout, après avoir regardé sa main.
+À la dernière manche, toutes les cartes sont distribuées : il n'y a donc pas d'atout.
+
+
+== Prédictions
+
+Après avoir regardé sa main, chaque joueur·euse annonce à son tour, en commençant par la personne à gauche de celle qui a distribué, combien de plis elle ou il va remporter pendant la manche (zéro ou un à la première manche).
+La personne chargée des scores, désignée en début de partie, note la prédiction de chacun·e.
+Le total des prédictions peut être égal ou non au nombre de plis de la manche.
+
+
+== Jouer un pli
+
+La personne à gauche de celle qui a distribué entame le premier pli : elle peut jouer n'importe quelle carte.
+Les autres jouent ensuite une carte dans le sens horaire, et doivent fournir la couleur demandée si elles le peuvent.
+Si vous ne pouvez pas fournir, vous pouvez jouer n'importe quelle autre couleur, y compris l'atout.
+Vous pouvez jouer un Loup ou un Papillon à tout moment, même si vous pouvez fournir.
+
+La carte la plus forte remporte le pli.
+Les Loups sont plus forts que toutes les autres cartes, atouts compris.
+Le pli est remporté :
+
+. par le premier Loup joué ;
+. si aucun Loup n'a été joué, par l'atout le plus fort ;
+. si aucun atout n'a été joué, par la carte la plus forte de la couleur demandée.
+
+La personne qui remporte le pli entame le suivant.
+
+
+=== Entamer avec un Loup ou un Papillon
+
+Si la première carte d'un pli est un Loup, il remporte le pli, et les autres peuvent jouer n'importe quelle carte, y compris un autre Loup ou un Papillon.
+
+Si la première carte d'un pli est un Papillon, la carte suivante peut être de n'importe quelle couleur, et c'est elle qui détermine la couleur à fournir dans ce pli.
+Les Papillons ne remportent jamais de pli.
+Une seule exception : si un pli ne contient que des Papillons, le premier Papillon joué le remporte.
+
+
+== Décompte
+
+Si vous avez prédit exactement le nombre de plis que vous avez remportés, vous marquez 2 points, plus 1 point par pli remporté.
+
+Si votre prédiction est fausse, vous perdez 1 point par pli d'écart, que vous ayez remporté plus ou moins de plis que prévu.
+
+
+== Fin de la partie
+
+Le paquet contient 60 cartes.
+La partie continue jusqu'à la manche où toutes les cartes sont distribuées.
+Ainsi, à 3 joueur·euse·s, la partie dure 20 manches, à 4 joueur·euse·s 15 manches, à 5 joueur·euse·s 12 manches, et à 6 joueur·euse·s 10 manches.
+
+La personne qui a le plus de points remporte la partie.
+
+
+== Suivre les plis
+
+Avant le début du jeu, la personne chargée des scores annonce combien de plis chacun·e a prédit.
+Chaque joueur·euse garde ses plis remportés bien en vue des autres.
+Certain·e·s trouvent pratique d'utiliser des pièces ou des jetons pour indiquer le nombre de plis prédits par chacun·e.
+Tout le monde peut ainsi voir d'un coup d'œil combien de plis il manque encore à chacun·e.
+
+
+== Variantes de prédiction
+
+=== Prédiction cachée
+
+Tout le monde révèle sa prédiction en même temps : chaque joueur·euse écrit sa prédiction sur un morceau de papier et le donne à la personne chargée des scores, qui garde les prédictions secrètes jusqu'à ce que tout le monde ait fait la sienne.
+Ainsi, personne n'est influencé par les prédictions des autres.
+
+
+=== Le secret
+
+Chaque joueur·euse écrit sa prédiction sur un papier, posé face cachée devant soi.
+Les papiers ne sont retournés qu'une fois la manche jouée.
+
+
+=== Plus ou moins 1
+
+Chaque joueur·euse annonce sa prédiction à la personne chargée des scores, comme dans le jeu de base.
+Cependant, le total des prédictions doit être différent du nombre de plis de la manche, et personne ne peut faire une prédiction qui ne respecterait pas cette règle.
+
+.Exemple
+====
+La manche se joue en cinq plis : le total des prédictions doit donc être différent de 5.
+Si ce total atteint déjà 5 quand vient le tour de la dernière personne, celle-ci ne peut pas annoncer 0 pli.
+====
+
+
+=== Règle optionnelle
+
+Si la dernière personne à faire sa prédiction a le meilleur score sur la feuille de scores, elle ne peut pas faire une prédiction qui rende les prédictions « égales ».
+Les prédictions sont « égales » quand leur total est égal au nombre de plis de la manche.
+Cette règle garantit que quelqu'un perd des points pendant la manche, puisqu'il y a plus ou moins de plis prédits que de plis à remporter.
+Elle ne s'applique pas quand plusieurs joueur·euse·s sont à égalité en tête.

@@ -1,0 +1,244 @@
+= Bids
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 56 bid cards: 1-14 in ♠, ♥, ♣ & ♦, depending on the number of players.
+* 16 point cards: 1-14, ×2 & -‽ in ★, depending on the number of players.
+* 2 Monkeys, with 5 or 6 players.
+* 4 special cards (_Special cards variant_): Wolf, Phoenix, Snake & Butterfly.
+* Paper and a pencil to keep the score.
+****
+
+Each player is dealt ten bid cards.
+In every round, you bid in ten turns for the ★ point cards in the middle.
+Each ★ point card is worth as many points as the number written on it.
+The suits of the bid cards do not matter in the basic game.
+The player with the most points at the end of the game wins.
+
+
+[#setup]
+== Setup
+
+[%autowidth,cols=">.^h,<"]
+|===
+| 3 players
+a|
+* 1-10 in ♠, ♥ & ♣
+* 1-10, ×2 & -‽ in ★
+
+| 4 players
+a|
+* 1-10 in ♠, ♥, ♣ & ♦
+* 1-10, ×2 & -‽ in ★
+
+| 5 players
+a|
+* 1-12 in ♠, ♥, ♣ & ♦
+* 1-12, ×2 & -‽ in ★
+* 2 Monkeys
+
+| 6 players
+a|
+* 1-14 in ♠, ♥, ♣ & ♦
+* 1-14, ×2 & -‽ in ★
+* 2 Monkeys
+|===
+
+Set the ★ point cards apart, and shuffle the bid cards into one deck.
+With 3 to 5 players, take one random bid card out of the deck and remove it from play.
+With 6 players, all the bid cards are used.
+With 5 or 6 players, shuffle one Monkey into the deck of bid cards, and set the second one aside.
+Add one random ★ point card to the deck of bid cards (two with 5 players, three with 6 players), and deal ten cards from the deck to each player.
+Put the rest of the ★ point cards face down in the middle of the table.
+
+
+[#playing-the-game]
+== Playing the game
+
+At the start of each turn, flip over the top point card.
+This is the card you bid for.
+
+At every turn, all players must bid exactly one of their ten cards, one by one in clockwise order.
+
+In the first turn of the first round, the player with the longest first name (last name as a tiebreaker) starts bidding.
+The player with the highest bid wins the turn, takes the ★ point card from the middle and places it in front of them.
+The bid cards played are discarded and have no further use in this round.
+
+In case of a tie between the highest bids, the point cards of that turn are "burned" and nobody receives any of them.
+Place the burned point cards at the bottom of the point card pile.
+
+In the next turn, the player who placed the highest bid starts bidding or, in case of a tie, the last player who burned (the Burner is the Turner).
+
+
+=== ★ cards in hand
+
+A player can have a ★ point card in their hand, received when the cards were dealt.
+They must bid with this card like any other card, but the value of this ★ card is added to the value of the turn.
+
+.★ bid
+====
+You are bidding for a ★5 and one of the players bids a ★8: the winner of the turn receives 8 + 5 points.
+If the ★8 is the highest bid (and there is no tie), its player wins the 8 + 5 points.
+If the bid of another player is higher, that player takes both cards and receives 8 + 5 points.
+====
+
+
+=== End of a round
+
+A round ends after ten turns.
+This means that not all the point cards in the middle are turned over.
+Add the points of the round to those of the previous rounds, and start the next round.
+
+In the next round, the player with the highest total score starts bidding in the first turn.
+In case of a tie, the score of the last round is the tiebreaker.
+If the tie persists, the player who won the highest card in the last round starts.
+
+The game ends after six rounds, unless all players agree on a different number.
+
+
+=== The lucky loser
+
+All players who do not have any ★ card in front of them at the end of a round receive lucky loser points.
+These points depend on the number of players and on how many times they have received lucky loser points, this time included.
+
+[%autowidth,cols="^h,^,^,^,^"]
+|===
+| Count
+| 3 players
+| 4 players
+| 5 players
+| 6 players
+
+| 1 | 12 | 8 | 8 | 7
+| 2 | 24 | 16 | 16 | 14
+| 3 | 36 | 24 | 24 | 21
+| 4 | 48 | 32 | 32 | 28
+| 5 | 60 | 40 | 40 | 35
+| 6 | 72 | 48 | 48 | 42
+| n | stem:[n xx 12] | stem:[n xx 8] | stem:[n xx 8] | stem:[n xx 7]
+|===
+
+.4 players
+====
+A player wins 9 points in round 1.
+In the next three rounds, they end without any ★ card.
+In the fifth round, they receive 13 points, and in the last round they end without any ★ card in front of them.
+
+After six rounds, they have stem:[9 + (1 xx 8) + (2 xx 8) + (3 xx 8) + 13 + (4 xx 8) = 102] points.
+====
+
+
+== Suit bids
+
+In this variant, the highest card of the suit, or suits, with the most cards played in the turn wins.
+
+.Suit bids
+====
+In a turn, the following cards are played: ♥4, ♠5, ♣9 and ♠7.
+In suit bids, the ♠7 wins, because there are two ♠ cards and only one ♥ and one ♣.
+====
+
+Always add 1 to the count of ★ cards, because the ★ card in the middle counts.
+In the special case where ★ is the suit that appears the most and the highest ★ card on the table is the one in the middle, the turn is "burned" and the player who started the previous turn starts again.
+
+
+== Special cards
+
+With 5 or 6 players, the Monkeys are always used, and the ×2 and -‽ cards are always part of the ★ point cards.
+Optionally, you can add the Wolf, the Phoenix, the Snake and the Butterfly to the pile of ★ point cards.
+If a special card other than the -‽ card is in the hand of a player, they play it like any other card, but they never win the turn in which they play it.
+
+
+=== The Monkey
+
+The Monkey is always shuffled into the deck of bid cards, and therefore always ends up in the hand of a player.
+This player plays the Monkey like any other card, and works together with the winner of the turn in which they played it.
+At the end of the round, the points of both players are added up and divided by two (rounding up an odd number).
+In case of a tie between the highest bids, there is no alliance.
+Only one Monkey is used in the game: place the second Monkey next to the player who played the first one, to mark the alliance.
+
+When a player is in an alliance but does not have any ★ card at the end of the round, they do not receive the lucky loser points of this round, but their lucky loser count still increases by 1.
+
+.5 players
+====
+In round 1, a player ends without any ★ card: they receive 8 points.
+
+In round 2, they are in an alliance with another player, but they do not have any ★ card at the end of the round.
+They receive half of the alliance points, but not the 16 points of a lucky loser round.
+
+In round 3, they end again without ★ cards: they now receive 24 points.
+====
+
+
+=== The -‽ card
+
+The player who wins the turn in which this card appears receives -5 points.
+
+If, at the end of the round, a player only has this card, their result for the round is -5 points, and they do not receive the lucky loser points.
+
+If this card is in the hand of a player, they bid -5 when they play it, and the -‽ card goes to the winner of the turn.
+
+If the highest bid is a tie, nobody receives this card.
+
+
+=== The ×2 card
+
+For the player who wins this card, all the points received in the previous turns of the round are doubled.
+This card has no effect on the points received afterwards.
+The point cards played in the same turn as the ×2 card are doubled too.
+
+If this card is in the hand of a player, they play it, and the ×2 card goes to the winner of the turn.
+You can never win this card if it was in your hand.
+
+If the highest bid is a tie, nobody receives this card.
+
+
+=== The Wolf
+
+The player who wins the turn in which this card appears must steal one ★ point card from the player who made the lowest bid of that turn.
+
+.Wolf
+====
+The bids are 10, 8, 6 and 5: the player who bid 10 must steal one card from the player who bid 5.
+They choose one of the cards that the player who bid 5 won earlier in the round.
+====
+
+If the player with the lowest bid has not won any card in this round, the winner of the turn steals from the lowest bidder who has already won a card.
+If the lowest bid is a tie, the winner of the turn chooses whom to steal from.
+
+If the highest bid is a tie, nobody receives this card.
+
+
+=== The Phoenix
+
+When this card appears, there is no bidding for it.
+Shuffle the pile of remaining point cards again, and discard the Phoenix.
+
+This means that all the point cards that were burned (see <<playing-the-game>>) can appear again.
+Turn over the next point card, and the bidding continues.
+
+If this card is in the hand of a player, shuffle the pile of ★ cards at the end of the turn, before turning over the next ★ card.
+If, in this case, the highest bid is a tie, do not shuffle the pile.
+
+
+=== The Snake
+
+When this card appears, there is no bidding for it.
+From now on, the lowest bidder wins every turn until the end of the round.
+Put the Snake aside, and turn over the next point card.
+
+If this card is in the hand of a player, the "lowest bidder wins" rule applies from the next turn on, as long as the highest bid is not a tie.
+If the highest bid is a tie, the rule does not apply in this round.
+
+
+=== The Butterfly
+
+When this card appears, you bid for the next point card of the pile without knowing what it is.
+
+If this card is in the hand of a player, the winner receives the next point card, and the point card you were bidding for goes to the bottom of the pile of point cards.
+
+If the highest bid is a tie, nobody receives any card.

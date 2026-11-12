@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Super-Set Deck Games‽</title>
+    <meta name="description" content="Rules, game aids and tools to play a large number of card games with the Super-Set Deck, an open-source deck of 198 cards.">
+    <!-- resizes-content: the virtual keyboard shrinks the canvas, so focused fields stay visible. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+    <meta name="theme-color" content="#FBEBDD">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="app-icons/app-icon-4x.png">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="documents.css">
+    <style>
+        /* clip, unlike hidden, also forbids the scrolling the browser does to show a focused element. */
+        html, body { margin: 0; height: 100%; overflow: hidden; overflow: clip; overscroll-behavior: none; }
+        html { background: #FBEBDD; }
+        @media (prefers-color-scheme: dark) { html { background: #201810; } }
+        #ssd-splash { position: fixed; inset: 0; display: grid; place-items: center; }
+        #ssd-splash svg { width: 96px; height: 96px; animation: ssd-spin 2.4s linear infinite; }
+        @keyframes ssd-spin { to { transform: rotate(360deg); } }
+        @media (prefers-reduced-motion: reduce) { #ssd-splash svg { animation: none; } }
+    </style>
+</head>
+<body>
+    <div id="ssd-splash" aria-hidden="true">
+        <svg viewBox="0 0 100 100"><path fill="#FFA726" d="M50.0 5.0 53.1 2.9 56.4 1.7 59.5 2.0 62.4 3.8 64.7 6.6 66.6 9.8 68.4 12.6 70.5 14.5 73.2 15.3 76.5 15.5 80.2 15.6 83.8 16.2 86.8 17.7 88.6 20.4 89.3 23.8 89.0 27.5 88.4 31.1 88.2 34.2 88.9 36.8 90.7 39.1 93.4 41.4 96.1 43.9 98.2 46.8 99.0 50.0 98.2 53.2 96.1 56.1 93.4 58.6 90.7 60.9 88.9 63.2 88.2 65.8 88.4 68.9 89.0 72.5 89.3 76.2 88.6 79.6 86.8 82.3 83.8 83.8 80.2 84.4 76.5 84.5 73.2 84.7 70.5 85.5 68.4 87.4 66.6 90.2 64.7 93.4 62.4 96.2 59.5 98.0 56.4 98.3 53.1 97.1 50.0 95.0 47.2 92.7 44.6 91.0 42.0 90.3 39.1 90.7 35.8 91.9 32.2 93.0 28.6 93.3 25.5 92.4 23.2 90.2 21.7 86.9 20.8 83.2 20.2 79.8 19.1 77.1 17.2 75.1 14.4 73.8 11.0 72.5 7.6 70.9 5.0 68.6 3.7 65.7 3.8 62.4 5.1 58.9 6.9 55.7 8.4 52.7 9.0 50.0 8.4 47.3 6.9 44.3 5.1 41.1 3.8 37.6 3.7 34.3 5.0 31.4 7.6 29.1 11.0 27.5 14.4 26.2 17.2 24.9 19.1 22.9 20.2 20.2 20.8 16.8 21.7 13.1 23.2 9.8 25.5 7.6 28.6 6.7 32.2 7.0 35.8 8.1 39.1 9.3 42.0 9.7 44.6 9.0 47.2 7.3Z"/></svg>
+    </div>
+    <script>
+        // The page itself never scrolls: Compose scrolls its content. The browser would otherwise
+        // scroll the page, or the containers holding the HTML laid over the canvas, to show an
+        // element of a document getting the focus, shifting the whole interface. Only the scrolling
+        // areas inside the documents (wide tables) may scroll.
+        document.addEventListener("scroll", function (e) {
+            var target = e.target;
+            if (target === document) {
+                if (window.scrollX || window.scrollY) window.scrollTo(0, 0);
+            } else if (target instanceof Element && !target.closest(".ssd-root") && (target.scrollTop || target.scrollLeft)) {
+                target.scrollTop = 0;
+                target.scrollLeft = 0;
+            }
+        }, true);
+        if ("serviceWorker" in navigator) {
+            window.addEventListener("load", function () {
+                navigator.serviceWorker.register("sw.js").catch(function (e) { console.warn("Service worker not registered", e); });
+            });
+        }
+    </script>
+    <!-- Loads the Wasm application, or its JavaScript version on browsers without the needed Wasm features. -->
+    <script src="app.js"></script>
+</body>
+</html>

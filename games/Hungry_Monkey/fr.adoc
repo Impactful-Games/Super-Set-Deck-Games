@@ -1,0 +1,192 @@
+= Hungry Monkey
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 72 cartes : 1-11 & K à ♠, ♥, ♣, ♦, ✿ & ★.
+****
+
+Dans Hungry Monkey, vous avez des cartes en main, mais aussi dans une rangée face cachée devant vous.
+*Pour l'emporter, vous devez être la première personne à jouer toutes vos cartes* : d'abord celles de votre main, puis celles de votre rangée.
+
+CAUTION: Dans ce jeu, les couleurs des cartes *n'ont pas* d'importance : seules leurs valeurs comptent.
+
+
+== Mise en place
+
+. Mélangez toutes les cartes et distribuez-en 3 à chaque joueur·euse : elles forment sa main.
+. Distribuez à chaque joueur·euse *4 cartes, face cachée, en une rangée*.
+Personne n'a le droit de regarder ces cartes, sauf si un effet de carte le permet en cours de partie.
+. Placez les cartes restantes au centre de la zone de jeu, face cachée, pour former la pioche.
+. Sans les regarder, retirez de la pioche un nombre de cartes qui dépend du nombre de joueur·euse·s :
++
+[%autowidth, cols=">,^,^,^"]
+|===
+h| Nombre de joueur·euse·s | 2 | 3 | 4
+h| Cartes retirées | 24 | 16 | 8
+|===
++
+À 5 ou 6 joueur·euse·s, jouez avec toute la pioche.
+
+La personne la plus jeune commence.
+
+
+== Déroulement de la partie
+
+Chacun·e votre tour, dans le sens horaire, vous jouez des cartes sur la pile centrale.
+À votre tour, vous *devez* :
+
+. Jouer *une ou plusieurs* cartes, face visible, sur la pile centrale.
+. Déclencher un *groupe de quatre* si possible, *sinon* déclencher l'*effet de la carte*, s'il y en a un.
+. *Compléter votre main à 3 cartes*, si possible.
+
+*Pendant votre tour, vous essayez de :*
+
+* Optimiser vos cartes (rangée et main), tant que la pioche n'est pas vide.
+* Vous débarrasser de toutes vos cartes, une fois que la pioche est vide.
+
+
+=== 1. Jouer des cartes
+
+Choisissez l'une de ces façons de jouer des cartes :
+
+* *Jouer des cartes de votre main* : +
+Jouez *n'importe quel nombre de cartes valides identiques* de votre main.
++
+NOTE: Vous ne pouvez *jamais jouer de cartes non valides* de votre main.
+
+* *Jouer 1 carte de la pioche* : +
+Prenez la première carte de la pioche et jouez-la face visible sur la pile centrale.
++
+NOTE: Vous pouvez choisir de jouer une carte de la pioche même si vous avez une carte valide en main.
+
+* *Jouer 1 carte de votre rangée* : +
+*Si et seulement si* la pioche et votre main sont vides, vous pouvez jouer *une seule* carte de votre rangée sur la pile centrale.
+
+*Cartes valides* : +
+Pour qu'une carte soit valide sur la pile centrale, elle doit avoir un *nombre égal ou supérieur* à celui de la carte du dessus de la pile centrale.
+Si *la pile centrale est vide*, n'importe quelle carte est valide.
+
+*Cartes non valides* : +
+Lorsque vous jouez une carte de la pioche ou de votre rangée, elle peut avoir un nombre inférieur, et elle est alors non valide.
+Dans ce cas, vous *devez* ajouter à votre main toute la pile centrale, y compris la carte que vous venez de jouer.
+*Ne déclenchez pas* son effet.
+
+*Des effets de cartes peuvent modifier ces règles !*
+
+.Jouer une carte de la pioche
+====
+Vous jouez une carte de la pioche : un 3.
+Son nombre est inférieur au 10 de la pile centrale, ce qui la rend non valide.
+Ajoutez toute la pile centrale à votre main.
+*Ne déclenchez pas* l'effet du 3.
+====
+
+IMPORTANT: Si la pioche est vide et que vous avez des cartes en main, mais aucune carte valide, vous devez ajouter la pile centrale à votre main.
+Votre tour est alors terminé.
+
+
+=== 2. Déclencher un effet
+
+*Seule* la carte du dessus que vous avez jouée peut déclencher un *effet de carte*.
+
+Si vous jouez plusieurs cartes de même valeur, n'appliquez l'effet qu'une seule fois.
+
+Un *groupe de quatre* (voir ci-dessous) empêche tout effet de carte !
+
+.Jouer des cartes de sa main
+====
+Vous jouez deux 2.
+L'effet de la carte n'est déclenché qu'*une seule fois*.
+====
+
+
+==== Effets des cartes
+
+* *1* :
+** Un 1 est *toujours valide*.
+** Si vous jouez votre 1 sur un autre 1, il ne se passe rien.
+** Si vous jouez votre 1 sur une autre carte, *prenez toutes* les cartes de la pile centrale, sauf votre 1.
+
+* *2* :
+** *Échangez* l'une de vos cartes face cachée avec l'une des cartes de votre main.
+** Si votre main est vide, le 2 n'a aucun effet.
+
+* *3* :
+** *Regardez* une carte face cachée de la rangée de n'importe quel·le joueur·euse, y compris la vôtre.
+
+* *7* :
+** Jouez un *tour supplémentaire* (*après* l'étape de pioche).
+
+* *8* :
+** La personne suivante doit jouer une carte de nombre *égal ou inférieur*.
+
+* *11* :
+** Défaussez toutes les cartes de la pile centrale, y compris ces 11.
+
+* *K* :
+** Un K est *toujours valide*.
+** Un K peut être joué seul ou avec d'autres cartes valides.
+** Si une autre carte se trouve sur le K, le K copie son effet.
+** Si aucune autre carte ne se trouve sur le K, le K copie la carte en dessous de lui et déclenche son effet.
+** La copie d'un K est permanente et n'a pas besoin d'être déclenchée.
+
+
+==== Un groupe de quatre
+
+S'il y a à un moment quatre cartes ou plus de même valeur (y compris les copies faites par un K) sur le dessus de la pile centrale, la personne dont c'est le tour *doit* :
+
+. Défausser immédiatement toutes les cartes de la pile centrale, *sans* déclencher aucun effet de carte.
+. Compléter sa main à 3 cartes.
+. Jouer un nouveau tour.
+
+[CAUTION]
+====
+Un K compte toujours dans un groupe de quatre.
+Peu importe la carte qu'il a copiée à l'origine.
+====
+
+.Un groupe de quatre
+====
+Vous jouez trois 9.
+Avec le K qui se trouve sur le dessus de la pile centrale, ils déclenchent un groupe de quatre.
+====
+
+
+=== 3. Compléter sa main à 3 cartes
+
+Piochez jusqu'à avoir 3 cartes en main (tant que la pioche n'est pas vide).
+
+Si vous avez 3 cartes ou plus en main, ne piochez pas.
+
+
+== Fin de la partie
+
+*La première personne à jouer toutes ses cartes*, celles de sa main et celles de sa rangée, *l'emporte*.
+
+La partie continue avec les autres joueur·euse·s jusqu'à ce qu'il ne reste plus qu'une seule personne avec des cartes.
+Elle a perdu.
+
+
+== Décompte optionnel
+
+Comptez les points sur 4 parties.
+
+À chaque partie :
+
+* La première personne à jouer toutes ses cartes marque 5 points.
+* La deuxième personne à jouer toutes ses cartes marque 3 points.
+À 2 joueur·euse·s, la deuxième personne ne marque pas de points.
+* La troisième personne à jouer toutes ses cartes marque 2 points.
+À 3 joueur·euse·s, la troisième personne ne marque pas de points.
+* La dernière personne à qui il reste des cartes perd 1 point.
+Si elle n'a pas de points, elle n'en perd pas.
+
+La personne qui a perdu la dernière partie commence la suivante.
+
+Après 4 parties, la personne qui a le plus de points l'emporte.
+En cas d'égalité, toutes les personnes à égalité l'emportent.

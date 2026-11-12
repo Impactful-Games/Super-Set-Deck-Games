@@ -1,0 +1,22 @@
+bggId: 223952
+authors: Yeon-Min Jung
+type:
+  - Trick Taking
+players: 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-7,A
+      hearts: 1-7,A
+      clubs: 1-7,A
+      specials: Butterfly*2
+    4,5-players:
+      spades: 8-9
+      hearts: 8-9
+      clubs: 8-9
+      specials: Butterfly*3
+    5-players:
+      spades: 10-11
+      hearts: 10-11
+      clubs: 10-11
+      specials: Butterfly*4

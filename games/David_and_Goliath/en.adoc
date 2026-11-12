@@ -1,0 +1,115 @@
+= David & Goliath
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 45 cards: 1-9 in ♠, ♥, ♣, ♦ & ★.
+* 15 more cards with 4 players or more: 10-12 in ♠, ♥, ♣, ♦ & ★.
+* 15 more cards with 5 players or more: 13-15 in ♠, ♥, ♣, ♦ & ★.
+* 15 more cards with 6 players: 16-18 in ♠, ♥, ♣, ♦ & ★.
+* Paper and a pencil to keep the score.
+****
+
+In David & Goliath, the high cards are the strongest but somewhat clumsy, and the low cards are the weakest but can be played cleverly.
+
+Each player plays a card in turn.
+The player with the lowest card wins the highest card.
+The player with the highest card wins all the other cards.
+
+At the end of the round, you score points in each suit.
+If you have only one or two cards of a suit, each of them scores its value, which can be very lucrative.
+If you have more than two cards of a suit, each of them scores only 1 point.
+
+
+[#setup]
+== Setup
+
+Depending on the number of players, use only some of the cards:
+
+* With 3 players, use only the cards of value 1-9 (45 cards).
+* With 4 players, use only the cards of value 1-12 (60 cards).
+* With 5 players, use only the cards of value 1-15 (75 cards).
+* With 6 players, use all the cards (90 cards).
+
+Put the other cards aside.
+Shuffle the cards and deal them all out evenly: each player receives 15 cards, which they take in hand.
+
+
+== Playing a round
+
+The player to the dealer's left leads the first trick.
+
+They play any card from their hand face up in front of them.
+Then, clockwise, every other player must play a card face up in front of them.
+You must always follow suit: play a card of the suit of the first card if you can.
+If you cannot follow suit, you may play a card of any other suit.
+
+Once everyone has played a card, first determine the highest card, then the lowest card:
+
+* The highest card is always the one with the highest value, whatever its suit.
+If several players played the highest value, the card played last is the highest.
+* The lowest card is always the one with the lowest value, whatever its suit.
+If several players played the lowest value, the card played last is the lowest.
+* If all the cards have the same value, the card played last is the highest, and the card played second to last is the lowest.
+* The player of the lowest card wins the highest card.
+They place it face up next to them on the table.
+* The player of the highest card wins all the other cards.
+They place them face up next to them on the table, sorted by suit.
+
+The player of the highest card leads the next trick in the same way.
+The round goes on until 15 tricks have been played and everyone has played all 15 cards of their hand.
+
+NOTE: During the round, everyone wins more and more cards.
+Keep the cards you win next to you on the table, sorted by suit, so that every single card can be seen.
+
+.Example of a trick
+====
+* Frank leads ♣4: ♣ must now be followed.
+* Sabine plays ♣9.
+* Peter plays ♥2, having no ♣ card.
+* Andrea plays ♣7.
+
+Sabine's card is the highest (♣9), and Peter's card is the lowest (♥2).
+
+Peter wins the highest card, Sabine's ♣9, and places it face up on the table.
+
+Sabine wins all the other cards and places them face up on the table, sorted by suit.
+
+Sabine now leads the next trick with any card.
+====
+
+
+[#scoring]
+== Scoring
+
+At the end of the round, each player scores points for all the cards they won during the round.
+Each suit is scored separately:
+
+* If you have only one or two cards of a suit, each of them scores its value.
+* If you have more than two cards of a suit, each of them scores only 1 point.
+
+Then add up the points you scored in the 5 suits: that is your score for the round.
+
+.Example of scoring
+====
+At the end of the round, Frank has won these cards:
+
+* ♠4, ♠10 & ♠11: 3 points.
+* ♥8: 8 points.
+* ♣5 & ♣9: 14 points.
+* ♦2, ♦3, ♦6, ♦10 & ♦12: 5 points.
+* ★10 & ★12: 22 points.
+
+Frank scores a total of 52 points!
+====
+
+
+== End of the game
+
+After each round, write down the score of each player.
+The deal then passes clockwise.
+Play as many rounds as there are players.
+The player with the most points at the end of the game wins.

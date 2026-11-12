@@ -1,0 +1,13 @@
+bggId: 2450
+authors: Milton Bradley
+type:
+  - Set Collection
+players: 2,3,4,5,6
+cards:
+  Base:
+    all-players:
+      spades: 0-10
+      hearts: 0-10
+      clubs: 0-10
+      diamonds: 0-10
+      specials: Butterfly*6, Wolf*2

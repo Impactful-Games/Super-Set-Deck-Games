@@ -1,0 +1,218 @@
+= Skull King
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 66 cards:
+** 52 suit cards: 1-13 in ♠, ♥, ♣ & ♦.
+** 5 Butterflies.
+** 5 Wolves.
+** 2 Snakes.
+** 1 Phoenix.
+** 1 Monkey.
+* Paper and a pencil to note the bids and the scores.
+****
+
+*Yo – Ho – Ho!*
+
+What's all this nonsense about sea battles with thundering cannons and grappling hooks!
+In reality, it was all much more harmless!
+Venerable pirates preferred to hold their battles with playing cards, at the gaming tables of shabby taverns.
+The one who managed not only to wangle the most tricks from their opponents, but also to predict them most accurately, won the contest.
+
+
+== Objective of the game
+
+The pirates' contest lasts 10 hands.
+In each hand, the players bid the number of tricks they intend to win in that hand.
+Then the objective is to fulfil that bid…
+
+Anyone who fails to fulfil their bid, because they win too many or too few tricks, loses glory and fame.
+A bid of no tricks can be very lucrative.
+But it is also very risky…
+
+In the first hand, each player has only one card; from hand to hand, the number of cards increases by one.
+In each hand, the players try to score as many points as possible.
+The player with the most points after 10 hands wins.
+
+
+== Setup and course of a hand
+
+Shuffle all the cards well.
+Then deal cards face down to each player.
+*The number of cards changes from one hand to the next*: in the first hand, each player receives only 1 card, in the second hand 2 cards, and so on, until the tenth and last hand, in which each player receives 10 cards.
+In each hand, you play as many rounds as there are cards in the players' hands.
+For example, you cannot win 5 tricks if you hold four cards, as there will only be four rounds.
+In each round, each player in turn plays one card face up.
+These cards form a "trick".
+
+After dealing, each player looks at their card or cards and thinks about how many tricks they will win with them.
+To see better, please remove all eye patches.
+
+
+== Yo – Ho – Ho!
+
+When you have decided on your number of tricks, stretch a fist out towards the centre of the table.
+When all the players hold their fists out towards the centre of the table, they utter together the pirates' battle cry *"YO – HO – HO"*, hammering the table with their fists on each word.
+On the second "HO", all the players open their fists at the same time and stretch out as many fingers as the tricks they want to win in this hand.
+
+NOTE: If you think you can win more than five tricks, stretch out five fingers and, *at the same time*, say your number loud and clear.
+
+Note down the bid of each player.
+
+
+=== Then the hewing and stabbing begins
+
+The player to the left of the dealer leads the first round by playing the first card.
+Clockwise, the other players *must follow the suit led*, that is, play a card of the same suit.
+A player who cannot follow suit plays a card of another suit (and loses the trick) or a ♠ (to win the trick if possible).
+
+When all the players have played a card, see who wins the trick.
+The winner of the trick places it face down in front of them, apart from their other tricks (so that everyone can clearly see how many tricks each player has), then plays the first card of the next round.
+
+When all the cards have been played, the hand ends and the scores are noted down.
+
+
+=== Which cards are there and which card wins the trick?
+
+The trick is always won by the player who played the highest card.
+In general, this is the highest card of the suit led.
+If cards of other suits were played (because their players did not have the suit led), their value does not matter.
+*Exception*: ♠ is the highest suit, and it trumps all the other suits, whatever its value.
+All the other suits rank equal to one another.
+
+.Trick
+====
+♦2 is led, followed by ♦12.
+The next two players have no ♦ cards and play ♥13 and ♠1.
+♠1 wins the trick, because ♠ is always the highest suit.
+Without the ♠ card, ♦12 would have won the trick, as it was the highest card of the suit led (♦).
+====
+
+As a rule, *a player must follow the suit led*.
+However, even when able to follow suit, a player can *always* play one of the following *special cards*.
+
+
+== Special cards
+
+*Special cards can be played at any time!*
+Even if you could follow suit!
+
+[NOTE]
+====
+* If the first card played is a special card, the next suit card played sets the suit to follow for the rest of the round.
+* If the first card played is a ♠, a player who has no ♠ in hand can play a card of another suit: they do not have to play a Wolf.
+====
+
+
+=== Butterfly
+
+The Butterfly is worth 0 and is always the lowest card.
+Play it so as not to win a trick.
+
+NOTE: If all the players play a Butterfly, the trick is won by the player who played the *first Butterfly*.
+
+
+=== Snake
+
+The Snake is *higher than all the suit cards* (♠ included), but is beaten by the Wolves.
+It is also higher than the Monkey, which lets itself be poisoned by it: if the Snake is in the same trick as the Monkey, the Snake always wins the trick (whatever the other cards in the trick), and its player gets a bonus.
+
+NOTE: If 2 Snakes are played in a round, the first one played is higher and wins the trick.
+
+
+=== Wolf
+
+The Wolves are *higher than all the suit cards* (whatever their suit or value) and than the Snakes.
+There are only 3 ways not to win a trick with a Wolf:
+
+* it is played after another Wolf;
+* it is beaten by the Monkey played later, or it is played after the Monkey;
+* it is beaten by a Snake played in the same trick as the Monkey.
+
+NOTE: If 2 Wolves are played in a round, the first one played is higher and wins the trick.
+
+
+=== Phoenix
+
+The Phoenix can be played either as a Wolf or as a Butterfly.
+*When playing it*, say which of the two you use it as.
+
+
+=== Monkey
+
+The Monkey can only *be beaten by a Snake*.
+All other cards are lower than the Monkey.
+If the trick won with the Monkey contains a Wolf (the Phoenix counts as one, however it was played), the player who won it gets a bonus.
+
+
+== Scoring
+
+A player who *bid their number of tricks correctly* scores *2 points per trick won*.
+
+.Successful bid
+====
+David bids 3 tricks and indeed wins 3.
+David scores 6 points in total.
+====
+
+A player who wins more or fewer tricks than bid scores *no plus points*, and no bonus points.
+They lose *1 point for each trick more or less* than their bid.
+
+.Failed bid
+====
+Simon bids 5 tricks but only wins 1.
+The difference is 4 tricks.
+So Simon loses 4 points.
+====
+
+IMPORTANT: If a player bids *no tricks* and indeed wins no trick, they score as many points as the number of the current hand.
+
+.Successful no-trick bid
+====
+In hand 4, Eloise bids no tricks.
+At the end of the hand, Eloise has indeed won no trick, and scores 4 points.
+====
+
+[IMPORTANT]
+====
+However, if a player fails to do so and has to take *one or more tricks*, they lose the same number of points.
+For a failed no-trick bid, it does not matter whether the player takes one trick or, for example, three.
+====
+
+.Failed no-trick bid
+====
+In hand 9, David bids no tricks.
+But during the hand, David has to take two tricks, and so loses 9 points.
+====
+
+CAUTION: A no-trick bid is risky: it can win a player lots of points, but it can also lose them a lot.
+
+
+== Bonus points
+
+The Snakes and the Monkey can win bonus points.
+However, a player only *scores bonus points if they win exactly as many tricks as they bid*.
+If they do not, they score no bonus points.
+
+* If you catch one or more Wolves in a trick with the *Monkey*, you score *a bonus of 3 points for each Wolf in the trick*.
+For this, the Phoenix always counts as a Wolf, even if it was played as a Butterfly.
+* If you *catch the Monkey with a Snake* in a trick, you score *a bonus of 5 points*.
+
+
+== The score sheet
+
+The tricks bid and the points scored are noted on a sheet of paper.
+This job is best done by a player without a hook for a hand.
+
+After a hand has been played and the scores noted, shuffle all the cards again and deal them for the next hand.
+The number of cards increases by one from one hand to the next.
+
+
+== End of the game
+
+The game ends after 10 hands.
+The player with the highest score has bid cleverly, trumped successfully and won the battle.

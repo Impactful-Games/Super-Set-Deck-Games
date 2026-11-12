@@ -1,0 +1,28 @@
+name: Set up DesignCraft
+description: Installs designcraft-cli and the fonts of the design files, which the build needs to export the boards and the game aids. macOS only.
+
+inputs:
+  fonts-passphrase:
+    description: The passphrase of .github/fonts.tar.gz.enc (see .github/encrypt-fonts.sh).
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Install designcraft-cli
+      shell: bash
+      env:
+        GH_TOKEN: ${{ github.token }}
+        VERSION: "0.20.1"
+      run: |
+        gh release download "v$VERSION" --repo storytold/designcraft --pattern "designcraft-cli-$VERSION-macos-universal.zip" --dir "$RUNNER_TEMP"
+        unzip -q "$RUNNER_TEMP/designcraft-cli-$VERSION-macos-universal.zip" -d "$RUNNER_TEMP"
+        echo "DESIGNCRAFT_CLI=$RUNNER_TEMP/designcraft-cli-$VERSION-macos-universal/designcraft-cli" >> "$GITHUB_ENV"
+    - name: Install the fonts
+      shell: bash
+      env:
+        FONTS_PASSPHRASE: ${{ inputs.fonts-passphrase }}
+      run: |
+        mkdir -p ~/Library/Fonts
+        openssl enc -d -aes-256-cbc -pbkdf2 -iter 600000 -pass env:FONTS_PASSPHRASE -in "$GITHUB_WORKSPACE/.github/fonts.tar.gz.enc" \
+            | tar -xzf - -C ~/Library/Fonts

@@ -1,0 +1,143 @@
+= Trio
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 36 cartes : 1-12 à ♠, ♥ & ♣.
+****
+
+Gagnez des trios (un trio est composé de 3 cartes du même numéro) avant vos adversaires.
+
+* Mode simple :
+** Soit 3 trios, *n'importe lesquels*.
+** Soit le *trio de 7*.
+
+* Mode picante :
+** Soit *2 trios liés* (parmi les trios que vous avez gagnés) *dont la somme ou la différence donne 7*.
++
+====
+Par exemple, gagner les trios de 2 et de 5, ou les trios de 2 et de 9, donne la victoire.
+====
+** Soit le *trio de 7*.
+
+[CAUTION]
+====
+Pour ce jeu, les couleurs des cartes n'ont pas d'importance.
+Seuls leurs numéros comptent.
+====
+
+
+== Règle en individuel
+
+=== Préparation
+
+Mélangez et distribuez les cartes face cachée à chaque joueur·euse selon le tableau ci-dessous.
+Puis placez les cartes restantes face cachée au centre de la table, les unes à côté des autres.
+
+[%autowidth, cols="^,^,^"]
+|===
+| Joueur·euse·s | Cartes par joueur·euse | Cartes au centre
+
+h| 3 | 9 | 9
+h| 4 | 7 | 8
+h| 5 | 6 | 6
+h| 6 | 5 | 6
+|===
+
+* Chaque joueur·euse prend ses cartes en main et les classe du plus petit numéro au plus grand, sans les montrer à personne.
+* Choisissez si vous jouez en mode simple ou picante.
+* La personne qui a mangé de l'avocat le plus récemment commence.
+
+
+=== Le jeu
+
+Jouez chacun·e votre tour, dans le sens horaire.
+À votre tour, dévoilez des numéros un par un : vous devez vous arrêter dès que 2 numéros sont différents, sinon continuez jusqu'à avoir dévoilé 3 numéros identiques.
+
+Pour chaque numéro, vous pouvez choisir de dévoiler une carte :
+
+A. *Au centre de la table* : retournez face visible la carte de votre choix au centre de la table.
+B. *De la main d'un·e joueur·euse, y compris la vôtre* : dévoilez le *plus petit* ou le *plus grand* numéro d'un·e joueur·euse, soit de votre propre main, soit en le demandant à un·e adversaire.
+Placez la carte face visible sur la table.
+
+Votre tour se termine de l'une de ces deux façons :
+
+* Soit vous complétez un trio, et le gagnez définitivement en prenant les 3 cartes face visible devant vous.
+* Soit un numéro dévoilé est différent du précédent, et tous les numéros dévoilés sont remis en place : face cachée au centre, et/ou rendus à leurs propriétaires.
+
+Dans les deux cas, c'est au tour de la personne suivante.
+
+[IMPORTANT]
+====
+* *Vous pouvez effectuer plusieurs fois exactement la même action*.
+Par exemple : demander au même adversaire de dévoiler son plus grand numéro, puis lui demander à nouveau le plus grand de ses numéros restants.
+* Même quand vous dévoilez une carte de votre propre main, *ce doit être votre plus petit ou votre plus grand numéro* (*jamais* un numéro du milieu de votre main).
+* Si vous n'avez plus de cartes en main à votre tour, vous jouez quand même, avec les cartes du centre et celles de vos adversaires.
+====
+
+.Exemples de tours
+====
+Hadrien demande à Yanis son plus petit numéro (un 3), puis à Martine son plus petit numéro (un 2).
+Son tour s'arrête immédiatement.
+Les 2 cartes différentes retournent dans les mains de leurs propriétaires, et c'est au tour de la personne suivante.
+
+Martine retourne une carte au centre (un 2), puis dévoile son plus petit numéro (un 2), et dévoile à nouveau son plus petit numéro (un 2).
+Elle gagne donc le trio de 2, et c'est au tour de la personne suivante.
+====
+
+
+=== Fin de la partie
+
+Un·e joueur·euse remporte la partie dès qu'il ou elle a gagné :
+
+* 3 trios ou 2 trios liés (dont la somme ou la différence donne 7), selon le mode de jeu (simple ou picante) ;
+* ou le trio de 7 (qui l'emporte sur tout le reste !).
+
+
+== Règles en équipes (à 4 ou 6 joueur·euse·s)
+
+Appliquez les modifications suivantes aux règles ci-dessus.
+
+
+=== Préparation
+
+* Formez des équipes de 2 joueur·euse·s : 2 équipes à 4 joueur·euse·s, et 3 équipes à 6 joueur·euse·s.
+Asseyez-vous face à votre partenaire, et non côte à côte.
+* Mélangez et distribuez *toutes* les cartes face cachée.
+Il n'y a aucune carte au centre de la table.
+* Après avoir trié vos cartes, vous pouvez en *échanger* une avec votre partenaire.
+Toutes les équipes peuvent le faire en même temps.
+
+.Échange
+[NOTE]
+====
+Si 2 partenaires souhaitent faire un échange, chacun·e choisit secrètement une de ses cartes ; ils ou elles les échangent face cachée en même temps, et les rangent discrètement au bon endroit dans leur main.
+
+L'échange est la seule forme de communication entre partenaires.
+Toute autre forme de communication est interdite (œillades, coups de pied sous la table, montrer où l'on range la carte reçue…).
+====
+
+
+=== Le jeu
+
+* Chaque fois qu'une équipe gagne un trio, la ou les équipes adverses peuvent faire un nouvel *échange*.
+* Les 2 partenaires mettent en commun les trios gagnés.
+Nous vous conseillons de les regrouper devant l'un·e des deux.
+
+.Tour en équipe
+====
+Hadrien demande à Jade son plus grand numéro (un 10), puis à sa partenaire Martine son plus grand numéro (un 10), et dévoile enfin son propre plus grand numéro (un 10).
+Leur équipe gagne donc ce trio, et les 2 autres équipes peuvent faire un échange.
+====
+
+
+=== Fin de la partie
+
+Une équipe remporte la partie dès qu'elle a gagné :
+
+* 3 trios ou 2 trios liés (dont la somme ou la différence donne 7), selon le mode de jeu (simple ou picante) ;
+* ou le trio de 7 !

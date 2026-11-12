@@ -1,0 +1,20 @@
+bggId: 123456                   # from the game's URL: boardgamegeek.com/boardgame/<bggId>/...
+authors: First Author, Second Author  # or `tradition: French` for a traditional game; `adaptedBy:` for an adapter
+type:                           # one or more of the 15 types the site translates
+  - Set Collection
+  - Push Your Luck
+players: 2, 3, 4, 5             # every supported player count
+cards:
+  Base:                         # always needed
+    all-players:
+      spades: 0-8               # ranges, values, `V*n` for n copies
+      hearts: 0-8
+      clubs: 0-8
+      diamonds: 0-8
+      specials: Ø, Butterfly*6, Wolf*3
+    4,5-players:                # cards added for these player counts only
+      florettes: 0-8
+      specials: Wolf*4          # a card in two blocks: the larger count wins (4 Wolves, not 7)
+  Advanced:                     # an optional variant, added to Base
+    all-players:
+      stars: ×2, -‽

@@ -1,0 +1,89 @@
+= Zero Down
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 56 numbered cards: 1-8 in ♠, ♥, ♣, ♦, ✿, ⎈ & ★.
+* Paper and a pencil to keep the score.
+****
+
+In clockwise order, players swap one card from their hand with a card from the pool.
+Each player aims to score as few points as possible at the end of the round.
+If a player achieves a ZERO (a hand worth zero points), the round ends immediately.
+After a number of rounds, the player with the fewest points overall wins.
+
+
+== Setup
+
+Shuffle the cards and deal 9 cards to each player.
+Take your cards in your hand, keeping their values hidden from the other players.
+Then place five cards (or, as a variant, seven cards) face up in the middle of the table, next to each other, to form the pool.
+With two players, use a pool of nine cards.
+Place the remaining cards face down to one side: they are not used in this round.
+
+
+== Play
+
+The player to the left of the dealer starts the round.
+Then play continues clockwise.
+On your turn, you must either swap or knock.
+
+
+=== Swapping
+
+Choose one card from your hand and place it face up in the pool.
+Then take a different card from the pool into your hand.
+This ends your turn.
+
+
+=== Knocking
+
+If you do not want to swap a card, knock once on the table.
+This ends your turn.
+
+The first knock of the round has no effect: play continues as normal.
+However, the second knock of the round (whether by the same player or by another one) announces the last opportunity to swap.
+After the second knock, all the players get one more turn before the round ends, except the player who knocked the second time.
+Players who do not want to use their last opportunity to swap may simply knock and pass.
+
+
+== Scoring
+
+Five or more cards of the same suit, or five or more cards of the same number, score 0 points.
+Otherwise, each number in your hand scores once.
+
+For example, a single 7 scores 7 points, and so do two, three or four 7s.
+However, five 7s or more score 0 points.
+
+.Scoring
+====
+♣2 ♥5 ★5 ⎈3 ♦3 ♠3 ♣3 ★3 ♥3 -> 2 + 5 = 7 points
+
+✿1 ♠1 ♣4 ♠8 ♥1 ♥3 ♥4 ♥7 ♥8 -> 1 + 4 + 8 = 13 points
+
+♦1 ♠2 ♥2 ♣2 ⎈5 ⎈7 ♠7 ♦7 ★7 -> 1 + 2 + 5 + 7 = 15 points
+====
+
+
+== Zero
+
+If you manage to form a hand of five cards of the same suit and five cards of the same number (with one of your nine cards belonging to both groups), you have achieved a ZERO.
+Only then can a hand be worth 0 points.
+Immediately reveal your cards and announce “ZERO”.
+This ends the round, and all the hands are scored immediately (the other players score their cards normally).
+
+.Zero
+====
+♠8 ♠7 ♠5 ♠1 ♠2 ♦2 ♥2 ★2 ♣2 -> Zero!
+====
+
+
+== The next round
+
+After writing down the points of each player, shuffle all the cards to start the next round.
+Play as many rounds as there are players.
+
+The player with the fewest points overall wins.

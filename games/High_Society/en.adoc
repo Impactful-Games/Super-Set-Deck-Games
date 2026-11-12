@@ -1,0 +1,140 @@
+= High Society
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 5 sets of 11 Money cards: 1, 2, 3, 4, 6, 8, 10, 12, 15, Q & K in ♠, ♥, ♣, ♦ & ✿.
+* 16 Status cards:
+** 10 Luxury cards: 1-10 in ★;
+** 3 Prestige cards: 3 Butterflies;
+** 3 Disgrace cards: ★0, the -‽ card & the Snake.
+****
+
+You are the cultural elite, the quintessential bon vivants, the true icons of the age.
+The competition is fierce amidst highborn and nouveau riche to assert your status and earn prestige in the eyes of your peers.
+Adorn yourself with splendid jewelry and high fashion, enjoy fine cuisine and fizzing champagne, and waste away money in casinos and at the races.
+Show off your exquisite palate and excellent taste, but don’t be caught penniless or be cast out as an impostor!
+Fashion is fickle, but style is forever.
+Show them what it really means to be a member of High Society.
+
+
+== Setup
+
+Give each player a set of eleven Money cards of the same suit, to keep secret in their hand.
+Shuffle the Status cards and place them as a face-down deck in the middle of the table.
+The player who shuffled the deck starts the game.
+
+
+== How to play
+
+Players are socialites trying to live as lavishly and frivolously as possible, outbidding each other to prove they are living life to the fullest.
+At the end of the game, the poorest player (or players) will be cast out of the group.
+The remaining player who has managed to become the most fashionable, by collecting the highest-value Status cards, will earn the envy of all and win the game.
+
+Status cards:
+
+* The *Luxury cards* are numbered 1 to 10, and increase your status.
+* The *Prestige cards* (Butterflies) multiply your status, and count down to the end of the game.
+* The *Disgrace cards* (★0, the -‽ card and the Snake) decrease your status in different ways.
+
+
+== Auction rounds
+
+At the start of each round, flip the top card of the Status deck face up: this card will go to the highest bidder.
+The starting player must either bid or pass.
+
+
+=== Bidding
+
+To bid, play one or more Money cards face up in front of you, and announce the total of all your face-up Money cards.
+*If you have already bid this round, you can only increase your bid by adding new cards to the ones already on the table*: you cannot pick up cards you have already played.
+You can only bid if your new total is higher than the previous bid made this round.
+
+NOTE: The Q and K Money cards are worth 20 and 25 respectively.
+
+
+=== Passing
+
+If you don’t want to bid, you may pass instead.
+If you have already bid this round, return all of your face-up Money cards to your hand.
+You may no longer bid this round.
+
+When a player has either bid or passed, the turn moves to the player to their left.
+The last remaining player, after everyone else has passed, wins the auction!
+It’s possible (but rare) that everyone passes without making a bid, in which case the last remaining player gets the card for free.
+Place the contested Status card face up in front of the winner.
+Discard all the Money cards on the table face down.
+*The winner of the auction becomes the starting player for the new round*, and reveals the next Status card from the deck.
+
+
+== Disgrace!
+
+If the revealed Status card is a Disgrace card, the auction works slightly differently.
+This time you are bidding to avoid taking the card, and the round ends as soon as any one player passes.
+That player picks up their Money cards as usual, but must take the Disgrace card and place it in front of them.
+*All the other players must discard their Money cards on the table face down.*
+The player who passed starts the next round.
+
+
+=== ★0
+
+If a player takes ★0, they must immediately discard one of the Luxury cards in front of them (of their choice).
+If they currently have no Luxury cards in front of them, they must discard the next Luxury card they receive.
+Once a Luxury card has been discarded, discard ★0 too.
+
+CAUTION: Only the cards with a value from 1 to 10 are Luxury cards.
+
+Discarded Status cards are removed from the game.
+
+
+=== The -‽ card
+
+The -‽ card reduces a player’s status by 5.
+
+
+=== The Snake
+
+The Snake halves the player’s status at the end of the game.
+
+
+== End of the game
+
+Four cards in the Status deck are specials: the three Butterflies and the Snake.
+As soon as the fourth one is revealed, the game ends immediately, with no bidding for the revealed card.
+
+
+=== Cast out!
+
+All players reveal their hands and announce the total of their remaining Money cards.
+The player or players with the least remaining money are cast out, and cannot win!
+
+
+=== Scoring
+
+Each Luxury card awards status equal to its value.
+Each Prestige card (Butterfly) doubles its owner’s status, while the Disgrace cards decrease the status.
+The player with the highest status who hasn’t been cast out wins.
+
+If there is a tie, the player with the most money left wins.
+If there is still a tie, the player with the single most valuable Luxury card wins.
+
+
+== Clarifications
+
+* The Status cards a player has accumulated are always visible, face up in front of them.
+The Money cards they have spent are always hidden, face down.
+* If you have two Prestige cards, multiply your status by four.
+If you have all three, multiply your status by eight.
+
+.Scoring
+====
+Rahul has the following Status cards: ★3, ★9, the -‽ card, 2 Butterflies and the Snake.
+
+Rahul first adds up the Luxury cards, for a total of 12.
+Rahul then loses 5 because of the -‽ card, for a total of 7.
+Rahul then doubles this status twice thanks to the 2 Butterflies, for a total of 28!
+Finally, the Snake halves this status, leaving Rahul with a total of 14.
+====

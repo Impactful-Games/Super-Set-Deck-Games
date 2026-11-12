@@ -1,0 +1,112 @@
+= Fiasco
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 42 cartes numérotées : 1-4 & 6-8 à ♠, ♥, ♣, ♦, ✿ & ★.
+* 6 cartes Couleur : les A de ♠, ♥, ♣, ♦, ✿ & ★.
+* 6 Loups.
+* 6 Papillons, les cartes Fiasco.
+****
+
+Le but de Fiasco est de collecter toutes les cartes d'une couleur en remportant des plis, pour marquer le plus de points, tout en empêchant vos adversaires d'en faire autant.
+
+
+== Mise en place
+
+Distribuez une carte Couleur à chaque joueur·euse, qui la pose face visible devant soi.
+Cette carte indique la couleur que cette personne collecte.
+
+
+== Jouer une manche
+
+Distribuez six cartes face cachée à chaque joueur·euse.
+Posez les cartes restantes du paquet face cachée à côté de la personne qui distribue.
+Chacun·e regarde les cartes de sa main.
+
+Puis, en commençant par la personne à gauche de celle qui a distribué et en tournant dans le sens horaire, chaque joueur·euse pose une carte de sa main au centre de la table.
+La personne qui a posé la carte la plus forte remporte le pli et toutes les cartes du centre (le « pot »).
+Si le pot contient des cartes de la couleur qu'elle collecte, elle pose ces cartes face visible dans sa collection.
+La collection est posée sur la table, juste devant sa ou son propriétaire, et sert à marquer des points plus tard dans la partie.
+Toutes les autres cartes du pot vont dans la défausse.
+
+La personne qui a remporté le pli entame le suivant, et le jeu continue.
+La carte la plus forte remporte toujours le pli, et la personne qui le remporte entame toujours le suivant.
+
+NOTE: Les cartes de votre couleur ne peuvent pas aller directement de votre main dans votre collection.
+Vous devez d'abord les remporter dans un pot.
+
+Jouez la carte de votre choix.
+Il n'y a pas d'atout, et toutes les couleurs ont le même rang.
+Vous n'êtes pas obligé·e de fournir la couleur.
+Si vous voulez remporter le pli, jouez une carte forte.
+Jouez une carte faible pour l'éviter.
+
+
+=== Loups
+
+Le Loup est la carte la plus forte du jeu, et il rapporte aussi des points, quelle que soit la couleur que vous collectez.
+Si vous remportez un pot contenant un Loup, posez le Loup dans votre collection : il vous rapporte des points.
+
+
+=== Papillons (cartes Fiasco)
+
+Un Papillon a un rang de 5 : la moitié du paquet lui est supérieure, et l'autre moitié lui est inférieure.
+Si vous remportez un pli contenant des Papillons, vous perdez une carte de votre collection pour chaque Papillon du pot.
+Si vous devez perdre plus de cartes que votre collection n'en contient, vous ne perdez que celles qu'elle contient.
+Les pertes ne sont pas reportées au pli suivant.
+
+Essayez de vous débarrasser de vos Papillons en les infligeant à vos adversaires.
+Commettez ainsi un Fiasco !
+
+
+=== Égalités
+
+Si plusieurs joueur·euse·s sont à égalité pour la carte la plus forte, il y a « égalité haute », et il faut jouer d'autres cartes.
+Les cartes du centre restent dans le pot, et n'ont aucune influence sur le gagnant ou la gagnante du nouveau pli.
+
+Chaque joueur·euse pose une autre carte au centre pour déterminer qui remporte le nouveau pli.
+La personne qui remporte ce pli remporte toutes les cartes du pot.
+En cas de seconde égalité haute, le jeu continue jusqu'à ce qu'il y ait un gagnant ou une gagnante.
+
+Si une égalité se produit avec les dernières cartes en main, distribuez d'autres cartes jusqu'à ce qu'un gagnant ou une gagnante puisse être désigné·e.
+La seule exception est une égalité haute avec les dernières cartes avant le Décompte : ignorez ces cartes, et mettez-les dans la défausse avant de compter les points.
+
+
+=== Nouvelle distribution
+
+Une fois les six premières cartes jouées, la personne qui distribue donne six nouvelles cartes du paquet à chaque joueur·euse, et le jeu continue.
+S'il n'y a pas assez de cartes dans le paquet, distribuez à chacun·e le même nombre de cartes, autant que possible, et jouez-les.
+Mettez les cartes restantes dans la défausse.
+
+Quand toutes les cartes du paquet ont été jouées, mélangez la défausse pour former un nouveau paquet, et distribuez-le.
+La personne qui distribue change à chaque nouveau paquet, dans le sens horaire.
+
+Le paquet est épuisé trois fois avant le décompte des points.
+
+
+=== Points
+
+Une fois le paquet épuisé trois fois, le jeu s'arrête et chacun·e compte les cartes de sa collection.
+C'est le Décompte.
+Chaque joueur·euse marque :
+
+* 2 points par carte de sa couleur collectée.
+* 1 point par Loup dans sa collection.
+* 4 points de bonus si elle ou il possède les six Loups.
+* 6 points de bonus si elle ou il possède les sept cartes de sa couleur.
+
+Une fois les points comptés, rassemblez toutes les cartes et mélangez-les.
+Chacun·e continue de collecter la même couleur.
+Additionnez les points de chaque Décompte pour obtenir le score total de chaque joueur·euse.
+
+
+== Gagner la partie
+
+*Partie rapide* : la personne qui a le meilleur score après le premier Décompte remporte la partie.
+
+*Partie longue* : la première personne à atteindre 42 points ou plus remporte la partie.

@@ -1,0 +1,245 @@
+= Bids
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 56 cartes enchère : 1-14 à ♠, ♥, ♣ & ♦, selon le nombre de joueur·euse·s.
+* 16 cartes point : 1-14, ×2 & -‽ à ★, selon le nombre de joueur·euse·s.
+* 2 Singes, à 5 ou 6 joueur·euse·s.
+* 4 cartes spéciales (_variante Cartes spéciales_) : Loup, Phénix, Serpent & Papillon.
+* Du papier et un crayon pour noter les scores.
+****
+
+Chaque joueur·euse reçoit dix cartes enchère.
+À chaque manche, vous enchérissez en dix tours pour les cartes point ★ au centre.
+Chaque carte point ★ vaut autant de points que le nombre qu'elle affiche.
+Les couleurs des cartes enchère n'ont pas d'importance dans le jeu de base.
+La personne qui a le plus de points à la fin de la partie l'emporte.
+
+
+[#setup]
+== Mise en place
+
+[%autowidth,cols=">.^h,<"]
+|===
+| 3 joueur·euse·s
+a|
+* 1-10 à ♠, ♥ & ♣
+* 1-10, ×2 & -‽ à ★
+
+| 4 joueur·euse·s
+a|
+* 1-10 à ♠, ♥, ♣ & ♦
+* 1-10, ×2 & -‽ à ★
+
+| 5 joueur·euse·s
+a|
+* 1-12 à ♠, ♥, ♣ & ♦
+* 1-12, ×2 & -‽ à ★
+* 2 Singes
+
+| 6 joueur·euse·s
+a|
+* 1-14 à ♠, ♥, ♣ & ♦
+* 1-14, ×2 & -‽ à ★
+* 2 Singes
+|===
+
+Mettez de côté les cartes point ★, et mélangez les cartes enchère en une seule pioche.
+De 3 à 5 joueur·euse·s, retirez du jeu une carte enchère prise au hasard dans la pioche.
+À 6 joueur·euse·s, toutes les cartes enchère sont utilisées.
+À 5 ou 6 joueur·euse·s, mélangez un Singe dans la pioche de cartes enchère, et mettez le second de côté.
+Ajoutez une carte point ★ prise au hasard à la pioche de cartes enchère (deux à 5 joueur·euse·s, trois à 6 joueur·euse·s), et distribuez dix cartes de la pioche à chaque joueur·euse.
+Placez le reste des cartes point ★ face cachée au centre de la table.
+
+
+[#playing-the-game]
+== Déroulement de la partie
+
+Au début de chaque tour, retournez la première carte de la pile de cartes point.
+C'est la carte pour laquelle vous enchérissez.
+
+À chaque tour, chaque joueur·euse doit enchérir avec exactement une de ses dix cartes, l'un·e après l'autre dans le sens horaire.
+
+Au premier tour de la première manche, la personne qui a le prénom le plus long (le nom de famille départage les égalités) commence l'enchère.
+La personne qui a fait l'enchère la plus haute remporte le tour, prend la carte point ★ du centre et la place devant elle.
+Les cartes enchère jouées sont défaussées et ne servent plus pendant cette manche.
+
+En cas d'égalité entre les enchères les plus hautes, les cartes point de ce tour sont « brûlées » et personne ne les reçoit.
+Placez les cartes point brûlées sous la pile de cartes point.
+
+Au tour suivant, la personne qui a fait l'enchère la plus haute commence l'enchère ou, en cas d'égalité, la dernière personne qui a brûlé (qui brûle commence).
+
+
+=== Cartes ★ en main
+
+Vous pouvez avoir en main une carte point ★, reçue lors de la distribution.
+Vous devez enchérir avec cette carte comme avec n'importe quelle autre, mais la valeur de cette carte ★ s'ajoute à la valeur du tour.
+
+.Enchère avec une carte ★
+====
+Vous enchérissez pour un 5★ et l'un·e des joueur·euse·s enchérit avec un 8★ : la personne qui remporte le tour reçoit 8 + 5 points.
+Si le 8★ est l'enchère la plus haute (et qu'il n'y a pas d'égalité), la personne qui l'a joué remporte les 8 + 5 points.
+Si l'enchère d'une autre personne est plus haute, celle-ci prend les deux cartes et reçoit 8 + 5 points.
+====
+
+
+=== Fin d'une manche
+
+Une manche se termine après dix tours.
+Toutes les cartes point du centre ne sont donc pas retournées.
+Ajoutez les points de la manche à ceux des manches précédentes, et commencez la manche suivante.
+
+À la manche suivante, la personne qui a le score total le plus élevé commence l'enchère du premier tour.
+En cas d'égalité, le score de la dernière manche départage.
+Si l'égalité persiste, la personne qui a remporté la plus haute carte à la dernière manche commence.
+
+La partie se termine après six manches, à moins que tout le monde ne se mette d'accord sur un autre nombre.
+
+
+=== La chance du perdant
+
+Chaque joueur·euse qui n'a aucune carte ★ devant soi à la fin d'une manche reçoit des points de chance du perdant.
+Ces points dépendent du nombre de joueur·euse·s et du nombre de fois où cette personne a reçu des points de chance du perdant, cette fois comprise.
+
+[%autowidth,cols="^h,^,^,^,^"]
+|===
+| Nombre
+| 3 joueur·euse·s
+| 4 joueur·euse·s
+| 5 joueur·euse·s
+| 6 joueur·euse·s
+
+| 1 | 12 | 8 | 8 | 7
+| 2 | 24 | 16 | 16 | 14
+| 3 | 36 | 24 | 24 | 21
+| 4 | 48 | 32 | 32 | 28
+| 5 | 60 | 40 | 40 | 35
+| 6 | 72 | 48 | 48 | 42
+| n | stem:[n xx 12] | stem:[n xx 8] | stem:[n xx 8] | stem:[n xx 7]
+|===
+
+.4 joueur·euse·s
+====
+Un·e joueur·euse remporte 9 points à la manche 1.
+Lors des trois manches suivantes, il ou elle termine sans aucune carte ★.
+À la cinquième manche, il ou elle reçoit 13 points, et à la dernière manche, termine sans aucune carte ★ devant soi.
+
+Après six manches, il ou elle a stem:[9 + (1 xx 8) + (2 xx 8) + (3 xx 8) + 13 + (4 xx 8) = 102] points.
+====
+
+
+== Enchères à la couleur
+
+Dans cette variante, c'est la carte la plus haute de la couleur, ou des couleurs, la plus jouée au cours du tour qui l'emporte.
+
+.Enchères à la couleur
+====
+Au cours d'un tour, les cartes suivantes sont jouées : 4♥, 5♠, 9♣ et 7♠.
+En enchères à la couleur, c'est le 7♠ qui l'emporte, car il y a deux cartes ♠ et seulement une carte ♥ et une carte ♣.
+====
+
+Ajoutez toujours 1 au nombre de cartes ★, car la carte ★ du centre compte.
+Dans le cas particulier où ★ est la couleur la plus jouée et où la carte ★ la plus haute sur la table est celle du centre, le tour est « brûlé » et la personne qui a commencé le tour précédent recommence.
+
+
+== Cartes spéciales
+
+À 5 ou 6 joueur·euse·s, les Singes sont toujours utilisés, et les cartes ×2 et -‽ font toujours partie des cartes point ★.
+Si vous le souhaitez, vous pouvez ajouter le Loup, le Phénix, le Serpent et le Papillon à la pile de cartes point ★.
+Si une carte spéciale autre que la carte -‽ se trouve dans votre main, jouez-la comme n'importe quelle autre carte, mais vous ne remportez jamais le tour où vous la jouez.
+
+
+=== Le Singe
+
+Le Singe est toujours mélangé dans la pioche de cartes enchère, et se retrouve donc toujours dans la main d'un·e joueur·euse.
+Cette personne joue le Singe comme n'importe quelle autre carte, et fait équipe avec la personne qui remporte le tour où le Singe a été joué.
+À la fin de la manche, les points des deux partenaires sont additionnés et divisés par deux (arrondis à l'entier supérieur).
+En cas d'égalité entre les enchères les plus hautes, il n'y a pas d'alliance.
+Un seul Singe est utilisé dans le jeu : placez le second Singe à côté de la personne qui a joué le premier, pour signaler l'alliance.
+
+Si vous êtes dans une alliance mais n'avez aucune carte ★ à la fin de la manche, vous ne recevez pas les points de chance du perdant de cette manche, mais votre compteur de chance du perdant augmente tout de même de 1.
+
+.5 joueur·euse·s
+====
+À la manche 1, un·e joueur·euse termine sans aucune carte ★ : il ou elle reçoit 8 points.
+
+À la manche 2, il ou elle est en alliance avec une autre personne, mais n'a aucune carte ★ à la fin de la manche.
+Il ou elle reçoit la moitié des points de l'alliance, mais pas les 16 points d'une manche de chance du perdant.
+
+À la manche 3, il ou elle termine de nouveau sans carte ★ : il ou elle reçoit maintenant 24 points.
+====
+
+
+=== La carte -‽
+
+La personne qui remporte le tour où cette carte apparaît reçoit -5 points.
+
+Si, à la fin de la manche, vous n'avez que cette carte, votre résultat pour la manche est de -5 points, et vous ne recevez pas les points de chance du perdant.
+
+Si cette carte est dans votre main, vous enchérissez -5 en la jouant, et la carte -‽ va à la personne qui remporte le tour.
+
+Si l'enchère la plus haute est une égalité, personne ne reçoit cette carte.
+
+
+=== La carte ×2
+
+Pour la personne qui remporte cette carte, tous les points reçus aux tours précédents de la manche sont doublés.
+Cette carte n'a aucun effet sur les points reçus ensuite.
+Les cartes point jouées au même tour que la carte ×2 sont également doublées.
+
+Si cette carte est dans votre main, jouez-la, et la carte ×2 va à la personne qui remporte le tour.
+Vous ne pouvez jamais remporter cette carte si elle était dans votre main.
+
+Si l'enchère la plus haute est une égalité, personne ne reçoit cette carte.
+
+
+=== Le Loup
+
+La personne qui remporte le tour où cette carte apparaît doit voler une carte point ★ à la personne qui a fait l'enchère la plus basse de ce tour.
+
+.Loup
+====
+Les enchères sont 10, 8, 6 et 5 : la personne qui a enchéri 10 doit voler une carte à celle qui a enchéri 5.
+Elle choisit l'une des cartes que la personne qui a enchéri 5 a remportées plus tôt dans la manche.
+====
+
+Si la personne qui a fait l'enchère la plus basse n'a remporté aucune carte à cette manche, la personne qui remporte le tour vole celle qui a fait l'enchère la plus basse parmi celles qui ont déjà remporté une carte.
+Si l'enchère la plus basse est une égalité, la personne qui remporte le tour choisit sa victime.
+
+Si l'enchère la plus haute est une égalité, personne ne reçoit cette carte.
+
+
+=== Le Phénix
+
+Lorsque cette carte apparaît, il n'y a pas d'enchère pour elle.
+Mélangez de nouveau la pile des cartes point restantes, et défaussez le Phénix.
+
+Toutes les cartes point brûlées (voir <<playing-the-game>>) peuvent donc apparaître à nouveau.
+Retournez la carte point suivante, et les enchères continuent.
+
+Si cette carte est dans la main d'un·e joueur·euse, mélangez la pile de cartes ★ à la fin du tour, avant de retourner la carte ★ suivante.
+Si, dans ce cas, l'enchère la plus haute est une égalité, ne mélangez pas la pile.
+
+
+=== Le Serpent
+
+Lorsque cette carte apparaît, il n'y a pas d'enchère pour elle.
+À partir de maintenant, l'enchère la plus basse remporte chaque tour jusqu'à la fin de la manche.
+Mettez le Serpent de côté, et retournez la carte point suivante.
+
+Si cette carte est dans la main d'un·e joueur·euse, la règle « l'enchère la plus basse l'emporte » s'applique à partir du tour suivant, tant que l'enchère la plus haute n'est pas une égalité.
+Si l'enchère la plus haute est une égalité, la règle ne s'applique pas pendant cette manche.
+
+
+=== Le Papillon
+
+Lorsque cette carte apparaît, vous enchérissez pour la carte point suivante de la pile sans savoir laquelle c'est.
+
+Si cette carte est dans la main d'un·e joueur·euse, la personne qui remporte le tour reçoit la carte point suivante, et la carte point pour laquelle vous enchérissiez va sous la pile de cartes point.
+
+Si l'enchère la plus haute est une égalité, personne ne reçoit de carte.

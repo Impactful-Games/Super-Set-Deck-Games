@@ -1,0 +1,301 @@
+= Parade
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 66 cartes : 0-10 à ♠, ♥, ♣, ♦, ✿ & ★.
+****
+
+Le défilé a commencé au pays des merveilles.
+Tout le monde est costumé, les rues sont décorées, l'excitation est palpable.
+Trouvons d'autres personnes pour rejoindre le défilé.
+Vous faites partie de l'équipe qui organise le défilé, et vous faites tout votre possible pour encourager les gens à y participer.
+
+Si seulement les participant·e·s ne partaient pas si tôt...
+Au bout d'un moment, le défilé ne les intéresse tout simplement plus.
+Et si quelqu'un arrive avec le même costume ou un costume plus prestigieux, ils et elles quittent immédiatement le défilé pour venir se plaindre à vous.
+Vous voulez juste que tout le monde s'amuse, mais pourquoi est-ce si difficile de nos jours... ?
+
+
+== But du jeu
+
+À chaque tour, jouez une carte de votre main en essayant de ne pas récupérer de cartes du défilé, car elles rapportent des points de pénalité.
+Personne ne veut de points au pays des merveilles.
+
+
+== Préparation du défilé
+
+Désignez au hasard la personne qui commence.
+La partie se poursuit ensuite dans le sens horaire.
+La personne qui commence mélange les cartes et distribue 5 cartes face cachée à chaque joueur·euse.
+
+Elle place ensuite 6 autres cartes face visible, côte à côte, en une ligne au centre de la table.
+Ces cartes sont les premières à défiler.
+Les cartes restantes forment une pioche face cachée, placée à l'une des extrémités de la ligne pour indiquer le début du défilé.
+L'autre extrémité est la fin du défilé.
+
+
+== Déroulement du jeu
+
+À votre tour, effectuez les actions suivantes, dans cet ordre :
+
+. Choisissez une carte de votre main et placez-la à la fin du défilé.
+. Si nécessaire, retirez des cartes du défilé et placez-les devant vous.
+. Piochez une carte.
+
+La personne suivante effectue ensuite les mêmes actions à son tour.
+
+
+=== 1. Ajouter au défilé
+
+Choisissez une carte de votre main et placez-la face visible à la fin du défilé.
+Cette carte n'est jamais comptée lors du dénombrement de l'action suivante.
+
+
+=== 2. Retirer du défilé
+
+Selon la carte jouée, certaines cartes devront peut-être être retirées du défilé.
+
+Si le nombre de cartes déjà présentes dans le défilé est *inférieur ou égal* à la valeur de la carte jouée, aucune carte n'est retirée du défilé.
+
+Si le nombre de cartes déjà présentes dans le défilé est *supérieur* à la valeur de la carte jouée, certaines cartes devront peut-être être retirées du défilé.
+
+Pour trouver ces cartes, regardez la valeur de la carte jouée.
+Puis, en partant de la fin du défilé et en ignorant la carte que vous venez de jouer, comptez autant de cartes que cette valeur.
+Toutes les cartes *au-delà* de ces cartes (celles que vous n'avez pas comptées) passent en mode *retrait*.
+
+Ensuite, parmi les cartes en mode retrait, retirez les cartes suivantes :
+
+* Toutes les cartes de la même couleur que la carte jouée.
+* Toutes les cartes d'une valeur inférieure ou égale à celle de la carte jouée.
+
+Placez les cartes retirées face visible devant vous, triées par couleur.
+Les valeurs de toutes les cartes doivent être visibles de tou·te·s les joueur·euse·s : le mieux est de les superposer en les décalant légèrement.
+
+Les cartes restant dans le défilé avancent vers le début du défilé, pour combler les trous.
+
+Lorsqu'une carte de valeur 0 est jouée, *toutes* les cartes du défilé passent en mode *retrait*.
+
+.Retrait
+====
+.Défilé
+[options="autowidth",cols="^,^,^,^,^,^,^"]
+|===
+| 5♠ | 0♣ | 7♣ | 3♥ | 7♠ | 1♥ | 4♣
+4+| *Mode retrait* 3+| Pas concernées
+|===
+
+Vous jouez une carte de votre main (3♣) et la placez à la fin du défilé.
+Puisque c'est un 3 (la valeur de la carte), vous ignorez les 3 dernières cartes du défilé : elles ne sont pas concernées par la carte jouée.
+
+Voici ce qui arrive aux 4 cartes en mode retrait :
+
+* Vous prenez toutes les cartes de la couleur jouée.
+Ici, 0♣ et 7♣.
+* Vous prenez toutes les cartes d'une valeur inférieure ou égale à celle de la carte jouée.
+Ici, 3♥.
+
+Notez que seules les cartes en *mode retrait* peuvent être prises.
+====
+
+
+=== 3. Piocher
+
+Piochez une carte, pour avoir de nouveau 5 cartes en main.
+
+
+== Dernière manche et fin de la partie
+
+La dernière manche commence lorsqu'un·e joueur·euse a devant lui ou elle au moins une carte de chacune des 6 couleurs, *ou* lorsque la pioche est épuisée.
+
+Si un·e joueur·euse récupère sa 6^e^ couleur, il ou elle termine son tour normalement.
+Ensuite, tou·te·s les joueur·euse·s, y compris celui ou celle qui a récupéré la 6^e^ couleur, jouent un dernier tour.
+Cependant, personne ne pioche de carte à la fin de son tour.
+La partie se termine après cette dernière manche.
+
+Si la pioche est épuisée, tou·te·s les joueur·euse·s jouent un tour de plus.
+La partie se termine lorsque tout le monde n'a plus que 4 cartes en main.
+
+Si d'autres joueur·euse·s récupèrent leur 6^e^ couleur pendant cette dernière manche, cela n'a aucun effet.
+La partie se termine après cette dernière manche.
+
+
+== Décompte
+
+À la fin de la partie, chaque joueur·euse choisit 2 cartes de sa main et les défausse face cachée.
+Lorsque tout le monde a défaussé, ajoutez les 2 cartes restant dans votre main à celles qui sont déjà devant vous.
+
+NOTE: Chacune de ces 2 cartes rejoint une pile d'une couleur que vous avez déjà, ou forme une pile d'une nouvelle couleur.
+
+Pour déterminer votre score, ne comptez que les cartes placées devant vous.
+Défaussez les cartes encore présentes dans le défilé.
+
+Les joueur·euse·s déterminent leur score pour chaque couleur séparément.
+
+. Pour chaque couleur, trouvez qui a le plus de cartes de cette couleur.
+La ou les personnes qui ont le plus de cartes d'une couleur retournent face cachée leurs cartes de cette couleur.
+Chaque carte retournée vaut 1 point (sa valeur imprimée ne compte pas).
+. Chaque joueur·euse additionne ensuite la valeur imprimée de toutes ses cartes face visible.
+Enfin, ajoutez les points de vos cartes retournées (1 point par carte) à ceux de vos cartes face visible.
+
+Comme on peut s'y attendre au pays des merveilles, c'est la personne qui a le moins de points qui remporte la partie.
+En cas d'égalité, la personne à égalité qui a le moins de cartes devant elle (face visible et face cachée) l'emporte.
+
+.Décompte
+====
+* *Anna* :
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+9 +
+7 +
+6 +
+5 +
+0
+
+|
+10 +
+8 +
+3
+
+|
+4 +
+2
+
+|
+
+|
+0
+
+|
+7 +
+4 +
+0
+
+|===
++
+Anna a le plus de cartes ♠ et ★ (à égalité avec Ben pour les ★).
+Anna marque :
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Cartes : | stem:[5*1] | stem:[=5]
+| ♥ | Valeurs : | stem:[10+8+3] | stem:[=21]
+| ♣ | Valeurs : | stem:[4+2] | stem:[=6]
+| ✿ | Valeurs : | stem:[0] | stem:[=0]
+| ★ | Cartes : | stem:[3*1] | stem:[=3]
+| 2+| *Total* : | stem:[=35] points
+|===
+
+* *Ben* :
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+8
+
+|
+1 +
+0
+
+|
+
+|
+10 +
+1
+
+|
+8 +
+7 +
+5 +
+3
+
+|
+9 +
+8 +
+1
+
+|===
++
+Ben a le plus de cartes ✿ et ★ (à égalité avec Anna pour les ★).
+Ben marque :
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Valeurs : | stem:[8] | stem:[=8]
+| ♥ | Valeurs : | stem:[1+0] | stem:[=1]
+| ♦ | Valeurs : | stem:[10+1] | stem:[=11]
+| ✿ | Cartes : | stem:[4*1] | stem:[=4]
+| ★ | Cartes : | stem:[3*1] | stem:[=3]
+| 2+| *Total* : | stem:[=27] points
+|===
+
+* *Chloé* :
++
+[%autowidth]
+|===
+| ♠ | ♥ | ♣ | ♦ | ✿ | ★
+
+|
+4 +
+3
+
+|
+7 +
+6 +
+5 +
+2
+
+|
+9 +
+8 +
+7 +
+6
+
+|
+3 +
+2 +
+0
+
+|
+2 +
+1
+
+|
+10
+
+|===
++
+Chloé a le plus de cartes ♥, ♣ et ♦.
+Chloé marque :
++
+[%autowidth,frame=none,grid=none,cols=".^,.^,.^,.^"]
+|===
+| ♠ | Valeurs : | stem:[4+3] | stem:[=7]
+| ♥ | Cartes : | stem:[4*1] | stem:[=4]
+| ♣ | Cartes : | stem:[4*1] | stem:[=4]
+| ♦ | Cartes : | stem:[3*1] | stem:[=3]
+| ✿ | Valeurs : | stem:[2+1] | stem:[=3]
+| ★ | Valeurs : | stem:[10] | stem:[=10]
+| 2+| *Total* : | stem:[=31] points
+|===
+
+*Ben remporte la partie !*
+====
+
+
+== Partie à deux joueur·euse·s
+
+Les règles ne changent pas à 2 joueur·euse·s, sauf pour le décompte.
+
+Lorsque vous déterminez les majorités, un·e joueur·euse n'a la majorité dans une couleur que s'il ou elle possède au moins 2 cartes de plus de cette couleur que l'autre joueur·euse : ces cartes rapportent alors 1 point chacune.
+Si un·e joueur·euse n'a qu'une carte de plus, le même nombre de cartes, ou moins, la valeur de ces cartes est additionnée.

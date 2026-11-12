@@ -1,0 +1,170 @@
+= Robot Master
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 36 cartes Robot : 0-5 à ♠, ♥, ♣, ♦, ✿ & ★.
+****
+
+[CAUTION]
+====
+Les couleurs des cartes n'ont pas d'importance.
+Ce jeu n'utilise que les *valeurs* des cartes.
+====
+
+En début de partie, les 2 joueur·euse·s, ou les 2 équipes à 4 joueur·euse·s, décident qui possède les lignes horizontales et qui possède les colonnes verticales.
+
+*Objectif* : placer les robots de différentes valeurs pour tirer le meilleur parti de vos lignes ou colonnes : en fin de partie, le camp perdant est la personne ou l'équipe qui possède la ligne ou la colonne dont le score est le plus faible.
+
+
+== Mise en place à 2 joueur·euse·s
+
+Mélangez les cartes Robot et distribuez-en 12 face cachée à chaque joueur·euse.
+Regardez vos cartes sans les montrer.
+Mettez les cartes restantes de côté pour former une pioche.
+Retournez face visible la première carte de la pioche et posez-la au milieu de la table.
+
+.Mise en place
+====
+[options="autowidth",frame=none,grid=none,cols="^.^,^.^,^.^,^.^,^.^,^.^,^.^"]
+|===
+|
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|B +
+↓
+|
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ■ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+| A →| ▢ | ▢ | ▢ | ▢ | ▢ | ← A
+|
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+| ↑ +
+B
+|
+|===
+
+* ■ est la carte face visible au milieu de la table.
+* La personne A possède les lignes horizontales.
+* La personne B possède les colonnes verticales.
+====
+
+
+== Déroulement
+
+Tirez au sort qui commence.
+
+Cette personne choisit une carte de sa main et la pose face visible à côté de la carte centrale, de sorte qu'elle touche un côté entier de la carte centrale.
+
+Puis l'autre joueur·euse pose une carte de sa main.
+La carte doit toucher un côté entier d'une carte déjà posée.
+Par la suite, vous pouvez poser une carte qui touche plusieurs cartes déjà en place.
+
+La partie se termine quand toutes les cartes sont posées, formant un carré de 5×5.
+
+
+== Décompte d'une ligne ou d'une colonne
+
+Le score d'une ligne ou d'une colonne est la somme des valeurs de ses robots.
+
+* Une carte Robot seule compte uniquement pour sa valeur.
++
+====
+5, 0, 2, 3, 1 = 11 points
+====
+
+* 2 cartes Robot identiques comptent pour 10 fois la valeur de la carte.
++
+====
+3, 0, 3, 1, 4 = 35 points
+====
++
+NOTE: Une ligne ou une colonne peut cumuler le score de 2 paires de cartes identiques (2 multiplications).
++
+====
+5, 2, 2, 1, 5 = 71 points
+====
+
+* 3 cartes Robot identiques comptent pour 100 points, quelle que soit leur valeur.
++
+====
+0, 0, 2, 3, 0 = 105 points
+====
++
+NOTE: Une ligne ou une colonne peut cumuler le score de 3 cartes identiques et d'une paire d'autres cartes identiques.
++
+====
+4, 4, 2, 4, 2 = 120 points
+====
+
+* 4 ou 5 cartes Robot identiques comptent pour 100 points pour les 3 premières cartes, plus la valeur des autres.
++
+====
+2, 2, 2, 2, 3 = 105 points
+====
+
+[WARNING]
+====
+* Un 0 vaut 0 point.
+* Deux 0 valent 0 point.
+* Trois 0 valent 100 points !
+====
+
+
+== Fin de la partie
+
+Quand toutes les cartes ont été jouées pour former un carré de 5×5, chacun·e calcule le score de chacune de ses lignes ou colonnes.
+Seules la ligne la plus faible et la colonne la plus faible sont comparées : la victoire revient à la personne qui a le meilleur score sur cette ligne ou colonne.
+
+En cas d'égalité, comparez la deuxième ligne et la deuxième colonne les plus faibles.
+
+Si vous jouez plusieurs manches, le score de chaque manche est la différence entre la ligne la plus faible et la colonne la plus faible.
+La personne qui a le total le plus élevé après plusieurs manches l'emporte.
+
+
+== Variantes
+
+=== À 2 joueur·euse·s
+
+Jouez comme dans la règle de base, mais chaque joueur·euse ne reçoit que 5 cartes au lieu de 12.
+Une seule carte est posée face visible au milieu de la table, et les cartes restantes sont mises de côté pour former une pioche.
+Chaque fois que vous posez une carte, piochez la première carte de la pioche pour la remplacer, de façon à toujours avoir 5 cartes en main.
+
+
+=== À 4 joueur·euse·s
+
+Jouez en équipes de 2.
+Chaque partenaire s'assied en face de l'autre.
+Une équipe possède les lignes horizontales, l'autre les colonnes verticales.
+Chaque joueur·euse reçoit 7 cartes, et les cartes restantes sont mises de côté pour former une pioche.
+
+Retournez face visible la première carte de la pioche et posez-la au milieu de la table.
+Une personne commence la partie, puis le jeu continue dans le sens des aiguilles d'une montre.
+Toute communication entre les membres d'une équipe est interdite.
+Jouez comme dans la règle de base.
+
+
+=== En solo
+
+Retournez une seule carte face visible au milieu de la table, et mettez toutes les autres cartes de côté pour former une pioche.
+Piochez et posez les cartes une à une (de la même façon que dans la règle de base).
+Quand le carré de 5×5 est complet, votre score est celui de votre ligne ou colonne la plus faible.

@@ -1,0 +1,162 @@
+= Good Little Tricks
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 27 cartes numérotées :
+** 1-2 à ★.
+** 1-3 à ♠.
+** 1-4 à ♥.
+** 1-5 à ♣.
+** 1-6 à ♦.
+** 1-7 à ✿.
+* 6 cartes A, pour repérer les couleurs du Tableau : A à ♠, ♥, ♣, ♦, ✿ & ★.
+* Du papier et un crayon pour noter les scores.
+****
+
+La partie se joue en un nombre fixe de mains.
+Vous marquez des points à la fin de chaque main, et la personne qui a le total *le plus faible* à la fin de la partie l'emporte.
+
+
+== Comment jouer
+
+Good Little Tricks reprend de nombreuses conventions des jeux de plis classiques comme le Whist : si vous connaissez ces jeux, celui-ci devrait vous sembler simple.
+
+La principale différence entre Good Little Tricks et les autres jeux de plis est que la personne qui gagne un pli ne remporte pas automatiquement les cartes de ce pli.
+À la place, toutes les cartes jouées lors d'un pli sont d'abord posées face visible dans un « Tableau », à côté de la zone de jeu.
+
+Puis, avant de jouer le pli suivant, vérifiez si toutes les cartes d'une couleur se trouvent désormais dans le Tableau.
+Si c'est le cas, la personne qui a gagné le pli doit récupérer toutes les cartes de cette couleur (qui ne sont pas forcément toutes les cartes jouées lors du pli).
+
+À la fin de chaque main, chaque joueur·euse marque autant de points que de cartes récupérées.
+Cependant, si une seule personne récupère les 27 cartes, elle a « tout raflé » et chacun·e des *autres* joueur·euse·s reçoit une pénalité de 27 points.
+
+NOTE: Rappel : la personne qui a le moins de points à la fin de la partie l'emporte.
+
+
+=== Durée de la partie
+
+La partie se joue en un nombre fixe de mains.
+À 2 ou 3 joueur·euse·s, jouez deux mains par joueur·euse.
+À 4 ou 5 joueur·euse·s, jouez une main par joueur·euse.
+
+* *2 joueur·euse·s* : jouez 4 mains.
+* *3 joueur·euse·s* : jouez 6 mains.
+* *4 joueur·euse·s* : jouez 4 mains.
+* *5 joueur·euse·s* : jouez 5 mains.
+
+Choisissez qui mélange et distribue les cartes de la première main.
+La personne à gauche de la donneuse ou du donneur commence toujours et entame le premier pli.
+
+La donne tourne en sens horaire, de sorte que chacun·e commence et entame le premier pli le même nombre de fois.
+
+NOTE: Les <<two-players,changements à 2 joueur·euse·s>> sont expliqués plus bas.
+
+
+== Donne
+
+Au début de chaque main, la donneuse ou le donneur mélange les 27 cartes numérotées et les distribue équitablement, de sorte que chacun·e reçoive le même nombre de cartes :
+
+* *3 joueur·euse·s* : 9 cartes chacun·e.
+* *4 joueur·euse·s* : 6 cartes chacun·e (3 cartes en trop).
+* *5 joueur·euse·s* : 5 cartes chacun·e (2 cartes en trop).
+
+À côté de la zone de jeu, placez les 6 cartes A en ligne, dans cet ordre : ★, ♠, ♥, ♣, ♦, ✿.
+C'est le Tableau.
+
+Placez les éventuelles cartes en trop face visible dans le Tableau, sous la carte A correspondante.
+
+
+=== Ajouter des cartes au Tableau
+
+Lorsque vous ajoutez des cartes au Tableau, rangez-les de sorte que les cartes d'une même couleur soient regroupées sous la carte A correspondante.
+
+Faites se chevaucher les cartes d'une même couleur en une colonne verticale, de sorte que toutes leurs valeurs restent visibles.
+
+
+=== Atouts
+
+Contrairement à la plupart des jeux de plis, la couleur d'atout change en cours de partie : faites bien attention !
+
+À tout moment, l'atout est la *plus petite* couleur dont il reste au moins une carte en main (la carte A visible la plus à gauche).
+Une fois toutes les cartes de cette couleur jouées, retournez la carte A correspondante face cachée : à partir du pli suivant, l'atout est la plus petite couleur suivante dont il reste des cartes à jouer.
+
+Ainsi, au début d'une main, ★ est presque toujours l'atout, sauf si, à 4 ou 5 joueur·euse·s, les deux cartes ★ ont été placées dans le Tableau lors de la donne.
+Dans ce cas rare, ♠ est l'atout.
+
+
+== Jouer les plis
+
+La personne à gauche de la donneuse ou du donneur commence et entame le premier pli.
+
+Pour entamer un pli, choisissez une carte de votre main et jouez-la face visible devant vous.
+Sa couleur est la couleur demandée.
+Vous *ne pouvez pas* entamer avec un atout, sauf si vous n'avez que des atouts en main et donc aucun autre choix.
+
+En sens horaire, chacun·e des autres joueur·euse·s doit ensuite jouer une carte à son tour, et doit « fournir » si possible : vous devez jouer une carte de la couleur demandée.
+
+Si vous ne pouvez pas fournir, vous pouvez jouer n'importe quelle carte de votre main, y compris un atout si vous en avez un.
+
+Une fois que chacun·e a joué une carte, déterminez qui gagne le pli.
+Si aucun atout n'a été joué, la personne qui a joué la plus forte carte de la couleur demandée gagne le pli.
+Si un ou plusieurs atouts ont été joués, la personne qui a joué l'atout le plus fort gagne le pli.
+
+Après chaque pli, placez toutes les cartes jouées dans le Tableau, rangées par couleur.
+
+
+=== Récupérer les cartes du Tableau
+
+Après chaque pli, vérifiez si une couleur est « complète », c'est-à-dire si toutes ses cartes se trouvent désormais dans le Tableau.
+La personne qui a gagné le pli doit récupérer toutes les cartes de chaque couleur complète, et retourner les cartes A correspondantes face cachée.
+Laissez toutes les cartes des couleurs incomplètes dans le Tableau.
+Gardez devant vous les cartes que vous récupérez.
+
+Gardez toujours en tête la couleur d'atout.
+L'atout est toujours la plus petite couleur incomplète (la carte A visible la plus à gauche).
+
+
+=== Entamer le pli suivant
+
+La personne qui gagne un pli doit ensuite entamer le pli suivant.
+
+
+== Décompte
+
+Continuez à jouer jusqu'à ce que chacun·e ait joué toutes ses cartes et que toutes les cartes du Tableau aient été récupérées.
+Chaque joueur·euse marque autant de points que de cartes récupérées pendant la main.
+Cependant, si une seule personne a récupéré les 27 cartes, elle a « tout raflé » : elle ne marque aucun point, et chacun·e des autres joueur·euse·s reçoit une pénalité de 27 points.
+
+Notez les scores, et tenez le total de chacun·e d'une main à l'autre.
+La partie se termine une fois le nombre de mains prévu joué.
+
+La personne qui a le total le plus faible gagne la partie.
+
+
+[#two-players]
+== Changements à 2 joueur·euse·s
+
+Distribuez 9 cartes face cachée à chaque joueur·euse, plus 9 cartes à une troisième personne imaginaire, le « Mort ».
+Posez les cartes du Mort en une pile face cachée entre vous, comme si le Mort était assis à gauche de la donneuse ou du donneur.
+
+Retournez face visible les *trois premières cartes* de la pile du Mort et rangez-les de gauche à droite dans l'ordre des couleurs : d'abord les cartes de la plus petite couleur, puis celles des couleurs plus grandes à leur droite.
+
+S'il y a 2 ou 3 cartes d'une même couleur, placez les plus faibles en premier.
+Gardez toujours les cartes visibles du Mort rangées de cette manière.
+C'est la « ligne » du Mort.
+Après chaque pli, retournez une nouvelle carte de la pile du Mort et ajoutez-la à sa ligne.
+
+
+=== Jouer les cartes du Mort
+
+Le Mort joue à son tour comme une troisième personne, en jouant automatiquement une carte de sa ligne.
+
+* Le Mort doit fournir si possible, et joue toujours sa plus forte carte de cette couleur s'il a le choix.
+* Si le Mort ne peut pas fournir, il joue toujours la carte *la plus à gauche* de sa ligne.
++
+NOTE: Cette carte est un atout si le Mort en a un face visible.
+* Le Mort peut gagner des plis et récupérer les cartes des couleurs complètes du Tableau, comme n'importe quel·le joueur·euse.
+S'il gagne un pli, il entame le pli suivant en jouant la carte *la plus à droite* de sa ligne.

@@ -1,0 +1,142 @@
+= Trumpet
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 69 cartes de jeu :
+** 66 cartes numérotées : 1-11 à ♠, ♥, ♣, ♦, ✿ & ★.
+** 3 Super-Atouts : J, Q & K à ⎈.
+* 6 cartes Atout : les A de ♠, ♥, ♣, ♦, ✿ & ★.
+* 24 cartes Chemin :
+** 18 espaces vides : les 3 K de ♠, ♥, ♣, ♦, ✿ & ★.
+** 6 espaces Atout : 1-6 à ⎈.
+* 2 cartes Personnage par joueur·euse :
+** 2 Papillons & 2 Loups.
+** 2 Phénix à partir de 3 joueur·euse·s.
+** 2 Singes à partir de 4 joueur·euse·s.
+** 2 Serpents à partir de 5 joueur·euse·s.
+** 2 Dragons à 6 joueur·euse·s.
+
+TIP: Au lieu des cartes Chemin et Personnage, vous pouvez jouer avec un link:Trumpet-Board.pdf[plateau] et des pions.
+****
+
+Chaque fois qu'un·e joueur·euse remporte un pli, son personnage avance d'un espace libre sur le chemin.
+Lorsqu'un personnage atteint un espace ⎈, son ou sa propriétaire peut choisir une couleur d'atout.
+
+Les décisions de changer d'atout et de jouer un Super-Atout doivent être prises avec soin, car elles sont décisives.
+La première personne à atteindre la fin du chemin remporte la partie.
+
+
+== Mise en place
+
+Construisez le chemin au centre de la table.
+Placez toutes les cartes K face cachée : ce sont les espaces vides du chemin.
+Placez les cartes 1-6 à ⎈ face visible (*leur valeur n'a pas d'importance*) : ce sont les espaces Atout du chemin.
+
+.Du **D**épart à l'**A**rrivée
+[%autowidth,cols="^,^,^,^,^,^,^"]
+|===
+h| ⎈ h| _ h| _ h| _ h| _ h| ⎈ .4+|
+h| _
+4.11+.^| Ligne des +
+atouts
+h| _
+h| _ h| _
+h| _ h| _
+h| ⎈ .7+| h| _
+h| _ h| ⎈
+h| _ h| _
+h| ⎈ h| _
+h| _ h| ⎈
+h| _ h| _
+h| ↑ +
+*D*
+h| ↓ +
+*A*
+|===
+
+[CAUTION]
+====
+Il y a un intervalle avant les six derniers espaces du chemin, pour rappeler aux joueur·euse·s que ces six espaces sont spéciaux.
+Cet intervalle n'est *pas* un espace du chemin.
+====
+
+Chaque joueur·euse prend une paire de cartes Personnage identiques, en place une devant soi et l'autre au départ du chemin, avant son premier espace vide.
+
+Choisissez une personne qui distribue.
+Elle mélange les cartes de jeu et distribue 7 cartes face cachée à chaque joueur·euse.
+Les cartes restantes forment une pioche face cachée.
+
+Placez les 6 cartes Atout (A) face cachée au centre du chemin.
+
+
+== Déroulement de la partie
+
+La personne à gauche de celle qui a distribué ouvre le pli en jouant une carte.
+Puis, dans le sens horaire, chacun·e doit jouer une carte de la même couleur.
+
+Si vous ne pouvez pas suivre la couleur, vous pouvez jouer n'importe quelle carte.
+Si vous jouez un atout, vous pouvez remporter le pli ; sinon, votre carte est perdue.
+
+Un pli est remporté par l'atout le plus fort ou, s'il n'y en a pas, par la plus forte carte de la couleur demandée.
+
+Un Super-Atout bat toutes les autres cartes.
+Si plusieurs Super-Atouts sont joués, le dernier joué remporte le pli (la lettre des Super-Atouts *n'a pas d'importance*).
+Si un pli est ouvert avec un Super-Atout, il n'a pas de couleur demandée : chacun·e peut jouer la carte de son choix.
+
+Une fois un pli joué, placez ses cartes face visible à côté de la pioche face cachée.
+La personne qui remporte le pli doit déplacer son personnage sur le prochain espace *inoccupé* du chemin.
+
+NOTE: Un espace ne peut être occupé que par un seul personnage.
+
+La personne qui remporte un pli ouvre le suivant.
+
+Une fois que toutes les cartes en main ont été jouées, la personne à gauche de celle qui a distribué précédemment distribue à son tour.
+Les cartes de jeu sont mélangées à nouveau et chacun·e reçoit une nouvelle main de 7 cartes.
+
+
+== Atouts
+
+Chaque fois qu'un personnage atteint un espace ⎈, son ou sa propriétaire peut choisir une couleur d'atout.
+Il ou elle prend la carte Atout (A) de la couleur de son choix et la place face visible au bout de la ligne des atouts, au centre du chemin.
+
+Une fois les 6 cartes Atout placées sur la ligne des atouts, un personnage qui atteint un espace ⎈ permet à son ou sa propriétaire d'échanger la place de deux cartes Atout dans la ligne.
+
+Si un·e joueur·euse n'a plus de cartes en main lorsque son personnage atteint un espace ⎈, il ou elle peut attendre de recevoir sa nouvelle main avant de choisir l'atout.
+
+
+=== Force des atouts
+
+La première carte Atout est placée au début de la ligne des atouts.
+
+Tous les atouts sont bons, mais plus sa carte Atout est loin dans la ligne, plus une couleur d'atout est forte.
+La couleur d'atout la plus forte bat toutes les autres.
+La deuxième couleur d'atout la plus forte bat toutes celles qui la précèdent, mais pas la plus forte, et ainsi de suite.
+
+Un Super-Atout bat tous les atouts.
+
+
+== Les six derniers espaces
+
+Les six derniers espaces du chemin sont spéciaux.
+
+Lorsque vous remportez un pli alors que votre personnage se trouve dans cette zone, vous avez deux possibilités :
+
+* Avancer votre propre personnage jusqu'au prochain espace libre.
+* Reculer le personnage d'un·e adversaire qui se trouve dans cette même zone jusqu'à l'espace libre précédent.
+
+Si un personnage atteint un espace ⎈ en reculant, son ou sa propriétaire effectue l'action normale de cet espace.
+
+
+== Pénalités
+
+Si vous ne suivez pas la couleur alors que vous le pouviez, vous devez déplacer votre personnage sur l'espace situé juste derrière le dernier personnage du chemin.
+
+
+== Fin de la partie
+
+La première personne à *dépasser* le dernier espace du chemin remporte la partie.

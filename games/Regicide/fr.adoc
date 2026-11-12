@@ -1,0 +1,261 @@
+= Régicide
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 36 cartes numérotées : 2-10 à ♠, ♥, ♣ & ♦.
+* 4 Animaux de compagnie : A à ♠, ♥, ♣ & ♦.
+* 1 Papillon à 3 joueur·euse·s, 2 Papillons à 1 ou 4 joueur·euse·s.
+* 12 cartes Ennemi : J, Q & K à ♠, ♥, ♣ & ♦.
+****
+
+Une sinistre corruption s'est propagée à travers les quatre grands royaumes, assombrissant le cœur de monarques autrefois bien-aimés, et de celles et ceux qui les protègent.
+En tant que braves aventurier·ère·s, vous devez travailler ensemble, en utilisant les pouvoirs spéciaux de vos champion·ne·s et de vos animaux de compagnie.
+Renversez les monarques corrompus, purgez-les de leurs ténèbres et accueillez-les dans vos rangs, afin de redonner vie à ces terres.
+
+
+== But du jeu
+
+Régicide est un jeu coopératif dans lequel les joueur·euse·s font équipe pour vaincre 12 puissants ennemis.
+À tour de rôle, vous jouez des cartes sur la table pour attaquer l'ennemi, et dès que vous lui avez infligé assez de dégâts, l'ennemi est vaincu.
+Vous gagnez quand le dernier K est vaincu.
+Mais attention !
+À chaque tour, l'ennemi contre-attaque.
+Vous défaussez des cartes pour encaisser les dégâts, et si vous ne pouvez pas en défausser assez, tout le monde perd !
+
+
+== Mise en place
+
+Mélangez les 4 K et placez-les en pile face cachée sur la table.
+Mélangez les 4 Q et placez-les face cachée sur les K.
+Mélangez les 4 J et placez-les face cachée sur les Q.
+C'est la pioche Château.
+Placez la pioche Château au centre de la table et retournez sa carte du dessus face visible pour révéler un J.
+Ce sera l'ennemi actuel.
+
+Mélangez ensemble toutes les cartes numérotées de 2 à 10, les 4 Animaux de compagnie (A) et un nombre de Papillons qui dépend du nombre de joueur·euse·s (voir le tableau ci-dessous) pour former la pioche Taverne.
+C'est dans la pioche Taverne que les cartes sont distribuées et piochées.
+
+Pendant la partie, placez toutes les cartes défaussées sur une défausse commune, à côté de la pioche Taverne.
+
+Distribuez à chaque joueur·euse des cartes jusqu'à sa taille de main maximale.
+
+[%autowidth, cols="^, ^, ^"]
+|===
+| Joueur·euse·s | Papillons | Taille de main max.
+
+| 1 | 0 | 8
+| 2 | 0 | 7
+| 3 | 1 | 6
+| 4 | 2 | 5
+|===
+
+La personne qui a commis un régicide le plus récemment commence.
+
+
+== Comment jouer
+
+À votre tour, jouez des cartes de votre main pour infliger des dégâts à l'ennemi actuel, afin de le vaincre.
+Les valeurs des cartes déterminent les dégâts, tandis que leur couleur procure un pouvoir spécial.
+
+Vous ne pouvez pas communiquer à propos des cartes de votre main (voir <<communication>>).
+
+Chaque tour se déroule en quatre étapes :
+
+1. Jouer une carte ou passer.
+2. Activer le pouvoir de la couleur.
+3. Infliger des dégâts à l'ennemi et vérifier.
+4. Subir les dégâts de l'ennemi.
+
+
+=== Étape 1 : jouer une carte de votre main pour attaquer l'ennemi
+
+Jouez une carte de votre main sur la table, devant vous.
+Le nombre de la carte détermine la valeur d'attaque.
+Ainsi, si vous jouez le 7♥, la valeur d'attaque est de 7.
+Au lieu de jouer une carte, vous pouvez choisir de passer (voir <<yielding>>).
+
+
+=== Étape 2 : activer le pouvoir de la couleur de la carte jouée
+
+Jouer une carte pour infliger des dégâts à l'ennemi accorde aussi un pouvoir lié à la couleur de cette carte.
+Les pouvoirs de ♥ et ♦ sont résolus immédiatement, les pouvoirs de ♣ et ♠ prennent effet lors des étapes suivantes.
+
+IMPORTANT: Les pouvoirs des couleurs sont obligatoires et ne peuvent pas être ignorés.
+
+
+==== ♥ : soigner depuis la défausse
+
+Mélangez la défausse, puis comptez face cachée un nombre de cartes égal à la valeur d'attaque jouée.
+Placez-les sous la pioche Taverne (sans les regarder !), puis remettez la défausse sur la table, face visible.
+
+
+==== ♦ : piocher des cartes
+
+La personne dont c'est le tour pioche une carte.
+Les autres suivent dans le sens des aiguilles d'une montre, en piochant une carte à la fois, jusqu'à ce qu'un nombre de cartes égal à la valeur d'attaque jouée ait été pioché.
+Les personnes qui ont atteint leur taille de main maximale sont sautées.
+Personne ne peut jamais piocher au-delà de sa taille de main maximale.
+Il n'y a aucune pénalité si vous ne pouvez pas piocher parce que la pioche Taverne est vide.
+
+
+==== ♣ : double dégâts
+
+Pendant l'étape 3, les dégâts infligés par les ♣ comptent double.
+Par exemple, le 8♣ inflige 16 dégâts.
+
+
+==== ♠ : bouclier contre l'attaque ennemie
+
+Pendant l'étape 4, réduisez la valeur d'attaque de l'ennemi actuel de la valeur d'attaque jouée.
+Les effets de bouclier des ♠ se cumulent pour tous les ♠ joués contre cet ennemi par n'importe qui, et restent actifs jusqu'à ce que l'ennemi soit vaincu.
+
+
+=== Étape 3 : infliger des dégâts et vérifier si l'ennemi est vaincu
+
+[%autowidth, cols="^, ^, ^"]
+|===
+| Ennemi | Attaque | Vie
+
+| J | 10 | 20
+| Q | 15 | 30
+| K | 20 | 40
+|===
+
+Des dégâts égaux à la valeur d'attaque de la carte jouée sont maintenant infligés à l'ennemi.
+Les dégâts s'accumulent d'un tour à l'autre.
+Vérifiez si le total des dégâts infligés jusque-là par tous les joueur·euse·s est supérieur ou égal à la vie de l'ennemi.
+Par exemple, face à un J, si une personne inflige 9 dégâts à son tour, puis une autre 12 dégâts à son tour, le total des dégâts infligés est de 21 : l'ennemi est vaincu.
+
+Si l'ennemi est vaincu, procédez comme suit :
+
+[upperroman]
+. Placez l'ennemi sur la défausse.
+Si vous avez infligé des dégâts exactement égaux à la vie de l'ennemi, placez-le plutôt face cachée sur la pioche Taverne.
+. Placez sur la défausse toutes les cartes jouées contre l'ennemi.
+. Retournez face visible la carte suivante de la pioche Château.
+. La personne qui vient de vaincre l'ennemi saute l'étape 4 et commence un nouveau tour contre l'ennemi qui vient d'être révélé, à partir de l'étape 1.
+
+
+=== Étape 4 : subir les dégâts de l'ennemi en défaussant des cartes
+
+S'il n'est pas vaincu, l'ennemi attaque la personne dont c'est le tour, en lui infligeant des dégâts égaux à sa valeur d'attaque.
+N'oubliez pas de réduire la valeur d'attaque de l'ennemi de la valeur totale des ♠ joués contre cet ennemi.
+
+La personne dont c'est le tour doit défausser des cartes de sa main d'une valeur totale au moins égale à la valeur d'attaque de l'ennemi.
+Défaussez les cartes une par une, face visible sur la défausse.
+Quand ils sont défaussés pour encaisser des dégâts, les Animaux de compagnie (A) ont une valeur de 1 et les Papillons une valeur de 0.
+Si cette personne ne peut pas défausser assez de cartes pour encaisser les dégâts, elle meurt et tout le monde perd la partie.
+Vous pouvez finir avec une main vide.
+
+Après avoir subi les dégâts, la personne suivante dans le sens des aiguilles d'une montre commence son tour, à partir de l'étape 1.
+
+
+== Animaux de compagnie
+
+À l'étape 1, les Animaux de compagnie (A) peuvent être joués seuls, mais peuvent aussi être associés à une autre carte (sauf un Papillon).
+Les Animaux de compagnie comptent pour 1 dans le total d'attaque, et le pouvoir de leur couleur est aussi appliqué.
+Par exemple, si vous jouez le 8♦ avec l'A♣, la valeur d'attaque est de 9, et les effets des deux pouvoirs sont appliqués pour 9 : 9 cartes sont piochées et 18 dégâts sont infligés.
+Chaque fois qu'un pouvoir ♥ et un pouvoir ♦ sont résolus ensemble, résolvez le soin du ♥ avant de piocher avec le ♦.
+Un Animal de compagnie peut aussi être associé à un autre Animal de compagnie.
+Si vous jouez un Animal de compagnie avec une autre carte de la même couleur, vous n'appliquez le pouvoir de la couleur qu'une seule fois.
+
+
+== Combos
+
+À l'étape 1, au lieu de jouer une seule carte, vous pouvez combiner des cartes en ensembles de 2, 3 ou 4 cartes de même nombre, à condition que le total des cartes jouées soit de 10 ou moins.
+Les Animaux de compagnie ne peuvent pas être ajoutés à un combo ni être joués seuls en combo : ils ne peuvent jamais être associés qu'à une seule autre carte (qui peut être un autre Animal de compagnie).
+Vous pouvez donc jouer :
+
+* une paire de 2, 3, 4 ou 5,
+* un triple de 2 ou 3,
+* un quadruple de 2.
+
+Quand ces cartes sont jouées ensemble, tous les pouvoirs des couleurs sont résolus pour la valeur d'attaque totale.
+Par exemple, si vous jouez ensemble le 3♠, le 3♣ & le 3♦, vous piochez 9 cartes, réduisez la valeur d'attaque de l'ennemi de 9 et infligez 18 dégâts.
+Chaque fois qu'un pouvoir ♥ et un pouvoir ♦ sont résolus ensemble, résolvez le soin du ♥ avant de piocher avec le ♦.
+
+
+== Immunité des ennemis
+
+Chaque ennemi est immunisé contre les pouvoirs des cartes jouées contre lui qui sont de sa couleur.
+Par exemple, vous ne piochez pas de cartes quand une carte ♦ est jouée contre le J♦ (mais son nombre s'ajoute quand même au total des dégâts).
+De la même manière, les cartes ♠ ne protègent pas contre un ennemi ♠.
+
+Un Papillon peut être joué pour annuler l'immunité d'un ennemi.
+
+
+== Jouer un Papillon
+
+À l'étape 1, au lieu de jouer une carte, vous pouvez jouer un Papillon (toujours seul).
+Un Papillon a une valeur d'attaque de 0.
+Le pouvoir d'un Papillon est d'annuler l'immunité de l'ennemi : les pouvoirs des cartes de la même couleur que l'ennemi prennent désormais effet quand elles sont jouées.
+Après avoir joué un Papillon, sautez les étapes 3 et 4 ; puis, au lieu de passer à la personne suivante, la personne qui a joué le Papillon choisit qui joue ensuite.
+
+Après qu'un Papillon a été joué, les restrictions normales de communication (voir <<communication>>) sont temporairement modifiées.
+Jusqu'à ce que la personne suivante commence son tour, vous pouvez exprimer de manière générale votre envie (ou votre réticence) de jouer ensuite.
+Par exemple, vous pouvez dire « J'ai un bon coup » ou « Je préfère ne pas jouer ensuite ».
+Vous ne pouvez toujours pas révéler le contenu de votre main.
+
+Si un Papillon est joué contre un ennemi ♠, les cartes ♠ jouées avant le Papillon commencent à réduire la valeur d'attaque de l'ennemi.
+En revanche, les cartes ♣ jouées avant le Papillon contre un ennemi ♣ ne comptent pas double.
+
+
+== Piocher un ennemi vaincu
+
+En main, les J valent 10, les Q valent 15 et les K valent 20.
+Ces valeurs s'appliquent aussi bien quand vous les jouez pour attaquer que quand vous les défaussez pour subir des dégâts.
+Le pouvoir de leur couleur s'applique normalement quand elles sont jouées.
+
+
+[#yielding]
+== Passer
+
+À l'étape 1, il peut être utile de passer au lieu de jouer une carte.
+Pour passer, dites simplement « Je passe » et allez directement à l'étape 4 (subir les dégâts de l'ennemi), en sautant les étapes 2 et 3.
+Vous ne pouvez pas passer si tous les autres joueur·euse·s ont passé lors de leur dernier tour.
+Par exemple, dans une partie à trois, si deux personnes ont passé à la suite, la troisième ne peut pas passer.
+
+
+[#communication]
+== Communication
+
+Vous ne pouvez communiquer aux autres aucune information qui pourrait révéler ou suggérer le contenu de votre main.
+Vous pouvez en revanche rappeler aux autres toute information publique, comme le nombre de cartes que vous avez en main.
+Quelques exemples de communication autorisée : « J'ai deux cartes en main » ou « Il ne reste que 3 cartes dans la pioche Taverne ! ».
+Quelques exemples de communication interdite : « J'ai le 10♣ », « J'espère que quelqu'un va bientôt jouer une carte ♦ ! », « Si tu joues une carte ♥, je pourrai sans doute nous aider à récupérer des cartes en main » ou « Ne tue pas cet ennemi, laisse-le-moi ! ».
+
+Après qu'un Papillon a été joué, les restrictions normales de communication sont temporairement modifiées.
+Jusqu'à ce que la personne suivante commence son tour, vous pouvez exprimer de manière générale votre envie (ou votre réticence) de jouer ensuite.
+Par exemple, vous pouvez dire « J'ai un bon coup » ou « Je préfère ne pas jouer ensuite ».
+Vous ne pouvez toujours pas révéler le contenu de votre main.
+
+
+== Fin de la partie
+
+La partie se termine par une victoire quand vous vainquez le dernier K, ou par une défaite quand une personne ne peut pas encaisser les dégâts infligés par un ennemi.
+Vous perdez aussi si une personne ne peut ni jouer une carte ni passer à son tour.
+
+
+== Partie en solo
+
+Quand vous jouez seul·e, notez les changements de règles suivants.
+
+Mettez en place la partie comme d'habitude, mais placez les deux Papillons à part, face visible.
+Vous jouez avec une seule main, limitée à 8 cartes.
+Jouez normalement, en enchaînant les tours.
+Un Papillon peut être retourné pour activer le pouvoir suivant : « Défaussez votre main et complétez-la à 8 cartes ; cela ne compte pas comme une pioche pour l'immunité des ennemis ♦. »
+Comme vous avez deux Papillons, vous pouvez le faire deux fois par partie.
+Retourner un Papillon de cette manière n'annule pas l'immunité de l'ennemi.
+Vous pouvez utiliser le pouvoir du Papillon :
+
+* au début de l'étape 1, avant de jouer une carte,
+* ou au début de l'étape 4, avant de subir des dégâts.
+
+Gagner en ayant utilisé 2 Papillons est une Victoire de bronze. +
+Gagner en ayant utilisé 1 Papillon est une Victoire d'argent. +
+Gagner sans avoir utilisé de Papillon est une Victoire d'or.

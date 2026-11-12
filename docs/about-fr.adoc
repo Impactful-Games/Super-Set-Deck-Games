@@ -1,0 +1,29 @@
+= À propos
+:icons: font
+
+== Le Super-Set Deck
+
+Le Super-Set Deck est un jeu de 198 cartes open source, conçu pour jouer à un grand nombre de jeux de cartes existants avec un unique paquet.
+Ce site est son compagnon : pour chaque jeu, une règle adaptée au paquet, des aides de jeu visuelles et des outils.
+
+[.ssd-suits]
+--
+--
+
+
+== Ce que vous pouvez faire ici
+
+[.ssd-features]
+. Lire chaque règle en français ou en anglais, adaptée au Super-Set Deck, et voir les cartes exactes dont chaque jeu a besoin, pour chaque nombre de joueur·euse·s et chaque variante.
+. Trouver un jeu : rechercher par nom ou par auteur·autrice, filtrer par type, par nombre de joueur·euse·s ou par liste, et trier par nom, par note BoardGameGeek ou par année de publication.
+. Afficher les aides de jeu en plein écran, deux à la fois en paysage : l'écran ne se met pas en veille tant qu'elles sont affichées.
+. Garder vos favoris et vos propres listes de jeux sur votre appareil, et les sauvegarder, liste par liste, dans un fichier ou sur votre Google Drive.
+. Utiliser le Packer pour savoir exactement quelles cartes emporter pour une sélection de jeux, et partager cette sélection par son lien.
+. Partager un jeu par message, par QR code ou par son lien.
+. Installer le site comme une application : il fonctionne alors entièrement hors ligne.
+Changez sa langue et son thème (clair, sombre, ou celui de votre système) avec le bouton de langue : dans le menu de navigation sur grand écran, en haut de chaque écran sur téléphone.
+
+
+== Contribuer
+
+Les sources de ce site sont ouvertes : vous pouvez contribuer de nouvelles règles ou de nouvelles langues sur https://github.com/Impactful-Games/Super-Set-Deck-Games[GitHub].

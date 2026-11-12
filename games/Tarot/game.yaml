@@ -1,0 +1,16 @@
+bggId: 4505
+tradition: French
+type:
+  - Deduction
+  - Team Based
+  - Trick Taking
+players: 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-10, J, S, Q, K
+      hearts: 1-10, J, S, Q, K
+      diamonds: 1-10, J, S, Q, K
+      clubs: 1-10, J, S, Q, K
+      stars: 1-21
+      specials: Butterfly

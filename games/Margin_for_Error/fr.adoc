@@ -1,0 +1,206 @@
+= Marge d'erreur
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 56 cartes de jeu : 1-14 à ♠, ♥, ♣ & ♦.
+* 2 cartes Stratégie : 1 Papillon & 1 Loup.
+* 4 cartes Couleur de points : A à ♠, ♥, ♣ & ♦.
+* Du papier et un crayon pour noter les scores.
+****
+
+Dans ce jeu de plis, le « Capitaine » choisit une couleur de « points » et un objectif, puis le Capitaine et son ou sa partenaire tentent de gagner en prenant ou en évitant les cartes points, tout en restant dans leur marge d'erreur.
+
+
+== Déroulement (4 joueur·euse·s)
+
+=== Donne
+
+Choisissez qui donne : cette personne mélange les 56 cartes de jeu et les distribue face cachée, équitablement, à tout le monde.
+Gardez votre main cachée pendant toute la partie.
+
+Chaque joueur·euse fait équipe avec la personne assise en face.
+
+La donne passe en sens horaire d'une manche à l'autre.
+
+
+=== Désigner le Capitaine
+
+Après avoir regardé ses cartes, la personne qui donne décide si elle veut être Capitaine.
+Si elle refuse, la possibilité de devenir Capitaine passe en sens horaire.
+La première personne qui accepte devient Capitaine, mais si les 4 joueur·euse·s passent, la personne qui donne doit prendre le rôle de Capitaine.
+
+
+=== Choisir la couleur de points et la stratégie
+
+Le Capitaine choisit et annonce la couleur de points de la manche.
+Il pose la carte A correspondante au centre de la table, pour la rappeler pendant la manche.
+(À la fin de la manche, chaque carte de la couleur de points compte comme une carte point, quel que soit son nombre.)
+
+Puis le Capitaine décide si la stratégie de son équipe est :
+
+a. de prendre *4 cartes points ou moins* (en donnant le Papillon à son ou sa partenaire), ou
+b. de prendre *10 cartes points ou plus* (en donnant le Loup à son ou sa partenaire).
+
+Le Capitaine donne la carte Stratégie choisie face cachée à son ou sa partenaire, qui la regarde, puis la pose face cachée près de la carte A au centre de la table.
+
+
+=== Échanger des cartes
+
+Le Capitaine passe 3 cartes face cachée à son ou sa partenaire.
+Celui-ci ou celle-ci *peut* regarder les cartes reçues, puis passe 3 cartes *différentes* de sa main face cachée au Capitaine.
+
+En même temps, la personne à gauche du Capitaine fait de même avec son ou sa partenaire, mais ces deux personnes n'échangent que *2* cartes.
+
+Les cartes échangées rejoignent ensuite la main de chacun·e.
+
+
+=== Jeu
+
+La personne qui a le 1♠ l'entame face visible pour ouvrir le premier pli (ou le 1♥, si ♠ est la couleur de points), puis le jeu continue en sens horaire.
+Chacun·e des autres joueur·euse·s joue une carte face visible, en fournissant à la couleur demandée.
+Si vous n'avez pas de carte de la couleur demandée, vous pouvez défausser n'importe quelle carte (et si vous défaussez une carte de la couleur de points, la couleur de points est « ouverte »).
+Il n'y a *pas* d'atout.
+
+Une fois que chacun·e a joué, la personne qui a joué la plus forte carte de la couleur demandée remporte le pli, et entame le pli suivant.
+Elle prend les cartes du pli et les pose face cachée devant elle en *deux* piles, en séparant les cartes points des autres cartes (les cartes prises ne peuvent plus être consultées, mais tout le monde peut les compter).
+
+Vous ne pouvez pas entamer avec une carte de la couleur de points tant que celle-ci n'est pas ouverte (sauf si vous n'avez que des cartes de cette couleur en main, et donc pas le choix).
+La couleur de points ne peut pas être ouverte au premier pli (là encore, sauf si un·e joueur·euse n'a pas le choix).
+
+La manche se termine une fois toutes les cartes jouées (ou lorsque le résultat de la manche ne fait plus de doute).
+
+
+=== Révéler la stratégie
+
+Lorsque :
+
+a. au moins la moitié des plis ont été joués, ou
+b. *l'une* des équipes a pris au moins 5 cartes points *à elle seule*,
+
+au premier des deux événements, les adversaires du Capitaine peuvent retourner la carte Stratégie pour la révéler.
+
+.Exemple
+====
+Dans une partie à 4 joueur·euse·s, le Capitaine et son ou sa partenaire ont pris 4 cartes points au total, et leurs adversaires ont aussi pris 4 cartes points au total.
+Les adversaires pourront retourner la carte Stratégie dès que l'une des équipes prend au moins une carte point de plus, ou après 7 plis joués, au premier des deux événements.
+====
+
+
+=== Remporter la manche
+
+* Si l'équipe du Capitaine a choisi le *Papillon* :
++
+--
+** l'équipe du Capitaine remporte la manche si elle a pris 4 cartes points ou moins au total ;
+** l'équipe adverse remporte la manche si elle a pris entre 0 et 8 cartes points au total, inclus ;
+** si l'équipe du Capitaine a pris exactement 5 cartes points au total, la manche est une *égalité*.
+--
++
+[options=autowidth,cols="^.^,^.^,^.^,^.^"]
+|===
+2.+| Équipe du Capitaine 2.+| Équipe adverse
+
+.5+h| Victoire | *0* | 14 .5+|
+| *1* | 13
+| *2* | 12
+| *3* | 11
+| *4* | 10
+h| Égalité | _5_ | _9_ h| Égalité
+.9+| | 6 | *8*  .9+h| Victoire
+| 7 | *7*
+| 8 | *6*
+| 9 | *5*
+| 10 | *4*
+| 11 | *3*
+| 12 | *2*
+| 13 | *1*
+| 14 | *0*
+|===
+
+* Si l'équipe du Capitaine a choisi le *Loup* :
++
+--
+** l'équipe du Capitaine remporte la manche si elle a pris 10 cartes points ou plus au total ;
+** l'équipe adverse remporte la manche si elle a pris entre 6 et 14 cartes points au total, inclus ;
+** si l'équipe du Capitaine a pris exactement 9 cartes points au total, la manche est une *égalité*.
+--
++
+[options=autowidth,cols="^.^,^.^,^.^,^.^"]
+|===
+2.+| Équipe du Capitaine 2.+| Équipe adverse
+
+.9+| | 0 | *14*  .9+h| Victoire
+| 1 | *13*
+| 2 | *12*
+| 3 | *11*
+| 4 | *10*
+| 5 | *9*
+| 6 | *8*
+| 7 | *7*
+| 8 | *6*
+h| Égalité | _9_ | _5_ h| Égalité
+.5+h| Victoire | *10* | 4 .5+|
+| *11* | 3
+| *12* | 2
+| *13* | 1
+| *14* | 0
+|===
+
+
+== Décompte
+
+1. Si l'équipe du Capitaine a remporté la manche, l'équipe du Capitaine reçoit *3 points*. +
+Si l'équipe adverse a remporté la manche, l'équipe adverse reçoit *2 points*. +
+Si la manche se termine sur une égalité, aucune équipe ne reçoit de points.
+
+2. Si l'équipe du Capitaine a choisi le Papillon et n'a pris aucune carte point, elle reçoit en plus *1 point de bonus*. +
+Si l'équipe du Capitaine a choisi le Loup et a pris les 14 cartes points, elle reçoit en plus *2 points de bonus*.
+
+3. Personne ne marque de points pour le nombre de cartes points prises.
+
+
+== Conseils
+
+1. Les adversaires du Capitaine ont généralement intérêt à « ouvrir » la couleur de points le plus tôt possible.
+Cela leur permet de voir si le Capitaine et son ou sa partenaire essaient de prendre ou d'éviter les cartes points.
+2. Si le Capitaine choisit le Loup, son ou sa partenaire a généralement intérêt à lui passer ses cartes les plus fortes (souvent de la couleur de points).
+3. Si le Capitaine choisit le Papillon, et que les seules cartes de la couleur de points de son ou sa partenaire ont toutes des nombres élevés, comme 12, 13 et 14, ce ou cette partenaire devrait envisager d'en passer quelques-unes au Capitaine.
+
+
+== Règles à 5 joueur·euse·s
+
+1. La dernière carte n'est pas distribuée.
+Elle est mise de côté, face cachée.
+
+2. Les équipes changent à chaque manche.
+Le ou la partenaire du Capitaine est la personne assise 3 places à gauche du Capitaine, avec qui il échange 2 cartes, comme décrit plus haut.
+Les 3 autres joueur·euse·s jouent en équipe contre le Capitaine et son ou sa partenaire.
++
+La personne à gauche du Capitaine passe 2 cartes face cachée à la personne assise à droite du Capitaine, qui lui rend ensuite 2 cartes différentes face cachée.
+La personne restante, assise 2 places à gauche du Capitaine, ajoute à sa main la carte qui n'a pas été distribuée, puis défausse une carte de son choix (qui peut être celle qu'elle vient d'ajouter).
++
+Une fois toutes les cartes échangées, la carte défaussée est retournée face visible et mise de côté : elle n'est pas jouée.
+
+3. Si le 1♠ est la carte en trop défaussée face visible, le 2♠ entame le premier pli (ou, si ♠ est la couleur de points et que le 1♥ est la carte en trop, le 2♥ entame le premier pli).
+
+4. À la fin de la manche, une fois tous les plis joués, le Capitaine peut choisir d'ajouter ou non la carte en trop (si c'est une carte point) au total de cartes points de son équipe.
+
+5. Les scores sont notés comme ci-dessus, mais chaque joueur·euse (au lieu de chaque équipe) reçoit les points : par exemple, les adversaires du Capitaine reçoivent chacun·e 2 points en cas de victoire.
+
+6. Toutes les 5 manches (après que chacun·e a été une fois à la donne), changez au hasard l'ordre de tout le monde autour de la table, en tirant de nouveau les places.
+De nouvelles équipes en résulteront presque certainement.
++
+La personne qui a le score le plus faible devient la prochaine à donner (si 2 personnes ou plus sont à égalité pour le score le plus faible, la plus jeune d'entre elles donne).
+La donne passe ensuite en sens horaire.
+
+
+== Fin de la partie
+
+La partie se termine lorsqu'une équipe a marqué au moins 12 points ou, dans une partie à 5 joueur·euse·s, lorsqu'un·e joueur·euse a marqué au moins 10 points (une partie à 5 joueur·euse·s peut se terminer sur une égalité).
+
+L'équipe (ou la personne) qui a le score le plus élevé l'emporte !

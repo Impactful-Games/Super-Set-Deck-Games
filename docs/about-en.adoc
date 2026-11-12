@@ -1,0 +1,29 @@
+= About
+:icons: font
+
+== The Super-Set Deck
+
+The Super-Set Deck is an open-source deck of 198 cards, designed to play a large number of existing card games with a single deck.
+This site is its companion: for every game, a rule adapted to the deck, visual game aids, and tools.
+
+[.ssd-suits]
+--
+--
+
+
+== What you can do here
+
+[.ssd-features]
+. Read every rule in English or in French, adapted to the Super-Set Deck, and see the exact cards each game needs, for each player count and variant.
+. Find a game: search by name or author, filter by type, by player count or by list, and sort by name, BoardGameGeek rating or publication year.
+. Open the game aids full screen, two at a time in landscape: the screen does not go to sleep while they are displayed.
+. Keep your favourites and your own game lists on your device, and back them up, list by list, to a file or to your Google Drive.
+. Use the Travel Packer to find exactly which cards to take for a selection of games, and share that selection with its link.
+. Share a game by message, with a QR code, or with its link.
+. Install the site as an app: it then works entirely offline.
+Change its language and its theme (light, dark, or your system's) with the language button: in the navigation rail on large screens, at the top of each screen on phones.
+
+
+== Contribute
+
+The sources of this site are open: you can contribute new rules or new languages on https://github.com/Impactful-Games/Super-Set-Deck-Games[GitHub].

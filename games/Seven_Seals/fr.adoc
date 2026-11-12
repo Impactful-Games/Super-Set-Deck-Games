@@ -1,0 +1,192 @@
+= Sept Sceaux
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 45 cartes numérotées : 1-9 à ♠, ♥, ♣, ♦ & ★.
+* 15 cartes numérotées en plus à 4 ou 5 joueur·euse·s : 10-12 à ♠, ♥, ♣, ♦ & ★.
+* 15 cartes numérotées en plus à 5 joueur·euse·s : 13-15 à ♠, ♥, ♣, ♦ & ★.
+* 27 sceaux :
+** 17 sceaux de couleur :
+*** 12 sceaux pour les couleurs ♠, ♥, ♣ & ♦ : les 3 K à ♠, ♥, ♣ & ♦.
+*** 5 sceaux pour la couleur d'atout : les 3 K, le C & le S à ★.
++
+NOTE: C★ et S★ sont des sceaux ★, comme K★ : le jeu ne compte que 3 K★.
+** 10 sceaux magiques : 6 Loups & 4 Papillons.
+* Le Mage Noir : A⎈.
+* Du papier et un crayon pour noter les scores.
+****
+
+Qui aura le plus grand pouvoir divinatoire ?
+À l'académie de magie, les apprenti·e·s magicien·ne·s font face à un nouveau défi.
+Chacun·e doit prédire combien de plis il ou elle va remporter, et dans quelles couleurs.
+Pour matérialiser sa prédiction, chacun·e prend le nombre correspondant de sceaux de couleur, dont il ou elle devra se débarrasser au cours de la partie.
+En plus des sceaux de couleur, il y a des sceaux magiques : les Loups et les Papillons.
+Et comme si prédire n'était pas assez difficile, il y a aussi l'imprévisible Mage Noir, dont l'unique but est de contrecarrer les plans des autres.
+Après plusieurs manches, la personne qui a le moins de points de pénalité l'emporte et devient Maître des Sept Sceaux.
+
+
+== Mise en place
+
+Selon le nombre de joueur·euse·s, mélangez ces cartes et distribuez-les équitablement :
+
+* À 3 joueur·euse·s : les cartes 1-9 de chaque couleur.
+* À 4 joueur·euse·s : les cartes 1-12 de chaque couleur.
+* À 5 joueur·euse·s : les 75 cartes numérotées.
+
+Les cartes éventuellement inutilisées retournent dans la boîte pour toute la partie.
+Chaque joueur·euse reçoit 15 cartes en main.
+
+Placez le Mage Noir et les 27 sceaux au centre de la table.
+
+
+== La prédiction
+
+La personne à gauche de la donneuse ou du donneur fait la première prédiction.
+Puis chacun·e fait la sienne, dans le sens horaire.
+À votre tour, vous devez :
+
+* soit prédire combien de plis vous allez remporter dans chaque couleur, et prendre le nombre correspondant de sceaux de ces couleurs,
+* soit prendre le Mage Noir (A⎈).
+
+*Une seule personne* peut prendre *le Mage Noir*.
+Une fois le Mage Noir pris, les suivant·e·s peuvent seulement prédire leurs plis.
+Personne n'est obligé·e de prendre le Mage Noir.
+Vous pouvez aussi ne prendre aucun sceau, et prédire ainsi que vous ne remporterez aucun pli.
+
+
+=== Le Mage Noir et les sceaux Loups
+
+Il n'est conseillé de prendre le Mage Noir que si vous avez très peu de cartes, voire aucune, dans une couleur.
+La personne qui le prend ne reçoit aucun sceau pour cette manche.
+Son rôle est de faire prendre des sceaux de pénalité aux autres en contrecarrant leurs plans, soit en remportant elle-même des plis, soit en se défaussant de cartes.
+Pour en savoir plus, voir <<battle-for-tricks>> et <<penalty-points>>.
+
+.Prédictions
+====
+* François commence par prédire ses plis.
+Il prend au centre de la table un sceau ★, deux sceaux ♠ et un sceau ♣.
+Il veut donc remporter un pli ★, deux plis ♠ et un pli ♣.
+* Sabine prend aussi des sceaux au centre de la table : deux sceaux ♥, un sceau ♠ et trois sceaux ★.
+* Catherine ne fait aucune prédiction.
+Elle prend à la place le Mage Noir (A⎈) et le place devant elle.
+Elle doit maintenant empêcher ses adversaires de se débarrasser de leurs sceaux, voire les forcer à prendre des sceaux Loups.
+====
+
+
+=== Les sceaux Papillons
+
+Les sceaux Papillons n'entrent en jeu que s'il n'y a plus de sceaux d'une couleur.
+Si, par exemple, une personne veut prendre un sceau ♦ alors qu'il n'y en a plus au centre de la table, elle doit prendre un sceau ♦ à n'importe quel·le autre joueur·euse.
+Cette dernière personne reçoit immédiatement un sceau Papillon du centre de la table, en compensation.
+Les sceaux Papillons servent de jokers pendant la manche.
+Voir aussi <<battle-for-tricks>> et <<penalty-points>>.
+
+.Papillon
+====
+* C'est au tour de Pierre.
+Il veut remporter deux plis ♦, un pli ♣ et un pli ♠.
+Il prend d'abord deux sceaux ♦ et un sceau ♣ au centre de la table.
+Comme il n'y a plus de sceau ♠ disponible, il prend le sceau ♠ dont il a besoin à Sabine.
+Sabine reçoit un sceau Papillon en échange.
+====
+
+
+[#battle-for-tricks]
+== Bataille pour les plis
+
+La personne à gauche de la donneuse ou du donneur entame le premier pli : elle joue une carte de son choix face visible au centre de la table.
+Puis, dans le sens horaire, chacun·e joue une carte face visible par-dessus.
+Si vous avez une carte de la couleur demandée, vous devez en jouer une.
+Si vous n'avez aucune carte de la couleur demandée, vous pouvez soit vous défausser d'une carte d'une autre couleur, soit remporter le pli en jouant une carte ★, car ★ est toujours l'atout.
+
+
+=== Qui remporte le pli, et donc les cartes au centre de la table ?
+
+La personne qui a joué l'atout (★) le plus fort remporte le pli.
+S'il n'y a pas de ★ dans le pli, la personne qui a joué la plus forte carte de la couleur demandée le remporte.
+Elle prend toutes les cartes du pli et les pose face cachée devant elle.
+
+Elle doit ensuite remettre au centre de la table un de ses sceaux de la couleur du pli.
+Si elle n'a pas de sceau de cette couleur, elle doit prendre un sceau Loup au centre de la table.
+À la fin de la manche, chaque sceau Loup vaut trois points de pénalité.
+
+La personne qui a remporté le pli entame ensuite le pli suivant avec la carte de son choix.
+
+IMPORTANT: Si la première carte d'un pli est un ★, la personne qui le remporte doit rendre un sceau ★.
+Si une autre couleur a été demandée, mais que le pli a été remporté avec un ★, la personne qui le remporte peut rendre soit un sceau ★, soit un sceau de la couleur demandée.
+
+Les sceaux Papillons sont des jokers : ils peuvent être rendus pour n'importe quel pli remporté.
+La personne qui a pris le Mage Noir (A⎈) n'a aucun sceau à rendre : si elle remporte un pli, elle le met simplement de côté face cachée, et ne reçoit aucun sceau de pénalité.
+Elle entame ensuite le pli suivant avec la carte de son choix.
+
+.Trois plis différents
+====
+* François commence et joue le 2♥ (les suivant·e·s doivent jouer une carte ♥ s'ils ou elles le peuvent).
+Sabine joue le 11♥.
+Catherine fournit avec le 7♥.
+Pierre n'a pas de carte ♥, il joue donc son 12♣ pour s'en débarrasser.
+Sabine remporte le pli avec le 11♥, elle remet donc un de ses sceaux ♥ au centre de la table.
+* Sabine entame le pli suivant et joue le 4♦.
+Catherine fournit avec le 2♦, Pierre joue le 9♦, et François doit jouer sa seule carte ♦, le 10♦.
+François remporte le pli, mais il n'a pas de sceau ♦.
+Il doit prendre un sceau de pénalité Loup au centre de la table.
+* François entame le pli suivant et joue le 8♥.
+Sabine n'a plus de carte ♥, elle coupe donc avec le 3★.
+Catherine joue le 1♥.
+Pierre n'a toujours pas de carte ♥, il se défausse donc de son 8♣.
+Sabine remporte le pli, car elle a joué un ★.
+Elle peut rendre soit un sceau ★, soit un sceau ♥.
+====
+
+
+[#penalty-points]
+== Points de pénalité
+
+La manche se termine dès que tout le monde a joué toutes ses cartes, et chacun·e compte ses points de pénalité :
+
+* Si vous n'avez plus aucun sceau, vous recevez 0 point de pénalité.
+* Chaque sceau de couleur qui reste devant vous vaut deux points de pénalité.
+* Chaque sceau Loup vaut trois points de pénalité.
+* Chaque sceau Papillon vaut quatre points de pénalité.
+* La personne qui a pris le Mage Noir (A⎈) reçoit quatre points de pénalité au maximum.
+Ces quatre points sont réduits d'un point pour chaque sceau Loup que les autres ont dû prendre.
+Par exemple, si les autres ont dû prendre trois sceaux Loups au total, le Mage Noir ne reçoit qu'un point de pénalité (stem:[4 - 3 = 1]).
+Si le Mage Noir a si bien contrecarré le jeu des autres qu'ils ou elles ont dû prendre quatre sceaux Loups ou plus, le Mage Noir ne reçoit aucun point de pénalité.
+
+.Points de pénalité
+====
+* François reçoit trois points de pénalité pour son sceau Loup.
+* Sabine reçoit quatre points de pénalité pour son sceau Papillon.
+* Catherine, le Mage Noir, reçoit deux points de pénalité, car les autres ont pris deux sceaux Loups au total (stem:[4 - 2 = 2]).
+* Pierre reçoit cinq points de pénalité : deux pour son sceau ♦ et trois pour son sceau Loup.
+====
+
+Notez les points de pénalité et ajoutez-les aux précédents, puis remettez tous les sceaux et le Mage Noir au centre de la table.
+La personne suivante dans le sens horaire devient la donneuse ou le donneur, mélange les cartes et en distribue 15 à chacun·e, et la personne à sa gauche commence la nouvelle manche.
+
+
+== Fin de la partie
+
+Jouez autant de manches qu'il y a de joueur·euse·s, sauf à 3 joueur·euse·s : jouez alors six manches.
+
+La personne qui a le moins de points de pénalité à la fin de la partie l'emporte.
+
+
+== Remarques et conseils tactiques
+
+* Quand vous remportez un pli, vous devez rendre un sceau immédiatement.
+Il est interdit de le rendre plus tard.
+* Il n'y a que six sceaux Loups par manche.
+La personne qui devrait prendre un septième sceau Loup a de la chance : elle n'en prend pas !
+* Lors de votre prédiction, pensez que l'atout (★) peut remporter des plis de n'importe quelle couleur, et que vous pouvez alors rendre soit un sceau ★, soit un sceau de la couleur demandée.
+* Prendre le Mage Noir peut être intéressant si vous n'avez que peu de cartes, voire aucune, dans une ou plusieurs couleurs.
+Chaque fois que vous ne pouvez pas fournir, vous pouvez contrecarrer les plans des autres, soit en coupant pour remporter le pli, soit en vous défaussant d'une forte carte d'une autre couleur.
+* À 3 joueur·euse·s, le Mage Noir est très attractif, car très lucratif.
+Pour le rendre moins avantageux, vous pouvez convenir avant la partie qu'il vaut cinq points de pénalité au lieu de quatre.
+* Pour une partie plus longue, vous pouvez convenir de jouer 8 manches à 4 joueur·euse·s, ou 10 manches à 5.
+Dans ce cas, l'auteur recommande d'augmenter la pénalité du Mage Noir de quatre à cinq points après la première moitié des manches.

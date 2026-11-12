@@ -1,0 +1,164 @@
+= Druids
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 65 cartes Druide :
+** 60 cartes Domaine : 1-12 à ♠, ♥, ♣, ♦ & ★ (chaque couleur est un Domaine).
+** 1 carte Terre nourricière « Gaïa » : 0✿.
+** 2 Loups.
+** 2 Papillons.
+* Du papier et un crayon pour noter les scores.
+****
+
+Il était une fois, il y a très, très longtemps...
+La Terre nourricière Gaïa envoya cinq druides de l'Atlantide au pays des Celtes.
+« Druida » se traduit dans notre langue par « grand savoir ».
+
+Les druides devaient transmettre leur savoir aux Celtes, et fondèrent pour cela la célèbre Académie de magie de Stonehenge.
+Ils y enseignèrent les Domaines de la médecine, de la divination, de la métamorphose, de l'astronomie et des beaux-arts.
+Pour que les novices de chaque Domaine puissent atteindre le « niveau de sagesse », les druides inventèrent un jeu.
+Grâce à lui, les novices s'entraînaient à maîtriser leurs pouvoirs magiques et apprenaient à les utiliser avec sagesse.
+Les novices apprenaient aussi à résister à la tentation de dominer les cinq Domaines à la fois.
+Car il pouvait toujours y avoir un Domaine, rarement le même d'une partie à l'autre, qui se retournait contre le ou la novice.
+
+
+== La tâche
+
+Grâce à ce jeu, plongez dans le monde magique des premiers druides et, en tant que novice de l'Académie de Stonehenge, tentez de collecter des cartes des différents Domaines.
+
+Faites une pile pour chaque Domaine.
+Vous recevez des points d'expérience pour la carte du dessus de chaque pile.
+Mais faites attention à ne pas faire de piles pour plus de quatre Domaines.
+Dès que vous recevez des cartes d'un cinquième Domaine, vous perdez la manche en cours.
+
+Si vous avez le plus de points d'expérience après plusieurs manches, vous gagnez, et vous obtenez le titre d'« An dòigh », le Sage.
+
+
+== Préparation
+
+L'un·e d'entre vous est nommé·e confident·e.
+Si vous recevez cet honneur, prenez une feuille de papier, notez-y tous les noms, et notez consciencieusement les points d'expérience de chaque novice après chaque manche.
+
+Prenez toutes les cartes, trouvez la carte Gaïa 0✿ et placez-la devant vous.
+
+Mélangez les autres cartes et faites-en deux piles égales.
+Insérez la carte Gaïa dans l'une des deux piles, et placez cette pile sur l'autre.
+Distribuez ensuite le même nombre de cartes à chaque novice, en fonction du nombre de novices :
+
+* 3 novices : 15 cartes chacun·e.
+* 4 novices : 14 cartes chacun·e.
+* 5 novices : 13 cartes chacun·e.
+
+Les cartes restantes sont mises de côté.
+Elles ne servent pas pendant cette manche.
+Il ne reste aucune carte dans une partie à cinq novices.
+
+Une fois que tous les novices ont leurs cartes en main, la manche commence.
+
+
+== Une manche commence
+
+La personne qui a la carte Gaïa en main commence la manche.
+Si vous avez la carte Gaïa, jouez-la comme première carte du premier pli et annoncez le Domaine (la couleur) qu'elle prend.
+Les autres novices doivent alors suivre cette couleur.
+
+
+=== Qu'est-ce qu'un pli ?
+
+Chaque novice, à son tour, joue exactement une carte de sa main sur la table.
+Ces cartes forment le « pli ».
+La personne qui ouvre un pli peut jouer n'importe quelle carte de sa main, et les novices suivant·e·s doivent la suivre.
+
+*Exception* : si vous ouvrez un pli avec un Loup ou un Papillon, la première carte Domaine jouée ensuite fixe la couleur à suivre.
+
+
+=== Que signifie « suivre » ?
+
+Chaque novice suivant·e doit jouer une carte de la même couleur que la première carte jouée dans le pli.
+Si vous ne pouvez pas « suivre », vous pouvez jouer n'importe quelle carte.
+
+*Exception* : les Loups et les Papillons échappent à l'obligation de suivre.
+Vous pouvez donc les jouer même si vous avez en main des cartes de la couleur demandée.
+
+
+=== Qui remporte le pli ?
+
+La carte la plus forte du Domaine (de la couleur) joué en premier remporte le pli.
+Les cartes des autres couleurs ne peuvent pas remporter le pli, même si leur valeur est supérieure.
+La personne qui remporte le pli joue ensuite la première carte du pli suivant.
+
+CAUTION: Vous ne pouvez pas remporter de pli avec un Loup ou un Papillon.
+Cependant, si un pli ne contient que ces cartes, la personne qui a ouvert le pli le remporte.
+
+
+=== Trier les cartes par Domaine
+
+Si vous remportez un pli, placez ses cartes devant vous, en piles par Domaine (par couleur).
+Si le pli contient plusieurs cartes du même Domaine, vous devez placer la carte de plus faible valeur sur le dessus.
+
+NOTE: La carte Gaïa 0✿ est mise de côté avec les cartes non distribuées de cette manche.
+
+Les cartes des plis suivants sont elles aussi triées par Domaine, et peuvent être placées sur des piles existantes.
+La carte du dessus d'une pile existante change alors pour une valeur plus forte ou plus faible.
+
+
+=== Le Loup dans un pli
+
+Avec le Loup, un·e novice peut éviter de remporter un pli en ne « suivant » pas.
+Si vous remportez un pli contenant un Loup, placez d'abord toutes les cartes Domaine devant vous comme décrit ci-dessus.
+Placez ensuite le Loup sur l'une de vos piles de plus forte valeur.
+Cette pile est alors mise de côté avec les cartes non distribuées de cette manche.
+
+Si le pli contient aussi le second Loup, placez-le sur l'une de vos piles restantes de plus forte valeur, et mettez aussi cette pile de côté.
+Si vous n'avez pas de pile, mettez le Loup de côté sans effet.
+
+
+=== Le Papillon dans un pli
+
+Avec le Papillon, un·e novice peut éviter de remporter un pli en ne « suivant » pas.
+Si vous remportez un pli contenant un ou deux Papillons, placez d'abord toutes les cartes Domaine comme décrit ci-dessus.
+Placez ensuite le Papillon, et le second si vous avez les deux, sous la pile de votre choix.
+
+CAUTION: Aucun·e novice ne peut regarder les cartes d'une pile pendant la manche.
+
+
+== Fin d'une manche
+
+Une manche dure jusqu'à ce que plus personne n'ait de carte en main.
+Cependant, une manche se termine aussi immédiatement lorsqu'un·e novice, après avoir remporté un pli, a une cinquième pile de Domaine.
+Ce ou cette novice perd la manche et reçoit -3 points d'expérience.
+
+CAUTION: La manche se termine même si vous avez une cinquième pile de Domaine devant vous après un pli qui contient un Papillon.
+
+Les autres novices calculent leurs points d'expérience en additionnant les valeurs des cartes du dessus de leurs piles.
+
+Le ou la confident·e note les points d'expérience de chaque novice.
+
+
+== Une nouvelle manche
+
+La personne qui a reçu le moins de points d'expérience pendant la manche prend toutes les cartes, y compris celles mises de côté.
+Elle les mélange et les distribue comme indiqué plus haut pour la manche suivante.
+
+
+== Fin de la partie
+
+Jouez cinq manches.
+La partie se termine ensuite.
+
+La personne qui a le plus de points d'expérience peut se faire appeler « An dòigh », le Sage.
+En cas d'égalité, il y a plusieurs sages gagnant·e·s.
+
+
+== Variante
+
+À la fondation de l'Académie de Stonehenge, les druides qui suivaient le culte de la Lune décidèrent que, s'il y avait plusieurs cartes du même Domaine, la carte la plus faible serait placée sur le dessus de la pile du Domaine.
+Au fil des siècles, cependant, les druides qui suivaient le culte du Soleil l'emportèrent, et décidèrent que la carte la plus forte serait placée sur le dessus de plusieurs cartes du même Domaine.
+
+Avec cette variante, la personne qui commence décide par la façon dont elle joue la carte Gaïa.
+Elle pose la carte Gaïa devant elle horizontalement si la valeur la plus faible va sur le dessus des piles pour cette manche, ou verticalement si c'est la valeur la plus forte qui va sur le dessus.

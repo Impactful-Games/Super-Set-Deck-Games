@@ -1,0 +1,120 @@
+= Kobayakawa
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 27 cartes de jeu : 0-21, J, S, C, Q & K à ★ (moins avec moins de joueur·euse·s, voir <<setup>>).
+* 1 carte Premier·e joueur·euse : le Singe.
+* 64 pièces (des jetons, ou des cartes face cachée qui ne sont pas ★).
+****
+
+Les joueur·euse·s tentent de gagner des pièces avec la carte la plus forte de leur main, mais la carte Kobayakawa peut toujours changer le résultat.
+Le but du jeu est d'avoir le plus de pièces à la fin de la dernière manche.
+
+
+[#setup]
+== Mise en place
+
+Sélectionnez les cartes de jeu en fonction du nombre de joueur·euse·s :
+
+* 3 joueur·euse·s : 0-11.
+* 4 joueur·euse·s : 0-14.
+* 5 joueur·euse·s : 0-17.
+* 6 joueur·euse·s : 0-20.
+* 7 joueur·euse·s : 0-21, J & S.
+* 8 joueur·euse·s : 0-21, J, S, C, Q & K.
+
+[IMPORTANT]
+====
+À 7 ou 8 joueur·euse·s, les cartes J, S, C, Q et K ont ces valeurs :
+
+[%autowidth,cols=">,^,^,^,^,^"]
+|===
+| Carte | J | S | C | Q | K
+| Valeur | 22 | 23 | 24 | 25 | 26
+|===
+====
+
+*Tout le monde commence avec 5 pièces*, et la personne la plus jeune prend le Singe : elle est premier·e joueur·euse.
+
+
+== Étapes d'une manche
+
+Chaque manche se divise en deux phases : la phase de pioche et la phase de mise.
+
+
+=== Phase de pioche
+
+. *Donnez 1 pièce* de la banque à chaque joueur·euse.
+(Les pièces de chacun·e doivent toujours être visibles de tout le monde.)
+. En commençant par la personne qui a le Singe et dans le sens horaire, *distribuez 1 carte* face cachée à chaque joueur·euse depuis le paquet mélangé, puis posez le paquet face cachée sur la table.
+(Chacun·e ne peut voir que sa propre carte.)
+. Retournez 1 carte face visible à côté du paquet : c'est la *carte _Kobayakawa_*.
+À la fin de la manche, sa valeur est toujours ajoutée à la carte la plus faible.
+. En commençant par la personne qui a le Singe, chacun·e *doit* effectuer l'une de ces actions, dans le sens horaire :
+.. Piochez la première carte du paquet et *choisissez secrètement 1* de vos deux cartes à garder en jeu.
+L'autre carte est défaussée : placez-la face visible devant vous, afin que tout le monde puisse voir quelle carte est hors jeu.
+.. Piochez la première carte du paquet et placez-la face visible à côté du paquet : c'est la *nouvelle valeur* de la carte _Kobayakawa_.
+(Posez la nouvelle carte de manière à ce que la valeur de l'ancienne reste visible.)
+
+
+=== Phase de mise
+
+. En commençant par la personne qui a le Singe, chacun·e doit choisir l'une de ces options de *mise*, dans le sens horaire :
+.. *Misez* des pièces de votre réserve : elles forment une cagnotte pour la personne qui remportera la manche.
+La mise maximale est égale au numéro de la manche + 2 (au maximum 3 pièces à la première manche, au maximum 7 pièces à la cinquième manche).
+Après la personne qui a le Singe, les mises suivantes doivent être égales ou supérieures.
+Lorsque plus personne ne veut augmenter sa mise (dans le sens horaire), la cagnotte est prête.
+Si vous ne pouvez pas placer assez de pièces pour égaler la mise convenue, vous pouvez rester en jeu en mettant toutes vos pièces dans la cagnotte.
+.. *Passez* pour rester hors de la manche, même sans avoir misé.
+Lorsque vous passez, les pièces que vous avez placées dans la cagnotte ne peuvent pas être retirées.
+Placez la carte de votre main face cachée devant vous.
+
+S'il ne reste qu'une personne qui n'a pas passé, elle remporte la manche, prend la cagnotte et reçoit en prime de la banque autant de pièces que de manches terminées (par exemple, 4 pièces à la fin de la quatrième manche).
+
+S'il reste 2 joueur·euse·s ou plus en jeu :
+
+[start=2]
+. Chaque personne qui a passé *doit prédire* qui remportera la manche, si elle a au moins 1 pièce, en annonçant la personne choisie.
+Elle place une mise de 1, 2 ou 3 pièces sur sa propre carte face cachée.
+Ces pièces ne font pas partie de la cagnotte, et les personnes qui ont passé n'ont pas à se mettre d'accord sur leurs mises.
+. Il est enfin temps de *révéler les cartes* de toutes les personnes en jeu !
+Trouvez la personne qui a la carte la plus faible, et ajoutez-y la valeur de la carte _Kobayakawa_.
+La personne qui a le total le plus élevé remporte la manche.
+En cas d'égalité, la personne qui a la carte la plus forte en main l'emporte.
+. La personne qui remporte la manche prend la cagnotte et reçoit en prime de la banque autant de pièces que de manches terminées (par exemple, 4 pièces à la fin de la quatrième manche).
+Les personnes qui ont correctement prédit qui remporterait la manche récupèrent leur mise, plus le même montant pris dans la banque.
+Les personnes qui se sont trompées mettent leur mise dans la banque.
+
+Enfin, donnez le Singe à la personne qui a remporté la manche : elle est premier·e joueur·euse de la manche suivante.
+Préparez-vous à commencer une nouvelle manche !
+
+
+== Fin de la partie
+
+*Après 5 manches*, la personne qui a le plus de pièces remporte la partie.
+En cas d'égalité, les personnes à égalité se partagent la victoire.
+
+Au début de la partie, vous pouvez convenir de jouer plutôt 3 ou 7 manches.
+
+
+== Méta-Kobayakawa
+
+Vous pouvez jouer plusieurs parties de Kobayakawa à la suite, pour une grande soirée de paris et de bluff !
+
+Après chaque partie, attribuez :
+
+* 1 point à la personne qui a remporté la partie.
+* 1 point à la personne arrivée deuxième.
+* 1 point à la personne qui a remporté la dernière manche de la partie.
+
+Jouez jusqu'à ce qu'un·e joueur·euse ait atteint :
+
+* 7 points à 3 joueur·euse·s.
+* 6 points à 4 joueur·euse·s.
+* 5 points à 5 joueur·euse·s.
+* 4 points à 6 joueur·euse·s.

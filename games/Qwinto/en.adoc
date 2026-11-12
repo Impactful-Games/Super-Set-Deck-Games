@@ -1,0 +1,175 @@
+= Qwinto
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 32 cards: 0-6 & S in ♠, ♥, ♣ & ★.
+* One link:Qwinto-Board.pdf[score sheet] and one pencil per player.
+****
+
+On your turn, lay a card on the grid in the middle of the table, and call out the sum of three cards.
+Every player may then write down this sum on their score sheet, in a row of the right suit.
+Fill your rows wisely: the player with the most points at the end of the game wins.
+
+
+[#entering-numbers]
+== Entering numbers
+
+*Only* numbers *from 1 to 18* can be entered on the score sheets.
+Zero and negative numbers can *not* be entered!
+
+The order in which you enter the numbers in the suit rows is up to you.
+For example, you can first enter a number on the right of the ♥ row, then in the middle of the ♣ row, and then on the left of the ♣ row, then on the far right of the ♠ row, then on the left of the ♥ row, and so on.
+
+When entering numbers, you only have to follow these two rules:
+
+1. *Within a suit row* (horizontally), the numbers must be in ascending order from left to right, and no number may appear more than once in the same row.
+You may leave gaps of any size between the numbers entered in a row, and fill them in later (with suitable numbers).
+2. *Within a column* (vertically), no number may appear more than once: this applies to 2-field columns as well as to 3-field columns.
+The order of the numbers in a column doesn't matter.
+
+NOTE: Each suit row has one blank field.
+Do not enter a number in this field: it stays empty and serves no purpose.
+In each of the five columns of 3 fields, there is a pentagon-shaped bonus field.
+If all three fields of the column are filled with numbers, you score the number in the bonus field as bonus points.
+
+NOTE: Each player can see the other players' sheets at any time.
+
+
+[#setup]
+== Setup
+
+Shuffle the cards.
+Deal *three cards* to each player: this is their *hand*.
+Lay *four cards* face up in the middle of the table, in a *2 by 2* grid.
+Put the remaining cards face down next to the grid: this is the draw pile.
+Choose the first player at random.
+
+
+== How to play
+
+=== Playing a card
+
+On your turn, you must lay *exactly one* card from your hand face up on any one of the four cards of the grid (see <<playing-two-cards>> for a special case).
+The *laid card* and its two neighboring cards determine the result of the turn.
+Add up the three numbers of these cards.
+
+IMPORTANT: The S cards are worth -2 (minus two).
+
+Then clearly call out the sum.
+Also call out the suits of the three cards.
+
+CAUTION: ★ is not considered a suit in this game, and is never named when calling out the suits.
+
+.Laying a card
+====
+.Before
+[%autowidth]
+|===
+| ♠2 | ♥3
+| ★3 | ♣5
+|===
+
+Tim lays ♠4 on ♣5, at the bottom right.
+
+.After
+[%autowidth]
+|===
+| ♠2 | ♥3
+| ★3 | ♠4
+|===
+
+♠4 and its two neighboring cards are added up: stem:[4 + 3 + 3 = 10].
+The three cards are of the suits ♠ and ♥ (★ does not count).
+Tim says: "A 10 in ♠ or ♥."
+====
+
+
+[#playing-two-cards]
+=== Playing two cards
+
+On your turn, if you have two cards of the *same value* in your hand, you may lay both cards *one directly after the other*.
+First, lay one of these cards on any card of the grid, then lay the other card on one of its *neighboring* cards.
+The *last card laid* determines the result of the turn, exactly as described above: add up its value and the values of its two neighboring cards, and call out the sum.
+
+NOTE: You can never lay more than two cards on your turn.
+
+.Laying two cards
+====
+.Before
+[%autowidth]
+|===
+| ♠2 | ♥3
+| ★3 | ♠4
+|===
+
+Sarah has two cards with the value 1 in hand.
+First, Sarah lays ♣1 on ★3, at the bottom left of the grid.
+Then, Sarah lays ♠1 on ♠2.
+
+.After
+[%autowidth]
+|===
+| ♠1 | ♥3
+| ♣1 | ♠4
+|===
+
+♠1 and its two neighboring cards are added up: stem:[1 + 1 + 3 = 5].
+The three cards are of the suits ♠, ♥ and ♣.
+Sarah says: "A 5 in ♠, ♥ or ♣."
+====
+
+
+=== Writing down the sum
+
+Now *all* players may (but do not have to) write down the called sum in *exactly one field* of their score sheet.
+The sum can only be entered in a row whose suit is one of the suits of the three cards (★ does not count).
+As long as they follow the rules for entering numbers (see <<entering-numbers>>), each player decides where to write down the number.
+
+
+=== Failed attempts
+
+If the player whose turn it is cannot or does not want to enter the called sum, they must record a failed attempt on their score sheet.
+If it is not your turn, you never record a failed attempt.
+
+NOTE: On your turn, if you lay a ★ card and its two neighboring cards are also ★, no one can enter anything this turn, and you must record a failed attempt.
+The same applies if the sum is 0 or a negative number.
+
+
+=== End of the turn
+
+Then draw a card from the draw pile (or two, if you laid two cards), so that you have three cards in your hand again.
+Now the next player in clockwise order takes their turn as described above.
+Play continues in clockwise order.
+
+NOTE: If the draw pile runs out, shuffle all the cards of the grid, leaving only the top card of each position of the grid, and use them as the new draw pile.
+
+
+== End of the game and scoring
+
+The game is over when a player has *two suit rows* completely filled.
+The game is also over when someone has recorded *their fourth failed attempt*.
+
+First, each player scores the points of each of their three suit rows:
+
+* If a suit row has *empty fields*, each number entered in this row scores 1 point.
+* If a suit row has *no empty field*, the number on its far right is scored as points.
+
+Then each player scores the bonus points of the five (vertical) columns *of 3 fields*:
+
+* If a column has *empty fields*, it scores no bonus points.
+* If all three fields of the column *are filled* with numbers, the number in its pentagon-shaped bonus field is scored as bonus points.
+
+Add up the points of the three suit rows and the bonus points.
+From this sum, subtract 5 points for each failed attempt.
+The player with the most points wins.
+
+
+== One-player game
+
+All the rules remain exactly the same.
+However, in this game, the draw pile is played through only *once*, and is not reshuffled.
+The game is over in the same way as described above, or once you have played all the cards (including your hand).

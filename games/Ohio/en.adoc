@@ -1,0 +1,74 @@
+= Ohio
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 11 cards per player, one suit each: 1-10 & K.
+** With 2 players: in ♠ & ♥.
+** With 3 players: in ♠, ♥ & ♣.
+** With 4 players: in ♠, ♥, ♣ & ♦.
+** With 5 players: in ♠, ♥, ♣, ♦ & ✿.
+* Paper and a pencil to keep the score.
+****
+
+Ohio is an exciting card game where cards with lower values are stronger than cards with higher values.
+All players start with exactly the same cards.
+Players take turns to play cards of ever lower values.
+The player who finally plays the lowest card wins the trick.
+In the end, the player with the highest total value of cards wins the game.
+
+CAUTION: For this game, the suits of the cards do not matter: only their values count.
+
+
+== Setup
+
+Each player receives a complete set of cards in one suit: the values 1 to 10 and one K.
+Hold your cards in your hand.
+Choose at random who plays the first card, then play clockwise.
+
+
+== Play
+
+The game is about taking tricks and winning high-value cards.
+On your turn, either play a card lower than the previous one, or pass.
+You may pass for tactical reasons, even if you are able to play.
+After passing, you may not play any more cards in the current trick.
+
+The cards do not have to be consecutive, as long as they are lower.
+For example, if the previous player played a 9, you can play an 8, or anything lower, such as a 2 or even a 1.
+It is quite possible for players to have more than one turn in the same trick.
+
+If, at the beginning of your turn, your own card is still the last card played, all the other players have passed, and you win the trick.
+Place its cards face down in front of you, then play the first card of the next trick.
+Each player must be able to see all the cards of the current trick.
+To do so, place them side by side on the table.
+When you play a card, call out the current value of the trick.
+The value of the trick is the sum of the values of all its cards.
+Each K counts minus 10.
+For example, after a 10 and an 8, a player plays a 4 and calls out “22”.
+
+A K may be played after any card, even after another K.
+It is always a bit lower than the previous card.
+For example, a 4 may be followed by a K, then by another K, then by a 3.
+If a trick starts with a K, any card may follow it.
+
+
+== End of the game
+
+When a player plays their last card, the current trick is still played out.
+Then the game ends.
+
+Each player adds up the values of the cards in their tricks, and subtracts the values of the cards left in their hand.
+Each K counts minus 10, whether it is in a trick or in your hand.
+The player with the highest score wins.
+
+The easiest way to calculate your score is to add up all the cards in your hand and all your K cards.
+Then cancel out this total with your other cards.
+Then add up your remaining cards to get your score.
+
+Play several games in a row.
+Write down the result of each player after each game.
+In the end, the player with the highest total score wins.

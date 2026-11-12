@@ -1,0 +1,280 @@
+= Oh 7 ‽
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* Jeu de base :
+** Cartes de jeu : 0-7 à ♠, ♥ & ♣, plus 0-7 à ♦ à partir de 4 joueur·euse·s, et 0-7 à ✿ à partir de 5 joueur·euse·s.
+** Cartes A : l'A de chaque couleur en jeu (A♠, A♥ & A♣, plus A♦ et A✿).
+* _Jeu avancé_ :
+** 4 cartes ★ : 1-4 à ★.
+** 2 Papillons.
+** 1 Singe.
+* Du papier et un crayon pour noter les paris et les scores.
+****
+
+Oh 7 ‽ se joue en plusieurs manches de 7 plis.
+Vous pariez le nombre de plis que vous remporterez, avec l'une de vos propres cartes.
+Aurez-vous la carte nécessaire, ou devrez-vous vous adapter ?
+
+Pour marquer un maximum de points, vous devrez non seulement prendre des risques, mais aussi tenter de faire échouer les paris de vos adversaires.
+
+
+[#setup]
+== Mise en place
+
+Créez le paquet en mélangeant toutes les cartes de jeu d'autant de couleurs qu'il y a de joueur·euse·s :
+
+* 3 joueur·euse·s : ♠, ♥ & ♣.
+* 4 joueur·euse·s : ♠, ♥, ♣ & ♦.
+* 5 joueur·euse·s : ♠, ♥, ♣, ♦ & ✿.
+
+NOTE: Le jeu de base est limité à 5 joueur·euse·s, tandis que le <<advanced-game>> se joue jusqu'à 6 joueur·euse·s.
+
+Prévoyez une feuille et un crayon pour noter les paris et les scores.
+
+
+== Déroulement d'une manche
+
+À chaque manche, jouez les phases suivantes, dans l'ordre :
+
+1. Distribution.
+2. Paris.
+3. Phase de plis.
+4. Décompte.
+
+La partie dure généralement 7 à 9 manches.
+
+
+[#distribution]
+=== Distribution
+
+Placez les cartes A des couleurs en jeu en une pile face cachée au centre de la table.
+
+Distribuez 7 cartes à chaque joueur·euse.
+Mettez de côté les cartes restantes (*l'écart*) : elles ne seront pas utilisées lors de cette manche.
+
+TIP: Vérifiez que l'écart contient autant de cartes qu'il y a de joueur·euse·s (une carte de moins dans le <<advanced-game>>).
+
+
+=== Paris
+
+1. Chacun·e choisit une carte de sa main et la pose face cachée sur la table.
+
+2. Quand tout le monde a choisi une carte, révélez-les toutes.
+Pour chaque joueur·euse, la valeur de la carte choisie est le nombre exact de plis qu'il ou elle s'engage à remporter pendant la manche (son pari).
++
+[IMPORTANT]
+====
+*La somme des paris ne peut pas être égale à 7 !* +
+Si c'est le cas, recommencez la phase des paris à l'étape 1, *en laissant sur la table les cartes précédemment pariées*.
+Chacun·e doit utiliser *une autre carte* pour parier.
+
+Seule la dernière carte choisie définit le pari d'un·e joueur·euse.
+
+Au deuxième pari, si la somme des paris est encore égale à 7, tout le monde doit parier à nouveau avec une troisième carte.
+
+Si, au troisième pari, la somme est encore égale à 7, recommencez la manche à la phase de <<distribution>> en mélangeant toutes les cartes de jeu (y compris l'écart).
+====
+
+3. Notez sur la feuille le pari de chaque joueur·euse.
+
+4. Le ou la premier·ère meneur·euse est la personne qui a parié *la carte de plus forte valeur*.
+En cas d'égalité, c'est la personne qui, parmi les ex æquo, a parié avec la couleur de plus forte priorité.
++
+IMPORTANT: La priorité des couleurs est : ♠ > ♥ > ♣ > ♦ > ✿.
+
+5. La carte pariée par le ou la premier·ère meneur·euse définit la *couleur d'atout* de la manche.
+Prenez la carte A correspondante, et placez-la face visible sur la pile des cartes A.
+Elle rappelle à tout le monde la couleur d'atout pendant la manche.
+
+.Paris
+====
+Alice parie le *2♣*. +
+Bob parie le *3♠*. +
+Carole parie le *2♠*. +
+David parie le *0♥*.
+
+Comme la somme des paris est égale à 7, il faut parier à nouveau.
+
+Alice parie le *3♣*. +
+Bob parie le *3♥*. +
+Carole parie le *2♥*. +
+David parie le *0♠*.
+
+Comme Alice et Bob ont tous deux parié 3, c'est la priorité des couleurs qui les départage.
+Comme ♥ a une priorité plus forte que ♣, Bob devient le premier meneur, et sa carte fait de ♥ la couleur d'atout de la manche.
+====
+
+
+=== Phase de plis
+
+Cette phase se joue en 7 plis.
+Chaque joueur·euse va donc jouer toute sa main.
+
+Le ou la premier·ère meneur·euse entame le premier pli.
+Chaque pli suivant est entamé par la personne qui a remporté le pli précédent.
+
+Chaque pli se joue de la manière suivante :
+
+1. Le ou la meneur·euse choisit une carte de sa main et la joue face visible sur la table.
+La couleur de cette carte est la *couleur demandée*.
+
+2. Dans le sens des aiguilles d'une montre, chaque autre joueur·euse choisit une carte de sa main et la joue face visible sur la table.
++
+IMPORTANT: Cette carte *doit* être de la couleur demandée si possible.
+Si vous n'avez pas de carte de la couleur demandée, vous pouvez jouer *n'importe quelle* autre carte.
+
+3. Déterminez qui remporte le pli :
++
+* S'il y a des atouts dans le pli : la personne qui a joué *l'atout le plus fort* remporte le pli.
+* S'il n'y a pas d'atout dans le pli : la personne qui a joué *la plus forte carte de la couleur demandée* remporte le pli.
++
+Cette personne prend les cartes du pli et les place face cachée devant elle.
+Si ce n'était pas le 7^e^ pli, elle devient meneur·euse du pli suivant.
++
+CAUTION: Chacun·e doit placer les plis remportés les uns à côté des autres, de manière que *tout le monde puisse voir le nombre de plis remportés par chaque joueur·euse*.
+Cette information est publique et toujours visible.
+
+Une fois les sept plis joués, faites le décompte.
+
+
+=== Décompte
+
+* Chaque joueur·euse qui a *échoué* son pari *perd* autant de points que la différence entre son pari et le nombre de plis remportés.
++
+NOTE: Il est tout à fait possible d'avoir un score négatif.
+À la fin de la première manche, au moins une personne aura un score négatif.
+
+La somme des points perdus pendant cette manche par les joueur·euse·s qui ont échoué leur pari constitue *le panier*.
+
+* Chaque joueur·euse qui a *exactement réussi son pari* marque :
+** 2 points pour la réussite de son pari,
+** + le panier,
+** + 1 point par pli remporté.
+
+.Scores
+====
+Suite à l'exemple précédent, après la phase de plis :
+
+Alice a remporté *3* plis : pari réussi. +
+Bob a remporté *4* plis : pari échoué de stem:[1] pli. +
+Carole n'a remporté aucun pli : pari échoué de stem:[2] plis. +
+David n'a remporté aucun pli : pari réussi.
+
+Le panier est donc de stem:[1 + 2 = 3] points.
+
+* Les joueur·euse·s qui ont échoué leur pari :
+** Bob perd stem:[1] point.
+** Carole perd stem:[2] points.
+* Les joueur·euse·s qui ont réussi leur pari :
+** Alice marque stem:[3 + 2 + 3 = 8] points.
+** David marque stem:[3 + 2 + 0 = 5] points.
+====
+
+La partie se joue en un *minimum* de 7 manches.
+Cependant, il n'est pas possible de remporter la partie sur un échec.
+
+À partir de la fin de la 7^e^ manche, la personne qui a le score le plus élevé remporte la partie *si elle a réussi son pari lors de la dernière manche*.
+Si la personne qui a le score le plus élevé n'a pas réussi son pari lors de la dernière manche, jouez des manches supplémentaires jusqu'à ce qu'un gagnant ou une gagnante puisse être désigné·e.
+
+Pour remporter la partie, il faut donc :
+
+* avoir joué au moins 7 manches,
+* avoir réussi son pari lors de la dernière manche,
+* avoir le score le plus élevé.
+
+En cas d'égalité pour le score le plus élevé :
+
+* Si au moins l'un·e des ex æquo a échoué son pari, jouez une manche supplémentaire (il faut dépasser la personne en tête).
+* Si tous les ex æquo ont réussi leur pari, celui ou celle qui a réussi le plus de paris remporte la partie. +
+Si l'égalité persiste, les ex æquo se partagent la victoire.
++
+NOTE: Vous pouvez convenir à l'avance que toutes les égalités déclenchent une manche supplémentaire.
+
+
+[#advanced-game]
+== Jeu avancé
+
+*Pour 3 à 6 joueur·euse·s.*
+
+Jouez avec une couleur de moins que le nombre de joueur·euse·s :
+
+* 3 joueur·euse·s : ♠ & ♥.
+* 4 joueur·euse·s : ♠, ♥ & ♣.
+* 5 joueur·euse·s : ♠, ♥, ♣ & ♦.
+* 6 joueur·euse·s : ♠, ♥, ♣, ♦ & ✿.
+
+Ajoutez les *cartes spéciales* :
+
+* *Les 1-4 à ★* :
+** Lors des paris : +
+La personne qui joue une carte ★ ne peut pas devenir premier·ère meneur·euse (même si elle a joué la carte de plus forte valeur).
+Pour déterminer le ou la premier·ère meneur·euse, ignorez les cartes ★.
+La couleur ★ ne sera donc jamais atout.
+** Lors de la phase de plis : +
+Les cartes ★ sont considérées comme de la couleur demandée. +
+Les cartes ★ sont plus faibles que les cartes de la couleur demandée de même valeur.
+Par exemple, si la couleur demandée est ♥, l'ordre est 2♥ > 2★ > 1♥.
+* *Les 2 Papillons* :
+** Lors des paris : +
+Un Papillon est un pari de 0 pli.
+Si le pari est réussi, la personne *ne marque pas* les 2 points de son pari : elle ne marque que le panier.
+** Lors de la phase de plis : +
+Un Papillon est plus faible que toutes les autres cartes : il ne peut jamais remporter de pli.
+* *Le Singe* :
+** Lors des paris : +
+Le Singe *ne peut pas servir à parier*. +
+Cependant, en cas d'égalité pour le pari le plus élevé, vous pouvez montrer que vous avez le Singe en main pour remporter l'égalité (au lieu d'utiliser la priorité des couleurs).
+** Lors de la phase de plis : +
+Le Singe est plus fort que toutes les cartes qui ne sont pas des atouts, mais plus faible que tous les atouts.
+
+[CAUTION]
+====
+* Les cartes spéciales peuvent être jouées à tout moment, que vous ayez ou non des cartes de la couleur demandée.
+
+* Si quelqu'un entame avec une carte spéciale, la couleur demandée est définie par la personne suivante.
+Si elle joue aussi une carte spéciale, la couleur demandée est définie par la personne suivante, et ainsi de suite. +
+Si un pli ne contient que des cartes spéciales, la carte la plus forte est le Singe, suivi des cartes ★, puis des Papillons.
+====
+
+
+== Jeu à 2 joueur·euse·s
+
+Créez le paquet comme pour une partie à 3 joueur·euse·s.
+
+Les deux joueur·euse·s se font face, et une troisième personne, le Pantin, est simulée.
+
+Distribuez une main de 7 cartes à chaque joueur·euse.
+Placez les cartes restantes en une pile entre vous : c'est la *pioche du Pantin*.
+
+Pendant la phase des paris, le Pantin parie toujours 2.
+Par conséquent, si la somme de vos paris plus 2 est égale à 7, vous devez parier à nouveau.
+Le Pantin ne devient jamais premier meneur (son pari est ignoré pour cela).
+
+Après la phase des paris, avant le premier pli, révélez 2 cartes de la pioche du Pantin et placez-les face visible à côté.
+
+Le Pantin joue toujours en dernier (après vous deux), sauf s'il a remporté le pli précédent : dans ce cas, il entame le pli, suivi du ou de la premier·ère meneur·euse.
+
+Le Pantin essaie de remporter exactement 2 plis.
+
+Chaque fois que le Pantin joue en dernier, révélez une troisième carte de sa pioche et jouez pour lui l'une des trois cartes révélées :
+
+* *S'il veut remporter le pli* (parce qu'il a remporté moins de 2 plis) :
+** *S'il peut remporter le pli* :
+*** *Si c'est son premier pli* : il joue la plus faible carte qui remporte le pli.
+*** *Si c'est son deuxième pli* : il joue la plus forte carte qui remporte le pli.
+** *S'il ne peut pas remporter le pli* : il joue la carte la plus faible possible.
+* *S'il veut perdre le pli* (parce qu'il a déjà remporté 2 plis) :
+** *S'il peut perdre le pli* : il joue la plus forte carte qui perd le pli.
+** *S'il ne peut pas perdre le pli* : il joue la carte la plus forte possible.
+
+En cas d'égalité entre des cartes qui ne sont pas des atouts pour la carte la plus forte ou la plus faible, il suit la priorité des couleurs.
+
+Si le Pantin joue en premier (parce qu'il a remporté le pli précédent), il joue la carte du dessus de sa pioche (ses 2 cartes révélées restent sur la table).
+
+Ne comptez pas de score pour le Pantin.

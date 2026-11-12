@@ -1,0 +1,54 @@
+= Nom du jeu
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 36 cartes Nombre : 0-8 à ♠, ♥, ♣ & ♦.
+* 9 cartes Nombre à 4 ou 5 joueur·euse·s : 0-8 à ✿.
+* 6 Papillons.
+* 3 Loups (4 Loups à 4 ou 5 joueur·euse·s).
+* La carte Ø.
+* Du papier et un crayon pour noter les scores.
+* _Variante avancée_ : les cartes ×2 et -‽.
+****
+
+Un ou deux courts paragraphes présentent le jeu : son thème, son but, qui gagne.
+Une phrase par ligne.
+
+[CAUTION]
+====
+Seulement quand les cartes du SSD portent des informations que le jeu ignore : dites ce qui ne compte pas.
+====
+
+
+== Mise en place
+
+. Mélangez les cartes.
+. Distribuez 7 cartes à chaque joueur·euse.
+
+
+== Déroulement de la partie
+
+Texte.
+
+.Exemple
+====
+Un exemple avec uniquement des cartes du SSD : 7♥, 8♣, le Loup.
+====
+
+
+[#scoring]
+== Décompte
+
+Texte, avec un renvoi vers <<scoring,le décompte>> si besoin.
+
+
+== Variantes
+
+=== Variante avancée
+
+Texte.

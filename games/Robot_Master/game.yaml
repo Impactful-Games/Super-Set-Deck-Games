@@ -1,0 +1,15 @@
+bggId: 37362
+authors: Reiner Knizia
+type:
+  - Team Based
+#  - Tile Placement
+players: 1, 2, 4
+cards:
+  Base:
+    all-players:
+      spades: 0-5
+      hearts: 0-5
+      clubs: 0-5
+      diamonds: 0-5
+      florettes: 0-5
+      stars: 0-5

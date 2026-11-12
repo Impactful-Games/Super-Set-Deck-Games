@@ -1,0 +1,180 @@
+= Eternity
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 42 Game cards: 1-14 in ♠, ♥ & ♣.
+* 3 Trump cards: the A of ♠, ♥ & ♣.
+* 18 Animal cards: 6 Butterflies, 6 Wolves, 4 Phoenixes & 2 Dragons.
+* Paper and a pencil to keep the score.
+****
+
+Score points by matching the tricks you take with the pledges you make.
+To do so, you have to:
+
+* collect the animals you pledge to shelter;
+* conquer the peninsulas (the tricks) in which to shelter your animals.
+
+CAUTION: For this game, all the Animal cards are equivalent: the kind of animal does not matter.
+
+
+== Setup
+
+On the side of the table, place the 3 Trump cards side by side, in the order of your choice.
+These 3 cards form the *trump board*.
+Leave room under each card for a column of cards of its suit.
+
+Next to it, place the 18 Animal cards in a face-up pile.
+
+*A game is played in 3 rounds.*
+
+*The wisest player* (who owns this Super-Set Deck) is the first dealer and the first player.
+
+
+== Playing the first round
+
+The dealer shuffles the Game cards face down and deals them two by two:
+
+* with 5 players, 8 cards to each player;
+* with 4 players, 10 cards to each player.
+
+Place the 2 remaining cards on the trump board, in the column of their suit.
+
+* With 3 players, deal as with 4 players, then place the 10 cards that were not dealt face up above the trump board.
+
+The number of cards in hand determines the number of turns (the number of tricks) of the round.
+
+On the trump board, the trump suit is the suit with the most cards, or, in case of a tie, the leftmost of the tied suits.
+The values of the cards on the trump board do not matter.
+
+[IMPORTANT]
+====
+*In Eternity, the trump suit can change at the end of each turn!*
+Watch the trump board carefully.
+====
+
+
+=== Game turn
+
+To start a turn (a trick), the first player plays a card.
+
+Each following player then chooses to:
+
+* *Take part in the trick:* play a card of the suit of the first card.
+If you have none, you must play a card of the trump suit.
+If you have none either, play any card.
+
+* *Pledge:* *do not put your card in the trick*, but *place it face up and sideways in front of you*.
+You may pledge a card of any suit, since the pledge card is not part of the trick.
+Then take a number of Animal cards that depends on the value of the pledge card, and place them face up in front of you:
++
+[%autowidth,cols="^.^,^.^,^.^,^.^,^.^,^.^,^.^,^.^"]
+|===
+h| 1 .4+| *0* .5+| h| 5 .5+| *1* .5+| h| 10 .5+| *2*
+h| 2 h| 6 h| 11
+h| 3 h| 7 h| 12
+h| 4 h| 8 h| 13
+2+| h| 9 h| 14
+|===
++
+If the card gives 0 animals (values 1 to 4), you take none, but your pledge still counts.
+
+[IMPORTANT]
+====
+In a turn (a trick), with 3 or 4 players, only one player may pledge.
+With 5 players, only two players may pledge.
+
+So the other players must take part in the trick.
+A trick may also have no pledge at all.
+====
+
+
+=== End of the turn
+
+When every player has played a card, the turn is over.
+
+*Among the cards that take part in the trick:*
+
+* if there are trump cards, the highest trump card wins the trick;
+* if there is no trump card, the highest card of the suit led (the suit of the first card of the trick) wins the trick.
+
+The player who played the winning card takes the trick: they stack all the cards of the trick face down in front of them.
+This player has conquered a peninsula!
+Peninsulas cannot be turned back face up to check their cards.
+
+*The pledge card* (or the two pledge cards with 5 players) *is added to the trump board*, in the column of its suit.
+The players then find out the trump suit of the next turn.
+
+The player who won the trick becomes the first player of the next trick.
+Turns follow one another until the players have no more cards in hand.
+
+
+=== Sheltering an animal
+
+During the round, as you get tricks and animals, you may shelter your animals.
+To do so, place one of your Animal cards face up on one of your tricks: the animal is sheltered.
+You may always place one of your animals on one of your tricks at any time, whichever of the two you got first.
+
+
+== End of the first round
+
+Each player checks their tricks and their animals:
+
+* If you have exactly as many animals as tricks, *you score 1 point per animal, plus the harmony bonus*: *2 points* in this first round.
+* If all your animals are sheltered, BUT you also have tricks without animals, *you score 1 point per animal*.
+* If you have animals without shelter, *you score no points!*
+Such is the fate of those who leave animals without shelter and do not honour their pledges!
+
+IMPORTANT: A player who has taken no animals and no tricks has as many animals as tricks, and scores the harmony bonus too.
+
+Write down the points of each player.
+All the players then return their Animal cards next to the trump board.
+
+
+== Second and third rounds
+
+These two rounds are played as the first one, except that:
+
+* *The player who scored the fewest points* in the previous round shuffles all the Game cards (those of the tricks and of the trump board), deals and leads the first trick.
+In case of a tie, the oldest of the tied players starts.
+* *The harmony bonus is 4 points in the second round, and 7 points in the third round!*
+(Remember that a player with 0 tricks and 0 animals scores it too.)
+
+
+== End of the game
+
+After three rounds, the player with the highest total score wins the game.
+In case of a tie, the tied player who scored the most points in the last round wins.
+If there is still a tie, the tied players share the victory.
+
+
+== First past the post variant
+
+You may play longer games, over more rounds, up to a set number of points (20, for instance).
+In this case, the normal rules apply, except that:
+
+* the *harmony bonus* is always *3 points*, at the end of each round;
+* *only the player (or the players, in case of a tie) who scores the most points in the round* scores these points (animals and harmony bonus).
+The other players score nothing for the round.
+
+
+== Two-player game
+
+The dealer shuffles the Game cards face down and deals *14 cards* to each of the two players.
+The 14 remaining cards form a face-down neutral pile, which acts as a third player.
+
+Each round, brief and intense, is played in *7 tricks*.
+
+At the start of each turn, reveal the top two cards of the neutral pile.
+Beware: in the first turn only, place these two cards on the trump board at once.
+
+In each turn, the two players (A and B) play the four cards of the trick in this order: a card from A, a card from B, a card from B, a card from A.
+*Otherwise, the normal rules apply in full.*
+
+* The first player of a turn may pledge when they play their second card, since their first card opens the trick.
+* The second player may pledge with either their first or their second card.
+
+Of course, there is only one pledge per trick.

@@ -1,0 +1,111 @@
+= Odin
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 54 cartes : 1-9 à ♠, ♥, ♣, ♦, ✿ & ★.
+* Du papier et un crayon pour noter les scores.
+****
+
+Soyez la première personne à vous défausser de toutes les cartes de votre main, et cumulez le moins de points possible à la fin de la partie.
+
+
+== Mise en place
+
+. Mélangez les cartes.
+. Distribuez-en 9, face cachée, à chaque joueur·euse : c’est votre main.
+Prenez connaissance des cartes de votre main sans les montrer aux autres !
+
+Choisissez au hasard la personne qui joue en premier.
+Vous jouerez ensuite à tour de rôle, dans le sens des aiguilles d’une montre.
+
+
+== Déroulement du jeu
+
+Le jeu se déroule en plusieurs manches.
+Celles-ci se divisent en tours.
+
+NOTE: Ne confondez pas « tour » et « tour de jeu » : un tour est composé de plusieurs tours de jeu, et il s’arrête quand tout le monde a passé à l’exception d’une personne.
+
+Au début d’un tour, la première personne à jouer pose une de ses cartes, face visible, au centre de la table.
+
+Puis, à votre tour de jeu, vous pouvez :
+
+1. jouer une ou plusieurs de vos cartes ;
+2. ou passer.
+
+
+=== 1. Jouer une ou plusieurs de ses cartes
+
+La valeur que vous posez doit être strictement supérieure à la valeur des cartes au centre de la table.
+
+.Valeur plus forte
+====
+Si au centre il y a un 3, vous devez jouer 4 ou plus.
+====
+
+Vous pouvez jouer le même nombre de cartes que le nombre de cartes au centre de la table, ou une carte de plus.
+
+.Nombre de cartes
+====
+Sur une combinaison de 2 cartes, vous pouvez jouer une autre combinaison de 2 cartes ou une combinaison de 3 cartes, mais pas une combinaison de 4 cartes, ni une carte seule.
+====
+
+Pour jouer plusieurs cartes, celles-ci doivent obligatoirement être de la même valeur ou de la même couleur.
+
+Quand vous jouez plusieurs cartes, leur valeur est le plus grand nombre que vous pouvez former en accolant leurs chiffres.
+
+.Valeur d’une combinaison
+====
+Si vous jouez 2♠ et 8♠, la valeur de cette combinaison est 82, et non pas 28.
+
+Si vous jouez 2♥, 4♥ et 9♥, la valeur de cette combinaison est 942.
+====
+
+Après avoir joué une ou plusieurs cartes, vous devez récupérer une des cartes qui se trouvaient au centre de la table avant que vous ne jouiez.
+Vous ne pouvez pas récupérer une carte que vous venez de jouer.
+Cela signifie que :
+
+* S’il y a une seule carte, vous devez la récupérer.
+* S’il y en a plusieurs, choisissez celle que vous souhaitez garder et défaussez les autres.
+
+
+=== 2. Passer
+
+Si vous passez, vous ne posez pas de carte, et c’est au tour de jeu de la personne à votre gauche.
+
+NOTE: Même si vous passez, vous pourrez jouer à nouveau lors de votre prochain tour de jeu.
+
+Si tout le monde passe à l’exception d’une personne, le tour se termine : défaussez les cartes restantes au centre de la table.
+La dernière personne à avoir posé des cartes entame un nouveau tour.
+Chacun·e garde les cartes qu’il ou elle a en main.
+
+
+== Fin d’une manche
+
+Une manche se termine dans deux cas :
+
+. Si vous êtes la personne qui démarre un nouveau tour et que toutes les cartes de votre main ont la même valeur ou la même couleur, vous pouvez les jouer toutes.
+La manche s’arrête alors.
+Sinon, jouez une seule carte normalement.
+. Si, à n’importe quel moment, vous jouez une ou plusieurs cartes et que votre main est alors vide, ne prenez pas de carte au centre de la table.
+La manche s’arrête alors.
+
+À la fin d’une manche, vous marquez 1 point pour chaque carte qu’il vous reste en main.
+Notez vos points sur papier.
+
+Pour commencer une nouvelle manche, rassemblez toutes les cartes, mélangez-les et distribuez à nouveau 9 cartes à chaque joueur·euse.
+La personne à la gauche de celle qui a joué en premier lors de la manche précédente commence la nouvelle manche en posant 1 carte.
+
+
+== Fin de la partie
+
+Pour votre première partie, nous vous conseillons de jouer en 15 points : si quelqu’un atteint ou dépasse 15 points, la partie s’arrête et la personne qui a le moins de points gagne la partie.
+En cas d’égalité, partagez-vous la victoire.
+
+Par la suite, vous pouvez adapter ce score à ne pas dépasser : ajoutez 5 points pour des parties plus longues (20 points), ou enlevez 5 points pour des parties plus courtes (10 points).
+Vous pouvez même jouer en une seule manche pour des parties très courtes !

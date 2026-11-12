@@ -1,0 +1,218 @@
+= Schotten Totten
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 54 cartes Clan : 1-9 à ♠, ♥, ♣, ♦, ✿ & ★.
+* 9 cartes Borne : les 3 K à ♠, ♥ & ♣.
+* 10 cartes Tactique (_variante tactique_) :
+** 4 Troupes d’élite : 7, J & 2 K à ⎈ ;
+** 2 Modes de combat : le Loup & le Dragon ;
+** 4 Ruses : le Singe, le Papillon, le Serpent & le Phénix.
+****
+
+Une chaude brise de printemps souffle sur la vallée écossaise, les oiseaux se mettent à chanter et la neige fond doucement.
+Votre précieux village réapparaît peu à peu, et les bornes qui marquent votre territoire pointent le bout de leur nez.
+La terre est meuble, et les bornes pourraient facilement rouler juste un peu vers le village voisin, offrant à votre clan la place supplémentaire dont il a besoin.
+Après tout, personne ne le remarquera, non ?
+
+Soudain, une flèche siffle à vos oreilles !
+Il semblerait que votre voisin·e ait eu la même idée, et qu’il ou elle pousse maintenant les bornes pour agrandir son territoire.
+Utilisez vos cartes pour créer les meilleures formations de combat et défendez votre village.
+Revendiquez suffisamment de Bornes pour gagner la partie !
+
+
+== Aperçu et but du jeu
+
+Lancez-vous dans une lutte où tous les coups sont permis, et reprenez le contrôle de la frontière qui vous sépare de votre adversaire.
+Envoyez les membres de votre clan défendre les Bornes, et déployez vos forces en jouant les meilleures combinaisons de cartes.
+Pour gagner, soyez la première personne à contrôler cinq Bornes dispersées le long de la frontière, ou trois Bornes adjacentes.
+
+
+== Mise en place
+
+. Placez les 9 cartes Borne face cachée, en ligne entre vous et votre adversaire.
+Cette ligne de cartes constitue la frontière que vous souhaitez revendiquer.
+. Mélangez toutes les cartes Clan et placez-les en une pile face cachée pour constituer la pioche.
+. Chaque joueur·euse pioche 6 cartes Clan.
+. La personne qui a voyagé le plus récemment près de l’Écosse commence.
+
+
+== Déroulement de la partie
+
+En commençant par la première personne et à tour de rôle, choisissez une carte de votre main et placez-la face visible devant une Borne, de votre côté de la frontière.
+Une fois que vous avez posé une carte devant une Borne, elle ne peut plus être déplacée.
+Piochez ensuite une carte, puis c’est au tour de votre adversaire.
+Si la pioche est vide, vous continuez la partie sans piocher de cartes.
+
+*Une Borne ne peut pas avoir plus de trois cartes de chaque côté de la frontière.*
+
+NOTE: Lorsque vous posez une carte Clan devant une Borne qui en a déjà une, décalez légèrement la nouvelle carte pour que vous puissiez toujours voir la composition de la formation qui défend la Borne.
+
+
+=== Conditions pour revendiquer une Borne
+
+Après avoir posé une carte devant une Borne et avant de piocher, vous pouvez revendiquer une ou plusieurs Bornes.
+*Vous ne pouvez revendiquer une Borne qu’une fois que chaque joueur·euse a posé trois cartes de son côté de la frontière.*
+
+*Exception :* il est possible de revendiquer une Borne devant laquelle votre adversaire n’a pas encore posé trois cartes, à condition de pouvoir prouver qu’il ou elle ne pourra pas battre votre combinaison, quelles que soient les cartes qu’il ou elle posera ensuite.
+Pour cela, vous ne pouvez vous appuyer que sur les cartes déjà posées (les cartes que vous avez en main ne comptent pas).
+
+
+=== Revendiquer une Borne
+
+Pour revendiquer une Borne, *vous devez avoir une combinaison de cartes plus forte que celle jouée par votre adversaire*.
+Ces combinaisons, de la plus forte à la plus faible, sont décrites ci-après.
+
+* *Suite couleur :* trois cartes de la même couleur et de trois valeurs successives (ex. : 3♠, 4♠, 5♠).
+* *Brelan :* trois cartes de la même valeur (ex. : 6♣, 6♠, 6♥).
+* *Couleur :* trois cartes de la même couleur (ex. : 1✿, 3✿, 6✿).
+* *Suite :* trois cartes de valeurs successives, de couleurs quelconques (ex. : 2♦, 3♠, 4✿).
+* *Somme :* trois cartes quelconques (ex. : 3♦, 7♠, 9✿).
+
+*L’ordre dans lequel vous posez vos cartes n’a pas d’importance pour les suites de valeurs successives.*
+En cas d’égalité entre les combinaisons, celle dont la somme des valeurs est la plus élevée l’emporte.
+En cas de nouvelle égalité, la personne qui a posé sa troisième carte la première devant cette Borne la revendique.
+
+*Lorsque vous prenez le contrôle d’une Borne, placez-la en dessous de votre combinaison de cartes.*
+Désormais, vous ne pouvez plus poser de cartes Clan sur cette Borne, même si votre combinaison était incomplète au moment de la revendication.
+
+.Revendication
+====
+Devant une Borne, votre adversaire a déjà posé trois cartes (7♣, 4✿ et 3♠), et vous deux (5♣ et 5♥).
+À votre tour, vous posez 5♠ devant cette Borne.
+Avant de piocher, vous revendiquez cette Borne et la remportez, car votre Brelan bat la Somme de votre adversaire.
+Vous prenez la Borne et la placez de votre côté de la frontière, en dessous de votre combinaison gagnante.
+====
+
+
+== Fin de la partie
+
+*La partie s’arrête immédiatement dans l’un des deux cas suivants :*
+
+. un·e joueur·euse contrôle *trois Bornes adjacentes* ;
+. un·e joueur·euse contrôle *cinq Bornes dispersées le long de la frontière*.
+
+*La personne qui contrôle ces Bornes gagne la partie.*
+
+Si vous jouez en plusieurs manches, la personne qui gagne la manche marque 5 points de victoire, et son adversaire autant de points de victoire que de Bornes sous son contrôle.
+La personne qui a le plus de points de victoire à la fin de la partie l’emporte.
+
+NOTE: Avant de commencer la partie, décidez ensemble du nombre de manches à jouer.
+
+
+== Variante tactique
+
+Pour cette variante, jouez avec les règles de base, à l’exception des changements décrits ci-dessous.
+
+
+=== Mise en place
+
+*Mélangez toutes les cartes Tactique*, et constituez une pioche que vous placez à côté de la pioche des cartes Clan.
+Chaque joueur·euse pioche *sept cartes Clan*, soit une de plus qu’avec les règles de base.
+
+
+=== Déroulement de la partie
+
+À votre tour, vous pouvez *jouer une carte Clan ou une carte Tactique*.
+Au moment de piocher pour compléter votre main à sept cartes, choisissez de piocher soit une carte Clan, soit une carte Tactique.
+Lorsque l’une des deux pioches est vide, vous ne pouvez plus y piocher de cartes, et la partie continue normalement.
+
+Il peut arriver que vous n’ayez plus que des cartes Tactique en main, ou que vous ayez déjà complété toutes les Bornes disponibles de votre côté de la frontière.
+Dans ce cas, vous ne pouvez pas jouer de cartes Clan.
+Vous pouvez alors choisir soit de passer sans jouer de carte, soit de jouer une carte Tactique.
+
+
+=== Cartes Tactique
+
+Vous pouvez avoir autant de cartes Tactique que vous le souhaitez dans votre main, en respectant la limite de sept cartes en main.
+*Vous ne pouvez jamais jouer plus d’une carte Tactique de plus que votre adversaire.*
+
+.Jouer une carte Tactique
+====
+Votre adversaire a déjà joué une carte Tactique, tandis que vous en avez déjà joué deux.
+Vous avez donc joué une carte Tactique de plus que votre adversaire.
+Par conséquent, à votre tour, vous ne pouvez pas jouer de carte Tactique tant que votre adversaire n’a pas joué sa deuxième.
+====
+
+Chaque carte Tactique possède une capacité spéciale qui appartient à l’une de ces *trois catégories* :
+
+
+==== Troupes d’élite (cartes ⎈)
+
+(se jouent comme une carte Clan)
+
+
+===== K⎈ (2 cartes)
+
+Une carte Clan dont vous choisissez la couleur et la valeur au moment de revendiquer la Borne devant laquelle vous l’avez posée.
+*Chaque joueur·euse ne peut avoir qu’un seul K⎈ de son côté de la frontière.*
+Si vous avez déjà posé un K⎈ et que vous piochez le second, vous devez le garder en main jusqu’à la fin de la partie.
+
+
+===== 7⎈
+
+Une carte Clan de valeur 7, dont vous choisissez la couleur au moment de revendiquer la Borne devant laquelle vous l’avez posée.
+
+
+===== J⎈
+
+Une carte Clan de valeur 1, 2 ou 3, dont vous choisissez la couleur et la valeur au moment de revendiquer la Borne devant laquelle vous l’avez posée.
+
+
+==== Modes de combat
+
+(se jouent sur une carte Borne)
+
+
+===== Loup
+
+Pour revendiquer la Borne sur laquelle se trouve le Loup, additionnez uniquement les valeurs des cartes posées devant elle, sans tenir compte des éventuelles combinaisons.
+
+
+===== Dragon
+
+Pour revendiquer la Borne sur laquelle se trouve le Dragon, vous devez former des combinaisons de quatre cartes de chaque côté de la Borne.
+
+
+==== Ruses
+
+(se jouent face visible à côté de la pioche)
+
+Pour jouer une carte Tactique Ruse, appliquez son effet, puis posez-la face visible à côté de la pioche.
+Cette nouvelle pile de cartes constitue la défausse.
+Vous pouvez regarder à tout moment le contenu de la défausse.
+
+
+===== Singe
+
+Piochez trois cartes dans l’une des pioches ou dans les deux.
+Choisissez ensuite deux cartes parmi toutes celles de votre main, et placez-les sous les pioches correspondantes.
+
+
+===== Papillon
+
+Choisissez une carte Clan ou Tactique de votre côté de la frontière, devant une Borne non revendiquée.
+Placez-la face visible devant une autre Borne non revendiquée de votre côté, ou défaussez-la face visible à côté de la pioche.
+
+
+===== Serpent
+
+Choisissez une carte Clan ou Tactique du côté adverse de la frontière, devant une Borne non revendiquée, et défaussez-la face visible à côté de la pioche.
+
+
+===== Phénix
+
+Choisissez une carte Clan du côté adverse de la frontière, devant une Borne non revendiquée, et placez-la devant une Borne non revendiquée de votre côté.
+
+
+== Variante experte
+
+Une fois familiarisé·e·s avec les règles décrites précédemment, vous aurez peut-être envie de corser un peu le jeu.
+Cette variante se joue selon les règles de base, à l’exception du changement suivant : *vous ne pouvez revendiquer une Borne qu’au début de votre tour, avant de jouer une carte*.
+
+Cela ralentit la revendication des Bornes, et donne à votre adversaire la possibilité de retourner la situation en sa faveur en jouant une carte Tactique.

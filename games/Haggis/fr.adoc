@@ -1,0 +1,218 @@
+= Haggis
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 36 cartes numérotées : 2-10 à ♠, ♥, ♣ & ♦.
+* 6 jokers : 2 Papillons, 2 Serpents & 2 Loups.
+* 12 cartes de plus à 3 joueur·euse·s : 2-10 à ✿, 1 Papillon, 1 Serpent & 1 Loup.
+* Du papier et un crayon pour noter les scores.
+****
+
+Le but du jeu est de vous débarrasser des cartes de votre main avant les autres joueur·euse·s, tout en essayant de capturer certaines cartes à points pendant la partie.
+Vous pouvez gagner des points supplémentaires en pariant que vous serez la première personne à vous débarrasser de toutes vos cartes.
+
+À 3 joueur·euse·s, le jeu utilise 54 cartes : les valeurs 2 à 10 en cinq couleurs, plus trois Papillons, trois Serpents et trois Loups.
+L'ordre des cartes, de la plus faible à la plus forte, est : 2, 3, 4, 5, 6, 7, 8, 9, 10, Papillon, Serpent, Loup.
+
+
+== Préparation d'une manche
+
+IMPORTANT: À deux joueur·euse·s, retirez toutes les cartes ✿, un Papillon, un Serpent et un Loup avant de commencer la partie.
+
+Une partie de Haggis se joue en plusieurs manches (donnes).
+Pour la première manche, désignez qui distribue.
+
+Placez un Papillon, un Serpent et un Loup face visible devant chaque joueur·euse : ce sont ses jokers.
+
+Mélangez les cartes restantes et distribuez-en 14 face cachée à chaque joueur·euse.
+La main d'un·e joueur·euse se compose de ces 14 cartes, qui sont prises en main, et des 3 jokers, qui restent face visible sur la table jusqu'à ce qu'ils soient joués.
+
+Les cartes restantes (8 cartes à 2 joueur·euse·s, 3 cartes à 3 joueur·euse·s) forment le Haggis : mettez-les de côté sans les regarder.
+
+
+=== Les paris
+
+Vous pouvez parier que vous serez la première personne à « sortir » (vous débarrasser de toutes les cartes de votre main).
+Vous pouvez annoncer un pari à tout moment, tant que vous n'avez joué aucune carte.
+Vous annoncez un pari de 0 point (pas de pari), 15 points (Petit Pari) ou 30 points (Grand Pari).
+
+Tou·te·s les joueur·euse·s peuvent parier.
+Les paris n'ont pas besoin d'être égaux.
+
+Une fois annoncé, un pari ne peut être ni retiré ni modifié.
+
+
+== Déroulement d'une manche
+
+Chaque manche se joue en un certain nombre de plis.
+Pour la première manche, la personne à gauche de celle qui a distribué ouvre le premier pli en posant une première combinaison de cartes.
+Une combinaison peut être une famille, une suite ou une bombe.
+
+
+=== Familles
+
+Une famille est un groupe de cartes de même valeur.
+Une famille peut contenir de une à huit cartes (carte seule, paire, brelan, etc.).
+
+.Familles
+====
+8♣ = carte seule. +
+8♠ + 8♦ = paire. +
+8♥ + 8♦ + 8♣ = brelan. +
+8♥ + 8♦ + 8♣ + 8♠ + 8✿ + Papillon = 6 cartes de même valeur, avec un joker.
+====
+
+
+=== Suites
+
+Une suite est un groupe d'au moins trois cartes seules de valeurs consécutives et de même couleur, ou d'au moins deux familles plus grandes (paires, brelans, etc.) de valeurs consécutives, chaque famille ayant les mêmes couleurs.
+
+.Suites
+====
+7♥ + 8♥ + 9♥ = suite de 3 cartes seules (7-8-9). +
+10♥ + Papillon + Serpent = suite de 3 cartes seules (10-Papillon-Serpent). +
+6♣ + 7♣ + Serpent + 9♣ + 10♣ + Papillon = suite de 6 cartes seules (6-7-8-9-10-Papillon, avec un joker).
+
+8♥ + 8♦ + 9♥ + 9♦ = suite de 2 paires. +
+7♥ + 7✿ + 8♥ + 8✿ + 9♥ + 9✿ = suite de 3 paires. +
+8♥ + 8♦ + 8♣ + 8♠ + 9♥ + Serpent + 9♣ + 9♠ = suite de deux carrés, avec un joker.
+====
+
+
+=== Jokers
+
+Les Papillons, Serpents et Loups peuvent aussi servir de jokers, pour remplacer n'importe quelle carte de valeur inférieure dans une famille ou une suite (par exemple, un Papillon peut remplacer un 8, mais pas un Loup).
+
+Dans une suite, un joker prend la couleur nécessaire.
+
+NOTE: Les Papillons, Serpents et Loups ne sont pas obligatoirement joués comme jokers : ils peuvent être joués seuls, ou dans une famille ou une suite. +
+Par exemple, un Papillon bat un 10 seul ; 9-10-Papillon bat 8-9-10 ; 10-10-Papillon-Serpent (où le Papillon est « naturel » et le Serpent un joker) peut être joué comme suite pour battre 9-9-10-10.
+
+Dans une combinaison plus grande (famille ou suite), les jokers doivent être accompagnés d'au moins une carte numérotée (sinon, la combinaison serait une bombe).
+
+
+=== Bombes
+
+Une bombe est une combinaison spéciale de cartes à points, détaillée dans <<trick>>.
+Il existe 6 types de bombes.
+De la plus faible à la plus forte :
+
+* 3-5-7-9 (ces 4 valeurs en 4 couleurs différentes, sans joker).
+* Papillon + Serpent.
+* Papillon + Loup.
+* Serpent + Loup.
+* Papillon + Serpent + Loup.
+* 3-5-7-9 (ces 4 valeurs dans une même couleur, sans joker).
+
+
+[#trick]
+== Les plis
+
+Après la pose d'une combinaison, le jeu continue dans le sens horaire : chaque autre joueur·euse peut soit jouer une combinaison plus forte, soit passer.
+Notez que vous pouvez choisir de passer même si vous avez une combinaison plus forte.
+Si vous n'avez pas de combinaison plus forte, vous devez passer.
+
+Pour être plus forte, la nouvelle combinaison doit être exactement du même type, avoir exactement le même nombre de cartes, et des cartes de valeurs plus fortes.
+Ainsi, si une carte seule est posée, seule une carte seule plus forte peut être jouée ; si une paire est posée, seule une paire plus forte peut être jouée ; une suite de trois cartes ne peut être battue que par une suite de trois cartes plus forte ; et ainsi de suite.
+
+Les bombes sont la seule exception à cette règle.
+Une bombe peut être jouée, à votre tour, pour battre n'importe quelle combinaison, sauf une bombe plus forte.
+Une fois qu'une bombe a été jouée, seule une bombe plus forte peut la battre.
+
+Le jeu continue ainsi, chacun·e jouant des combinaisons de plus en plus fortes, de même taille et de même type (ou des bombes), ou passant, jusqu'à ce qu'une combinaison soit posée et que tous les autres joueur·euse·s passent successivement.
+
+À deux joueur·euse·s, le pli se termine dès qu'un·e joueur·euse passe.
+
+À trois joueur·euse·s, le pli se termine dès que deux joueur·euse·s passent successivement.
+Une personne qui a passé peut encore jouer plus tard, jusqu'à la fin du pli.
+
+À la fin du pli, la personne qui a joué la combinaison la plus forte remporte le pli.
+Si la combinaison la plus forte n'était pas une bombe, la personne qui remporte le pli capture ses cartes.
+Si le pli a été remporté grâce à une bombe, ses cartes sont capturées par l'un·e des adversaires de la personne qui l'a remporté (celle-ci choisit qui).
+
+La personne qui remporte le pli ouvre le pli suivant.
+À trois joueur·euse·s, si elle vient de sortir, c'est la personne à sa gauche qui ouvre.
+
+
+== Fin d'une manche
+
+Lorsque tou·te·s les joueur·euse·s sauf un·e se sont débarrassé·e·s des cartes de leur main, la manche est terminée.
+
+La dernière personne à avoir posé une combinaison capture toutes les cartes du dernier pli (sauf si cette combinaison était une bombe : dans ce cas, un·e adversaire capture les cartes du dernier pli, comme indiqué dans <<trick>>).
+La dernière personne en jeu ne joue plus de cartes.
+
+La première personne à être sortie capture toutes les cartes restant dans la main de la dernière personne en jeu, ainsi que le Haggis.
+Pensez à noter le nombre de cartes (jokers compris) restant dans la main de la dernière personne en jeu.
+
+
+== Décompte
+
+Les points proviennent :
+
+. des cartes restant dans la main de vos adversaires,
+. des cartes à points capturées dans les plis,
+. des paris.
+
+Une personne qui sort marque 5 points pour chaque carte dans la main de l'adversaire qui avait le plus de cartes au moment où elle s'est débarrassée de sa dernière carte.
+N'oubliez pas que les jokers font partie de la main.
+
+Toutes les cartes à points (3, 5, 7, 9, Papillon, Serpent et Loup) capturées dans les plis rapportent leurs points à la personne qui les a capturées :
+
+[%autowidth]
+|===
+h| Carte | 3 | 5 | 7 | 9 | Papillon | Serpent | Loup
+h| Points | 1 | 1 | 1 | 1 | 2 | 3 | 5
+|===
+
+Les points des paris sont ensuite comptés.
+Si un pari est gagné, son montant est ajouté au score de la personne qui l'a fait.
+Si un pari est perdu, son montant est ajouté au score de la première personne à être sortie, et de tout autre adversaire qui n'a pas parié pendant cette manche.
+
+.Points des paris
+====
+Adam, Brenda et Carole jouent.
+
+Adam et Brenda font tous deux un Petit Pari après avoir reçu toutes leurs cartes.
+Carole ne parie pas.
+
+Adam sort en premier.
+Adam gagne 15 points pour son pari réussi, plus 15 points pour le pari perdu de Brenda, soit un total de 30 points.
+Brenda ne gagne aucun point grâce aux paris.
+Carole gagne 15 points grâce au pari perdu de Brenda.
+
+Dans la même situation, si Carole était sortie en premier au lieu d'Adam, elle aurait gagné 30 points : 15 pour le pari perdu d'Adam et 15 pour celui de Brenda.
+Personne d'autre ne gagnerait de points grâce aux paris.
+====
+
+NOTE: À trois joueur·euse·s, la première personne à sortir note le nombre de cartes de l'adversaire qui en a le plus, avant que les deux autres continuent à jouer.
+
+
+== Suite de la partie
+
+Après avoir ajouté les points de la manche au score total de chaque joueur·euse, une nouvelle manche commence et de nouvelles mains sont distribuées.
+
+La personne qui a le plus de points distribue ; en cas d'égalité, c'est la personne qui a remporté la dernière manche qui distribue.
+
+La personne qui a le moins de points ouvre le premier pli ; en cas d'égalité, c'est la personne à gauche de celle qui distribue qui ouvre.
+
+
+== Fin de la partie
+
+Jouez des manches jusqu'à ce qu'au moins un·e joueur·euse atteigne (ou dépasse) un score total convenu à l'avance.
+La personne qui a le plus de points l'emporte.
+En cas d'égalité, continuez à jouer des manches jusqu'à ce qu'il y ait un·e gagnant·e.
+
+Pour une partie courte, nous suggérons 250 points. +
+Pour une partie longue, nous suggérons 350 points.
+
+[TIP]
+.Règles de tournoi
+====
+Dans un tournoi à trois joueur·euse·s, ce n'est pas la personne qui remporte le pli qui décide qui capture les cartes : un pli remporté grâce à une bombe est capturé par la personne qui a joué la deuxième combinaison la plus forte du pli.
+Si un pli est remporté par une bombe jouée en ouverture, il est capturé par la personne à droite de celle qui a ouvert avec la bombe.
+====

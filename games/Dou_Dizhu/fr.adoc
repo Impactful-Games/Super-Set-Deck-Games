@@ -1,0 +1,156 @@
+= Dou Dizhu
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 52 cartes numérotées : 2-10, J, Q, K & A à ♠, ♥, ♣ & ♦.
+* 2 jokers :
+** Le *Phénix*.
+** Le *Dragon*.
+****
+
+Dou Dizhu (littéralement « Combattre le patron ») est un jeu de montée pour trois joueur·euse·s.
+À chaque manche, une personne, le « patron », joue seule et les deux autres forment une équipe.
+L'objectif du patron est d'être le premier à jouer toutes ses cartes en combinaisons valides, tandis que l'équipe l'emporte si l'un·e des deux parvient à jouer toutes ses cartes avant le patron.
+
+Le jeu serait né dans la province du Hubei, mais il est aujourd'hui populaire dans toute la Chine.
+
+
+== Cartes et distribution
+
+L'ordre des cartes, de la plus forte à la plus faible : +
+*Dragon, Phénix, 2, A, K, Q, J, 10, 9, 8, 7, 6, 5, 4, 3.* +
+Les couleurs n'ont pas d'importance.
+
+Comme dans la plupart des jeux chinois, les cartes ne sont pas vraiment distribuées, mais piochées dans le paquet par les joueur·euse·s.
+
+L'un·e des joueur·euse·s, la personne qui donne, mélange les cartes, les fait couper par son voisin ou sa voisine de gauche, puis place le paquet face cachée au centre de la table.
+Une carte est retournée face visible et insérée à peu près au milieu du paquet : elle déterminera qui commence les enchères.
+La personne qui donne pioche alors la carte du dessus du paquet, la regarde, mais ne la montre pas aux autres.
+La personne à sa droite fait de même, puis la troisième personne, puis à nouveau celle qui donne, et ainsi de suite dans le sens inverse des aiguilles d'une montre, jusqu'à ce que chacun·e ait 17 cartes.
+Les trois dernières cartes restent face cachée sur la table jusqu'à la fin des enchères.
+Vous gagnerez du temps en regardant et en triant vos cartes au fur et à mesure que vous les piochez.
+
+
+== Enchères
+
+Les enchères déterminent qui sera le patron et jouera seul contre les deux autres.
+Les enchères possibles sont 1, 2 et 3.
+La personne qui a pioché la carte face visible pendant la « distribution » enchérit la première.
+À son tour, chacun·e peut soit passer, soit enchérir plus haut que la plus forte enchère jusque-là.
+Si tout le monde passe, les mains sont abandonnées et vous redistribuez les cartes.
+S'il y a une enchère, les enchères continuent dans le sens inverse des aiguilles d'une montre, chacun·e passant ou enchérissant plus haut que l'enchère précédente, jusqu'à ce que deux joueur·euse·s consécutif·ve·s passent ou que quelqu'un enchérisse 3, ce qui met fin aux enchères puisqu'il s'agit de la plus haute enchère possible.
+La personne qui a fait la dernière et plus haute enchère est le patron.
+
+Le patron révèle à tout le monde les trois cartes face cachée du centre de la table, puis les ajoute à sa main, pour un total de 20 cartes.
+
+
+== Jeu
+
+Le patron joue en premier, et peut jouer une carte seule ou n'importe quelle combinaison valide.
+Dans le sens inverse des aiguilles d'une montre, chaque joueur·euse suivant·e doit soit passer (sans jouer de carte), soit battre le coup précédent en jouant une combinaison plus forte, du *même nombre de cartes* et du *même type*.
+Il y a juste deux exceptions à cette règle : un *missile* bat toutes les combinaisons, et une *bombe* bat toutes les combinaisons sauf une bombe plus forte ou un missile (voir les définitions plus bas).
+Le jeu continue autour de la table pendant autant de tours que nécessaire, jusqu'à ce que deux joueur·euse·s consécutif·ve·s passent.
+Les cartes jouées sont alors retournées face cachée et mises de côté, et la personne qui a joué la ou les dernières cartes recommence, avec n'importe quelle carte ou combinaison valide.
+
+Il y a treize types de combinaisons possibles :
+
+. *Carte seule :* +
+Du 3 (la plus faible) au Dragon (la plus forte), comme expliqué ci-dessus.
+
+. *Paire :* +
+Deux cartes de même valeur, du 3 (la plus faible) au 2 (la plus forte).
+
+. *Brelan :* +
+Trois cartes de même valeur, du 3 (le plus faible) au 2 (le plus fort).
+
+. *Brelan avec une carte attachée :* +
+Un brelan auquel est ajoutée n'importe quelle carte seule, par exemple 6-6-6-8.
+Leur force est celle du brelan : par exemple, 9-9-9-3 bat 8-8-8-A.
+
+. *Brelan avec une paire attachée :* +
+Un brelan auquel est ajoutée une paire, comme un full au poker, la force étant celle du brelan : par exemple, Q-Q-Q-6-6 bat 10-10-10-K-K.
+
+. *Suite :* +
+Au moins cinq cartes de valeurs consécutives, du 3 à l'A : par exemple, 8-9-10-J-Q.
+Les 2 et les jokers ne peuvent pas être utilisés.
+
+. *Suite de paires :* +
+Au moins trois paires de valeurs consécutives, du 3 à l'A.
+Les 2 et les jokers ne peuvent pas être utilisés.
+Par exemple, 10-10-J-J-Q-Q-K-K.
+
+. *Suite de brelans :* +
+Au moins deux brelans de valeurs consécutives, du 3 à l'A.
+Les 2 et les jokers ne peuvent pas être utilisés.
+Par exemple, 4-4-4-5-5-5.
+
+. *Suite de brelans avec des cartes attachées :* +
+Une carte supplémentaire est ajoutée à chaque brelan.
+Par exemple, 7-7-7-8-8-8-3-6.
+Les cartes attachées doivent être différentes de celles de tous les brelans, mais peuvent former une paire (par exemple, 4-4-4-5-5-5-9-9).
+Bien qu'un brelan de 2 ne puisse pas faire partie de la suite, vous pouvez attacher un 2, un joker, ou un 2 et un joker, mais pas les deux jokers.
+
+. *Suite de brelans avec des paires attachées :* +
+Une paire supplémentaire est attachée à chaque brelan.
+Seuls les brelans doivent se suivre : par exemple, 8-8-8-9-9-9-4-4-J-J.
+Les paires doivent être de valeurs différentes entre elles et différentes de celles de tous les brelans.
+Bien qu'un brelan de 2 ne puisse pas faire partie de la suite, vous pouvez attacher des 2.
+Notez que vous ne pouvez pas mélanger cartes attachées et paires attachées : par exemple, 3-3-3-4-4-4-6-7-7 n'est pas valide.
+
+. *Bombe, quatre cartes de même valeur :* +
+Une bombe bat tout, sauf un missile, et une bombe plus forte bat une bombe plus faible.
+
+. *Missile, la paire de jokers :* +
+C'est la combinaison la plus forte, elle bat toutes les autres, y compris les bombes.
+
+. *Ensemble quadruple :* +
+Il en existe deux types :
++
+--
+.. Un carré auquel sont attachées deux cartes seules de valeurs différentes, comme 6-6-6-6-8-9.
+.. Un carré auquel sont attachées deux paires de valeurs différentes, comme J-J-J-J-9-9-Q-Q.
+--
++
+Vous pouvez attacher des 2 et des jokers, mais vous ne pouvez pas utiliser les deux jokers dans un même ensemble quadruple.
+La force d'un ensemble quadruple est celle de son carré.
+Notez qu'un ensemble quadruple ne bat qu'un ensemble quadruple plus faible du même type, et ne peut battre aucune autre combinaison.
++
+CAUTION: *Un ensemble quadruple n'est pas une bombe* : il peut donc être battu par une bombe faite de cartes plus faibles.
+
+Notez que passer ne vous empêche pas de jouer lors d'un prochain tour.
+
+.Exemple
+====
+A (le patron) ouvre avec 3-3-3-9 pour se débarrasser de quelques cartes faibles.
+B passe.
+C joue 5-5-5-7, A joue K-K-K-J et B joue A-A-A-3.
+C et A passent, B peut donc recommencer avec ce qu'il ou elle veut.
+B ouvre avec un 4 seul.
+
+NOTE: B aurait pu jouer ses A dès son premier tour, mais a préféré passer pour laisser à son partenaire l'occasion de se débarrasser de quelques cartes.
+Une fois que B a passé, C devrait jouer s'il ou elle le peut, afin de ne pas laisser au patron (A) une nouvelle ouverture gratuite.
+Après avoir battu la deuxième combinaison de A, B ouvre avec une carte faible pour laisser à C le choix de jouer une autre carte indésirable ou de mettre le patron sous pression en jouant une carte forte.
+====
+
+
+== Décompte
+
+Si le patron se débarrasse de toutes ses cartes en premier, il gagne, et chaque adversaire lui paie la valeur de l'enchère (1, 2 ou 3 points), à condition qu'aucune bombe ni aucun missile n'ait été joué.
+Si l'un·e des deux autres se débarrasse de toutes ses cartes avant le patron, le patron perd et doit payer la valeur de l'enchère *à chaque adversaire*.
+
+Chaque fois qu'une bombe ou un missile a été joué, le paiement de la manche est doublé.
+Par exemple, lors d'une manche où deux bombes et un missile ont été joués, la personne qui a enchéri 3 gagne 24 points de chaque adversaire si elle sort en premier, ou paie 24 points à chaque adversaire si quelqu'un d'autre sort en premier.
+
+Si les adversaires du patron ne parviennent à jouer aucune carte, le paiement au patron est doublé : c'est le bonus du « printemps ».
+À l'inverse, si les adversaires gagnent sans laisser le patron jouer d'autres cartes que sa première combinaison, le paiement du patron aux adversaires est doublé.
+
+NOTE: Comme les adversaires du patron gagnent ou perdent autant l'un·e que l'autre, ces adversaires forment une équipe temporaire.
+Quand vous jouez contre le patron, aider votre partenaire à se débarrasser de ses cartes en premier est aussi rentable que de gagner vous-même.
+Pour cette raison, les partenaires évitent en général de battre les cartes l'un·e de l'autre, et le ou la partenaire qui a le jeu le plus faible joue pour aider l'autre.
+
+Jouez un nombre de manches fixé à l'avance pour désigner le grand gagnant ou la grande gagnante.

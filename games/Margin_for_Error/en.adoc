@@ -1,0 +1,205 @@
+= Margin for Error
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 56 game cards: 1-14 in ♠, ♥, ♣ & ♦.
+* 2 Strategy cards: 1 Butterfly & 1 Wolf.
+* 4 point suit cards: A in ♠, ♥, ♣ & ♦.
+* Paper and a pencil to keep the score.
+****
+
+In this trick-taking game, the “Captain” chooses a “point” suit and a goal, then the Captain and their partner try to win by taking or avoiding point cards, while staying within their margin for error.
+
+
+== Game play (4 players)
+
+=== Deal
+
+Choose a dealer, who shuffles all 56 game cards and deals them face down, evenly, to the players.
+Keep your hand hidden throughout the game.
+
+Each player is partnered with the player sitting opposite them.
+
+The deal passes clockwise from one round to the next.
+
+
+=== Establish a Captain
+
+After looking at their cards, the dealer decides whether they want to be the Captain.
+If the dealer declines, the option to become Captain passes clockwise.
+The first player to accept becomes the Captain, but if all 4 players pass, the dealer must take the role of Captain.
+
+
+=== Choose the point suit and the strategy
+
+The Captain chooses and announces the point suit for the round.
+They place the matching A card in the center of the table, as a reminder during the round.
+(At the end of the round, each card of the point suit counts as one point card, whatever the number on the card.)
+
+Then the Captain decides whether the strategy of their team is to:
+
+a. take point cards totaling *4 or less* (by giving their partner the Butterfly), or
+b. take point cards totaling *10 or more* (by giving their partner the Wolf).
+
+The Captain gives the chosen Strategy card face down to their partner, who looks at it and then places it face down near the A card in the center of the table.
+
+
+=== Pass cards
+
+The Captain passes 3 cards face down to their partner.
+The partner *can* look at the passed cards, and then passes 3 *different* cards from their hand face down back to the Captain.
+
+At the same time, the player to the Captain’s left does the same with their partner, but they only exchange *2* cards.
+
+Passed cards then become part of the players’ hands.
+
+
+=== Play
+
+The player who has ♠1 leads it face up to start the first trick (or ♥1, if ♠ is the point suit), and play proceeds clockwise.
+Each of the other players plays one card face up, following suit.
+If you do not have a card of the suit led, you can discard any card (and if you discard a card of the point suit, the point suit is “broken”).
+There are *no* trumps.
+
+After each player has played, the player who played the highest card of the suit led wins the trick, and leads the next trick.
+The winner of the trick takes the cards and places them face down in front of them in *two* piles, separating point cards from the other cards (taken cards cannot be looked at afterward, but any player can count them).
+
+You cannot lead a card of the point suit until the point suit is broken (unless you only have cards of the point suit in your hand, and thus have no choice).
+The point suit cannot be broken on the first trick (again, unless a player has no choice).
+
+The round ends after all the cards have been played (or when the outcome of the round is no longer in question).
+
+
+=== Expose the strategy
+
+When:
+
+a. at least half of the tricks have been played, or
+b. *either* team has taken at least 5 point cards *by itself*,
+
+whichever comes first, the Captain’s opponents may turn over and expose the Strategy card.
+
+.Example
+====
+In a 4-player game, the Captain and their partner have taken 4 point cards in total, and their opponents have also taken 4 point cards in total.
+The opponents can turn over the Strategy card once either team takes at least one more point card, or after 7 tricks have been played, whichever comes first.
+====
+
+
+=== Winning the round
+
+* If the Captain’s team chose the *Butterfly*:
++
+--
+** the Captain’s team wins the round if they took 4 point cards or less in total;
+** the opposing team wins the round if they took between 0 and 8 point cards in total, inclusive;
+** if the Captain’s team took exactly 5 point cards in total, the round is a *draw*.
+--
++
+[options=autowidth,cols="^.^,^.^,^.^,^.^"]
+|===
+2.+| Captain’s team 2.+| Opposing team
+
+.5+h| Win | *0* | 14 .5+|
+| *1* | 13
+| *2* | 12
+| *3* | 11
+| *4* | 10
+h| Draw | _5_ | _9_ h| Draw
+.9+| | 6 | *8*  .9+h| Win
+| 7 | *7*
+| 8 | *6*
+| 9 | *5*
+| 10 | *4*
+| 11 | *3*
+| 12 | *2*
+| 13 | *1*
+| 14 | *0*
+|===
+
+* If the Captain’s team chose the *Wolf*:
++
+--
+** the Captain’s team wins the round if they took 10 point cards or more in total;
+** the opposing team wins the round if they took between 6 and 14 point cards in total, inclusive;
+** if the Captain’s team took exactly 9 point cards in total, the round is a *draw*.
+--
++
+[options=autowidth,cols="^.^,^.^,^.^,^.^"]
+|===
+2.+| Captain’s team 2.+| Opposing team
+
+.9+| | 0 | *14*  .9+h| Win
+| 1 | *13*
+| 2 | *12*
+| 3 | *11*
+| 4 | *10*
+| 5 | *9*
+| 6 | *8*
+| 7 | *7*
+| 8 | *6*
+h| Draw | _9_ | _5_ h| Draw
+.5+h| Win | *10* | 4 .5+|
+| *11* | 3
+| *12* | 2
+| *13* | 1
+| *14* | 0
+|===
+
+
+== Scoring
+
+1. If the Captain’s team won the round, the Captain’s team receives *3 points*. +
+If the opposing team won the round, the opposing team receives *2 points*. +
+If the round was a draw, neither team receives points.
+
+2. If the Captain’s team chose the Butterfly and took no point cards, they also receive *1 bonus point*. +
+If the Captain’s team chose the Wolf and took all 14 point cards, they also receive *2 bonus points*.
+
+3. Players do not score points for the number of point cards they took.
+
+
+== Tips
+
+1. The Captain’s opponents should generally “break” the point suit as early as possible.
+This lets them see whether the Captain and their partner are trying to take or to avoid point cards.
+2. If the Captain chooses the Wolf, their partner should generally pass their highest cards (often of the point suit) to the Captain.
+3. If the Captain chooses the Butterfly, and the only point suit cards of their partner all have high numbers, such as 12, 13 and 14, the partner should consider passing some of these cards to the Captain.
+
+
+== Rules for 5 players
+
+1. The last card is not dealt.
+It is set aside, face down.
+
+2. The teams change every round.
+The Captain’s partner is the player sitting 3 seats to the Captain’s left, with whom the Captain exchanges 2 cards, as described above.
+The other 3 players play as a team against the Captain and their partner.
++
+The player to the Captain’s left passes 2 cards face down to the player sitting to the Captain’s right, who then passes 2 different cards face down in return.
+The remaining player, sitting 2 seats to the Captain’s left, adds the card that was not dealt to their hand, and then discards any one card (even the card they just added to their hand).
++
+After all the cards have been passed, the discarded card is turned face up and set aside: it is not played.
+
+3. If ♠1 is the discarded face-up extra card, ♠2 leads the first trick (or, if ♠ is the point suit and ♥1 is the extra card, ♥2 leads the first trick).
+
+4. At the end of the round, after all the tricks have been played, the Captain can choose whether or not to include the extra card (if it is a point card) in the total of point cards of their team.
+
+5. The scores are recorded as above, but each player (instead of each team) receives the points: for example, the Captain’s opponents each receive 2 points for winning the round.
+
+6. Every 5 rounds (after each player has been the dealer once), randomly change the seating order of all the players, by drawing for seats again.
+New teams will almost certainly result.
++
+The player with the lowest score becomes the next dealer (if 2 or more players are tied for the lowest score, the youngest of them becomes the dealer).
+The deal then passes clockwise.
+
+
+== Winning the game
+
+The game ends when a team has scored at least 12 points or, in a 5-player game, when a player has scored at least 10 points (a 5-player game can end in a tie).
+
+The team (or the player) with the highest score wins!

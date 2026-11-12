@@ -1,0 +1,223 @@
+= Don!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 30 cartes numérotées : 0-9 à ♠, ♥ & ♣.
+* 12 cartes Monnaie par joueur·euse :
+** 3 joueur·euse·s : 36 cartes, 1-12 à ♦, ✿ & ★.
+** 4 joueur·euse·s : 48 cartes, ajoutez 13-18, J, Q, S & 3 K à ♦.
+** 5 joueur·euse·s : 60 cartes, ajoutez 13-18, J, Q, S & 3 K à ★.
+** 6 joueur·euse·s : 72 cartes, ajoutez 0♦, 0✿, J✿, Q✿, 3 K✿, 0★, 19-21★ & C★.
+* _Variante Serengeti_ : 1 carte Monnaie de plus par joueur·euse, 1-3 à ⎈ à 3 joueur·euse·s, 1-4 à 4 joueur·euse·s, 1-5 à 5 joueur·euse·s, 1-6 à 6 joueur·euse·s.
+****
+
+Les cartes numérotées sont vendues aux enchères entre les joueur·euse·s, par lots de 1, 2 ou 3 cartes.
+Marquez le plus de points en achetant des cartes numérotées, de préférence beaucoup de la même couleur.
+
+[CAUTION]
+====
+Dans ces règles, une « *Carte* » désigne une carte numérotée face visible, tandis que la « *Monnaie* » désigne les cartes Monnaie face cachée.
+Les cartes Monnaie sont toujours utilisées face cachée, quelles que soient leur couleur et leur valeur : chacune vaut 1 monnaie.
+====
+
+
+== Mise en place
+
+Tirez au sort la personne qui commence.
+Elle mélange les cartes numérotées, puis les pose face cachée au centre de la table : c'est la pioche.
+Chaque joueur·euse prend 12 monnaies.
+Pendant la partie, vous pouvez garder secret le montant de votre monnaie.
+
+
+== Déroulement de la partie
+
+La partie se joue en 15 tours, chaque tour se déroulant en deux phases :
+
+. Révéler des cartes.
+. Mettre ces cartes aux enchères.
+
+Après 15 tours, toutes les cartes ont été vendues.
+
+
+=== 1. Révéler des cartes
+
+À chaque tour, un nombre différent de cartes est révélé : une carte au premier tour, deux cartes au deuxième tour, trois cartes au troisième tour, puis on recommence.
+Soit : 1 - 2 - 3 - 1 - 2 - 3 - et ainsi de suite.
+
+
+=== 2. Mettre ces cartes aux enchères
+
+Les cartes révélées sont maintenant vendues ensemble, en un seul lot.
+La personne qui commence fait la première offre, du montant de son choix.
+La personne suivante dans le sens horaire doit faire une offre plus élevée ou se retirer de cette enchère.
+Puis la personne suivante dans le sens horaire surenchérit ou se retire, et ainsi de suite.
+Une personne qui s'est retirée d'une enchère ne peut plus y prendre part.
+Quand tout le monde sauf une personne s'est retiré, la personne qui a fait la meilleure offre place les cartes face visible devant elle, puis paie le montant de son offre.
+
+Si personne ne fait d'offre pour le lot, la personne qui commence prend ces cartes gratuitement.
+
+
+[#bid-restrictions]
+==== Restrictions sur les offres
+
+Vous ne pouvez pas offrir plus que vous ne pouvez payer.
+Si vous le faites, vous devez, en pénalité, défausser l'une des cartes que vous avez remportées : cette carte est retirée du jeu.
+Les cartes révélées sont alors remises aux enchères, et vous ne pouvez pas participer à cette enchère.
+
+Une restriction importante s'applique aux offres : vous ne pouvez pas faire une offre qui correspond aux numéros des cartes que vous avez déjà remportées.
+Cela comprend toute offre à deux chiffres dont le dernier chiffre correspond à ces numéros.
+
+Quiconque fait une telle offre doit payer 1 monnaie au Pot en pénalité (s'il lui reste de la monnaie), même en se corrigeant immédiatement.
+L'offre incorrecte est retirée, et la personne doit faire une nouvelle offre ou passer.
+
+.Offres possibles
+====
+Anke possède des cartes avec les numéros 4 et 6.
+Anke ne peut donc pas offrir 4, 6, 14, 16, et ainsi de suite.
+====
+
+Ce sont les seules restrictions : l'offre d'ouverture et les relances peuvent être de n'importe quel montant.
+
+
+=== Qui reçoit la monnaie ?
+
+Une fois le prix d'un lot fixé, il faut déterminer qui reçoit la monnaie.
+Deux éléments entrent en jeu : l'offre gagnante, et les numéros des cartes que les joueur·euse·s ont déjà remportées.
+Si l'offre correspond au numéro d'une carte que vous possédez, vous recevez une part de la monnaie.
+
+.Distribution à une seule personne
+====
+Anke achète un lot pour 7 monnaies.
+Bert possède la seule carte avec le numéro 7 : Bert prend donc les 7 monnaies d'Anke.
+====
+
+Les personnes qui possèdent le même nombre de cartes avec le numéro correspondant reçoivent une part égale de l'offre gagnante.
+
+.Distribution à plusieurs personnes
+====
+Dieter achète deux cartes pour 9 monnaies.
+Anke, Bert et Claus possèdent chacun·e une carte avec le numéro 9.
+Dieter paie 3 monnaies à chacun·e : Anke, Bert et Claus.
+====
+
+Une personne qui possède plus de cartes avec le numéro correspondant que toutes les autres reçoit à elle seule toute l'offre gagnante.
+
+.Distribution à la majorité
+====
+Anke achète une carte pour 8 monnaies.
+Bert possède deux cartes avec le numéro 8, et Claus une.
+Les 8 monnaies vont à Bert, qui possède plus de cartes avec le numéro 8 que Claus.
+====
+
+Si personne ne possède de carte avec le numéro correspondant, la monnaie est partagée équitablement entre tous les joueur·euse·s sauf l'acheteur ou l'acheteuse.
+
+.Distribution équitable
+====
+Anke achète une carte pour 6 monnaies.
+Personne ne possède de carte avec le numéro 6 : la monnaie est donc partagée équitablement entre tous les joueur·euse·s sauf Anke.
+====
+
+IMPORTANT: La personne qui remporte l'enchère ne reçoit jamais rien de la monnaie distribuée.
+
+
+==== Numéros à deux chiffres
+
+Si l'offre gagnante est un nombre à deux chiffres, c'est son dernier chiffre qui détermine la distribution de la monnaie.
+Ainsi, pour une offre de 14, le numéro à faire correspondre est 4 ; pour une offre de 10, c'est 0 ; et ainsi de suite.
+
+.Distribution à deux chiffres
+====
+Claus achète trois cartes pour 12 monnaies.
+Bert possède la seule carte avec un 2.
+Comme seul le dernier chiffre compte pour les offres à deux chiffres, Bert reçoit les 12 monnaies.
+====
+
+
+==== Restes
+
+L'offre ne peut pas toujours être divisée équitablement.
+Dans ce cas, arrondissez à l'inférieur pour distribuer la monnaie équitablement.
+Placez la monnaie restante au centre de la table (dans le Pot) : elle est distribuée avec le paiement de la prochaine enchère.
+
+.Distribution avec un reste
+====
+Anke doit payer 13 monnaies à Bert et Claus.
+Bert et Claus reçoivent 6 monnaies par personne, et la monnaie restante va dans le Pot.
+Au tour suivant, Bert doit payer 9 monnaies à Anke et Claus.
+Avec la monnaie du Pot, chacun·e reçoit 5 monnaies.
+====
+
+
+== Tour suivant
+
+La personne qui a remporté l'enchère commence le tour suivant.
+Répétez les deux phases : révéler des cartes, puis les mettre aux enchères.
+
+
+== Enchères annexes
+
+Si vous manquez de monnaie, vous pouvez vendre l'une de vos cartes, et une seule, dans une enchère annexe.
+Faites-le au début d'un tour, avant de révéler de nouvelles cartes.
+Comme vous vendez l'une de vos propres cartes, vous recevez toute la monnaie.
+
+
+== Fin de la partie
+
+Une fois toutes les cartes vendues, les joueur·euse·s marquent des points.
+Plus vous avez de cartes de la même couleur, plus vous marquez de points :
+
+* 1 carte d'une couleur : 1 point.
+* 2 cartes de la même couleur : 3 points.
+* 3 cartes de la même couleur : 6 points.
+* 4 cartes de la même couleur : 10 points.
+* 5 cartes de la même couleur : 15 points.
+* La personne qui a le plus de monnaie marque 2 points.
+Si plusieurs personnes sont à égalité pour le plus de monnaie, chacune marque 2 points.
+
+La personne qui a le plus de points l'emporte.
+En cas d'égalité, la personne à égalité dont les cartes ont la plus grande somme de numéros l'emporte.
+
+
+== Variantes
+
+=== Invasions
+
+Au début de chaque tour, avant de révéler de nouvelles cartes, jouez une phase d'Échange supplémentaire.
+(Au début de la partie, personne ne possède de cartes : sautez cette phase.)
+
+La personne qui commence joue en premier et annonce si elle échange une carte.
+Si oui, elle prend une carte à un·e adversaire et la pose devant elle, puis donne à cet·te adversaire l'une de ses propres cartes.
+L'adversaire ne peut pas s'y opposer.
+Puis la personne suivante dans le sens horaire peut échanger, et ainsi de suite.
+Une fois que tout le monde a eu la possibilité d'échanger, au plus une fois par tour, révélez les nouvelles cartes.
+
+Les personnes qui ont échangé une carte (mais pas celles qui ont subi un échange) ne peuvent pas participer à l'enchère de ce tour !
+Si tout le monde a échangé une carte, il n'y a pas d'enchère, et la personne qui commence prend gratuitement les cartes révélées.
+
+
+=== Serengeti
+
+Cette variante suit les règles de Serengeti, la nouvelle édition de Don!
+
+* Chaque joueur·euse commence avec 10 monnaies (au lieu de 12).
+Les cartes Monnaie restantes, 3 par joueur·euse, forment la banque.
+* Chaque fois que vous passez sans avoir fait d'offre pour le lot, prenez 2 monnaies à la banque (ou ce qu'il reste dans la banque, si elle en contient moins).
+* L'offre gagnante est distribuée proportionnellement : divisez-la par le nombre de cartes avec le numéro correspondant, en arrondissant à l'inférieur ; chaque propriétaire reçoit ce montant pour chaque carte correspondante qu'elle ou il possède.
+La monnaie restante va à la banque.
++
+.Distribution proportionnelle
+====
+Anke achète une carte pour 8 monnaies.
+Bert possède deux cartes avec le numéro 8, et Claus une.
+Bert reçoit 4 monnaies, et Claus 2.
+Les 2 monnaies restantes vont à la banque.
+====
+* La pénalité pour une offre incorrecte (voir <<bid-restrictions>>) est payée à la banque.
+* La personne qui a le plus de monnaie à la fin de la partie marque 3 points (au lieu de 2).
+* En cas d'égalité aux points, la personne à égalité qui a le plus de cartes l'emporte.
+S'il y a toujours égalité, la personne à égalité qui a le plus de monnaie l'emporte.
