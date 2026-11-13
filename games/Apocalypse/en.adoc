@@ -1,0 +1,214 @@
+= Apocalypse
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 27 Horseman cards: 1-4 & 6-10 in ♠, ♥ & ♣.
+** With 3 players or more, 9 more Horseman cards: 1-4 & 6-10 in ♦.
+** With 5 or 6 players, 9 more Horseman cards: 1-4 & 6-10 in ★.
+* 3 Apocalypse cards: the A in ♠, ♥ & ♣, plus ♦A with 3 players or more, and ★A with 5 or 6 players.
+* 3 Chaos cards: 3 Wolves (one Wolf per player with 4 to 6 players).
+* 3 Tranquility cards: 3 Butterflies (one Butterfly per player with 4 to 6 players).
+* Paper and a pencil to keep the score.
+****
+
+[quote]
+.Revelation 6:7-8
+____
+And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.
+And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him.
+And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.
+____
+
+Apocalypse is a trick-taking game where the goal is to score the fewest points.
+Each round, you play cards and influence the Apocalypse cards at the center of the table.
+Watch them carefully: if they are all flipped, the rules change and the round descends into chaos!
+
+[CAUTION]
+====
+The Horseman cards have no 5: only the Chaos cards (Wolves) are worth 5.
+The Apocalypse cards are the A cards: they are never dealt nor played, only flipped face down and face up.
+====
+
+
+== Setup
+
+. In a 3 or 4-player game, leave the 9 Horseman cards of ★ in the box.
+You will only be using 4 suits.
+. Place the Apocalypse cards of the suits used for the game (their A) in the middle of the table, face up.
+. The player who most recently rode a horse becomes the first player.
+
+
+== Game structure
+
+A game takes place over the course of 3 rounds.
+Each round is divided into tricks and ends when at least one player has no cards left in their hand.
+
+
+[#game-flow]
+=== Game flow
+
+. Shuffle the Horseman cards and deal a certain number to each player, depending on the number of players:
+** 3 players: 10 Horseman cards.
+** 4 players: 8 Horseman cards.
+** 5 players: 8 Horseman cards.
+** 6 players: 7 Horseman cards.
+. Give each player 1 Chaos card (a Wolf) and 1 Tranquility card (a Butterfly).
+
+These Horseman and Special cards form each player's hand.
+The remaining cards are set aside.
+They will not be used this round.
+
+
+=== Flow of a trick
+
+. Each trick is played clockwise, starting with the first player: they choose any card from their hand and play it on the table, face up.
+.. If the card is a Horseman card, its suit becomes the leading suit.
+... In turn order, each player must play one card from their hand, face up.
+... If a player has one or more Horseman cards of the leading suit, they *must* play one of them (or a Special card, see <<special-cards>>).
+However, if a player has no card of the leading suit in their hand, they must play a card of their choice from their hand.
+.. If the trick's first card is a Special card (Chaos or Tranquility), the leading suit is not yet determined.
+If the 2nd player also plays a Special card, the leading suit will be the suit of the next Horseman card played during the trick (see <<special-cards>>).
+
+IMPORTANT: The leading suit is *always* determined by the first Horseman card played during a trick.
+
+
+[#apocalypse-cards]
+=== Apocalypse cards
+
+When a Horseman card is played (or a Chaos card, see <<special-cards>>), immediately flip the Apocalypse card of the corresponding suit face down.
+If this card is already face down, do not flip it.
+
+As soon as all the Apocalypse cards are face down, the current trick becomes an Apocalypse.
+After resolving an Apocalypse, flip all the Apocalypse cards face up.
+
+
+=== Trick resolution
+
+==== Regular trick
+
+The player who played the highest-valued card of the leading suit wins the trick.
+They win the card they played and put it face down in front of them.
+All the other played cards are put face down in a discard pile.
+
+
+==== Apocalypse trick
+
+The player who played the *lowest*-valued card of the leading suit wins the trick.
+They win *all* the cards played during the trick and place them face down in front of them.
+
+
+=== Next trick
+
+After resolving the trick, the winner of the trick chooses who becomes the first player to open the following trick.
+They may choose themselves as the next first player.
+
+
+[#end-of-a-round]
+== End of a round
+
+If one or more players have no cards left in hand after a trick is resolved, proceed to scoring for the round.
+
+It is possible that one or more players may still have one or two Special cards in hand, because these cards could not be played during the round (see <<special-cards>>).
+
+
+=== Scoring
+
+* Each Horseman card you win is worth points equal to its face value, from 1 to 10.
+* Each Chaos card (Wolf) you win is worth 5 points.
+* Tranquility cards (Butterflies) won do not score any points.
+* If a player has Special cards remaining in their hand at the end of the round, each of those cards gives them 20 points.
+
+
+=== Next round preparation
+
+. Collect all Horseman cards, shuffle them and proceed to the round setup (see <<game-flow>>).
+. Collect all Special cards and deal 1 Chaos card and 1 Tranquility card to each player.
+. The player with the most total points chooses the next first player (they can choose themselves).
+In case of a tie for most points, the player who won the last trick chooses the first player.
+
+IMPORTANT: The state of the Apocalypse cards is *not* reset between rounds: if an Apocalypse card is face down, it stays that way.
+
+
+[#special-cards]
+== Special cards
+
+During a trick, the Chaos and Tranquility Special cards can always be played, even if the player has one or more cards of the leading suit in their hand.
+
+However, there can be only *one* Chaos card and *one* Tranquility card in play at any given time during a trick.
+A player may, for example, find themselves unable to play if they only have Special cards in hand and these have already been played during this trick.
+They must then skip their turn.
+Special cards remaining in hand at the end of the round give points to the player (see <<end-of-a-round>>).
+
+
+=== Chaos card (Wolf)
+
+When a player plays their Chaos card, they *must* flip the Apocalypse card of their choice face down.
+If it was the last one, it triggers an Apocalypse.
+If all Apocalypse cards are already face down, they do not flip any.
+
+During trick resolution, the Chaos card has a value of 5 and is *always* considered to be of the leading suit.
+
+
+=== Tranquility card (Butterfly)
+
+This card has *no* value and *no* suit.
+A player playing the Tranquility card can never win the current trick.
+
+
+== End of the game
+
+After the scoring of the 3rd round, the player with the fewest total points wins the game.
+In case of a tie, tied players share their victory.
+
+
+== Example of a trick
+
+====
+During a 4-player game, at the beginning of the trick, the ♠A Apocalypse card is face down, and ♥A, ♣A and ♦A are face up.
+
+. Anna opens the trick with ♥8.
+Anna immediately flips ♥A face down.
+. Barry chooses to play their Chaos card (a Wolf).
+They can either flip ♣A or ♦A face down.
+They choose to flip ♦A.
+. Camilla, fearing that an Apocalypse is about to trigger, chooses to play their Tranquility card (a Butterfly), even though they have a ♥ card in their hand.
+. David doesn't have any ♥ cards in their hand.
+They choose to play ♣4.
+They then flip ♣A, which was the last remaining Apocalypse card, triggering an Apocalypse.
+
+*Trick resolution*
+
+Since it is an Apocalypse trick, the lowest-valued card of the leading suit wins the trick.
+
+Camilla cannot win the trick, since they played their Tranquility card.
+David cannot win either, since they played a Horseman card of a suit different from the leading suit.
+
+Barry played a card with a value of 5 in the leading suit (a Chaos card is always considered of the leading suit, even if an Apocalypse card of a different suit is flipped).
+Therefore, Barry wins the trick and, since it was an Apocalypse trick, they win all 4 cards that were played in the trick and place them face down in front of them.
+These cards will give them 8 + 5 + 0 + 4 points at the end of the round.
+
+All the Apocalypse cards are then flipped face up.
+Finally, Barry chooses which player becomes the first player.
+They choose Camilla, who will start the next trick.
+====
+
+
+[#duel]
+== Duel variant (2 players)
+
+=== Initial setup
+
+. Leave the 9 Horseman cards of ♦ and of ★ in the box, along with ♦A and ★A.
+. Shuffle the 27 remaining Horseman cards along with 3 Tranquility cards (Butterflies) and 3 Chaos cards (Wolves).
+. Deal 13 cards to each player and set aside the rest of the deck.
+
+
+=== Duel basics
+
+The regular rules from the base game apply.
+The Duel variant differs in how scoring works.
+At the end of a round, if a player scored *more than twice* as many points as their opponent, both players swap their scores for the round.

@@ -1,0 +1,216 @@
+= Apocalypse
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 27 cartes Cavalier : 1-4 & 6-10 à ♠, ♥ & ♣.
+** À partir de 3 joueur·euse·s, 9 cartes Cavalier de plus : 1-4 & 6-10 à ♦.
+** À 5 ou 6 joueur·euse·s, 9 cartes Cavalier de plus : 1-4 & 6-10 à ★.
+* 3 cartes Apocalypse : les A à ♠, ♥ & ♣, plus A♦ à partir de 3 joueur·euse·s, et A★ à 5 ou 6 joueur·euse·s.
+* 3 cartes Chaos : 3 Loups (un Loup par joueur·euse de 4 à 6 joueur·euse·s).
+* 3 cartes Tranquillité : 3 Papillons (un Papillon par joueur·euse de 4 à 6 joueur·euse·s).
+* Du papier et un crayon pour noter les scores.
+****
+
+[quote]
+.Apocalypse 6 : 7-8
+____
+Quand il ouvrit le quatrième sceau, j’entendis la voix du quatrième être vivant qui disait : Viens.
+Je regardai, et voici, parut un cheval d’une couleur pâle.
+Celui qui le montait se nommait la mort, et le séjour des morts l’accompagnait.
+Le pouvoir leur fut donné sur le quart de la terre, pour faire périr les hommes par l’épée, par la famine, par la mortalité, et par les bêtes sauvages de la terre.
+____
+
+Apocalypse est un jeu de plis dans lequel le but est de faire moins de points que ses adversaires.
+À chaque manche, vous jouez vos cartes et influencez les cartes Apocalypse au centre de la table.
+Surveillez-les bien, car si elles sont toutes retournées, les règles changent et la manche bascule dans le chaos !
+
+[CAUTION]
+====
+Les cartes Cavalier n’ont pas de 5 : seules les cartes Chaos (les Loups) valent 5.
+Les cartes Apocalypse sont les cartes A : elles ne sont jamais distribuées ni jouées, seulement retournées face cachée et face visible.
+====
+
+
+== Mise en place
+
+. Dans une partie à 3 ou 4 joueur·euse·s, laissez les 9 cartes Cavalier ★ dans la boîte.
+Vous n’utiliserez que 4 couleurs.
+. Disposez les cartes Apocalypse correspondant aux couleurs utilisées (leurs A) au centre de la table, face visible.
+. La personne ayant monté à cheval le plus récemment devient le ou la premier·ère joueur·euse.
+
+
+== Structure d’une partie
+
+La partie se déroule en 3 manches.
+Chaque manche est divisée en plis et se termine lorsqu’au moins un·e joueur·euse n’a plus de cartes en main.
+
+
+[#game-flow]
+=== Déroulement d’une manche
+
+. Mélangez les cartes Cavalier et distribuez-en à chaque joueur·euse selon le nombre de joueur·euse·s :
+** 3 joueur·euse·s : 10 cartes Cavalier.
+** 4 joueur·euse·s : 8 cartes Cavalier.
+** 5 joueur·euse·s : 8 cartes Cavalier.
+** 6 joueur·euse·s : 7 cartes Cavalier.
+. Distribuez à chaque joueur·euse 1 carte Chaos (un Loup) et 1 carte Tranquillité (un Papillon).
+
+Ces cartes forment la main de chaque joueur·euse.
+Les cartes restantes sont mises de côté.
+Elles ne serviront pas pour cette manche.
+
+
+=== Déroulement d’un pli
+
+. Chaque pli est joué en sens horaire en commençant par le ou la premier·ère joueur·euse : cette personne choisit une carte de sa main et la joue sur la table.
+.. Si la carte jouée est une carte Cavalier, sa couleur devient la couleur demandée.
+... À tour de rôle, chaque joueur·euse doit jouer une carte de sa main.
+... Si vous possédez une ou plusieurs cartes de la couleur demandée, vous devez *obligatoirement* jouer l’une d’elles (ou une carte spéciale, voir <<special-cards>>).
+Cependant, si vous n’avez aucune carte de la couleur demandée, vous pouvez jouer la carte de votre choix.
+.. Si la première carte du pli est une carte spéciale (Chaos ou Tranquillité), la couleur demandée n’est pas encore définie.
+Si la 2^e^ personne joue également une carte spéciale, la couleur demandée sera celle de la prochaine carte Cavalier jouée durant le pli (voir <<special-cards>>).
+
+IMPORTANT: La couleur demandée est *toujours* celle de la première carte Cavalier qui est jouée durant le pli.
+
+
+[#apocalypse-cards]
+=== Cartes Apocalypse
+
+Lorsqu’une carte Cavalier est jouée (ou une carte Chaos, voir <<special-cards>>), retournez immédiatement face cachée la carte Apocalypse de la couleur correspondante.
+Si cette carte est déjà face cachée, rien ne se passe.
+
+Dès que toutes les cartes Apocalypse ont été retournées face cachée, le pli en cours devient une Apocalypse.
+Après la résolution d’une Apocalypse, les cartes Apocalypse sont retournées face visible.
+
+
+=== Résolution d’un pli
+
+==== Pli normal
+
+La personne ayant joué la carte de la plus haute valeur de la couleur demandée remporte le pli.
+Elle récupère la carte qu’elle a jouée et la place devant elle, face cachée.
+Les autres cartes jouées sont défaussées face cachée et mises à l’écart du jeu.
+
+
+==== Apocalypse
+
+La personne ayant joué la carte de la plus *faible* valeur de la couleur demandée remporte le pli.
+Elle récupère *toutes* les cartes du pli et les place faces cachées devant elle.
+
+
+=== Début du prochain pli
+
+Après la résolution, la personne qui a remporté le pli désigne le ou la nouvel·le premier·ère joueur·euse qui ouvrira le prochain pli.
+Elle peut se désigner elle-même.
+
+
+[#end-of-a-round]
+== Fin d’une manche
+
+Si un·e ou plusieurs joueur·euse·s n’ont plus de cartes en main après la résolution d’un pli, procédez au décompte des points pour la manche.
+
+Il est possible qu’un·e ou plusieurs joueur·euse·s aient encore une ou deux cartes spéciales en main, parce que ces cartes n’ont pas pu être jouées durant la manche (voir <<special-cards>>).
+
+
+=== Points marqués
+
+* Chaque carte Cavalier récupérée accorde un nombre de points équivalent à sa valeur numérique (entre 1 et 10 points).
+* Chaque carte Chaos (Loup) récupérée accorde 5 points.
+* Les cartes Tranquillité (Papillons) récupérées n’accordent aucun point.
+* Si un·e joueur·euse a encore des cartes spéciales en main à la fin de la manche, chacune de ces cartes lui accorde 20 points.
+
+
+=== Préparation de la nouvelle manche
+
+. Récupérez et mélangez les cartes Cavalier, puis préparez une nouvelle manche (voir <<game-flow>>).
+. Récupérez les cartes spéciales, puis donnez 1 carte Chaos et 1 carte Tranquillité à chaque joueur·euse.
+. La personne avec le plus de points choisit le ou la prochain·e premier·ère joueur·euse, elle-même incluse.
+En cas d’égalité, la personne qui a remporté le dernier pli choisit.
+
+IMPORTANT: L’état des cartes Apocalypse n’est *pas* réinitialisé entre les manches : si une carte Apocalypse est face cachée, elle le reste !
+
+
+[#special-cards]
+== Cartes spéciales
+
+Lors d’un pli, les cartes spéciales Chaos et Tranquillité peuvent être jouées même si vous possédez une carte de la couleur demandée en main.
+
+Toutefois, une *seule* carte Chaos et une *seule* carte Tranquillité peuvent être jouées durant un même pli.
+Vous pouvez, par exemple, vous retrouver dans l’impossibilité de jouer si vous n’avez que des cartes spéciales en main et que celles-ci ont déjà été jouées durant ce pli.
+Vous devez alors passer votre tour.
+Les cartes spéciales gardées en main à la fin d’une manche accordent des points (voir <<end-of-a-round>>).
+
+
+=== Carte Chaos (Loup)
+
+Lorsque vous jouez la carte Chaos, vous *devez* retourner face cachée une carte Apocalypse de votre choix.
+S’il s’agit de la dernière, cela déclenche une Apocalypse.
+Si toutes les cartes Apocalypse sont déjà face cachée, vous n’en retournez aucune.
+
+À la résolution du pli, cette carte a une valeur de 5, et elle est *toujours* considérée comme étant de la couleur demandée.
+
+
+=== Carte Tranquillité (Papillon)
+
+Cette carte n’a *aucune* valeur ni couleur.
+La personne qui a joué la carte Tranquillité ne peut pas remporter le pli en cours.
+
+
+== Fin de partie
+
+Après le décompte de la 3^e^ manche, la personne qui a cumulé le moins de points remporte la partie.
+En cas d’égalité, la victoire est partagée.
+
+
+== Exemple d’un pli
+
+====
+Lors d’une partie à 4 joueur·euse·s, au début du pli, la carte Apocalypse A♠ est face cachée, et A♥, A♣ et A♦ sont face visible.
+
+. Anna ouvre le pli avec 8♥.
+Anna retourne immédiatement A♥ face cachée.
+. Bernard décide de jouer sa carte Chaos (un Loup).
+Bernard a le choix entre retourner face cachée A♣ ou A♦.
+Bernard choisit de retourner A♦.
+. Cécile, sentant qu’une Apocalypse est sur le point de se déclencher, décide de jouer sa carte Tranquillité (un Papillon), même s’il lui reste une carte ♥ en main.
+. Damien n’a plus de carte ♥ en main.
+Damien décide de jouer 4♣.
+Cela retourne du même coup la dernière carte Apocalypse, A♣, et déclenche une Apocalypse.
+
+*Résolution du pli*
+
+Puisqu’il s’agit d’une Apocalypse, la carte de la couleur demandée qui a la plus petite valeur remporte le pli.
+
+Cécile ne peut remporter le pli, puisque Cécile a joué sa carte Tranquillité.
+Damien ne peut pas non plus remporter le pli, puisque Damien a joué une carte Cavalier d’une autre couleur.
+
+Bernard a joué une carte de valeur 5 de la couleur demandée (une carte Chaos est toujours de la couleur demandée, même si on retourne une carte Apocalypse d’une couleur différente).
+Bernard remporte donc le pli et, puisqu’il s’agit d’une Apocalypse, récupère les 4 cartes jouées durant ce pli et les place devant lui, face cachée.
+Elles lui accorderont 8 + 5 + 0 + 4 points en fin de manche.
+
+Les cartes Apocalypse sont ensuite retournées face visible.
+Enfin, Bernard détermine qui ouvrira le prochain pli.
+Bernard désigne Cécile, qui ouvrira le prochain pli.
+====
+
+
+[#duel]
+== Variante Duel (2 joueur·euse·s)
+
+=== Mise en place initiale
+
+. Laissez dans la boîte les 9 cartes Cavalier ♦ et les 9 cartes Cavalier ★, ainsi que A♦ et A★.
+. Mélangez les 27 cartes Cavalier restantes ainsi que 3 cartes Tranquillité (Papillons) et 3 cartes Chaos (Loups).
+. Distribuez 13 cartes à chaque joueur·euse et mettez de côté les cartes restantes.
+
+
+=== Principe du jeu
+
+Les règles du jeu de base s’appliquent.
+La différence réside dans le décompte des points.
+À la fin de la manche, si un·e joueur·euse obtient *plus du double* de points que son adversaire, les scores de la manche sont échangés entre les 2 joueur·euse·s.

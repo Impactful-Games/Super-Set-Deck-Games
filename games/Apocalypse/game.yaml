@@ -1,0 +1,22 @@
+bggId: 470482
+authors: Yoriyasu Harano
+type:
+  - Trick Taking
+players: 2, 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-4, 6-10, A
+      hearts: 1-4, 6-10, A
+      clubs: 1-4, 6-10, A
+      specials: Wolf*3, Butterfly*3
+    3-6-players:
+      diamonds: 1-4, 6-10, A
+    4-players:
+      specials: Wolf*4, Butterfly*4
+    5,6-players:
+      stars: 1-4, 6-10, A
+    5-players:
+      specials: Wolf*5, Butterfly*5
+    6-players:
+      specials: Wolf*6, Butterfly*6
