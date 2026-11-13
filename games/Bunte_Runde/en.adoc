@@ -1,0 +1,64 @@
+= Bunte Runde
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 36 cards: 1-6 in ♠, ♥, ♣, ♦, ✿ & ★.
+** _Short game_: only 25 of them, 1-5 in ♠, ♥, ♣, ♦ & ✿.
+* 1 pawn: the Monkey.
+* Paper and a pencil to keep the score.
+****
+
+Cards of 6 suits and 6 values are laid out in a circle, and the players take them one by one.
+When a suit or a value has been completely taken, every player who has one or more cards of it scores points.
+By skillfully moving the pawn, you try to take the cards that bring the most points.
+
+Younger players may prefer the short game, with 25 cards of 5 suits and 5 values.
+The rules are the same, but the game is more concise and shorter.
+
+TIP: Instead of the Monkey, you can use any small object as a pawn: a key, a bottle cap…
+
+
+== Setup
+
+. Choose to play the normal game, with the 36 cards, or the short game, with the 25 cards 1-5 in ♠, ♥, ♣, ♦ & ✿.
+The other cards are not needed.
+. Shuffle the cards and lay them out face up in a circle.
+. Place the pawn on any card of the circle.
+. Take a sheet of paper and a pencil to write down the scores.
+
+
+== Playing the game
+
+The youngest player begins.
+You take turns in clockwise order.
+
+On your turn, move the pawn one, two or three cards forward, clockwise along the circle.
+**Skip the gaps**: count only the cards still in the circle.
+Then take the card the pawn has landed on and place it face up in front of you, so that it is visible to all players.
+The pawn stays in the gap left by that card.
+
+
+[#scoring]
+== Scoring
+
+=== Basic scoring
+
+When you take the last card of a suit (for example the last ♦ card) *or* the last card of a value (for example the last 3), the game is interrupted and a scoring takes place.
+
+Every player who has cards of this suit or value in front of them scores 1 point for each of these cards.
+Each scoring thus awards 6 points in all (5 in the short game).
+
+
+=== Double scoring
+
+If the card you take is the last one of its suit *and* the last one of its value, there is a double scoring: 6 (or 5) points are awarded for its suit, and 6 (or 5) for its value.
+
+
+== End of the game
+
+The game ends as soon as the total of the points scored by all the players reaches 36 (25 in the short game) or more.
+The player with the most points wins.

@@ -1,0 +1,65 @@
+= Bunte Runde
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 36 cartes : 1-6 à ♠, ♥, ♣, ♦, ✿ & ★.
+** _Partie courte_ : seulement 25 d’entre elles, 1-5 à ♠, ♥, ♣, ♦ & ✿.
+* 1 pion : le Singe.
+* Du papier et un crayon pour noter les scores.
+****
+
+Des cartes de 6 couleurs et de 6 valeurs sont disposées en cercle, et les joueur·euse·s les prennent une à une.
+Lorsqu’une couleur ou une valeur a été entièrement prise, chaque joueur·euse qui en possède une ou plusieurs cartes marque des points.
+En déplaçant habilement le pion, vous essayez de prendre les cartes qui rapportent le plus de points.
+
+Les plus jeunes préféreront peut-être la partie courte, avec 25 cartes de 5 couleurs et 5 valeurs.
+Les règles sont les mêmes, mais la partie est plus resserrée et plus courte.
+
+TIP: À la place du Singe, vous pouvez utiliser n’importe quel petit objet comme pion : une clé, une capsule de bière…
+
+
+== Mise en place
+
+. Choisissez de jouer la partie normale, avec les 36 cartes, ou la partie courte, avec les 25 cartes 1-5 à ♠, ♥, ♣, ♦ & ✿.
+Les autres cartes ne servent pas.
+. Mélangez les cartes et disposez-les face visible en cercle.
+. Placez le pion sur n’importe quelle carte du cercle.
+. Prenez une feuille de papier et un crayon pour noter les scores.
+
+
+== Déroulement de la partie
+
+La personne la plus jeune commence.
+Vous jouez chacun·e votre tour, dans le sens des aiguilles d’une montre.
+
+À votre tour, avancez le pion d’une, deux ou trois cartes, dans le sens des aiguilles d’une montre le long du cercle.
+**Sautez les trous** : ne comptez que les cartes encore présentes dans le cercle.
+Prenez ensuite la carte sur laquelle le pion s’est arrêté et placez-la face visible devant vous, à la vue de tou·te·s.
+Le pion reste dans le trou laissé par cette carte.
+
+
+[#scoring]
+== Décompte
+
+=== Décompte simple
+
+Lorsque vous prenez la dernière carte d’une couleur (par exemple la dernière carte ♦) *ou* la dernière carte d’une valeur (par exemple le dernier 3), la partie est interrompue et un décompte a lieu.
+
+Chaque joueur·euse qui a devant soi des cartes de cette couleur ou de cette valeur marque 1 point pour chacune de ces cartes.
+Chaque décompte rapporte donc 6 points en tout (5 dans la partie courte).
+
+
+=== Double décompte
+
+Si la carte que vous prenez est à la fois la dernière de sa couleur *et* la dernière de sa valeur, il y a un double décompte : 6 (ou 5) points sont attribués pour sa couleur, et 6 (ou 5) pour sa valeur.
+
+
+== Fin de la partie
+
+La partie se termine dès que le total des points marqués par l’ensemble des joueur·euse·s atteint 36 (25 dans la partie courte) ou plus.
+La personne qui a le plus de points gagne.

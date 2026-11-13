@@ -1,0 +1,15 @@
+bggId: 20122
+authors: Reiner Knizia
+type:
+  - Set Collection
+players: 2, 3, 4, 5, 6
+cards:
+  Base:
+    all-players:
+      spades: 1-6
+      hearts: 1-6
+      clubs: 1-6
+      diamonds: 1-6
+      florettes: 1-6
+      stars: 1-6
+      specials: Monkey
