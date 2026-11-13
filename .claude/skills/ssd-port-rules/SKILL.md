@@ -30,9 +30,13 @@ Talk to the user in their language; the files follow the conventions below whate
 ## 1. Read the original rules
 
 - Port from the rules the user gives (a file, a text, a URL).
-Without them, find the publisher's official rules, and the official French edition when there is one: its vocabulary is the one French players know.
+Without them, find the publisher's official rules, in English and in French: the French edition's vocabulary is the one French players know.
 If you find neither, ask.
 Do not port from memory: a ported rule must be complete and exact.
+- Ideally, the rules come in both languages, an English rulebook and a French one.
+Then your job is to extract them and port them to the SSD, not to translate: each rule is ported from the rulebook in its own language.
+- **If you only have the rules in one language, ask the user explicitly for permission to translate them**, and offer them the alternative of giving the rulebook in the other language.
+Ask now, together with the mapping validation at the latest, and never write a rule in a language you have no rulebook for without a clear yes.
 - Check that the game is not already in `games/`, by directory and by rule title.
 - List what the mapping needs: the player counts, the variants and expansions, every card with its number of copies, every component that is not a card (tokens, boards, markers, score pads), every card power, and the scoring.
 
@@ -124,7 +128,9 @@ The proper name of an original card is never fine, even in passing ("the Phoenix
 The English and French rules are the same document: same sections in the same order, same IDs, same paragraphs, lists, tables, examples and admonitions.
 Readers switch between them, and a later fix must be made in both: matching structures make both easy.
 
-- Write the rule in one language, then translate it block by block, keeping each paragraph, item and cell aligned.
+- With a rulebook in each language, port each rule from its own rulebook, block by block, keeping each paragraph, item and cell aligned with the other rule.
+Where the two editions differ (a missing example, a reworded rule), follow their common content and tell the user about the difference.
+- With a rulebook in one language only, and only once the user has allowed it (see step 1), write the rule in that language, then translate it block by block, keeping each paragraph, item and cell aligned.
 - IDs (`[#scoring]`) are English kebab-case, identical in both files.
 - Any change to one file is made to the other in the same change.
 
@@ -190,7 +196,7 @@ The link text is the game's English title.
 
 ## 7. Report
 
-Tell the user, in their language: the files created or changed, a reminder of the mapping, the checker's result (and the warnings you left, with why), and anything left to them — an uncertain `bggId`, a printable to make, a new type, a doubt about the original rules.
+Tell the user, in their language: the files created or changed, a reminder of the mapping, which rule was translated rather than ported from its own rulebook (if any), the differences found between the two editions, the checker's result (and the warnings you left, with why), and anything left to them — an uncertain `bggId`, a printable to make, a new type, a doubt about the original rules.
 
 
 ## Editing an existing game
