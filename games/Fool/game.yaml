@@ -1,0 +1,36 @@
+bggId: 256802
+authors: Friedemann Friese
+type:
+  - Trick Taking
+players: 4, 5, 6, 7, 8
+cards:
+  Base:
+    all-players:
+      stars: 0-15
+      spades: 0-11
+      hearts: 0-9
+      clubs: 0-6
+      specials: Butterfly*3, Monkey
+    5-8-players:
+      stars: 0-18
+      spades: 0-14
+      hearts: 0-12
+      clubs: 0-8
+      specials: Butterfly*4
+    6-8-players:
+      stars: 0-18, J, Q, S
+      spades: 0-17
+      hearts: 0-15
+      clubs: 0-10
+      specials: Butterfly*5
+    7,8-players:
+      stars: 0-18, J, Q, S, K, C, A
+      spades: 0-18, J, Q
+      hearts: 0-18
+      clubs: 0-12
+      specials: Butterfly*6, Monkey*2
+    8-players:
+      stars: 0-18, J, Q, S, K, C, A, -‽
+      spades: 0-18, J, Q, S
+      hearts: 0-18, J
+      clubs: 0-13

@@ -1,0 +1,243 @@
+= Fool!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* Suit cards, depending on the number of players (see <<references>>):
+** 4 players: 45 cards, 0-15 in ★, 0-11 in ♠, 0-9 in ♥ & 0-6 in ♣.
+** 5 players: 56 cards, 0-18 in ★, 0-14 in ♠, 0-12 in ♥ & 0-8 in ♣.
+** 6 players: 67 cards, 0-18, J, Q & S in ★, 0-17 in ♠, 0-15 in ♥ & 0-10 in ♣.
+** 7 players: 78 cards, 0-18, J, Q, S, K, C & A in ★, 0-18, J & Q in ♠, 0-18 in ♥ & 0-12 in ♣.
+** 8 players: 82 cards, 0-18, J, Q, S, K, C, A & -‽ in ★, 0-18, J, Q & S in ♠, 0-18 & J in ♥ & 0-13 in ♣.
+* Wild cards: 3 Butterflies with 4 players, 4 with 5 players, 5 with 6 players, 6 with 7 or 8 players.
+* Fool! cards: 1 Monkey (2 Monkeys with 7 or 8 players).
+* Paper and a pencil to keep the score.
+****
+
+In Fool!, you try to get rid of all your cards quickly.
+You do not need to win every trick, but your goal should be to play a card in every trick.
+If you play the *worst card* in a trick, you are befooled!
+You must pass during the next trick and cannot get rid of a card.
+
+
+== Setup
+
+. Take the cards matching your number of players, as shown in its <<references,reference>>: the suit cards, the Butterflies and the Monkeys.
+Put the other cards back in the box.
+. Place the Monkey in the center of the table (both Monkeys with 7 or 8 players).
+. Shuffle the cards and deal them evenly to all players, so that each player receives 12 cards in their hand.
+With 8 players, each player only receives 11 cards.
+. You will need paper and a pencil for scoring.
+. The player to the left of the dealer is the start player of the first round.
+
+
+== Playing the game
+
+In each round, you play several tricks, until one or more players have emptied their hand by playing their last card.
+
+The start player begins the trick by playing any card from their hand.
+The suit of this card is the *lead suit*.
+Following the start player, in clockwise order, each opponent also plays a card.
+If you have a card of the lead suit in your hand, you must play it: this is *following the lead suit*.
+If you have no card of the lead suit in your hand, you are forced to play a card of another suit: this is *shedding a suit*.
+
+The player who played the highest value in the lead suit wins the trick.
+In each suit, the cards all have different values, so there is always a definitive winner of a trick.
+The figures rank above 18, in the order given by the <<references,reference>> of your number of players.
+
+The player who played the *worst card* is befooled!
+They take a Monkey and must sit out and pass during the next trick.
+With 7 or 8 players, the two players who played the worst cards each take one of the Monkeys, and both must pass!
+
+
+=== Determining the worst card
+
+* If all players follow the lead suit, playing cards of the same suit, the worst card is the one with the lowest value.
+* If one or more cards are shed, the shed card with the lowest value is the worst card.
+If several shed cards have the same lowest value, the last one played is the worst card.
+This can happen when players shed cards of different suits.
+
+The winner of the trick places the trick face down to the side, and begins the next trick by playing any card from their hand.
+
+*Don't be the Fool!*
+The players who have a Monkey are not allowed to play a card during the current trick, but they are free to play in the following trick.
+
+During the entire round, all players must hold their cards in such a way that all players can check the number of cards in their hand!
+
+
+=== Beware of the Butterflies!
+
+The Butterflies are wild and always adopt the lead suit.
+Thus, you always follow the lead suit when you play a Butterfly!
+
+You *may* play a Butterfly even if you have cards of the lead suit in your hand.
+You *do not have to* play a Butterfly if you have no card of the lead suit left in your hand.
+
+A Butterfly is worth -1: it is the lowest card of the lead suit.
+With this in mind, the challenge of the game is to try to play your Butterflies in the same trick as other players who are shedding.
+
+If the first player plays a Butterfly, the next card played determines the lead suit to be followed.
+If that second card is also a Butterfly, the third card played determines the lead suit, and so on.
+In rare cases, if all players play a Butterfly, the first player wins the trick and the last player is befooled!
+
+
+=== Examples
+
+Anne, Paul, Rachel and Camille play a game of Fool!.
+Camille was befooled and took the Monkey in the last trick.
+
+.Example A
+====
+Anne plays ♣5 first, Paul follows with ♣3 and Rachel with ♣6, and Camille passes.
+Paul played the worst card and is befooled.
+Rachel wins the trick with the highest card.
+====
+
+.Example B
+====
+Rachel plays ♥8 first, Camille sheds ★3 and Anne follows with ♥0, while Paul passes.
+Camille is the only player who must shed a suit, and is befooled.
+Rachel wins this trick again.
+====
+
+.Example C
+====
+Again, Rachel plays ♣7 first, Anne sheds ★12 and Paul sheds ♠9, while Camille passes.
+Paul is befooled, as compared to Anne, Paul is shedding the lower valued card.
+Rachel wins the third trick in a row.
+====
+
+.Example D
+====
+Rachel plays ♥6 first, Camille plays a Butterfly and Anne follows with ♥9, while Paul passes.
+Camille's Butterfly follows ♥.
+Still, Camille is befooled, as Anne follows ♥ with the highest value of the lead suit, and even wins the trick.
+====
+
+.Example E
+====
+Anne plays ★8 first, Paul follows ★ with a Butterfly, and Rachel sheds ♥1, while Camille passes.
+Rachel is befooled, takes the Monkey and must pass during the next trick.
+====
+
+
+== End of the round
+
+The round ends after one or more players have emptied their hand by playing their last card.
+In this last trick, the players still need to take the Monkeys.
+
+
+[#scoring]
+== Scoring
+
+You score negative points if you have cards remaining in your hand:
+
+* For each suit card, you score 2 negative points plus its value: ♥0 costs 2 points, ★12 costs 14 points.
+The values of the figures are given in the <<references,reference>> of your number of players.
+* For each Butterfly, you score 5 negative points.
+
+If you have emptied your hand by playing your last card on the last trick, you score 10 positive points, unless you are befooled and took a Monkey in that last trick: then you score 0 points.
+
+.Example
+====
+At the end of the round, Anne still has ★1, ★7 and a Butterfly, and scores 3 + 9 + 5 = 17 negative points.
+Rachel still has ♥7 and ♣2, and scores 9 + 4 = 13 negative points.
+Camille and Paul both played all their cards, but because of the worst card Paul played, Paul is befooled and took the Monkey.
+Camille scores 10 positive points, and Paul scores 0 points.
+====
+
+
+== The next round
+
+The previous start player is now the dealer and shuffles all the cards.
+The new start player is the player with the most negative points.
+In case of a tie, the tied player closest in clockwise order to the previous start player becomes the new start player.
+
+
+== End of the game
+
+The game ends when either:
+
+* any player has scored 80 negative points or more,
+* or 10 positive points have been scored 6 or more times, by any or all players: just make a tally on your score sheet.
+
+The player with the most points wins Fool!
+This may be the player with negative points closest to zero.
+
+
+[#references]
+== References
+
+Each reference gives the cards to use for a number of players.
+From 6 players on, it also gives the order and the value of the figures, which rank above 18.
+
+
+=== 4 players
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-15
+| ♠ | 0-11
+| ♥ | 0-9
+| ♣ | 0-6
+| Butterflies | 3
+| Monkeys | 1
+|===
+
+
+=== 5 players
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-18
+| ♠ | 0-14
+| ♥ | 0-12
+| ♣ | 0-8
+| Butterflies | 4
+| Monkeys | 1
+|===
+
+
+=== 6 players
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-18, J, Q, S
+| ♠ | 0-17
+| ♥ | 0-15
+| ♣ | 0-10
+| Butterflies | 5
+| Monkeys | 1
+| Figures | 18 < J (19) < Q (20) < S (21)
+|===
+
+
+=== 7 players
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-18, J, Q, S, K, C, A
+| ♠ | 0-18, J, Q
+| ♥ | 0-18
+| ♣ | 0-12
+| Butterflies | 6
+| Monkeys | 2
+| Figures | 18 < J (19) < Q (20) < S (21) < K (22) < C (23) < A (24)
+|===
+
+
+=== 8 players
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-18, J, Q, S, K, C, A, -‽
+| ♠ | 0-18, J, Q, S
+| ♥ | 0-18, J
+| ♣ | 0-13
+| Butterflies | 6
+| Monkeys | 2
+| Figures | 18 < J (19) < Q (20) < S (21) < K (22) < C (23) < A (24) < -‽ (25)
+|===

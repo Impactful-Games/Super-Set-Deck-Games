@@ -1,0 +1,244 @@
+= Fool!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* Cartes de couleur, selon le nombre de joueur·euse·s (voir <<references>>) :
+** 4 joueur·euse·s : 45 cartes, 0-15 à ★, 0-11 à ♠, 0-9 à ♥ & 0-6 à ♣.
+** 5 joueur·euse·s : 56 cartes, 0-18 à ★, 0-14 à ♠, 0-12 à ♥ & 0-8 à ♣.
+** 6 joueur·euse·s : 67 cartes, 0-18, J, Q & S à ★, 0-17 à ♠, 0-15 à ♥ & 0-10 à ♣.
+** 7 joueur·euse·s : 78 cartes, 0-18, J, Q, S, K, C & A à ★, 0-18, J & Q à ♠, 0-18 à ♥ & 0-12 à ♣.
+** 8 joueur·euse·s : 82 cartes, 0-18, J, Q, S, K, C, A & -‽ à ★, 0-18, J, Q & S à ♠, 0-18 & J à ♥ & 0-13 à ♣.
+* Jokers : 3 Papillons à 4 joueur·euse·s, 4 à 5 joueur·euse·s, 5 à 6 joueur·euse·s, 6 à 7 ou 8 joueur·euse·s.
+* Cartes Fool! : 1 Singe (2 Singes à 7 ou 8 joueur·euse·s).
+* Du papier et un crayon pour noter les scores.
+****
+
+Dans Fool!, vous essayez de vous débarrasser rapidement de toutes vos cartes.
+Vous n’avez pas besoin de remporter tous les plis, mais votre objectif est de jouer une carte à chaque pli.
+Si vous jouez la *pire carte* d’un pli, vous êtes berné·e !
+Vous devez passer votre tour au pli suivant et ne pouvez pas vous débarrasser d’une carte.
+
+
+== Mise en place
+
+. Prenez les cartes qui correspondent à votre nombre de joueur·euse·s, comme indiqué dans sa <<references,référence>> : les cartes de couleur, les Papillons et les Singes.
+Remettez les autres cartes dans la boîte.
+. Placez le Singe au centre de la table (les deux Singes à 7 ou 8 joueur·euse·s).
+. Mélangez les cartes et distribuez-les équitablement, de sorte que chaque joueur·euse reçoive 12 cartes en main.
+À 8 joueur·euse·s, chaque joueur·euse ne reçoit que 11 cartes.
+. Il vous faut du papier et un crayon pour noter les scores.
+. La personne à gauche de celle qui distribue commence la première manche.
+
+
+== Déroulement de la partie
+
+À chaque manche, vous jouez plusieurs plis, jusqu’à ce qu’au moins une personne ait vidé sa main en jouant sa dernière carte.
+
+La personne qui commence ouvre le pli en jouant n’importe quelle carte de sa main.
+La couleur de cette carte est la *couleur demandée*.
+Ensuite, dans le sens des aiguilles d’une montre, chaque adversaire joue aussi une carte.
+Si vous avez en main une carte de la couleur demandée, vous devez la jouer : c’est *fournir à la couleur demandée*.
+Si vous n’avez aucune carte de la couleur demandée en main, vous êtes obligé·e de jouer une carte d’une autre couleur : c’est *se défausser d’une couleur*.
+
+La personne qui a joué la plus haute valeur dans la couleur demandée remporte le pli.
+Dans chaque couleur, toutes les cartes ont des valeurs différentes, il y a donc toujours un·e gagnant·e du pli.
+Les têtes sont plus fortes que 18, dans l’ordre donné par la <<references,référence>> de votre nombre de joueur·euse·s.
+
+La personne qui a joué la *pire carte* est bernée !
+Elle prend un Singe et doit passer son tour au pli suivant.
+À 7 ou 8 joueur·euse·s, les deux personnes qui ont joué les pires cartes prennent chacune l’un des Singes, et doivent toutes les deux passer !
+
+
+=== Déterminer la pire carte
+
+* Si tout le monde fournit à la couleur demandée, en jouant des cartes de la même couleur, la pire carte est celle de plus faible valeur.
+* Si une ou plusieurs cartes ont été défaussées, la carte défaussée de plus faible valeur est la pire carte.
+Si plusieurs cartes défaussées ont la même plus faible valeur, la dernière jouée est la pire carte.
+Cela peut arriver lorsque des joueur·euse·s se défaussent de cartes de couleurs différentes.
+
+La personne qui remporte le pli le pose face cachée sur le côté, puis ouvre le pli suivant en jouant n’importe quelle carte de sa main.
+
+*Ne soyez pas le Fool !*
+Les personnes qui ont un Singe n’ont pas le droit de jouer de carte pendant le pli en cours, mais pourront jouer au pli suivant.
+
+Pendant toute la manche, chaque joueur·euse doit tenir ses cartes de façon à ce que tout le monde puisse vérifier combien de cartes il lui reste en main !
+
+
+=== Attention aux Papillons !
+
+Les Papillons sont des jokers et prennent toujours la couleur demandée.
+Ainsi, vous fournissez toujours à la couleur demandée lorsque vous jouez un Papillon !
+
+Vous *pouvez* jouer un Papillon même si vous avez des cartes de la couleur demandée en main.
+Vous *n’êtes pas obligé·e* de jouer un Papillon si vous n’avez plus de carte de la couleur demandée en main.
+
+Un Papillon vaut -1 : c’est la plus faible carte de la couleur demandée.
+Le défi du jeu consiste donc à essayer de jouer vos Papillons dans le même pli que d’autres personnes qui se défaussent.
+
+Si la première personne joue un Papillon, la carte jouée suivante détermine la couleur demandée.
+Si cette deuxième carte est aussi un Papillon, c’est la troisième carte jouée qui détermine la couleur demandée, et ainsi de suite.
+Dans de rares cas, si tout le monde joue un Papillon, la première personne remporte le pli et la dernière est bernée !
+
+
+=== Exemples
+
+Anne, Paul, Rachel et Camille jouent une partie de Fool!.
+Camille a été berné·e et a pris le Singe au dernier pli.
+
+.Exemple A
+====
+Anne joue d’abord 5♣, Paul fournit avec 3♣ et Rachel avec 6♣, et Camille passe son tour.
+Paul a joué la pire carte et est berné.
+Rachel remporte le pli avec la plus haute carte.
+====
+
+.Exemple B
+====
+Rachel joue d’abord 8♥, Camille se défausse de 3★ et Anne fournit avec 0♥, tandis que Paul passe son tour.
+Camille est la seule personne à devoir se défausser, et est berné·e.
+Rachel remporte encore ce pli.
+====
+
+.Exemple C
+====
+Rachel joue encore d’abord 7♣, Anne se défausse de 12★ et Paul de 9♠, tandis que Camille passe son tour.
+Paul est berné·e, car par rapport à Anne, Paul s’est défaussé·e de la carte la plus faible.
+Rachel remporte son troisième pli d’affilée.
+====
+
+.Exemple D
+====
+Rachel joue d’abord 6♥, Camille joue un Papillon et Anne fournit avec 9♥, tandis que Paul passe son tour.
+Le Papillon de Camille fournit à ♥.
+Pourtant, Camille est berné·e, car Anne fournit à ♥ avec la plus haute valeur de la couleur demandée, et remporte même le pli.
+====
+
+.Exemple E
+====
+Anne joue d’abord 8★, Paul fournit à ★ avec un Papillon, et Rachel se défausse de 1♥, tandis que Camille passe son tour.
+Rachel est berné·e, prend le Singe et doit passer son tour au pli suivant.
+====
+
+
+== Fin de la manche
+
+La manche se termine lorsqu’au moins une personne a vidé sa main en jouant sa dernière carte.
+Lors de ce dernier pli, il faut quand même prendre les Singes.
+
+
+[#scoring]
+== Décompte
+
+Vous marquez des points négatifs s’il vous reste des cartes en main :
+
+* Pour chaque carte de couleur, vous marquez 2 points négatifs plus sa valeur : 0♥ coûte 2 points, 12★ coûte 14 points.
+Les valeurs des têtes sont données dans la <<references,référence>> de votre nombre de joueur·euse·s.
+* Pour chaque Papillon, vous marquez 5 points négatifs.
+
+Si vous avez vidé votre main en jouant votre dernière carte au dernier pli, vous marquez 10 points positifs, sauf si vous êtes berné·e et avez pris un Singe lors de ce dernier pli : vous marquez alors 0 point.
+
+.Exemple
+====
+À la fin de la manche, il reste à Anne 1★, 7★ et un Papillon, qui lui coûtent 3 + 9 + 5 = 17 points négatifs.
+Il reste à Rachel 7♥ et 2♣, qui lui coûtent 9 + 4 = 13 points négatifs.
+Camille et Paul ont joué toutes leurs cartes, mais à cause de la pire carte qu’a jouée Paul, Paul est berné·e et a pris le Singe.
+Camille marque 10 points positifs, et Paul marque 0 point.
+====
+
+
+== Manche suivante
+
+La personne qui a commencé la manche précédente distribue et mélange toutes les cartes.
+La personne qui commence est celle qui a le plus de points négatifs.
+En cas d’égalité, c’est la personne à égalité la plus proche, dans le sens des aiguilles d’une montre, de celle qui avait commencé la manche précédente.
+
+
+== Fin de la partie
+
+La partie se termine lorsque :
+
+* une personne a marqué 80 points négatifs ou plus,
+* ou 10 points positifs ont été marqués 6 fois ou plus, par une ou plusieurs personnes : faites simplement une marque sur votre feuille de score.
+
+La personne qui a le plus de points remporte Fool!.
+Ce peut être celle dont les points négatifs sont les plus proches de zéro.
+
+
+[#references]
+== Références
+
+Chaque référence donne les cartes à utiliser pour un nombre de joueur·euse·s.
+À partir de 6 joueur·euse·s, elle donne aussi l’ordre et la valeur des têtes, qui sont plus fortes que 18.
+
+
+=== 4 joueur·euse·s
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-15
+| ♠ | 0-11
+| ♥ | 0-9
+| ♣ | 0-6
+| Papillons | 3
+| Singes | 1
+|===
+
+
+=== 5 joueur·euse·s
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-18
+| ♠ | 0-14
+| ♥ | 0-12
+| ♣ | 0-8
+| Papillons | 4
+| Singes | 1
+|===
+
+
+=== 6 joueur·euse·s
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-18, J, Q, S
+| ♠ | 0-17
+| ♥ | 0-15
+| ♣ | 0-10
+| Papillons | 5
+| Singes | 1
+| Têtes | 18 < J (19) < Q (20) < S (21)
+|===
+
+
+=== 7 joueur·euse·s
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-18, J, Q, S, K, C, A
+| ♠ | 0-18, J, Q
+| ♥ | 0-18
+| ♣ | 0-12
+| Papillons | 6
+| Singes | 2
+| Têtes | 18 < J (19) < Q (20) < S (21) < K (22) < C (23) < A (24)
+|===
+
+
+=== 8 joueur·euse·s
+
+[%autowidth, cols="^,<"]
+|===
+| ★ | 0-18, J, Q, S, K, C, A, -‽
+| ♠ | 0-18, J, Q, S
+| ♥ | 0-18, J
+| ♣ | 0-13
+| Papillons | 6
+| Singes | 2
+| Têtes | 18 < J (19) < Q (20) < S (21) < K (22) < C (23) < A (24) < -‽ (25)
+|===
