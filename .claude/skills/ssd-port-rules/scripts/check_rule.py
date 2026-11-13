@@ -409,6 +409,8 @@ class Rule:
                     warn(f"{self.where(n)}: write 'joueur·euse' / 'joueur·euse·s'")
                 if re.search(r"\bchacun\b(?!·)", text):
                     warn(f"{self.where(n)}: write 'chacun·e'")
+                if re.search(r"\benseignes?\b", text, re.I):
+                    warn(f"{self.where(n)}: a suit is 'couleur' in French, not 'enseigne'")
             else:
                 if re.search(r"\b(?:he|him|his|himself|she|her|hers|herself)\b", text, re.I):
                     warn(f"{self.where(n)}: gendered pronoun, use the singular 'they'")

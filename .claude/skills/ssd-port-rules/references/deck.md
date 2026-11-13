@@ -57,6 +57,7 @@ A game with *n* suits of values 1 to *m* fits when *n* suits have every value up
 | A numbered card | ★4, ♥12 (suit, then value) | 4★, 12♥ (value, then suit) |
 | A figure | ♠K, ★S | K♠, S★ |
 | Several values | 1-9 in ♠, ♥ & ♣ | 1-9 à ♠, ♥ & ♣ |
+| The word "suit" | suit | couleur (never « enseigne ») |
 | A suit | the ♠ cards | les cartes ♠ |
 | Butterfly | Butterfly, Butterflies | Papillon, Papillons |
 | Wolf | Wolf, Wolves | Loup, Loups |

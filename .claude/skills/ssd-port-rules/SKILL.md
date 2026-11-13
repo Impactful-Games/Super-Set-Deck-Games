@@ -116,7 +116,7 @@ The rules cite SSD cards, and never the cards of the original game.
 A reader has never seen the original cards: a name like "the Mermaid", "the red 7" or "the Dog" means nothing to them, while ★7 or the Wolf is in their hand.
 
 - Name every card by its SSD identity: a suit and a value, a special's name, or a unique card, with the notation of `references/deck.md`: **★4 in English, 4★ in French**.
-- Name suits by their symbol (♠ ♥ ♣ ♦ ✿ ⎈ ★), never by a color or by the original suit's name.
+- Name suits by their symbol (♠ ♥ ♣ ♦ ✿ ⎈ ★), never by their printed color (cyan, pink…) or by the original suit's name.
 - Name figures by the letter printed on them (J, Q, K, S, C, A).
 - A role name of the original game (Clan cards, Tactic cards, trumps) is fine when the components block defines it with SSD cards.
 The proper name of an original card is never fine, even in passing ("the Phoenix, the original game's Mermaid").
@@ -146,6 +146,8 @@ Where the two editions differ (a missing example, a reworded rule), follow their
 - Use inclusive writing with the middle dot: « joueur·euse », « joueur·euse·s », « chacun·e », « celui ou celle ».
 Rephrase rather than pile up forms: « la personne qui gagne le pli », « vous ».
 - Card notation: value then suit, 4★, K♥; ranges « 1-9 à ♠, ♥ & ♣ ».
+- A suit is « une couleur », as in every French card game: « la dernière carte d’une couleur », « 6 couleurs ».
+Never « enseigne ».
 - Specials: Papillon, Loup, Phénix, Serpent, Dragon, Singe; « la carte Ø ».
 - French typography: a space before `:`, `;`, `!` and `?`, and « » quotes.
 - Use the official French edition's vocabulary when it exists (« Borne », « Clan »).
