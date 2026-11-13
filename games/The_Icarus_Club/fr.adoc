@@ -1,0 +1,109 @@
+= The Icarus Club
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* 55 cartes : 1-11 à ♠, ♥, ♣, ♦ & ★.
+** À 3 joueur·euse·s : seulement 44 d’entre elles, 1-11 à ♠, ♥, ♣ & ♦.
+* Du papier et un crayon pour noter les scores.
+****
+
+L’Icarus Club est le secret le mieux gardé de la ville : un casino clandestin où les gagnant·e·s des jeux peuvent modifier le programme.
+Le casino propose 5 jeux, un par couleur, mais un seul est joué chaque soir.
+Le programme est affiché à l’avance, mais la personne qui gagne un jeu du casino peut changer le jeu d’un autre soir.
+Gagner peut vous rapporter gros, mais la personne qui gagne le plus attire trop l’attention, et se fait jeter dehors, dépouillée de ses gains.
+Au casino, la personne qui gagne vraiment est celle qui finit deuxième au classement général.
+
+
+[#setup]
+== Mise en place
+
+La mise en place dépend du nombre de joueur·euse·s.
+Le reste des règles est identique.
+
+
+=== 3 joueur·euse·s
+
+Retirez du jeu les cartes ★ : vous jouez avec les 44 cartes 1-11 à ♠, ♥, ♣ & ♦.
+Mélangez-les et distribuez-les face cachée en 4 piles de 11 cartes chacune.
+Chaque joueur·euse prend une pile, qui forme sa main.
+
+Retournez une à une les cartes de la pile restante, face visible, en une rangée, pour former le programme du casino, appelé le *Programme* dans la suite.
+Chaque carte du Programme est le jeu joué un soir, et la carte la plus à gauche du Programme est la *carte Demandée*.
+
+
+=== 4 joueur·euse·s
+
+Mélangez les 55 cartes et distribuez-les face cachée en 5 piles de 11 cartes chacune.
+Chaque joueur·euse prend une pile, qui forme sa main, et la pile restante forme le Programme, comme à 3 joueur·euse·s.
+
+
+=== 5 joueur·euse·s
+
+Mélangez les 55 cartes et distribuez-les face cachée en 6 piles de 9 cartes chacune.
+Il reste une carte, qui est hors jeu : placez-la face visible à l’écart de la zone de jeu.
+Comme pour les autres nombres de joueur·euse·s, chaque joueur·euse prend une pile, qui forme sa main, et la pile restante forme le Programme.
+
+
+== Jouer un pli
+
+The Icarus Club se joue en une série de plis.
+À chaque pli, chaque joueur·euse, à son tour, choisit une carte de sa main et la pose face visible devant soi.
+Une fois que tout le monde l’a fait, déterminez qui gagne le pli.
+
+La carte Demandée indique la couleur que vous devez jouer si vous en avez dans votre main, et la plus haute carte jouée de cette couleur remporte le pli.
+Si vous n’avez aucune carte de cette couleur dans votre main, vous pouvez jouer n’importe quelle carte.
+La personne qui gagne prend toutes les cartes jouées, ainsi que la carte Demandée (et toutes les cartes en dessous).
+
+Si personne n’a joué de carte de la couleur de la carte Demandée, personne ne gagne le pli, et les cartes jouées sont défaussées.
+
+Chaque carte que vous gagnez vaut 1 point : à la fin de la manche, le nombre de cartes que vous avez gagnées correspond à vos gains de la soirée.
+Mais attention : c’est le deuxième meilleur score qui gagne.
+
+
+[#overwriting]
+== Réécrire le Programme
+
+Le programme du casino est réécrit chaque soir.
+La personne qui gagne un pli doit choisir l’une des cartes jouées, mais pas la sienne, et la poser sur n’importe quelle carte du Programme, sauf sur la carte Demandée qu’elle vient de gagner.
+Elle le fait avant de ramasser les cartes : la carte posée dans le Programme ne va pas dans sa pile de gains.
+
+La nouvelle carte peut être d’une couleur différente ou de la même couleur que la carte qu’elle recouvre.
+Vous pouvez aussi poser la nouvelle carte sur des cartes qui ont déjà été recouvertes.
+La nouvelle carte indique désormais la couleur à jouer ce soir-là.
+Cela augmente aussi les gains de ce soir-là, puisque la personne qui le remporte prend toutes ses cartes du Programme.
+
+Après le dernier pli, le Programme est vide : il n’y a pas de réécriture, et la personne qui gagne prend toutes les cartes du pli.
+
+
+== Jouer une manche
+
+. Déterminez qui commence par la méthode de votre choix.
+. En commençant par cette personne et dans le sens des aiguilles d’une montre, chaque joueur·euse choisit une carte de sa main et la joue face visible.
+Une fois que tout le monde a joué dans le pli, déterminez qui le gagne.
+. Si quelqu’un gagne le pli, cette personne réécrit une carte du Programme comme décrit dans <<overwriting>>, puis prend toutes les autres cartes de ce soir-là (les cartes jouées, ainsi que la carte Demandée et toutes les cartes en dessous) dans sa pile de gains.
+. Si personne ne gagne, défaussez les cartes jouées, ainsi que la carte Demandée de ce soir-là (et toutes les cartes en dessous), et passez au pli suivant.
+. La personne qui a gagné le pli précédent commence le pli suivant.
+Si personne n’a gagné le pli précédent, la personne qui l’a commencé commence aussi le pli suivant.
+. Recommencez jusqu’à ce qu’il n’y ait plus de cartes dans le Programme, ce qui termine la manche : 11 plis à 3 ou 4 joueur·euse·s, 9 plis à 5 joueur·euse·s.
+. La ou les personnes qui ont le plus de points se font réprimander par le casino et se voient confisquer leurs gains : elles marquent 0 point pour la manche.
+Notez les scores de tou·te·s les autres joueur·euse·s : 1 point par carte gagnée.
+Rassemblez les cartes, mélangez-les et distribuez-les à nouveau, comme décrit dans <<setup>>.
+La personne qui a marqué 0 point à cette manche commence le premier pli de la manche suivante.
+Si plusieurs personnes ont marqué 0 point, c’est la première d’entre elles dans le sens des aiguilles d’une montre, en partant de la personne qui a commencé le dernier pli, qui commence.
+. Jouez autant de manches qu’il y a de joueur·euse·s.
+
+
+== Fin de la partie
+
+Quand la partie est terminée, additionnez les points de toutes les manches.
+Ce nombre est le montant total gagné pendant toute la vie du casino.
+
+Cependant, la personne qui a le meilleur score, celle qui a gagné le plus d’argent au casino, est dépouillée de ses gains et expulsée du casino : la personne qui a le deuxième meilleur score remporte The Icarus Club.
+Si plusieurs personnes sont à égalité pour le plus de points, elles sont toutes expulsées.
+Si plusieurs personnes sont à égalité pour le deuxième meilleur score, elles se partagent la victoire.
+Si tout le monde a le même nombre de points, tout le monde est expulsé et le casino ferme à jamais.

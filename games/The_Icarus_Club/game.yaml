@@ -1,0 +1,14 @@
+bggId: 351868
+authors: Hugame
+type:
+  - Trick Taking
+players: 3, 4, 5
+cards:
+  Base:
+    all-players:
+      spades: 1-11
+      hearts: 1-11
+      clubs: 1-11
+      diamonds: 1-11
+    4,5-players:
+      stars: 1-11

@@ -1,0 +1,108 @@
+= The Icarus Club
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* 55 cards: 1-11 in ♠, ♥, ♣, ♦ & ★.
+** With 3 players: only 44 of them, 1-11 in ♠, ♥, ♣ & ♦.
+* Paper and a pencil to keep the score.
+****
+
+The Icarus Club is the best kept secret in town: an underground casino where the winners of the games are able to change the schedule.
+The casino has 5 games on offer, one for each suit, but only one is played each night.
+The schedule is posted in advance, but the winner of a casino game may switch the game played on another night.
+You can make big money by winning, but the gambler who earns the most draws too much attention to themselves, and is thrown out of the casino, stripped of their winnings.
+The big winner at the casino is the gambler who comes in second overall.
+
+
+[#setup]
+== Setup
+
+Setup varies by player count.
+The rest of the rules are the same.
+
+
+=== 3 players
+
+Remove the ★ cards from the game: you play with the 44 cards 1-11 in ♠, ♥, ♣ & ♦.
+Shuffle them and deal them face down into 4 piles of 11 cards each.
+Each player takes one pile as their hand.
+
+Flip the cards of the remaining pile face up one at a time, in a row, to form the casino's schedule, called the *lane*.
+Each card of the lane is the game played on one night, and the leftmost card of the lane is the *Follow Card*.
+
+
+=== 4 players
+
+Shuffle the 55 cards and deal them face down into 5 piles of 11 cards each.
+Each player takes one pile as their hand, and the remaining pile forms the lane, as with 3 players.
+
+
+=== 5 players
+
+Shuffle the 55 cards and deal them face down into 6 piles of 9 cards each.
+There will be one card left, which is out of the game: place it face up away from the play area.
+As with the other player counts, each player takes one pile as their hand, and the remaining pile forms the lane.
+
+
+== Playing a trick
+
+The Icarus Club is played over a series of tricks.
+In each trick, each player in turn chooses a card from their hand and places it face up in front of them.
+After every player has done so, determine the winner of the trick.
+
+The Follow Card determines the suit you must play if you have it in your hand, and the highest card played of that suit wins the trick.
+If you do not have a card of that suit in your hand, you may play any card.
+The winner takes all the cards played, as well as the Follow Card (and any card beneath it).
+
+If no one played a card of the Follow Card's suit, no one wins the trick, and the cards played are discarded.
+
+Each card you win is worth 1 point: at the end of the round, the number of cards you have won is your earnings for the night.
+But beware: the second highest score wins.
+
+
+[#overwriting]
+== Overwriting the lane
+
+The casino's schedule is overwritten every night.
+The winner of a trick must choose one of the cards played, but not their own, and place it on top of any card of the lane, except the Follow Card they have just won.
+They do so before taking the cards: the card placed in the lane does not go to their score pile.
+
+The new card may be of a different suit or of the same suit as the card it covers.
+You may also place the new card on top of cards that have already been overwritten.
+The new card now gives the suit that must be followed on that night.
+This also increases the winnings of that night, as the winner of that night takes all its cards in the lane.
+
+After the last trick, the lane is empty: there is no overwriting, and the winner takes all the cards of the trick.
+
+
+== Playing a round
+
+. Determine the start player by a method of your choosing.
+. Beginning with the start player and going clockwise, each player chooses a card from their hand and plays it face up.
+Once everyone has played into the trick, determine the winner.
+. If there is a winner, they overwrite one card of the lane as described in <<overwriting>>, then take all the other cards of that night (the cards played, as well as the Follow Card and any card beneath it) into their score pile.
+. If there is no winner, discard the cards played, as well as that night's Follow Card (and any card beneath it), and move on to the next trick.
+. The start player of the next trick is the winner of the previous trick.
+If there was no winner in the previous trick, the previous start player is also the start player of the next trick.
+. Repeat this until there are no more cards in the lane, which ends the round: 11 tricks with 3 or 4 players, 9 tricks with 5 players.
+. The player or players who scored the most get reprimanded by the casino and have their winnings taken away: they score 0 points for the round.
+Write down the scores of all the other players: 1 point per card won.
+Collect the cards, shuffle them and deal them again, as described in <<setup>>.
+The player who scored 0 this round leads the first trick of the next round.
+If several players scored 0, the first of them in clockwise order, starting with the player who led the last trick, leads.
+. Play as many rounds as there are players.
+
+
+== End of the game
+
+When the game is over, add up the points of all the rounds.
+This number is the total amount of money earned over the entire run of the casino.
+
+However, the player with the highest score, the one who made the most money at the casino, is stripped of their winnings and ejected from the casino: the player with the second highest score is the winner of The Icarus Club.
+If several players are tied for the most points, all of them are ejected.
+If several players are tied for the second highest score, they share the victory.
+If everyone has the same number of points, everyone is ejected and the casino is closed forever.
