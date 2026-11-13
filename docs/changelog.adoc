@@ -8,6 +8,7 @@
 ** link:/#/games/Bunte_Runde[Bunte Runde]
 ** link:/#/games/The_Icarus_Club[The Icarus Club]
 ** link:/#/games/Fool[Fool!]
+** link:/#/games/Ole[Olé!]
 * A brand new website: new design, with a light and a dark theme.
 * Backups to local files now work in every browser, Firefox and Safari included.
 * A rule that does not exist in your language is shown in English.

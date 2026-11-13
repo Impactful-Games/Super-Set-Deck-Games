@@ -1,0 +1,161 @@
+= Olé!
+:toc: preamble
+:toclevels: 4
+:toc-title: Sommaire
+:icons: font
+
+[.ssd-components]
+.Matériel
+****
+* Cartes de couleur, selon le nombre de joueur·euse·s (voir <<setup>>) :
+** 3 ou 4 joueur·euse·s : 36 cartes, 1-8 à ♠ & ♦, 1-10 à ♥ & ♣.
+** 5 joueur·euse·s : 40 cartes, 1-9 à ♠ & ♦, 1-11 à ♥ & ♣.
+** 6 joueur·euse·s : 48 cartes, 1-11 à ♠ & ♦, 1-13 à ♥ & ♣.
+** 7 ou 8 joueur·euse·s : 56 cartes, 1-13 à ♠ & ♦, 1-15 à ♥ & ♣.
+* 5 cartes d’ordre des couleurs : A♠, A♥, A♣, A♦ & la carte ►.
+* 20 cartes de pénalité : 6 Papillons, 6 Loups, 4 Phénix & 4 Serpents.
+* Du papier et un crayon pour noter les scores.
+****
+
+Vous essayez de vous débarrasser de toutes vos cartes ou, si vous n’y parvenez pas, de limiter le nombre de points négatifs que vous encaissez.
+Pour cela, vous devez jouer des cartes plus fortes que celle déjà posée.
+En y parvenant, vous pouvez aussi commencer une série, et vous défausser ainsi de plusieurs cartes.
+En revanche, si vous ne pouvez pas vous défausser, vous devez prendre une carte de pénalité.
+La personne qui a le moins de points négatifs à la fin de la partie gagne.
+Ainsi, la tête du classement change sans cesse au cours de ce jeu de cartes endiablé.
+
+
+[#suit-order]
+== L’ordre des couleurs
+
+Les quatre couleurs sont classées.
+En début de partie, l’ordre est toujours ♠, ♥, ♣, ♦ : ♠ est la couleur la plus forte, et ♦ la plus faible.
+Plus tard dans la partie, grâce au privilège de la dernière place, l’ordre des couleurs peut être inversé : ♦ devient alors la couleur la plus forte, et l’ordre est ♦, ♣, ♥, ♠.
+
+Posez les quatre A en rangée sur la table, dans l’ordre des couleurs : A♠, A♥, A♣, A♦.
+Posez la carte ► à une extrémité de la rangée, à côté de l’A de la couleur la plus forte :
+
+* _Ordre normal_ : la carte ► est à côté de A♠ : ► A♠ A♥ A♣ A♦.
+* _Ordre inversé_ : la carte ►, retournée, est à côté de A♦ : A♠ A♥ A♣ A♦ ◄.
+
+
+=== Le privilège de la dernière place
+
+La personne qui a eu le plus de points négatifs à la manche précédente a le droit, après avoir regardé ses cartes, d’inverser l’ordre des couleurs : elle déplace alors la carte ► à l’autre extrémité de la rangée, à côté de l’A de la nouvelle couleur la plus forte, et la retourne.
+Si plusieurs personnes ont eu le même pire résultat à la manche précédente, c’est celle qui a le pire total général qui choisit.
+
+
+[#setup]
+== Mise en place
+
+Il vous faut du papier et un crayon pour noter les scores.
+Les cartes utilisées dépendent du nombre de joueur·euse·s, comme indiqué dans le tableau suivant :
+
+[%autowidth, cols="^,^,^,^,^,^,^"]
+|===
+h| Joueur·euse·s h| ♠ h| ♥ h| ♣ h| ♦ h| Total de cartes h| Cartes par personne
+
+h| 3 | 1-8 | 1-10 | 1-10 | 1-8 | 36 | 12
+h| 4 | 1-8 | 1-10 | 1-10 | 1-8 | 36 | 9
+h| 5 | 1-9 | 1-11 | 1-11 | 1-9 | 40 | 8
+h| 6 | 1-11 | 1-13 | 1-13 | 1-11 | 48 | 8
+h| 7 | 1-13 | 1-15 | 1-15 | 1-13 | 56 | 8
+h| 8 | 1-13 | 1-15 | 1-15 | 1-13 | 56 | 7
+|===
+
+Posez les quatre A et la carte ► sur la table, comme décrit dans <<suit-order>>, et les 20 cartes de pénalité à côté.
+À la première manche, ♠ est toujours la couleur la plus forte.
+
+Choisissez une personne qui distribue.
+Elle mélange les cartes et les distribue équitablement à tout le monde.
+Chaque joueur·euse doit toujours tenir ses cartes de façon à ce que les autres puissent voir combien il lui en reste.
+
+La personne qui a la plus faible carte commence.
+Elle la pose face visible sur la table, et commence ainsi une défausse : toutes les autres cartes défaussées sont posées sur cette pile.
+Comme ♠ est la couleur la plus forte à la première manche, la plus faible carte est 1♦.
+Si, lors d’une manche suivante, l’ordre des couleurs est inversé, la plus faible carte est 1♠.
+Cette même personne peut ensuite se défausser d’une deuxième carte, puis c’est au tour de la personne à sa gauche.
+
+
+== Déroulement de la partie
+
+À chaque fois que c’est votre tour, vous devez soit vous défausser d’une carte, soit prendre une carte de pénalité.
+Chaque carte de pénalité vaut 5 points négatifs à la fin de la manche.
+
+La carte que vous défaussez dépend de la carte du dessus de la défausse, la _carte de la table_ : la carte que vous jouez doit toujours être plus forte que la carte de la table.
+Trois règles déterminent quelles cartes sont plus fortes.
+
+NOTE: Tous les exemples utilisent l’ordre normal des couleurs : ♠ la plus forte, puis ♥, ♣ et ♦.
+
+
+=== Règle 1
+
+La couleur de la carte que vous jouez est plus forte que la couleur de la carte de la table, et son nombre est égal ou inférieur au nombre de la carte de la table.
+Dans ce cas, votre tour s’arrête là, et c’est au tour de la personne à votre gauche.
+
+.Exemple
+====
+Si la carte de la table est 7♦, alors 4♣, 7♥ ou 1♠ sont plus fortes, et peuvent donc être défaussées.
+====
+
+
+=== Règle 2
+
+Le nombre de la carte que vous jouez est plus élevé, mais sa couleur est plus faible ou identique à la couleur de la carte de la table.
+Votre tour se termine, et c’est au tour de la personne suivante.
+
+.Exemple
+====
+Si la carte de la table est 5♠, alors 6♦, 9♥ ou 6♠ peuvent être jouées.
+====
+
+
+=== Règle 3
+
+Le nombre et la couleur de la carte que vous jouez sont tous les deux plus forts que ceux de la carte de la table.
+C’est le début d’une *série*, qui peut vous permettre de vous défausser de jusqu’à quatre cartes pendant votre tour.
+
+Vous jouez à nouveau : vous devez jouer une autre carte ou prendre une carte de pénalité.
+Votre tour se termine lorsque vous jouez une carte qui bat la carte de la table soit par sa couleur, soit par son nombre, mais pas les deux.
+Si vous ne pouvez pas le faire, vous prenez une carte de pénalité.
+
+.Exemple
+====
+Si 2♦ est sur la table, vous pouvez jouer 3♣, 4♥, 5♠, puis 6♣.
+Vous pouvez aussi jouer seulement 5♠, puis 6♣, pour une série de 2.
+====
+
+IMPORTANT: La règle 3 ne s’applique pas au premier tour, celui où la plus faible carte est posée : la personne qui commence se défausse de deux cartes au plus.
+
+
+=== Quand personne ne peut suivre
+
+Lorsqu’une personne joue une carte que personne ne peut battre, chaque joueur·euse prend à son tour une carte de pénalité, jusqu’à ce que ce soit de nouveau au tour de la personne qui s’est défaussée en dernier.
+Si cette personne peut battre sa propre carte, elle le fait, et la partie continue (ce qui peut recréer la même situation).
+Si elle ne peut pas battre sa propre carte, elle prend une carte de pénalité, et la manche se termine, puisque chaque joueur·euse a pris une carte de pénalité à son tour.
+
+
+== Fin de la manche
+
+La manche se termine soit lorsqu’une personne se défausse de sa dernière carte, soit lorsque personne n’a de carte valide à jouer, ce qui mène à un tour de table où tout le monde prend une carte de pénalité.
+
+
+== Décompte
+
+Chaque joueur·euse marque autant de points négatifs que la somme des nombres des cartes qui lui restent en main, plus 5 points négatifs par carte de pénalité prise.
+La personne qui a le moins de points négatifs gagne.
+
+Jouez autant de manches qu’il y a de joueur·euse·s, et additionnez les points de toutes les manches pour désigner le ou la gagnant·e.
+
+Si les cartes de pénalité viennent à manquer pendant une manche, notez les points négatifs de chacun·e sur papier.
+
+
+== Conseils
+
+* Il vaut mieux jouer quelques manches avec ♠ comme couleur la plus forte avant d’inverser l’ordre, pour que tout le monde s’habitue à l’ordre des couleurs.
+* C’est toujours plus facile si vous rangez vos cartes par couleur, et par nombre dans chaque couleur.
+* Les cartes de nombre élevé dans les couleurs fortes sont plus faciles à défausser, et obligent souvent les personnes suivantes à prendre des cartes de pénalité.
+De plus, elles coûtent plus de points négatifs que les cartes plus faibles s’il vous en reste en main.
+* Les cartes de faible valeur, en revanche, sont plus difficiles à défausser, et facilitent souvent la tâche de la personne suivante.
+* Une carte de la couleur la plus forte ne permet à la personne suivante de se défausser que d’une carte, au plus.
+* Se défausser de plusieurs cartes en série augmente vos chances de finir en premier, mais peut aussi vous obliger à prendre des cartes de pénalité.

@@ -1,0 +1,160 @@
+= Olé!
+:toc: preamble
+:toclevels: 4
+:icons: font
+
+[.ssd-components]
+.Components
+****
+* Suit cards, depending on the number of players (see <<setup>>):
+** 3 or 4 players: 36 cards, 1-8 in ♠ & ♦, 1-10 in ♥ & ♣.
+** 5 players: 40 cards, 1-9 in ♠ & ♦, 1-11 in ♥ & ♣.
+** 6 players: 48 cards, 1-11 in ♠ & ♦, 1-13 in ♥ & ♣.
+** 7 or 8 players: 56 cards, 1-13 in ♠ & ♦, 1-15 in ♥ & ♣.
+* 5 suit order cards: ♠A, ♥A, ♣A, ♦A & the ► card.
+* 20 penalty cards: 6 Butterflies, 6 Wolves, 4 Phoenixes & 4 Snakes.
+* Paper and a pencil to keep the score.
+****
+
+The players attempt to get rid of all their cards or, if they cannot manage that, to minimise the number of minus points that they incur.
+To do this, they need to play cards with a higher value than the one already there.
+If they manage to do this, they may also start a series, and so be able to discard more cards.
+If a player is not able to discard, however, they have to take a penalty card.
+The player with the least minus points at the end of the game wins.
+In this way, the lead changes constantly during this fiery card game.
+
+
+[#suit-order]
+== The suit order
+
+The four suits are ranked.
+At the beginning of the game, the order is always ♠, ♥, ♣, ♦: ♠ is the highest suit, and ♦ the lowest.
+Later in the game, however, using the loser's privilege, the order of the suits may be reversed, so that ♦ becomes the highest suit, and the order is ♦, ♣, ♥, ♠.
+
+Place the four A in a row on the table, in the suit order: ♠A, ♥A, ♣A, ♦A.
+Place the ► card at one end of the row, next to the A of the highest suit:
+
+* *Normal order*: the ► card is next to ♠A: ► ♠A ♥A ♣A ♦A.
+* *Reversed order*: the ► card, turned around, is next to ♦A: ♠A ♥A ♣A ♦A ◄.
+
+
+=== The loser's privilege
+
+The player who had the most minus points in the previous round has the right, after examining their cards, to reverse the suit order: they then move the ► card to the other end of the row, next to the A of the new highest suit, and turn it around.
+If two or more players had an equally bad result in the previous round, the one with the worst overall total may choose.
+
+
+[#setup]
+== Setup
+
+You will need paper and a pencil to keep score.
+The cards used depend on the number of players, as shown in the following table:
+
+[%autowidth, cols="^,^,^,^,^,^,^"]
+|===
+h| Players h| ♠ h| ♥ h| ♣ h| ♦ h| Total cards h| Cards per player
+
+h| 3 | 1-8 | 1-10 | 1-10 | 1-8 | 36 | 12
+h| 4 | 1-8 | 1-10 | 1-10 | 1-8 | 36 | 9
+h| 5 | 1-9 | 1-11 | 1-11 | 1-9 | 40 | 8
+h| 6 | 1-11 | 1-13 | 1-13 | 1-11 | 48 | 8
+h| 7 | 1-13 | 1-15 | 1-15 | 1-13 | 56 | 8
+h| 8 | 1-13 | 1-15 | 1-15 | 1-13 | 56 | 7
+|===
+
+Place the four A and the ► card on the table, as described in <<suit-order>>, and the 20 penalty cards next to them.
+In the first round, ♠ is always the highest suit.
+
+Choose a dealer.
+They shuffle the cards and deal them out equally to all players.
+Players must always hold their cards so that the other players can see how many they have left.
+
+The player with the lowest card starts.
+They place it face up on the table, and so start a discard pile: all the other cards discarded are placed on this pile.
+Since ♠ is the highest suit in the first round, the lowest card is ♦1.
+If, during a later round, the suit order is reversed, the lowest card is ♠1.
+The same player may then discard a second card, then the player to their left takes their turn.
+
+
+== Playing the game
+
+Whenever you take your turn, you must either discard a card or take a penalty card.
+Each penalty card counts as 5 minus points at the end of the round.
+
+The card you discard is determined by the uppermost card of the discard pile, the _table card_: the card you play must always rank higher than the table card.
+Three rules determine which cards rank higher.
+
+NOTE: All the examples use the normal suit order: ♠ highest, then ♥, ♣ and ♦.
+
+
+=== Rule 1
+
+The suit of the card you play ranks higher than the suit of the table card, and its number is equal to or lower than the number of the table card.
+In this case, your turn ends there, and the player to your left takes the next turn.
+
+.Example
+====
+If the table card is ♦7, then ♣4, ♥7 or ♠1 rank higher, and so are legal discards.
+====
+
+
+=== Rule 2
+
+The number of the card you play is higher, but its suit ranks lower than or is the same as the suit of the table card.
+Your turn ends, and the next player plays.
+
+.Example
+====
+If the table card is ♠5, then ♦6, ♥9 or ♠6 are legal plays.
+====
+
+
+=== Rule 3
+
+Both the number and the suit of the card you play are higher than those of the table card.
+This is the start of a *series*, which may allow you to discard up to four cards in your turn.
+
+You take another turn: you must play another card or take a penalty card.
+Your turn ends when you play a card that beats the table card in either suit or number, but not both.
+If you cannot do that, you take a penalty card.
+
+.Example
+====
+If ♦2 is on the table, you could play ♣3, ♥4, ♠5, then ♣6.
+Alternatively, you could just play ♠5, then ♣6, for a series of 2.
+====
+
+IMPORTANT: Rule 3 is not valid on the first turn, that of laying the lowest card: the starting player discards two cards at most.
+
+
+=== When no one can follow
+
+Once a player plays a card that no one can follow, each player takes a penalty card in turn, until play returns to the player who last discarded.
+If that player can follow their previous play, they do so, and play continues (possibly creating the same situation again).
+If they cannot follow their previous play, they take a penalty card, and the round ends, because each player has taken a penalty card in turn.
+
+
+== End of the round
+
+The round ends either when one player discards their last card, or when no player has a legal card to play, leading to a turn of the table in which all players take a penalty card.
+
+
+== Scoring
+
+Each player collects minus points equal to the sum of the numbers on the cards left in their hand, plus 5 minus points for each penalty card they have taken.
+The player with the least minus points wins.
+
+Play as many rounds as there are players, and add up the points of all the rounds to determine the overall winner.
+
+If the penalty cards run out during a round, write down the players' minus points on paper.
+
+
+== Tips
+
+* It is a good idea to play a few rounds with ♠ as the highest suit before reversing the order, to allow the players to get used to the suit order.
+* It is always easier if you arrange your cards by suit, and sort them by number within each suit.
+* High number cards in high ranking suits are easier to get rid of, and often force the next players to take penalty cards.
+In addition, they score more minus points than lower numbered cards if you are left with them.
+* Lower valued cards, on the other hand, are harder to discard, and often ease things for the next player.
+* A card from the highest suit only allows the next player to get rid of one card, at most.
+* Getting rid of several cards in a series improves your chances of going out first, but may also mean having to pick up penalty cards.
