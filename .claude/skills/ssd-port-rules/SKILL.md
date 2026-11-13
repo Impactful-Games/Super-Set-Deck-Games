@@ -1,6 +1,6 @@
 ---
 name: ssd-port-rules
-description: Port a card game to the Super-Set Deck (SSD) in this repository — map every card and component of the original game to SSD cards and get that mapping explicitly validated, then write games/<Id>/game.yaml and the English and French rules (en.adoc, fr.adoc) with the same structure, citing only SSD cards, and check them. Use whenever the user asks to add, port, adapt or translate a game for the Super-Set Deck or the super-set-deck.games site ("porte Love Letter au SSD", "ajoute The Crew", "adapt this game's rules"), to write or fix a rule or a game.yaml under games/, or to find which SSD cards can replace a game's cards — even if they only name the game.
+description: Port a card game to the Super-Set Deck (SSD) in this repository — map every card and component of the original game to SSD cards and get that mapping explicitly validated, then write games/<Id>/game.yaml and the English and French rules (en.adoc, fr.adoc) with the same structure, citing only SSD cards, make its game aids (reminder.designcraft) with designcraft-cli, and check them. Use whenever the user asks to add, port, adapt or translate a game for the Super-Set Deck or the super-set-deck.games site ("porte Love Letter au SSD", "ajoute The Crew", "adapt this game's rules"), to write or fix a rule, a game.yaml or a game aid (reference card) under games/, or to find which SSD cards can replace a game's cards — even if they only name the game.
 ---
 
 # Porting a game to the Super-Set Deck
@@ -11,7 +11,7 @@ This repository is its companion site: each game is a directory `games/<Id>/` wi
 A reader of these rules owns a Super-Set Deck, not the original game.
 Everything below follows from that: the rule must be playable with the SSD alone, it names SSD cards only, and the English and French rules are the same document in two languages.
 
-Read `references/deck.md` before mapping, and `references/asciidoc.md` before writing a rule.
+Read `references/deck.md` before mapping, `references/asciidoc.md` before writing a rule, and `references/reminders.md` before making a game aid.
 
 
 ## Workflow
@@ -20,9 +20,10 @@ Read `references/deck.md` before mapping, and `references/asciidoc.md` before wr
 2. Build the mapping, and **wait for its explicit validation**.
 3. Write `game.yaml`.
 4. Write `en.adoc` and `fr.adoc`.
-5. Add the game to the changelog.
-6. Check.
-7. Report.
+5. Make the game aids, when the game needs them.
+6. Add the game to the changelog.
+7. Check.
+8. Report.
 
 Talk to the user in their language; the files follow the conventions below whatever that language is.
 
@@ -156,11 +157,22 @@ Never « enseigne ».
 
 - A board or a score sheet the game needs is the game directory's `board.designcraft`, whose PDF `<Id>-Board.pdf` the rule links relatively: `link:Nyet-Board.pdf[the board]`.
 You cannot make it: describe what it must contain, and tell the user.
-- The game directory's `reminder.designcraft` is the game aid the site shows on its own; the rule never links to it.
+- The game directory's `reminder.designcraft` holds the game aids, which the site shows on its own; the rule never links to it.
+You make it with `designcraft-cli` (see step 5).
 - Link another game with `link:/#/games/<Id>[Name]`.
 
 
-## 5. Add the game to the changelog
+## 5. Make the game aids
+
+A game aid is a reference card players keep on the table: one page of `reminder.designcraft` per card.
+Make one when the user asks, and offer it when the original game has aid or overview cards, or when players need at the table something the SSD cards do not print (the cards per player count, the order or value of figures, a scoring table).
+
+Build it with `designcraft-cli`, from an existing aid used as template, following `references/reminders.md`; `assets/reminder_example.py` is the program that made the aids of Fool!.
+Render every page, show them to the user, and adjust until they approve.
+The aid states the rule's content and never contradicts it: when one changes, update the other.
+
+
+## 6. Add the game to the changelog
 
 `docs/changelog.adoc` lists the new games by month, newest first.
 Add the game in the current month's section, creating it at the top when it does not exist yet, with the spacing rules of `references/asciidoc.md`:
@@ -179,7 +191,7 @@ Add the game in the current month's section, creating it at the top when it does
 The link text is the game's English title.
 
 
-## 6. Check
+## 7. Check
 
 1. Run the checker, with the original names from the mapping:
 
@@ -193,12 +205,13 @@ The link text is the game's English title.
    Compare the card summary it prints with both components blocks.
 2. Render the rules with `./gradlew :app:docs`: the build must pass without Asciidoctor warnings.
    The HTML lands in `app/build/generated/site/docs/games/<Id>/`.
-3. Read both rules once more against the original rules: no rule, variant, player count or end condition missing, every card with a power described, every example consistent with the mapping and with the rules.
+3. With a game aid, run `./gradlew :app:designExport`: it must pass, and `app/build/generated/site/designs/games/<Id>/` holds one `R-<n>.png` per page.
+4. Read both rules once more against the original rules: no rule, variant, player count or end condition missing, every card with a power described, every example consistent with the mapping and with the rules.
 
 
-## 7. Report
+## 8. Report
 
-Tell the user, in their language: the files created or changed, a reminder of the mapping, which rule was translated rather than ported from its own rulebook (if any), the differences found between the two editions, the checker's result (and the warnings you left, with why), and anything left to them — an uncertain `bggId`, a printable to make, a new type, a doubt about the original rules.
+Tell the user, in their language: the files created or changed, a reminder of the mapping, the game aids made (and the icons added, with their authors), which rule was translated rather than ported from its own rulebook (if any), the differences found between the two editions, the checker's result (and the warnings you left, with why), and anything left to them — an uncertain `bggId`, a printable to make, a new type, a doubt about the original rules.
 
 
 ## Editing an existing game
